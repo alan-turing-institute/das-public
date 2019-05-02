@@ -1,0 +1,724 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Biomater Sci Eng</journal-id><journal-id journal-id-type="iso-abbrev">ACS Biomater Sci Eng</journal-id><journal-id journal-id-type="publisher-id">ab</journal-id><journal-id journal-id-type="coden">abseba</journal-id><journal-title-group><journal-title>ACS Biomaterials Science &#x00026; Engineering</journal-title></journal-title-group><issn pub-type="epub">2373-9878</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26462294</article-id><article-id pub-id-type="pmc">4593359</article-id><article-id pub-id-type="doi">10.1021/acsbiomaterials.5b00032</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title><italic>S</italic>-Nitroso-<italic>N</italic>-acetylpenicillamine (SNAP) Impregnated Silicone Foley Catheters:
+A Potential Biomaterial/Device To Prevent Catheter-Associated Urinary
+Tract Infections</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Colletta</surname><given-names>Alessandro</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Wu</surname><given-names>Jianfeng</given-names></name><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Wo</surname><given-names>Yaqi</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Kappler</surname><given-names>Michael</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Chen</surname><given-names>Hao</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Xi</surname><given-names>Chuanwu</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Meyerhoff</surname><given-names>Mark E.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>Department
+of Chemistry and <sup>&#x02021;</sup>Department of Environmental Health Sciences, <institution>University of Michigan</institution>, Ann Arbor, Michigan 48109, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Biocrede
+Inc.</institution>, Plymouth, Michigan 48170, <country>United
+States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>cxi@umich.edu</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>mmeryho@umich.edu</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>27</day><month>04</month><year>2016</year></pub-date><pub-date pub-type="epub"><day>27</day><month>04</month><year>2015</year></pub-date><pub-date pub-type="ppub"><day>08</day><month>06</month><year>2015</year></pub-date><volume>1</volume><issue>6</issue><fpage>416</fpage><lpage>424</lpage><history><date date-type="received"><day>21</day><month>01</month><year>2015</year></date><date date-type="accepted"><day>27</day><month>04</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015 American
+Chemical Society</copyright-statement><copyright-year>2015</copyright-year><copyright-holder>American
+Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0007" id="ab-tgr1"/></p><p>Urinary Foley catheters are utilized
+for management of hospitalized
+patients and are associated with high rates of urinary tract infections
+(UTIs). Nitric oxide (NO) potently inhibits microbial biofilm formation,
+which is the primary cause of catheter associated UTIs (CAUTIs). Herein,
+commercial silicone Foley catheters are impregnated via a solvent
+swelling method with <italic>S</italic>-nitroso-<italic>N</italic>-acetyl-D-penicillamine (SNAP), a synthetic NO donor that exhibits
+long-term NO release and stability when incorporated into low water-uptake
+polymers. The proposed catheters generate NO surface-fluxes &#x0003e;0.7
+&#x000d7;
+10<sup>&#x02013;10</sup> mol min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup> for over one month under physiological conditions, with minimal
+SNAP leaching. These biomedical devices are demonstrated to significantly
+decrease formation of biofilm on the surface of the catheter tubings
+over 3, 7, and 14 day periods by microbial species (<italic>Staphylococcus
+epidermidis</italic> and <italic>Proteus mirabilis</italic>) commonly
+causing CAUTIs. Toxicity assessment demonstrates that the SNAP-impregnated
+catheters are fully biocompatible, as extracts of the catheter tubings
+score 0 on a 3-point grading scale using an accepted mouse fibroblast
+cell-line toxicity model. Consequently, SNAP-impregnated silicone
+Foley catheters can likely provide an efficient strategy to greatly
+reduce the occurrence of nosocomial CAUTIs.</p></abstract><kwd-group><kwd> nitric oxide</kwd><kwd>SNAP-impregnated Foley catheters</kwd><kwd>long-term NO release</kwd><kwd>antibiofilm</kwd><kwd>biocompatibility</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ab5b00032</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ab-2015-00032j</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>The insertion of biomedical
+devices into the body, such as intravascular
+and urinary catheters, represents an indispensable component of modern
+medical care, especially for hospitalized patients. Nevertheless,
+the use of these medical devices is associated with a substantial
+risk of bacterial infections, with catheter-associated urinary tract
+infections (CAUTIs) and catheter-related bloodstream infections (CRBSIs)
+representing significant medical problems.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> Specifically,
+Foley catheters, the most widely utilized indwelling urinary catheters,
+play a critical role in the relief of urinary retention, alleviation
+of urinary incontinence, and patient management during and after surgical
+procedures. Yet, because external bacteria can easily access the urinary
+tract, CAUTIs can result in 0.5&#x02013;0.7 million nosocomial infections
+annually and account for 40% of hospital-acquired infections in the
+United States, representing the most common source of infection in
+clinical settings.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> Because of the high incidence and potential clinical
+relevance of these infections, the cost of medical intervention for
+CAUTIs is quite significant, with $450 M spent annually in the United
+States alone.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>It is documented that
+microbial biofilms play a significant role
+in the pathogenesis of CAUTIs.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> After the
+initial colonization of the abiotic surfaces, uropathogens form hydrated
+matrices of extracellular polymeric substances, dubbed as biofilms.
+These structures allow for the persistence of bacteria in the urinary
+tract by facilitating adhesion to the catheter&#x02019;s surface and
+the patient&#x02019;s epithelium, thus protecting the uropathogens
+from antibiotics and the host immune system.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> Bacteria
+within biofilms can also detach and disseminate from the initial site
+of colonization to the upper urinary tract, thus being a potential
+cause of pyelonephritis.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Furthermore,
+uropathogenic bacteria can induce precipitation of calcium and magnesium
+phosphates, and form urinary stones (staghorn calculi),<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> which may obstruct urine flow through the catheter and lead to serious
+complications. Because 5 million patients each year receive urinary
+catheters in the U.S.,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> and CAUTIs account
+for 80% of the total UTIs annually,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> many
+infection control measures have been pursued. Though silver hydrogel
+coatings<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> or impregnation of urinary catheters
+with antiseptic chemicals reduce the severity of bacteriuria, no methods
+have yet been developed that effectively prevent biofilm-induced infections
+associated with the use of Foley catheters.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup></p><p>Nitric oxide (NO), a gas molecule endogenously produced by
+various
+NO synthase (NOS) enzymes, plays a critical physiological role in
+innate immunity by inhibiting proliferation of bacteria, fungi, and
+viruses.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> For these reasons, polymeric
+materials that mimic endogenous NO release provide a potential solution
+against medical device-associated infections, and it has already been
+demonstrated that NO release can effectively prevent bacterial adhesion<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> and reduce biofilm development<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> on abiotic surfaces.
+Because gaseous NO is short-lived and highly reactive under physiological
+conditions, a vast array of NO donor molecules capable of efficiently
+storing and delivering NO locally have been studied for potential
+biomedical applications. Such molecules include <italic>N</italic>-diazeniumdiolates, <italic>S</italic>-nitrosothiols (RSNOs), nitrates,
+and metal-nitrosyl complexes, etc. Lipophilic diazeniumdiolates doped
+into polymer films,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> RSNO-modified xerogels
+(where RSNOs are covalently bound to the matrix)<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and endogenous RSNO catalyst-based coatings<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> all exhibit antimicrobial properties and reduced
+bacterial adhesion. Nitric oxide generation via electrochemical reduction
+of nitrite<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> or via reduction of sodium nitroprusside
+(SNP)<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> has also been shown to reduce bacterial
+cell viability within biofilm communities. Nevertheless, each of these
+NO-release strategies has some inherent drawbacks, in terms of storage
+stability, costly synthesis, or less than desirable NO release lifetimes.</p><p>We have recently discovered that silicone rubber and other low
+water uptake biomedical polymers (e.g., CarboSil, a thermoplastic
+urethane copolymer with a mixed soft segment of poly(dimethylsiloxane)
+and hydroxyl-terminated polycarbonate with a hard segment of an aromatic
+diisocyanate, MDI (from DSM Biomedical Inc.), and E2As, a copolymer
+with a mixed soft segment of poly(dimethylsiloxane) and poly(hexamethylene
+oxide) with a methylene diphenyl isocyanate (MDI) hard segment (obtained
+from AorTech International, plc)) doped with <italic>S</italic>-nitroso-<italic>N</italic>-acetylpenicillamine (SNAP), a synthetic RSNO, exhibit
+remarkable NO release capability and storage stability.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> However, preparing Foley catheters with SNAP
+present during the catheter extrusion process is not possible because
+of the instability of SNAP molecule at the elevated temperatures required
+for conventional catheter extrusion. To overcome this problem, we
+herein describe a simple solvent swelling/impregnation method to incorporate
+SNAP into FDA-approved silicone Foley catheter tubing. It has already
+been demonstrated that several organic solvents can swell silicone
+rubber;<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> thus, in this work, tetrahydrofuran
+(THF) is utilized to dissolve SNAP and also swell the silicone catheters
+to successfully impregnate them with SNAP. This technique, unlike
+the extrusion of polymers under high temperature control,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> is conducted at room temperature and this reduces
+the decomposition of SNAP, the NO donor species. We also demonstrate
+that SNAP-impregnated silicone Foley catheter tubing steadily releases
+NO for one month at physiological and antimicrobial levels. The resulting
+SNAP-impregnated silicone catheter tubing are further shown to significantly
+decrease microbial biofilm formation after 14 d exposure to flowing
+media inoculated with <italic>Staphylococcus epidermidis</italic> (<italic>S. epidermidis</italic>) or <italic>Proteus mirabilis</italic> (<italic>P. mirabilis</italic>), two bacterial strains that most often induce
+CAUTIs.</p></sec><sec id="sec2"><title>Experimental Details</title><sec sec-type="materials" id="sec2.1"><title>Materials</title><p><italic>N</italic>-Acetyl-D-penicillamine
+(NAP), sodium chloride, potassium chloride, sodium phosphate dibasic,
+potassium phosphate monobasic, L-cysteine, copper chloride, ethylenediaminetetraacetic
+acid (EDTA), and tetrahydrofuran (THF) were purchased from Sigma-Aldrich
+(St. Louis, MO), and used as received. Methanol (MeOH), hydrochloric
+acid (HCl), and sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) were obtained
+from Fisher Scientific (Pittsburgh, PA). Luria&#x02013;Bertani (LB)
+broth and LB agar were also obtained from Fisher Scientific Inc. Aqueous
+solutions were prepared with deionized water using a Milli-Q filter
+(18M&#x003a9; cm<sup>&#x02013;1</sup>; Millipore Corp., Billerica, MA).
+Phosphate buffered saline (PBS), pH 7.4, containing 10 mM sodium phosphate,
+138 mM NaCl, 2.7 mM KCl, 100 &#x003bc;M EDTA was used for all in vitro
+experiments.</p><p>Silicone 2-way Foley Balloon Catheters, size 18
+Fr (o.d. = 0.59 cm, i.d. = 0.30 cm), were purchased from Fortune Medical
+Instrument Corp (New Taipei City, TAIWAN). <italic>S. epidermidis</italic> ATCC 14990 and <italic>P. mirabilis</italic> ATCC 29906 were obtained
+from the American Type Culture Collection (ATCC) (Manassas, VA).</p></sec><sec id="sec2.2"><title>Synthesis of SNAP</title><p>SNAP was synthesized using a method
+previously described.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Briefly, an equimolar
+ratio of NAP and sodium nitrite was added to a 3:1 mixture by volume
+of methanol and water containing 2 M HCl and 2 M H<sub>2</sub>SO<sub>4</sub>. After 30 min of stirring, the reaction vessel was cooled
+in an ice bath to precipitate the green SNAP crystals. After 5 h,
+the crystals were collected by filtration, washed with ice-cold water,
+and allowed to air-dry for 48 h. The reaction and crystals were shielded
+from light at all times.</p></sec><sec id="sec2.3"><title>Preparation of SNAP Impregnated Silicone
+Foley Catheters</title><p>SNAP was first dissolved in THF at a concentration
+125 mg/mL of solvent,
+for 15 min. Commercial FDA approved silicone Foley catheter tubing
+was cut either into 1 cm long sections (for NO release measurements,
+SNAP % loading and leaching assessments) or into 2 cm long sections
+(for biofilm studies). Such segments were completely immersed into
+SNAP-containing THF solutions, within glass vials, for 24 h in the
+dark. After this swelling/impregnation period, the catheter sections
+were dried in dark for 72 h within a fume hood to remove any residual
+solvent. Control Foley catheter segments (designated for biofilm experiments)
+were swollen in a vial containing only THF for 24 h, followed by a
+72 h drying process within the fume hood.</p></sec><sec id="sec2.4"><title>NO Release Measurements</title><p>Nitric oxide release from the
+surfaces of 1 cm SNAP-impregnated Foley catheter segments (total surface
+area = 3.19 cm<sup>2</sup>) was measured using a Sievers chemiluminescence
+Nitric Oxide Analyzer (NOA) 280i (Boulder, CO). Catheter segments
+were placed in an amber glass vessel (placed in a water bath at 37
+&#x000b0;C) containing 4 mL of PBS (pH 7.4) with 100 &#x003bc;M EDTA. Nitric
+oxide released from the catheter segment was continuously purged from
+the buffer and swept from the headspace using an N<sub>2</sub> sweep
+gas and bubbler into the chemiluminescence detection chamber. When
+not being tested with the NOA, the SNAP-impregnated catheters were
+incubated in 10 mM PBS (pH 7.4) with 100 &#x003bc;M EDTA at 37 &#x000b0;C,
+avoiding exposure to light. All experiments were conducted in triplicate.</p></sec><sec id="sec2.5"><title>SNAP Loading Efficiency Test</title><p>Because the reaction of
+2 RSNO &#x02192; RSSR + 2 NO is catalyzed by light in the visible region
+of the spectrum,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> the total loading of
+SNAP into the 1 cm catheter segments was determined by the total amount
+of NO (in moles) released over time in the presence of a high intensity
+white light source (until no additional NO could be detected above
+baseline by the NOA). By integrating the signal from the NOA over
+time, the total amount of SNAP-impregnated into each catheter segment
+can be calculated. Knowing the initial weight of the catheter segment,
+the wt % of SNAP within the catheter material can be quantitated.
+NO release was measured via the NOA, by immersing the catheter tubing
+sample in a clear glass vessel (kept inside a water bath at 37 &#x000b0;C)
+containing 50 mM CuCl<sub>2</sub>, and 10 mM <sc>l</sc>-cysteine.
+The added L-cysteine catalyzes the reduction of Cu<sup>2+</sup> into
+Cu<sup>+</sup>, which then promotes the SNAP decomposition and the
+release of NO. A 100W halogen floodlight (GE model 17986) was placed
+20 cm away from the sample, and was used to photoinitiate the NO release
+from the SNAP-impregnated catheter pieces. All experiments were conducted
+in triplicate.</p></sec><sec id="sec2.6"><title>SNAP Leaching from Surface of SNAP Impregnated
+Foley Catheters</title><p>One-centimeter-long catheter segments were
+completely immersed
+into 1 mL of 10 mM PBS (with 100 &#x003bc;M EDTA) inside individual
+amber glass vials and stored at 37 &#x000b0;C for the entire duration
+of the experiment. At various time points, each of the soaking solutions,
+in which catheter segments had been stored, were tested by UV&#x02013;Vis
+to detect the SNAP characteristic absorbance band. By using the Beer&#x02013;Lambert
+law (<italic>A</italic> = &#x003b5;<italic>lc</italic>), the moles of
+SNAP leached out at every time point was calculated. Since the weight
+percentage of total SNAP loading was determined from total NO release
+(see above), the percentage of leached SNAP can be quantitated. All
+UV&#x02013;Vis spectra were recorded in the wavelength range of 250&#x02013;650
+nm using a UV&#x02013;Vis spectrophotometer (Lambda 35, PerkineElmer,
+MA). The presence of the S-NO group of SNAP provides characteristic
+absorbance maxima at 340 and 590 nm, corresponding to the &#x003c0;
+&#x02192; &#x003c0;* and n<sub>N</sub> &#x02192; &#x003c0;* electronic transitions.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> The molar absorption coefficient for SNAP in PBS at 340 nm was determined
+to be &#x003b5;<sub>SNAP</sub> = 1075 M<sup>&#x02013;1</sup> cm<sup>&#x02013;1</sup>. PBS was used as the blank and all experiments were conducted in
+triplicate.</p></sec><sec id="sec2.7"><title>Biofilm Growth Conditions and Plate Counting</title><p><italic>S. epidermidis</italic> and <italic>P. mirabilis</italic> organisms
+were grown onto surface of control and NO release catheters for 3,
+7, and 14 days using a CDC bioreactor. The methods used were similar
+to those reported previously.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> Details of these microbiology
+procedures in relation to the studies reported here are provided in
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Supporting Information</ext-link> file.</p></sec><sec id="sec2.8"><title>Biofilm
+Imaging</title><p>Control and SNAP-impregnated catheter
+segments designated for fluorescent imaging were stained with LIVE/DEAD
+BacLight Bacterial Viability kit (L7012, Invitrogen, Carlsbad, CA)
+according to its instructions. Fluorescent images were acquired with
+an inverted fluorescence microscope (Olympus IX 71, Center Valley,
+PA) equipped with Fluorescence Illumination System (X-Cite 120, EXFO)
+and filters for SYTO-9 (excitation = 488 nm/emission = 520 nm) and
+Propidium Iodide (excitation = 535 nm/emission = 617 nm). Images were
+obtained using an oil immersed 60&#x000d7; objective lens. Only the fluorescent
+micrographs of control Foley catheters surfaces upon which <italic>P. mirabilis</italic> had been grown for 14 days were taken with
+a 10&#x000d7; objective lens because of the high biofilm biomass on these
+pieces of tubing (note: the use of the 60&#x000d7; objective lens would
+have impeded to obtain a clear focus of the biofilm layer on the catheter
+surfaces). All experiments were conducted in triplicate, and different
+surface areas of the catheter segments were randomly chosen for imaging.</p></sec><sec id="sec2.9"><title>Statistical Analysis</title><p>Data for all experiments are expressed
+as mean &#x000b1; SEM (standard error of the mean). Comparison of means
+using student&#x02019;s <italic>t</italic> test was utilized to analyze
+whether there was a statistical difference between the data for SNAP-impregnated
+vs control silicone Foley catheter materials. Values of <italic>p</italic> &#x0003c; 0.05 were considered statistically significant and graphically
+illustrated with a *.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Structure of <italic>S</italic>-nitroso-<italic>N</italic>-acetyl-<sc>d</sc>-penicillamine (SNAP); (b) scheme of <italic>S</italic>-nitrosothiol
+(RSNO) decomposition, where RSNO can release nitric oxide (NO) and
+yield the disulfide (RSSR) byproduct via light, heat or catalysis
+of metal ions (e.g., Cu(I)); (c) solvent swelling/impregnation method
+employed to load commercial Foley catheter silicone tubing with SNAP.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0002" id="gr1" position="float"/></fig></sec></sec><sec sec-type="results" id="sec3"><title>Results</title><sec id="sec3.1"><title>NO Generation
+of SNAP-Impregnated Silicone Foley Catheters</title><p>The total SNAP
+amount loaded into Foley catheter segments by the
+solvent impregnation method was found to be 5.43 &#x000b1; 0.15 wt %
+(<italic>n</italic> = 3) using photolysis to emit the entire payload
+of NO in a reasonable time frame (see <xref rid="sec2" ref-type="other">Experimental
+Section</xref>). Upon placing the dried tubing segments loaded with
+SNAP into PBS buffer at 37 &#x000b0;C, SNAP decomposition within the
+walls of the tubing commences owing to the combination of both the
+presence of moisture and elevated temperature. NO release data clearly
+show that the SNAP-impregnated catheter tubing can release NO at a
+flux between 1.4 and 0.8 &#x000d7; 10<sup>&#x02013;10</sup> mol min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup> for at least 30 d (see Figure <xref rid="fig2" ref-type="fig">2</xref>a) (note: both outer and inner wall surfaces of
+the pieces of tubing are utilized to calculate flux levels). As shown
+in Figure <xref rid="fig2" ref-type="fig">2</xref>b, the steady-state NO release profile,
+at any given time point for testing the silicone tubing, is relatively
+stable after ca. 30 min when studying the NO release in the nitrogen-purged
+solution phase using the NOA. It should be noted that the catheter
+tubing displays an initial burst of NO during the first few hours
+of soaking on day 1 (Figure <xref rid="fig2" ref-type="fig">2</xref>a). This is likely
+due to the rapid reaction and leaching of SNAP present in the outermost
+surface layers of the silicone tubing. In addition, because it is
+known that the pH of urine can vary widely (pH 6.5&#x02013;8.0), the
+rate of NO release from separate SNAP-impregnated catheter pieces
+was examined over this pH range during the initial week of NO release
+testing. It was found that when the pH of the soaking/test buffer
+is pH 6.5 or pH 8.0 (using PBS buffers at these pH values), the rate
+of NO release from the catheters is not statistically different than
+observed when soaking and testing in pH 7.4 PBS (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Figure S1</ext-link>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Release of NO from SNAP-impregnated silicone Foley
+catheter
+tubings over a 30 d period (<italic>n</italic> = 3); (b) NO release
+profile of one SNAP-impregnated catheter segment after 3 d of soaking
+in PBS; (c) percentage of total loaded SNAP that leaches from the
+surface of the silicone tubing during the first 7 days of soaking
+in PBS at 37 &#x000b0;C. Data are the mean &#x000b1; SEM (<italic>n</italic> = 3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0003" id="gr2" position="float"/></fig></sec><sec id="sec3.2"><title>SNAP Leaching from the
+Catheter Surface</title><p>To ensure that
+SNAP leaching from the catheter polymeric surface is primarily limited
+to the first day of soaking because of rapid water uptake at the outermost
+surface of the silicone rubber, we conducted leaching studies using
+UV&#x02013;vis absorbance spectroscopy over the first 7 days of soaking.
+At various time points, the UV&#x02013;vis spectra of aliquots of the
+PBS soaking solution were assayed for SNAP concentration. Since the
+total SNAP amount loaded into these 1 cm long catheter sections had
+previously been quantified, it was determined that only 3.51 &#x000b1;
+0.04% of the total loaded SNAP leached from the catheter segment on
+the first day of soaking (see Figure <xref rid="fig2" ref-type="fig">2</xref>c). Minimal
+amounts of SNAP continued to leach from the Foley catheters during
+the subsequent days of soaking. Indeed, only 10.92 &#x000b1; 0.05% of
+the total SNAP was lost during the first week (see Figure <xref rid="fig2" ref-type="fig">2</xref>c). It should be noted that NAP and/or NAP disulfide
+leaching from the catheter surface is not considered a major concern,
+because <italic>N</italic>-acetyl-penicillamine has been used clinically
+to treat mercury and other heavy metal poisoning for many years.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup></p></sec><sec id="sec3.3"><title>SNAP Impregnated Foley Catheters Antibiofilm
+Properties against <italic>S. epidermidis</italic></title><p>The total
+viable <italic>S. epidermidis</italic> adhered on the catheter tubing
+surface was determined after growing
+biofilms for either 3, 7, or 14 days at 37 &#x000b0;C. Plate count data
+for 3 day old <italic>S. epidermidis</italic> biofilms show that the
+viable bacteria attached on the surface of the SNAP-impregnated catheter
+tubing is ca. 50% less than on controls (Figure <xref rid="fig3" ref-type="fig">3</xref>a; <italic>n</italic> = 3, <italic>p</italic> value = 0.014). Plate
+count data for 7 day <italic>S. epidermidis</italic> biofilms exhibited
+a significant 2.5 log units difference in viable bacteria between
+control and NO releasing catheter segments (Figure <xref rid="fig3" ref-type="fig">3</xref>a; <italic>n</italic> = 3, <italic>p</italic> value = 0.015).
+Similarly, when <italic>S. epidermidis</italic> biofilms were grown
+for 14 days and reached a matured growth stage, the reduction in adhered
+viable bacteria on SNAP-impregnated catheters compared to controls
+differs by 3.7 logarithmic units (Figure <xref rid="fig3" ref-type="fig">3</xref>a; <italic>n</italic> = 3, <italic>p</italic> value = 0.013). Fluorescence imaging
+data of control and SNAP-impregnated catheter segments after 3, 7,
+or 14 days of growth were also collected. As shown in Figure <xref rid="fig3" ref-type="fig">3</xref>b, it is observed that although biofilm thickness
+and surface coverage increases with incubation time on control catheters,
+they remain relatively low over time on the surfaces of the SNAP-impregnated
+catheters.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p><italic>S. epidermidis</italic> biofilms developed on Foley catheters
+segments in a CDC biofilm reactor for 3, 7, and 14 days. (a) Plate
+count of the number of viable bacteria adhered to the catheter surface;
+(b) representative fluorescence images with oil immersion 60&#x000d7;
+objective lens of 3, 7, and 14 day <italic>S. epidermidis</italic> biofilms on the surface of the catheter tubing.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0004" id="gr3" position="float"/></fig></sec><sec id="sec3.4"><title>SNAP Impregnated Foley Catheters Antibiofilm Properties against <italic>P. mirabilis</italic></title><p>Results for 3 day <italic>P. mirabilis</italic> biofilms show a 3 logarithmic units difference in cell viability
+between the SNAP-impregnated and control catheter segments (Figure <xref rid="fig4" ref-type="fig">4</xref>a; <italic>n</italic> = 3, <italic>p</italic> value
+= 0.02). Cell counts for 7 and 14 day <italic>P. mirabilis</italic> biofilms grown on the surface of SNAP-impregnated catheter tubing
+are 5 (Figure <xref rid="fig4" ref-type="fig">4</xref>a, <italic>n</italic> = 3, <italic>p</italic> value = 0.02) and 6 (Figure <xref rid="fig4" ref-type="fig">4</xref>a, <italic>n</italic> = 3, <italic>p</italic> value = 0.007) log units lower
+than those for controls, respectively. These findings are further
+corroborated by the fluorescent imaging data, which shows that bacterial
+surface coverage on the SNAP-impregnated catheter segments is noticeably
+less than controls (see Figure <xref rid="fig4" ref-type="fig">4</xref>b). These results
+demonstrate that NO releasing SNAP-impregnated Foley catheters could
+provide a novel approach to prevent catheter surface encrustation
+by crystalline biofilm-forming bacterial species.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p><italic>P. mirabilis</italic> biofilms developed on Foley catheter
+segments in a CDC biofilm reactor for 3, 7, and 14 days. (a) Plate
+count of the number of viable bacteria adhered to the catheter surface;
+(b) representative fluorescence images with oil immersion 60&#x000d7;
+objective lens of 3, 7, and 14 day <italic>P. mirabilis</italic> biofilms
+(note: for control catheters at day 14, because of high biofilm biomass,
+images were taken with a 10&#x000d7; objective lens).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0005" id="gr4" position="float"/></fig></sec><sec id="sec3.5"><title><italic>P. mirabilis</italic> Antibiofilm
+Study after Presoaking
+SNAP Catheters for 24 h</title><p>Chemiluminescence data from the NOA
+shows that the impregnated catheters display an initial burst of NO
+during the first day of soaking at 37 &#x000b0;C, which is due to the
+thermal decomposition and the diffusion of SNAP out of the polymeric
+surface of the catheters. The bactericidal efficacies of NO releasing
+materials improve with increasing initial NO flux.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> To ensure that SNAP-impregnated catheters&#x02019; antibiofilm properties
+were not due to the bactericidal effect of an initial high NO flux
+(4.5 mol min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup>) during the
+initial hours of antibacterial studies in the bioreactor, we conducted
+additional experiments in which the SNAP catheters were first presoaked
+in PBS at 37 &#x000b0;C for 24 h. After this presoaking step, 3 days <italic>P. mirabilis</italic> antibiofilms studies were conducted exactly
+as described above. Plate count data of viable bacteria adhered on
+the catheter surfaces clearly illustrates that there is more than
+3 logarithmic units difference between controls and presoaked SNAP-impregnated
+catheters (Figure <xref rid="fig5" ref-type="fig">5</xref>a, <italic>n</italic> =
+6, <italic>p</italic> value = 0.010). Fluorescent images also show
+that bacterial surface coverage of presoaked SNAP-impregnated catheters
+is noticeably less than controls (see Figure <xref rid="fig5" ref-type="fig">5</xref>b).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p><italic>P. mirabilis</italic> biofilms developed on Foley catheter
+segments in a CDC biofilm reactor for 3 days. SNAP-impregnated catheters
+presoaked in PBS buffer for 24 h prior to the beginning of biofilm/bioreactor
+experiment. (a) Plate count of the number of viable bacteria adhered
+to the catheter surface. (b) Representative fluorescence Images with
+oil immersion 60&#x000d7; objective lens of catheter surfaces after 3
+days of growth of <italic>P. mirabilis</italic> biofilms.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab-2015-00032j_0006" id="gr5" position="float"/></fig></sec><sec id="sec3.6"><title>SNAP Impregnated Foley Catheters NO Releasing
+Properties Post <italic>P. mirabilis</italic> Antibiofilm Experiment</title><p>The NO releasing
+profile of three SNAP catheter segments, presoaked in PBS prior to
+the beginning of a 3 day <italic>P. mirabilis</italic> biofilm experiment,
+were tested via the NOA at the end of the biofilm growth period. As
+shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Figure S2</ext-link>, the SNAP-impregnated
+catheter segments can still release NO at a flux &#x0003e;1 &#x000d7; 10<sup>&#x02013;10</sup> mol min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup> at the end of the biofilm experiment (96 h post initial soaking
+step) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Figure S2</ext-link>, <italic>n</italic> =
+3). Further, the NO releasing properties of the same catheter segments
+were then also tested on the following day, and the NO flux remained
+relatively constant (120 h post initial soaking step) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Figure S2</ext-link>, <italic>n</italic> = 3).</p></sec></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>The long-term NO release data confirms that this impregnation method,
+conducted at room temperature, allows for the successful incorporation
+of SNAP within the polymer, and that NO release can last for over
+1 month at relatively constant flux levels, with minimal leaching
+of the total loaded SNAP after the first day of soaking (Figure <xref rid="fig2" ref-type="fig">2</xref>a, c). This illustrates the advantage of using the
+simple solvent impregnation approach over extruding the polymer with
+the NO donor present, as the latter would degrade the SNAP (loss in
+NO) because the elevated temperatures required.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>Because stable NO releasing devices can abate bacterial
+adhesion
+and colonization associated with catheterization, we examined the
+antimicrobial properties of the SNAP-impregnated silicone Foley catheter
+segments with bacterial strains associated with CAUTIs. Initially, <italic>Staphylococcus epidermidis</italic>, a species responsible for both
+intravascular and urinary infections,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> was studied. As the CDC biofilm reactor represents a standardized
+model to replicate in vivo urinary tract conditions,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> this methodology was utilized to simulate the development
+of bacterial biofilms on the surface of urinary Foley catheters. Remarkably,
+the viable <italic>S. epidermidis</italic> adhered on the surface
+of SNAP catheter tubing after growing biofilms for 7 and 14 days was
+reduced by 2.5 and 3.5 log units, respectively, relative to the controls
+(see Figure <xref rid="fig3" ref-type="fig">3</xref>a). However, it should be noted
+that reduction of bacterial viability for 3 d old <italic>S. epidermidis</italic> biofilms was moderate, only 50% less than on control surfaces. A
+plausible reason for this finding may be that the bacteria had not
+yet developed into a mature biofilm, but were still in a microcolony
+growth stage. Because bacterial counts on the control surfaces were
+also low, this fact did not allow a high percentage difference between
+the SNAP-doped and control catheters to be observed. Thus, from the
+analysis of plate count data (Figure <xref rid="fig3" ref-type="fig">3</xref>a), it
+is evident that the SNAP-impregnated catheter segments can progressively
+reduce formation of <italic>S. epidermidis</italic> biofilms. This
+finding is substantiated by the fluorescence imaging data (Figure <xref rid="fig3" ref-type="fig">3</xref>b).</p><p>Although <italic>S. epidermidis</italic> represents a commensal
+inhabitant of healthy mucosal microflora and displays lower pathogenic
+potential than <italic>S. aureus</italic>, <italic>P. mirabilis</italic>, and <italic>P. aeruginosa</italic>,<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> its principle virulence factor is the capacity to form high-biomass
+biofilms and colonize biomaterials.<sup><xref ref-type="bibr" rid="ref37">37</xref>&#x02212;<xref ref-type="bibr" rid="ref39">39</xref></sup> It has been reported
+that biofilm-forming clinical strains of <italic>S. epidermidis</italic>, isolated from urinary tract infections, are significantly more
+resistant to a wide array of antibiotic treatments (e.g., ampicillin,
+ciprofloxacin, gentamicin, levofloxacin) than nonbiofilm producing
+strains.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> It has been suggested that the biofilm extracellular
+polysaccharide substance (EPS) represents a physical and chemical
+barrier to antibiotics,<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> and may thus
+retard the penetration rates enough to induce the expression of genes
+that mediate antibiotic resistance.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Low
+susceptibility to antibiotics may also be related to the metabolic
+state of bacteria within biofilms.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> As
+the cells located within the biofilm experience nutrient limitation,
+this condition can result in a stationary phase-like dormancy, thus
+promoting biofilm resistance to antibiotics as compared to planktonic
+stage-bacteria.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> Hence, the findings that SNAP-impregnated
+Foley catheters significantly limit <italic>S. epidermidis</italic> viability may represent a future strategy to prevent nosocomial
+urinary infections.</p><p>Because the plate count and fluorescent
+imaging data for <italic>S. epidermidis</italic> biofilms exhibit
+a significant difference
+between SNAP-impregnated and control catheters, the same experiments
+were conducted with <italic>P. mirabilis</italic>, the primary bacterium
+associated with complicated urinary tract infections.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> This urease positive strain is capable of establishing mature crystalline
+biofilms,<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> thus complicating the management of patients
+relying on long-term catheterization. Indeed, this bacterium, by catalyzing
+the conversion of urea into ammonia, elevates urine pH and causes
+calcium/magnesium phosphates to precipitate and become incorporated
+into biofilms.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> As this condition leads
+to severe clinical sequelae, prevention strategies are sorely needed.</p><p>We demonstrate that SNAP-doped catheter tubing substantially decreases
+bacterial viability at each stage of biofilm maturation (see Figure <xref rid="fig4" ref-type="fig">4</xref>a, b), and that the difference in viable <italic>P. mirabilis</italic> cell counts between SNAP and control catheters
+increases with biofilm growth time. This indicates that the SNAP-doped
+catheters, by releasing NO, progressively reduce biofilm development.
+Further, it should be noted that <italic>P. mirabilis</italic> biofilms
+developed to a mature stage after only 3 d of growth, and that average
+biofilm thickness progressively increased at later time points. Indeed,
+the plate count data of control catheters for the <italic>P. mirabilis</italic> experiments are significantly higher compared to <italic>S. epidermidis</italic> biofilms, which is supported by fluorescent micrographs that show
+significantly greater biomass (see Figure <xref rid="fig4" ref-type="fig">4</xref>b). One explanation may be that <italic>P. mirabilis</italic>, by
+expressing mannose-resistant/<italic>Proteus</italic>-like (MR/P)
+fimbriae and <italic>P. mirabilis</italic> fimbriae (PMF), can rapidly
+adhere/colonize onto the abiotic surfaces.<sup><xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup></p><p>Our findings with <italic>P. mirabilis</italic> are significant
+because, to the best of our knowledge, this is the first report of
+a synthetic NO-donor with extremely stable NO release at low/nontoxic
+fluxes, that is capable of preventing <italic>P. mirabilis</italic> mature biofilm formation. Earlier, Deupree et al. demonstrated that
+a synergistic activity of diazeniumdiolate-modified proline (PROLI/NO)
+and sulfadiazine (AgSD) exerts antimicrobial activity against <italic>P. mirabilis</italic> in vitro.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> Yet,
+since in that work, overnight bacterial cultures were utilized in
+an acute (2 h) time-kill viability assay, the bactericidal properties
+of the chemicals were only investigated on planktonic cells. The antimicrobial
+efficacy of antibiotics and antiseptics coated devices has also been
+previously evaluated.<sup><xref ref-type="bibr" rid="ref53">53</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> Nevertheless, though in vitro
+testing of Foley catheters coated with the antiseptic gendine significantly
+reduced both Gram-positive and Gram-negative bacterial cell counts,
+those biofilms were only cultured for 24 h.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Furthermore, although preliminary clinical trials assessing the
+antimicrobial properties of urinary catheters impregnated with antibiotics
+have been conducted and catheter-associated Gram-positive bacteriuria
+was significantly reduced, no protection against Gram-negative bacteria,
+the leading cause of CAUTIs, was achieved.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> Moreover, although initial antibiotic dosages can be effective,
+over time, they induce tolerance and resistance.<sup><xref ref-type="bibr" rid="ref55">55</xref>&#x02212;<xref ref-type="bibr" rid="ref57">57</xref></sup> Instead, many
+bacteria have not developed efficient strategies to combat the local
+bactericidal/biofilm dispersal effect of NO. Indeed, though some bacterial
+species (e.g., <italic>P. aeruginosa</italic>) express NO reductase
+(Nor) enzymes, that catalyzes NO conversion to N<sub>2</sub>O, biofilm
+development by wild-type <italic>P. aeruginosa</italic> can still
+be abated by NO donors.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Thus, NO releasing
+SNAP-impregnated Foley catheters may provide a useful strategy to
+prevent nosocomial CAUTIs by various bacterial strains.</p><p>In addition,
+our results are corroborated by the fact that the
+antimicrobial properties of our new NO releasing materials are independent
+of really high NO flux displayed during the first hours of soaking
+at 37 &#x000b0;C. Indeed, even when SNAP catheters are presoaked for
+24 h before the start of the biofilm experiment, viable <italic>P.mirabilis</italic> cell counts for NO releasing catheters are significantly lower than
+controls (Figure <xref rid="fig5" ref-type="fig">5</xref>a, b). It can thus be concluded
+that the release of high NO levels during day 1 was not the major
+factor contributing to the potent antibiofilm properties of SNAP-impregnated
+catheters observed in the initial experiments.</p><p>It should be
+noted that previous studies have demonstrated how
+high initial NO fluxes augment the bactericidal efficacy and further
+inhibit bacterial adhesion on polymeric material surfaces.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> However, because studies investigating nontoxic NO flux thresholds
+in urinary tract tissues have yet to be conducted, in this work, we
+aimed for SNAP-impregnated catheters to generate NO within ranges
+similar to those released by healthy endothelial cells (0.5&#x02013;4.0
+mol &#x000d7; 10<sup>&#x02212;10</sup> mol min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup>).</p><p>Finally, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">Figure S2</ext-link>, we demonstrate
+that SNAP-impregnated catheter segments, presoaked in PBS prior to
+the beginning of a 3 day <italic>P. mirabilis</italic> biofilm experiment,
+can still release NO at a flux &#x0003e;1 &#x000d7; 10<sup>&#x02013;10</sup> mol
+min<sup>&#x02013;1</sup> cm<sup>&#x02013;2</sup> at the end of the biofilm
+experiment (96 and 120 h post the initial soaking step). These results
+provide further evidence that the antibiofilm activity of SNAP-impregnated
+catheters is due to the steady long-term NO release properties of
+these newly proposed biomedical devices.</p></sec><sec sec-type="conclusions" id="sec5"><title>Conclusions</title><p>In
+summary, we have demonstrated that an FDA approved silicone
+Foley catheter material can be impregnated with SNAP via a solvent
+swelling method and that the resulting catheters can release a relatively
+steady NO flux at their surfaces for 30 days. Because no extrusion
+process is required for the incorporation of the NO donor/antimicrobial
+agent into the catheter walls with little or no chemical degradation
+of the SNAP, the catheters should maintain functionality with stable
+NO release capability. The SNAP-impregnated catheter tubings were
+also shown to exhibit significant antibiofilm properties using two
+bacteria strains (<italic>S. epidermidis</italic> and <italic>P. mirabilis</italic>) that are responsible for high rates of nosocomial urinary catheter
+associated infections. Furthermore, a preliminary assessment of the
+toxicity of SNAP-impregnated catheter tubing was provided by Wuxi
+AppTec Inc. (St. Paul, MN) using ISO-based GLP biocompatibility studies.
+The catheter tubing received the safest scores possible (0) for in
+vitro toxicity testing (0&#x02013;1 = safe, 3&#x02013;4 = toxic) on
+L-929 Mouse Fibroblast Cells (extracts were taken from the catheter
+pieces stored for 24 h at 37 &#x000b0;C in Eagle&#x02019;s Minimal Essential
+Media), as well as for in vivo testing in mice (extracts were taken
+from the catheter pieces stored for 72 h at 37 &#x000b0;C in both saline
+and sesame oil). Hence, it is likely that SNAP-impregnated Foley urinary
+catheters could provide an inexpensive and safe approach to dramatically
+reducing the frequency of nosocomial CAUTIs, and studies are now planned
+to evaluate this new approach in vivo via long-term animal testing.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p> The Supporting
+Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.5b00032">10.1021/acsbiomaterials.5b00032</ext-link>.<list list-type="simple"><list-item><p>Details
+on biofilm growth conditions and plate counting
+for <italic>S. epidermidis</italic> and <italic>P. mirabilis</italic>; the effect of soaking and test pH values on NO release fluxes from
+SNAP-impregnated silicone Foley catheters (Figure S1); and the NO
+release properties of SNAP-impregnated Foley catheters post <italic>P. mirabilis</italic> antibiofilm experiments (Figure S2) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.5b00032/suppl_file/ab5b00032_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ab5b00032_si_001.pdf"><caption><p>ab5b00032_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-2" notes-type="conflict-of-interest"><p>The authors
+declare the following competing financial interest(s): Mr. Michael
+Kappler and Dr. Hao Chen are employees of Biocrede Inc. Dr. Hao Chen
+has an equity position in this start-up company. The company received
+the STTR grant cited from the NIH. The remaining authors have no equity
+position in Biocrede Inc. and work solely for the University of Michigan.
+A subaward from Biocrede to the University of Michigan funded most
+of the research described in this manuscript.</p></notes><ack><title>Acknowledgments</title><p>We thank the National Institutes of Health for supporting
+these studies via grant # NIH-R42-DK100161-02.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Von
+Eiff</surname><given-names>C.</given-names></name>; <name><surname>Jansen</surname><given-names>B.</given-names></name>; <name><surname>Kohnen</surname><given-names>W.</given-names></name>; <name><surname>Becker</surname><given-names>K.</given-names></name>
+<article-title>Infections associated
+with medical devices: pathogenesis, management and prophylaxis</article-title>. <source>Drugs</source>
+<year>2005</year>, <volume>65</volume>, <fpage>179</fpage>&#x02013;<lpage>214</lpage><pub-id pub-id-type="doi">10.2165/00003495-200565020-00003</pub-id>.<pub-id pub-id-type="pmid">15631541</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Umscheid</surname><given-names>C. A.</given-names></name>; <name><surname>Mitchell</surname><given-names>M. D.</given-names></name>; <name><surname>Doshi</surname><given-names>J. A.</given-names></name>; <name><surname>Agarwal</surname><given-names>R.</given-names></name>; <name><surname>Williams</surname><given-names>K.</given-names></name>; <name><surname>Brennan</surname><given-names>P. J.</given-names></name>
+<article-title>Estimating the proportion of healthcare-associated
+infections that are reasonably preventable and the related mortality
+and costs</article-title>. <source>Infect. Control Hosp. Epidemiol.</source>
+<year>2011</year>, <volume>32</volume>, <fpage>101</fpage>&#x02013;<lpage>114</lpage><pub-id pub-id-type="doi">10.1086/657912</pub-id>.<pub-id pub-id-type="pmid">21460463</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Maki</surname><given-names>D. G.</given-names></name>; <name><surname>Tambyah</surname><given-names>P. a.</given-names></name>
+<article-title>Engineering out
+the risk for infection with urinary
+catheters</article-title>. <source>Emerg. Infect. Dis.</source>
+<year>2001</year>, <volume>7</volume>, <fpage>342</fpage>&#x02013;<lpage>347</lpage><pub-id pub-id-type="doi">10.3201/eid0702.700342</pub-id>.<pub-id pub-id-type="pmid">11294737</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Hooton</surname><given-names>T. M.</given-names></name>; <name><surname>Bradley</surname><given-names>S. F.</given-names></name>; <name><surname>Cardenas</surname><given-names>D. D.</given-names></name>; <name><surname>Colgan</surname><given-names>R.</given-names></name>; <name><surname>Geerlings</surname><given-names>S. E.</given-names></name>; <name><surname>Rice</surname><given-names>J. C.</given-names></name>; <name><surname>Saint</surname><given-names>S.</given-names></name>; <name><surname>Schaeffer</surname><given-names>a. J.</given-names></name>; <name><surname>Tambayh</surname><given-names>P. a.</given-names></name>; <name><surname>Tenke</surname><given-names>P.</given-names></name>; et al. <article-title>Diagnosis,
+prevention,
+and treatment of catheter-associated urinary tract infection in adults:
+2009 international clinical practice guidelines from the Infectious
+Diseases Society of America</article-title>. <source>Clin. Infect. Dis.</source>
+<year>2010</year>, <volume>50</volume>, <fpage>625</fpage>&#x02013;<lpage>663</lpage><pub-id pub-id-type="doi">10.1086/650482</pub-id>.<pub-id pub-id-type="pmid">20175247</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Oman</surname><given-names>K. S.</given-names></name>; <name><surname>Makic</surname><given-names>M. B. F.</given-names></name>; <name><surname>Fink</surname><given-names>R.</given-names></name>; <name><surname>Schraeder</surname><given-names>N.</given-names></name>; <name><surname>Hulett</surname><given-names>T.</given-names></name>; <name><surname>Keech</surname><given-names>T.</given-names></name>; <name><surname>Wald</surname><given-names>H.</given-names></name>
+<article-title>Nurse-directed
+interventions
+to reduce catheter-associated urinary tract infections</article-title>. <source>Am. J. Infect. Control</source>
+<year>2012</year>, <volume>40</volume>, <fpage>548</fpage>&#x02013;<lpage>553</lpage><pub-id pub-id-type="doi">10.1016/j.ajic.2011.07.018</pub-id>.<pub-id pub-id-type="pmid">22047997</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Tambyah</surname><given-names>P. A.</given-names></name>; <name><surname>Knasinski</surname><given-names>V.</given-names></name>; <name><surname>Maki</surname><given-names>D. G.</given-names></name>
+<article-title>The direct costs
+of nosocomial catheter-associated
+urinary tract infection in the era of managed care</article-title>. <source>Infect. Control Hosp. Epidemiol.</source>
+<year>2002</year>, <volume>23</volume>, <fpage>27</fpage>&#x02013;<lpage>31</lpage><pub-id pub-id-type="doi">10.1086/501964</pub-id>.<pub-id pub-id-type="pmid">11868889</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Donlan</surname><given-names>R. M.</given-names></name>
+<article-title>Biofilms
+and device-associated infections</article-title>. <source>Emerg. Infect.
+Dis.</source>
+<year>2001</year>, <volume>7</volume>, <fpage>277</fpage>&#x02013;<lpage>281</lpage><pub-id pub-id-type="doi">10.3201/eid0702.700277</pub-id>.<pub-id pub-id-type="pmid">11294723</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Mah</surname><given-names>T. F. C.</given-names></name>; <name><surname>O&#x02019;Toole</surname><given-names>G. A.</given-names></name>
+<article-title>Mechanisms
+of biofilm resistance
+to antimicrobial agents</article-title>. <source>Trends Microbiol.</source>
+<year>2001</year>, <volume>9</volume>, <fpage>34</fpage>&#x02013;<lpage>39</lpage><pub-id pub-id-type="doi">10.1016/S0966-842X(00)01913-2</pub-id>.<pub-id pub-id-type="pmid">11166241</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Jacobsen</surname><given-names>S. M.</given-names></name>; <name><surname>Stickler</surname><given-names>D. J.</given-names></name>; <name><surname>Mobley</surname><given-names>H. L. T.</given-names></name>; <name><surname>Shirtliff</surname><given-names>M. E.</given-names></name>
+<article-title>Complicated
+catheter-associated urinary tract infections due to Escherichia coli
+and Proteus mirabilis</article-title>. <source>Clin. Microbiol. Rev.</source>
+<year>2008</year>, <volume>21</volume>, <fpage>26</fpage>&#x02013;<lpage>59</lpage><pub-id pub-id-type="doi">10.1128/CMR.00019-07</pub-id>.<pub-id pub-id-type="pmid">18202436</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Tapiainen</surname><given-names>T.</given-names></name>; <name><surname>Hanni</surname><given-names>a-M.</given-names></name>; <name><surname>Salo</surname><given-names>J.</given-names></name>; <name><surname>Ik&#x000e4;heimo</surname><given-names>I.</given-names></name>; <name><surname>Uhari</surname><given-names>M.</given-names></name>
+<article-title>Escherichia coli biofilm formation
+and recurrences of urinary tract
+infections in children</article-title>. <source>Eur. J. Clin. Microbiol.
+Infect. Dis.</source>
+<year>2014</year>, <volume>33</volume>, <fpage>111</fpage>&#x02013;<lpage>115</lpage><pub-id pub-id-type="doi">10.1007/s10096-013-1935-4</pub-id>.<pub-id pub-id-type="pmid">23996047</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Stickler</surname><given-names>D. J.</given-names></name>; <name><surname>Morgan</surname><given-names>S. D.</given-names></name>
+<article-title>Modulation of crystalline Proteus mirabilis biofilm
+development on urinary catheters</article-title>. <source>J. Med. Microbiol.</source>
+<year>2006</year>, <volume>55</volume>, <fpage>489</fpage>&#x02013;<lpage>494</lpage><pub-id pub-id-type="doi">10.1099/jmm.0.46404-0</pub-id>.<pub-id pub-id-type="pmid">16585633</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Stickler</surname><given-names>D. J.</given-names></name>
+<article-title>Bacterial
+biofilms in patients with indwelling urinary catheters</article-title>. <source>Nat. Clin. Pract. Urol.</source>
+<year>2008</year>, <volume>5</volume>, <fpage>598</fpage>&#x02013;<lpage>608</lpage><pub-id pub-id-type="doi">10.1038/ncpuro1231</pub-id>.<pub-id pub-id-type="pmid">18852707</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Nicolle</surname><given-names>L. E.</given-names></name>
+<article-title>Catheter
+associated urinary tract infections</article-title>. <source>Antimicrob.
+Resist. Infect. Control</source>
+<year>2014</year>, <volume>3</volume>, <fpage>23</fpage><pub-id pub-id-type="doi">10.1186/2047-2994-3-23</pub-id>.<pub-id pub-id-type="pmid">25075308</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Davenport</surname><given-names>K.</given-names></name>; <name><surname>Keeley</surname><given-names>F. X.</given-names></name>
+<article-title>Evidence for the use of silver-alloy-coated urethral
+catheters</article-title>. <source>J. Hosp. Infect.</source>
+<year>2005</year>, <volume>60</volume>, <fpage>298</fpage>&#x02013;<lpage>303</lpage><pub-id pub-id-type="doi">10.1016/j.jhin.2005.01.026</pub-id>.<pub-id pub-id-type="pmid">15936115</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Pickard</surname><given-names>R.</given-names></name>; <name><surname>Lam</surname><given-names>T.</given-names></name>; <name><surname>Maclennan</surname><given-names>G.</given-names></name>; <name><surname>Starr</surname><given-names>K.</given-names></name>; <name><surname>Kilonzo</surname><given-names>M.</given-names></name>; <name><surname>McPherson</surname><given-names>G.</given-names></name>; <name><surname>Gillies</surname><given-names>K.</given-names></name>; <name><surname>McDonald</surname><given-names>A.</given-names></name>; <name><surname>Walton</surname><given-names>K.</given-names></name>; <name><surname>Buckley</surname><given-names>B.</given-names></name>; et al. <article-title>Types of urethral catheter for reducing symptomatic urinary tract
+infections in hospitalised adults requiring short-term catheterisation:
+multicentre randomised controlled trial and economic evaluation of
+antimicrobial- and antiseptic-impregnated urethral</article-title>. <source>Health Technol. Assess.</source>
+<year>2012</year>, <volume>16</volume>, <fpage>1</fpage>&#x02013;<lpage>197</lpage><pub-id pub-id-type="doi">10.3310/hta16470</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Tenke</surname><given-names>P.</given-names></name>; <name><surname>K&#x000f6;ves</surname><given-names>B.</given-names></name>; <name><surname>Johansen</surname><given-names>T. E. B.</given-names></name>
+<article-title>An update on prevention and treatment
+of catheter-associated urinary tract infections</article-title>. <source>Curr. Opin. Infect. Dis.</source>
+<year>2014</year>, <volume>27</volume>, <fpage>102</fpage>&#x02013;<lpage>107</lpage><pub-id pub-id-type="doi">10.1097/QCO.0000000000000031</pub-id>.<pub-id pub-id-type="pmid">24345923</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>MacMicking</surname><given-names>J.</given-names></name>; <name><surname>Xie</surname><given-names>Q. W.</given-names></name>; <name><surname>Nathan</surname><given-names>C.</given-names></name>
+<article-title>Nitric oxide and macrophage
+function</article-title>. <source>Annu. Rev. Immunol.</source>
+<year>1997</year>, <volume>15</volume>, <fpage>323</fpage>&#x02013;<lpage>350</lpage><pub-id pub-id-type="doi">10.1146/annurev.immunol.15.1.323</pub-id>.<pub-id pub-id-type="pmid">9143691</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Cai</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Xi</surname><given-names>C.</given-names></name>; <name><surname>Ashe</surname><given-names>A. J.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Carboxyl-ebselen-based
+layer-by-layer films as potential antithrombotic and antimicrobial
+coatings</article-title>. <source>Biomaterials</source>
+<year>2011</year>, <volume>32</volume>, <fpage>7774</fpage>&#x02013;<lpage>7784</lpage><pub-id pub-id-type="doi">10.1016/j.biomaterials.2011.06.075</pub-id>.<pub-id pub-id-type="pmid">21794909</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Riccio</surname><given-names>D. A.</given-names></name>; <name><surname>Schoenfisch</surname><given-names>M. H.</given-names></name>
+<article-title>Nitric
+oxide release: Part I. Macromolecular scaffolds</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2012</year>, <volume>41</volume>, <fpage>3731</fpage><pub-id pub-id-type="doi">10.1039/c2cs15272j</pub-id>.<pub-id pub-id-type="pmid">22362355</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Barraud</surname><given-names>N.</given-names></name>; <name><surname>Schleheck</surname><given-names>D.</given-names></name>; <name><surname>Klebensberger</surname><given-names>J.</given-names></name>; <name><surname>Webb</surname><given-names>J. S.</given-names></name>; <name><surname>Hassett</surname><given-names>D. J.</given-names></name>; <name><surname>Rice</surname><given-names>S. A.</given-names></name>; <name><surname>Kjelleberg</surname><given-names>S.</given-names></name>
+<article-title>Nitric oxide signaling in <italic>Pseudomonas aeruginosa</italic> biofilms mediates phosphodiesterase
+activity, decreased cyclic Di-GMP levels, and enhanced dispersal</article-title>. <source>J. Bacteriol.</source>
+<year>2009</year>, <volume>191</volume>, <fpage>7333</fpage>&#x02013;<lpage>7342</lpage><pub-id pub-id-type="doi">10.1128/JB.00975-09</pub-id>.<pub-id pub-id-type="pmid">19801410</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Cai</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Xi</surname><given-names>C.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Diazeniumdiolate-doped poly(lactic-co-glycolic
+acid)-based nitric oxide releasing films as antibiofilm coatings</article-title>. <source>Biomaterials</source>
+<year>2012</year>, <volume>33</volume>, <fpage>7933</fpage>&#x02013;<lpage>7944</lpage><pub-id pub-id-type="doi">10.1016/j.biomaterials.2012.07.027</pub-id>.<pub-id pub-id-type="pmid">22841918</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Ren</surname><given-names>H.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Xi</surname><given-names>C.</given-names></name>; <name><surname>Lehnert</surname><given-names>N.</given-names></name>; <name><surname>Major</surname><given-names>T.</given-names></name>; <name><surname>Bartlett</surname><given-names>R. H.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Electrochemically
+modulated nitric oxide (NO) releasing
+biomedical devices via copper(II)-Tri(2-pyridylmethyl)amine mediated
+reduction of nitrite</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>3779</fpage>&#x02013;<lpage>3783</lpage><pub-id pub-id-type="doi">10.1021/am406066a</pub-id>.<pub-id pub-id-type="pmid">24611831</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>H&#x000f6;fler</surname><given-names>L.</given-names></name>; <name><surname>Koley</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Xi</surname><given-names>C.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Electromodulated
+release of nitric oxide through polymer material from reservoir of
+inorganic nitrite salt</article-title>. <source>RSC Adv.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>6765</fpage>&#x02013;<lpage>6767</lpage><pub-id pub-id-type="doi">10.1039/c2ra20853a</pub-id>.<pub-id pub-id-type="pmid">22888401</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Barraud</surname><given-names>N.</given-names></name>; <name><surname>Hassett</surname><given-names>D. J.</given-names></name>; <name><surname>Hwang</surname><given-names>S.-H.</given-names></name>; <name><surname>Rice</surname><given-names>S. a</given-names></name>; <name><surname>Kjelleberg</surname><given-names>S.</given-names></name>; <name><surname>Webb</surname><given-names>J. S.</given-names></name>
+<article-title>Involvement of nitric
+oxide in biofilm dispersal of
+Pseudomonas aeruginosa</article-title>. <source>J. Bacteriol.</source>
+<year>2006</year>, <volume>188</volume>, <fpage>7344</fpage>&#x02013;<lpage>7353</lpage><pub-id pub-id-type="doi">10.1128/JB.00779-06</pub-id>.<pub-id pub-id-type="pmid">17050922</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Brisbois</surname><given-names>E. J.</given-names></name>; <name><surname>Handa</surname><given-names>H.</given-names></name>; <name><surname>Major</surname><given-names>T. C.</given-names></name>; <name><surname>Bartlett</surname><given-names>R. H.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Long-term
+nitric oxide release and elevated temperature stability with S-nitroso-N-acetylpenicillamine
+(SNAP)-doped Elast-eon E2As polymer</article-title>. <source>Biomaterials</source>
+<year>2013</year>, <volume>34</volume>, <fpage>6957</fpage>&#x02013;<lpage>6966</lpage><pub-id pub-id-type="doi">10.1016/j.biomaterials.2013.05.063</pub-id>.<pub-id pub-id-type="pmid">23777908</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lee</surname><given-names>J. N.</given-names></name>; <name><surname>Park</surname><given-names>C.</given-names></name>; <name><surname>Whitesides</surname><given-names>G. M.</given-names></name>
+<article-title>Solvent
+compatibility of poly(dimethylsiloxane)-based
+microfluidic devices</article-title>. <source>Anal. Chem.</source>
+<year>2003</year>, <volume>75</volume>, <fpage>6544</fpage>&#x02013;<lpage>6554</lpage><pub-id pub-id-type="doi">10.1021/ac0346712</pub-id>.<pub-id pub-id-type="pmid">14640726</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Elliott</surname><given-names>T. S.</given-names></name>
+<article-title>Role of
+antimicrobial central venous catheters for the prevention of associated
+infections</article-title>. <source>J. Antimicrob. Chemother.</source>
+<year>1999</year>, <volume>43</volume>, <fpage>441</fpage>&#x02013;<lpage>446</lpage><pub-id pub-id-type="doi">10.1093/jac/43.4.441</pub-id>.<pub-id pub-id-type="pmid">10350371</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Sexton</surname><given-names>Daniel J</given-names></name>; <name><surname>Muruganandam</surname><given-names>Arumugam</given-names></name>; <name><surname>McKenney</surname><given-names>Donald J</given-names></name>; <name><surname>Mutus</surname><given-names>B.</given-names></name>
+<article-title>Visible light
+photochemical release of nitric oxide from S-nitrosoglutathione: potential
+photochemotherapeutic applications</article-title>. <source>Photochem.
+Photobiol.</source>
+<year>1994</year>, <volume>59</volume>, <fpage>463</fpage>&#x02013;<lpage>467</lpage><pub-id pub-id-type="doi">10.1111/j.1751-1097.1994.tb05065.x</pub-id>.<pub-id pub-id-type="pmid">8022889</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Shishido</surname><given-names>S.</given-names></name>; <name><surname>de Oliveira</surname><given-names>M. G.</given-names></name>
+<article-title>Polyethylene glycol matrix reduces the rates of photochemical
+and thermal release of nitric oxide from S-nitroso-N-acetylcysteine</article-title>. <source>Photochem. Photobiol.</source>
+<year>2000</year>, <volume>71</volume>, <fpage>273</fpage>&#x02013;<lpage>280</lpage><pub-id pub-id-type="doi">10.1562/0031-8655(2000)0710273PGMRTR2.0.CO2</pub-id>.<pub-id pub-id-type="pmid">10732444</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Frost</surname><given-names>M. C.</given-names></name>; <name><surname>Meyerhoff</surname><given-names>M. E.</given-names></name>
+<article-title>Controlled
+photoinitiated release of nitric oxide from
+polymer films containing S-nitroso-N-acetyl-DL-penicillamine derivatized
+fumed silica filler</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2004</year>, <volume>126</volume>, <fpage>1348</fpage>&#x02013;<lpage>1349</lpage><pub-id pub-id-type="doi">10.1021/ja039466i</pub-id>.<pub-id pub-id-type="pmid">14759186</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Gilmore</surname><given-names>B. F.</given-names></name>; <name><surname>Hamill</surname><given-names>T. M.</given-names></name>; <name><surname>Jones</surname><given-names>D. S.</given-names></name>; <name><surname>Gorman</surname><given-names>S. P.</given-names></name>
+<article-title>Validation of the
+CDC biofilm reactor as a dynamic model for assessment of encrustation
+formation on urological device materials</article-title>. <source>J.
+Biomed. Mater. Res., Part B</source>
+<year>2010</year>, <volume>93</volume>, <fpage>128</fpage>&#x02013;<lpage>140</lpage><pub-id pub-id-type="doi">10.1002/jbm.b.31567</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Stephens</surname><given-names>A. D.</given-names></name>; <name><surname>Watts</surname><given-names>R. W.</given-names></name>
+<article-title>The treatment of cystinuria with N-acetyl-D-penicillamine,
+a comparison with the results of D-penicillamine treatment</article-title>. <source>Q. J. Med.</source>
+<year>1971</year>, <volume>40</volume>, <fpage>355</fpage>&#x02013;<lpage>370</lpage>.<pub-id pub-id-type="pmid">5564534</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Carpenter</surname><given-names>A. W.</given-names></name>; <name><surname>Slomberg</surname><given-names>D. L.</given-names></name>; <name><surname>Rao</surname><given-names>K. S.</given-names></name>; <name><surname>Schoenfisch</surname><given-names>M. H.</given-names></name>
+<article-title>Influence
+of scaffold size on bactericidal activity of nitric oxide-releasing
+silica nanoparticles</article-title>. <source>ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>7235</fpage>&#x02013;<lpage>7244</lpage><pub-id pub-id-type="doi">10.1021/nn202054f</pub-id>.<pub-id pub-id-type="pmid">21842899</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Slomberg</surname><given-names>D. L.</given-names></name>; <name><surname>Sun</surname><given-names>B.</given-names></name>; <name><surname>Schoenfisch</surname><given-names>M. H.</given-names></name>
+<article-title>Shape-
+and nitric oxide flux-dependent bactericidal activity of nitric oxide-releasing
+silica nanorods</article-title>. <source>Small</source>
+<year>2013</year>, <volume>9</volume>, <fpage>2189</fpage>&#x02013;<lpage>2198</lpage><pub-id pub-id-type="doi">10.1002/smll.201201798</pub-id>.<pub-id pub-id-type="pmid">23362159</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Donlan</surname><given-names>R. M.</given-names></name>
+<article-title>Biofilm
+formation: a clinically relevant microbiological process</article-title>. <source>Clin. Infect. Dis.</source>
+<year>2001</year>, <volume>33</volume>, <fpage>1387</fpage>&#x02013;<lpage>1392</lpage><pub-id pub-id-type="doi">10.1086/322972</pub-id>.<pub-id pub-id-type="pmid">11565080</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Ziebuhr</surname><given-names>W.</given-names></name>; <name><surname>Hennig</surname><given-names>S.</given-names></name>; <name><surname>Eckart</surname><given-names>M.</given-names></name>; <name><surname>Kr&#x000e4;nzler</surname><given-names>H.</given-names></name>; <name><surname>Batzilla</surname><given-names>C.</given-names></name>; <name><surname>Kozitskaya</surname><given-names>S.</given-names></name>
+<article-title>Nosocomial infections by Staphylococcus
+epidermidis: how a commensal bacterium turns into a pathogen</article-title>. <source>Int. J. Antimicrob. Agents</source>
+<year>2006</year>, <volume>28</volume><issue>Suppl 1</issue><fpage>S14</fpage>&#x02013;<lpage>S20</lpage><pub-id pub-id-type="doi">10.1016/j.ijantimicag.2006.05.012</pub-id>.<pub-id pub-id-type="pmid">16829054</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Fey</surname><given-names>P. D.</given-names></name>; <name><surname>Olson</surname><given-names>M. E.</given-names></name>
+<article-title>Current concepts
+in biofilm formation of Staphylococcus
+epidermidis</article-title>. <source>Future Microbiol.</source>
+<year>2011</year>, <volume>5</volume>, <fpage>917</fpage>&#x02013;<lpage>933</lpage><pub-id pub-id-type="doi">10.2217/fmb.10.56</pub-id>.<pub-id pub-id-type="pmid">20521936</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Hall-stoodley</surname><given-names>L.</given-names></name>; <name><surname>Costerton</surname><given-names>J. W.</given-names></name>; <name><surname>Stoodley</surname><given-names>P.</given-names></name>
+<article-title>Bacterial biofilms: from the natural
+environment to infectious diseases</article-title>. <source>Nat. Rev.
+Microbiol.</source>
+<year>2004</year>, <volume>2</volume>, <fpage>95</fpage>&#x02013;<lpage>108</lpage><pub-id pub-id-type="doi">10.1038/nrmicro821</pub-id>.<pub-id pub-id-type="pmid">15040259</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="book" id="cit39"><person-group person-group-type="allauthors"><name><surname>Mack</surname><given-names>D.</given-names></name>; <name><surname>Davies</surname><given-names>A. P.</given-names></name>; <name><surname>Harris</surname><given-names>L. G.</given-names></name>; <name><surname>Jeeves</surname><given-names>R.</given-names></name>; <name><surname>Pascoe</surname><given-names>B.</given-names></name>; <name><surname>Knobloch</surname><given-names>J. K.</given-names></name>; <name><surname>Rohde</surname><given-names>H.</given-names></name>; <name><surname>Wilkinson</surname><given-names>T. S.</given-names></name></person-group><source>Biomaterials Associated
+Infection</source>; <person-group person-group-type="editor"><name><surname>Moriarty</surname><given-names>T. F.</given-names></name>, <name><surname>Zaat</surname><given-names>S. A. J.</given-names></name>, <name><surname>Busscher</surname><given-names>H. J.</given-names></name></person-group>, Eds.; <publisher-name>Springer </publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2013</year>; pp <fpage>25</fpage>&#x02013;<lpage>57</lpage>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Cabrera-Contreras</surname><given-names>R.</given-names></name>; <name><surname>Morelos-Ram&#x000ed;rez</surname><given-names>R.</given-names></name>; <name><surname>Galicia-Camacho</surname><given-names>A. N.</given-names></name>; <name><surname>Mel&#x000e9;ndez-Herrada</surname><given-names>E.</given-names></name>
+<article-title>Antibiotic resistance and biofilm
+production in <italic>Staphylococcus epidermidis</italic> strains,
+isolated from a tertiary care hospital in Mexico City</article-title>. <source>ISRN Microbiol.</source>
+<year>2013</year>, <volume>2013</volume>, <elocation-id>918921</elocation-id><pub-id pub-id-type="doi">10.1155/2013/918921</pub-id>.<pub-id pub-id-type="pmid">23724338</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Wojtyczka</surname><given-names>R. D.</given-names></name>; <name><surname>Orlewska</surname><given-names>K.</given-names></name>; <name><surname>K&#x00065;&#x00328;pa</surname><given-names>M.</given-names></name>; <name><surname>Idzik</surname><given-names>D.</given-names></name>; <name><surname>Dziedzic</surname><given-names>A.</given-names></name>; <name><surname>Mularz</surname><given-names>T.</given-names></name>; <name><surname>Krawczyk</surname><given-names>M.</given-names></name>; <name><surname>Miklasi&#x00144;ska</surname><given-names>M.</given-names></name>; <name><surname>W&#x00105;sik</surname><given-names>T. J.</given-names></name>
+<article-title>Biofilm formation and antimicrobial susceptibility
+of Staphylococcus epidermidis strains from a hospital environment</article-title>. <source>Int. J. Environ. Res. Public Health</source>
+<year>2014</year>, <volume>11</volume>, <fpage>4619</fpage>&#x02013;<lpage>4633</lpage><pub-id pub-id-type="doi">10.3390/ijerph110504619</pub-id>.<pub-id pub-id-type="pmid">24776724</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Hengzhuang</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Ciofu</surname><given-names>O.</given-names></name>; <name><surname>Song</surname><given-names>Z.</given-names></name>; <name><surname>H&#x000f8;iby</surname><given-names>N.</given-names></name>
+<article-title>Pharmacokinetics/pharmacodynamics
+of colistin and imipenem on mucoid and nonmucoid Pseudomonas aeruginosa
+biofilms</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2011</year>, <volume>55</volume>, <fpage>4469</fpage>&#x02013;<lpage>4474</lpage><pub-id pub-id-type="doi">10.1128/AAC.00126-11</pub-id>.<pub-id pub-id-type="pmid">21670181</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Jefferson</surname><given-names>K. K.</given-names></name>; <name><surname>Goldmann</surname><given-names>D. A.</given-names></name>; <name><surname>Pier</surname><given-names>G. B.</given-names></name>
+<article-title>Use of
+confocal microscopy to analyze
+the rate of vancomycin penetration through Staphylococcus aureus biofilms</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2005</year>, <volume>49</volume>, <fpage>2467</fpage>&#x02013;<lpage>2473</lpage><pub-id pub-id-type="doi">10.1128/AAC.49.6.2467-2473.2005</pub-id>.<pub-id pub-id-type="pmid">15917548</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Zheng</surname><given-names>Z.</given-names></name>; <name><surname>Stewart</surname><given-names>P. S.</given-names></name>
+<article-title>Penetration of Rifampin
+through Staphylococcus epidermidis
+Biofilms</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2002</year>, <volume>46</volume>, <fpage>900</fpage>&#x02013;<lpage>903</lpage><pub-id pub-id-type="doi">10.1128/AAC.46.3.900-903.2002</pub-id>.<pub-id pub-id-type="pmid">11850284</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Brown</surname><given-names>Michael R. W.</given-names></name>; <name><surname>Allison</surname></name>; <name><surname>David</surname><given-names>G.</given-names></name>; <name><surname>Gilbert</surname><given-names>P.</given-names></name>
+<article-title>Resistance
+of bacteria biofilms to
+antibiotics: a growth-rate related effect?</article-title>. <source>J. Antimicrob. Chemother.</source>
+<year>1988</year>, <volume>22</volume>, <fpage>777</fpage>&#x02013;<lpage>783</lpage><pub-id pub-id-type="doi">10.1093/jac/22.6.777</pub-id>.<pub-id pub-id-type="pmid">3072331</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Walters</surname><given-names>M. C.</given-names></name>; <name><surname>Roe</surname><given-names>F.</given-names></name>; <name><surname>Bugnicourt</surname><given-names>A.</given-names></name>; <name><surname>Franklin</surname><given-names>M. J.</given-names></name>; <name><surname>Stewart</surname><given-names>P. S.</given-names></name>
+<article-title>Contributions of
+antibiotic penetration, oxygen limitation, and low metabolic activity
+to tolerance of Pseudomonas aeruginosa biofilms to ciprofloxacin and
+tobramycin</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2003</year>, <volume>47</volume>, <fpage>317</fpage>&#x02013;<lpage>323</lpage><pub-id pub-id-type="doi">10.1128/AAC.47.1.317-323.2003</pub-id>.<pub-id pub-id-type="pmid">12499208</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Jacobsen</surname><given-names>S. M.</given-names></name>; <name><surname>Stickler</surname><given-names>D. J.</given-names></name>; <name><surname>Mobley</surname><given-names>H. L. T.</given-names></name>; <name><surname>Shirtliff</surname><given-names>M. E.</given-names></name>
+<article-title>Complicated
+catheter-associated urinary tract infections due to Escherichia coli
+and Proteus mirabilis</article-title>. <source>Clin. Microbiol. Rev.</source>
+<year>2008</year>, <volume>21</volume>, <fpage>26</fpage>&#x02013;<lpage>59</lpage><pub-id pub-id-type="doi">10.1128/CMR.00019-07</pub-id>.<pub-id pub-id-type="pmid">18202436</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Jones</surname><given-names>B. V.</given-names></name>; <name><surname>Mahenthiralingam</surname><given-names>E.</given-names></name>; <name><surname>Sabbuba</surname><given-names>N. a</given-names></name>; <name><surname>Stickler</surname><given-names>D. J.</given-names></name>
+<article-title>Role of swarming
+in the formation of crystalline Proteus mirabilis biofilms on urinary
+catheters</article-title>. <source>J. Med. Microbiol.</source>
+<year>2005</year>, <volume>54</volume>, <fpage>807</fpage>&#x02013;<lpage>813</lpage><pub-id pub-id-type="doi">10.1099/jmm.0.46123-0</pub-id>.<pub-id pub-id-type="pmid">16091430</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Broomfield</surname><given-names>R. J.</given-names></name>; <name><surname>Morgan</surname><given-names>S. D.</given-names></name>; <name><surname>Khan</surname><given-names>A.</given-names></name>; <name><surname>Stickler</surname><given-names>D. J.</given-names></name>
+<article-title>Crystalline bacterial
+biofilm formation on urinary catheters by urease-producing urinary
+tract pathogens: a simple method of control</article-title>. <source>J. Med. Microbiol.</source>
+<year>2009</year>, <volume>58</volume>, <fpage>1367</fpage>&#x02013;<lpage>1375</lpage><pub-id pub-id-type="doi">10.1099/jmm.0.012419-0</pub-id>.<pub-id pub-id-type="pmid">19556373</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Zunino</surname><given-names>P.</given-names></name>; <name><surname>Sosa</surname><given-names>V.</given-names></name>; <name><surname>Schlapp</surname><given-names>G.</given-names></name>; <name><surname>Allen</surname><given-names>A. G.</given-names></name>; <name><surname>Preston</surname><given-names>A.</given-names></name>; <name><surname>Maskell</surname><given-names>D. J.</given-names></name>
+<article-title>Mannose-resistant Proteus-like and P. mirabilis fimbriae
+have specific and additive roles in P. mirabilis urinary tract infections</article-title>. <source>FEMS Immunol. Med. Microbiol.</source>
+<year>2007</year>, <volume>51</volume>, <fpage>125</fpage>&#x02013;<lpage>133</lpage><pub-id pub-id-type="doi">10.1111/j.1574-695X.2007.00285.x</pub-id>.<pub-id pub-id-type="pmid">17854474</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Rocha</surname><given-names>S. P. D.</given-names></name>; <name><surname>Pelayo</surname><given-names>J. S.</given-names></name>; <name><surname>Elias</surname><given-names>W. P.</given-names></name>
+<article-title>Fimbriae
+of uropathogenic Proteus
+mirabilis</article-title>. <source>FEMS Immunol. Med. Microbiol.</source>
+<year>2007</year>, <volume>51</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1111/j.1574-695X.2007.00284.x</pub-id>.<pub-id pub-id-type="pmid">17640292</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Deupree</surname><given-names>S. M.</given-names></name>; <name><surname>Privett</surname><given-names>B. J.</given-names></name>; <name><surname>Backlund</surname><given-names>C. J.</given-names></name>; <name><surname>Rao</surname><given-names>K. S.</given-names></name>; <name><surname>Johnson</surname><given-names>B.</given-names></name>; <name><surname>Coneski</surname><given-names>P. N.</given-names></name>; <name><surname>Schoenfisch</surname><given-names>M. H.</given-names></name>
+<article-title>Synergy
+of nitric oxide and silver
+sulfadiazine against gram-negative, gram-positive, and antibiotic-resistant
+pathogens</article-title>. <source>Mol. Pharm.</source>
+<year>2011</year>, <volume>7</volume>, <fpage>2289</fpage>&#x02013;<lpage>2296</lpage><pub-id pub-id-type="doi">10.1021/mp100248e.Synergy</pub-id>.<pub-id pub-id-type="pmid">20939612</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Hachem</surname><given-names>R.</given-names></name>; <name><surname>Reitzel</surname><given-names>R.</given-names></name>; <name><surname>Borne</surname><given-names>A.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Tinkey</surname><given-names>P.</given-names></name>; <name><surname>Uthamanthil</surname><given-names>R.</given-names></name>; <name><surname>Chandra</surname><given-names>J.</given-names></name>; <name><surname>Ghannoum</surname><given-names>M.</given-names></name>; <name><surname>Raad</surname><given-names>I.</given-names></name>
+<article-title>Novel antiseptic
+urinary catheters for prevention of urinary tract infections: correlation
+of in vivo and in vitro test results</article-title>. <source>Antimicrob.
+Agents Chemother.</source>
+<year>2009</year>, <volume>53</volume>, <fpage>5145</fpage>&#x02013;<lpage>5149</lpage><pub-id pub-id-type="doi">10.1128/AAC.00718-09</pub-id>.<pub-id pub-id-type="pmid">19805562</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Darouiche</surname><given-names>R. O.</given-names></name>; <name><surname>Smith</surname><given-names>J. A.</given-names></name>; <name><surname>Hanna</surname><given-names>H.</given-names></name>; <name><surname>Dhabuwala</surname><given-names>C. B.</given-names></name>; <name><surname>Steiner</surname><given-names>M. S.</given-names></name>; <name><surname>Babaian</surname><given-names>R. J.</given-names></name>; <name><surname>Boone</surname><given-names>T. B.</given-names></name>; <name><surname>Scardino</surname><given-names>P. T.</given-names></name>; <name><surname>Thornby</surname><given-names>J. I.</given-names></name>; <name><surname>Raad</surname><given-names>I. I.</given-names></name>
+<article-title>Efficacy of antimicrobial-impregnated
+bladder catheters in reducing catheter-associated bacteriuria: a prospective,
+randomized, multicenter clinical trial</article-title>. <source>Urology</source>
+<year>1999</year>, <volume>54</volume>, <fpage>976</fpage>&#x02013;<lpage>981</lpage><pub-id pub-id-type="doi">10.1016/S0090-4295(99)00288-5</pub-id>.<pub-id pub-id-type="pmid">10604693</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Anderson</surname><given-names>G. G.</given-names></name>; <name><surname>O&#x02019;Toole</surname><given-names>G. A.</given-names></name>
+<article-title>Innate
+and induced resistance mechanisms of bacterial
+biofilms</article-title>. <source>Curr. Top. Microbiol. Immunol.</source>
+<year>2008</year>, <volume>322</volume>, <fpage>85</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">18453273</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Aiassa</surname><given-names>V.</given-names></name>; <name><surname>Barnes</surname><given-names>A. I.</given-names></name>; <name><surname>Albesa</surname><given-names>I.</given-names></name>
+<article-title>Resistance
+to ciprofloxacin by enhancement
+of antioxidant defenses in biofilm and planktonic Proteus mirabilis</article-title>. <source>Biochem. Biophys. Res. Commun.</source>
+<year>2010</year>, <volume>393</volume>, <fpage>84</fpage>&#x02013;<lpage>88</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2010.01.083</pub-id>.<pub-id pub-id-type="pmid">20097163</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Hoffman</surname><given-names>L. R.</given-names></name>; <name><surname>D&#x02019;Argenio</surname><given-names>D. A.</given-names></name>; <name><surname>MacCoss</surname><given-names>M. J.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Jones</surname><given-names>R. A.</given-names></name>; <name><surname>Miller</surname><given-names>S. I.</given-names></name>
+<article-title>Aminoglycoside
+antibiotics induce bacterial biofilm
+formation</article-title>. <source>Nature</source>
+<year>2005</year>, <volume>436</volume>, <fpage>1171</fpage>&#x02013;<lpage>1175</lpage><pub-id pub-id-type="doi">10.1038/nature03912</pub-id>.<pub-id pub-id-type="pmid">16121184</pub-id></mixed-citation></ref></ref-list></back></article>

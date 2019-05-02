@@ -1,0 +1,199 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Aging Cell</journal-id><journal-id journal-id-type="iso-abbrev">Aging Cell</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1474-9726</journal-id><journal-id journal-id-type="publisher-id">ACEL</journal-id><journal-title-group><journal-title>Aging Cell</journal-title></journal-title-group><issn pub-type="ppub">1474-9718</issn><issn pub-type="epub">1474-9726</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28383136</article-id><article-id pub-id-type="pmc">5418205</article-id><article-id pub-id-type="doi">10.1111/acel.12594</article-id><article-id pub-id-type="publisher-id">ACEL12594</article-id><article-categories><subj-group subj-group-type="overline"><subject>Short Take</subject></subj-group><subj-group subj-group-type="heading"><subject>Short Takes</subject></subj-group></article-categories><title-group><article-title>Age&#x02010;related decline in BubR1 impairs adult hippocampal neurogenesis</article-title><alt-title alt-title-type="left-running-head">Z. Yang <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="acel12594-cr-0001" contrib-type="author"><name><surname>Yang</surname><given-names>Zhongxi</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="acel12594-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="acel12594-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="acel12594-cr-0002" contrib-type="author"><name><surname>Jun</surname><given-names>Heechul</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="acel12594-curr-0001">
+<sup>6</sup>
+</xref><xref ref-type="author-notes" rid="acel12594-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="acel12594-cr-0003" contrib-type="author"><name><surname>Choi</surname><given-names>Chan&#x02010;II</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acel12594-cr-0004" contrib-type="author"><name><surname>Yoo</surname><given-names>Ki Hyun</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acel12594-cr-0005" contrib-type="author"><name><surname>Cho</surname><given-names>Chang Hoon</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acel12594-cr-0006" contrib-type="author"><name><surname>Hussaini</surname><given-names>Syed Mohammed Qasim</given-names></name><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="acel12594-curr-0002">
+<sup>7</sup>
+</xref></contrib><contrib id="acel12594-cr-0007" contrib-type="author"><name><surname>Simmons</surname><given-names>Ambrosia J.</given-names></name><xref ref-type="aff" rid="acel12594-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="acel12594-cr-0008" contrib-type="author"><name><surname>Kim</surname><given-names>Seonhee</given-names></name><xref ref-type="aff" rid="acel12594-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="acel12594-cr-0009" contrib-type="author"><name><surname>van Deursen</surname><given-names>Jan M.</given-names></name><xref ref-type="aff" rid="acel12594-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="acel12594-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="acel12594-cr-0010" contrib-type="author"><name><surname>Baker</surname><given-names>Darren J.</given-names></name><xref ref-type="aff" rid="acel12594-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="acel12594-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="acel12594-cr-0011" contrib-type="author" corresp="yes"><name><surname>Jang</surname><given-names>Mi&#x02010;Hyeon</given-names></name><address><email>jang.mihyeon@mayo.edu</email></address><xref ref-type="aff" rid="acel12594-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="acel12594-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="acel12594-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Neurologic Surgery</named-content><institution>Mayo Clinic College of Medicine</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">MN</named-content><country country="US">USA</country></aff><aff id="acel12594-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Neurosurgery</named-content><institution>First Hospital of Jilin University</institution><named-content content-type="city">Changchun</named-content><country country="CN">China</country></aff><aff id="acel12594-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Anatomy and Cell Biology</named-content><named-content content-type="organisation-division">Shriners Hospital for Children Pediatric Research Center</named-content><institution>Temple University Lewis Katz School of Medicine</institution><named-content content-type="city">Philadelphia</named-content><named-content content-type="country-part">PA</named-content><country country="US">USA</country></aff><aff id="acel12594-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Biochemistry and Molecular Biology</named-content><institution>Mayo Clinic College of Medicine</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">MN</named-content><country country="US">USA</country></aff><aff id="acel12594-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Pediatric and Adolescent Medicine</named-content><institution>Mayo Clinic College of Medicine</institution><named-content content-type="city">Rochester</named-content><named-content content-type="country-part">MN</named-content><country country="US">USA</country></aff><aff id="acel12594-curr-0001"><label><sup>6</sup></label>Present address: <named-content content-type="organisation-division">Medical Scientist Training Program</named-content><named-content content-type="organisation-division">Irvine School of Medicine</named-content><institution>University of California</institution><named-content content-type="city">Irvine</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="acel12594-curr-0002"><label><sup>7</sup></label>Present address: <institution>Duke&#x02010;NUS Medical School</institution><named-content content-type="street">8 College Road</named-content><named-content content-type="city">Singapore City</named-content><country country="SG">Singapore</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/><italic>Mi&#x02010;Hyeon Jang, PhD, Department of Neurologic Surgery, Mayo Clinic College of Medicine, 200 First Street SW, Rochester, MN 55905, USA. Tel.: +1&#x000a0;507&#x000a0;284&#x000a0;1219; fax: +1&#x000a0;507&#x000a0;284&#x000a0;3383; e&#x02010;mail:</italic><email>jang.mihyeon@mayo.edu</email><break/></corresp><fn fn-type="equal" id="acel12594-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>06</day><month>4</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><volume>16</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/acel.2017.16.issue-3</issue-id><fpage>598</fpage><lpage>601</lpage><history><date date-type="accepted"><day>13</day><month>2</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 The Anatomical Society and John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Aging Cell</italic> published by the Anatomical Society and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ACEL-16-598.pdf"/><abstract id="acel12594-abs-0001"><title>Summary</title><p>Aging causes significant declines in adult hippocampal neurogenesis and leads to cognitive disability. Emerging evidence demonstrates that decline in the mitotic checkpoint kinase BubR1 level occurs with natural aging and induces progeroid features in both mice and children with mosaic variegated aneuploidy syndrome. Whether BubR1 contributes to age&#x02010;related deficits in hippocampal neurogenesis is yet to be determined. Here we report that <italic>BubR1</italic> expression is significantly reduced with natural aging in the mouse brain. Using established progeroid mice expressing low amounts of BubR1, we demonstrate these mice exhibit deficits in neural progenitor proliferation and maturation, leading to reduction in new neuron production. Collectively, our identification of BubR1 as a new and critical factor controlling sequential steps across neurogenesis raises the possibility that BubR1 may be a key mediator regulating aging&#x02010;related hippocampal pathology. Targeting BubR1 may represent a novel therapeutic strategy for age&#x02010;related cognitive deficits.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="acel12594-kwd-0001">Adult neurogenesis</kwd><kwd id="acel12594-kwd-0002">aging</kwd><kwd id="acel12594-kwd-0003">bubR1</kwd><kwd id="acel12594-kwd-0004">dendrite morphogenesis</kwd><kwd id="acel12594-kwd-0005">hippocampus</kwd><kwd id="acel12594-kwd-0006">progeroid mouse model</kwd></kwd-group><funding-group><award-group><funding-source>Mayo Clinic Center for Regenerative Medicine</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Whitehall Foundation</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="4"/><word-count count="1712"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>acel12594</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:18.05.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>The hippocampus is one neurogenic niche where new neurons arising from neural stem cells (NSCs) are constantly generated throughout life in a process called adult hippocampal neurogenesis (Ming &#x00026; Song, <xref rid="acel12594-bib-0004" ref-type="ref">2011</xref>). Deficits in this process are observed with aging and are believed to underlie age&#x02010;related cognitive deficits (van Praag <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0005" ref-type="ref">2005</xref>). However, the molecular identity governing such deficits is not fully understood.</p><p>A mitotic checkpoint kinase, BubR1, has emerged as a key factor in age&#x02010;related pathology and lifespan (Baker <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0001" ref-type="ref">2004</xref>). Whether BubR1 also regulates age&#x02010;related changes in hippocampal neurogenesis is unknown. Notably, <italic>BubR1</italic> is expressed in the postnatal mouse dentate gyrus and is relatively higher in the subgranular zone (SGZ) than the dentate granule layer (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S1A</xref>, Supporting information). In addition, <italic>BubR1</italic> is expressed in radial glia&#x02010;like NSCs (RGCs; Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S1B</xref>, Supporting information) and is reduced in an age&#x02010;dependent manner (Fig.&#x000a0;<xref rid="acel12594-fig-0001" ref-type="fig">1</xref>A). We hypothesized that age&#x02010;dependent regulation of BubR1 plays a possible role in hippocampal neurogenesis.</p><fig fig-type="Figure" xml:lang="en" id="acel12594-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Impaired neural progenitor proliferation and neurogenesis in adult <italic>BubR1</italic>
+<sup>H/H</sup> mice. (A) <italic>BubR1</italic> expression as determined by <styled-content style="fixed-case">qRT</styled-content>&#x02013;<styled-content style="fixed-case">PCR</styled-content>. Values are normalized to 2&#x02010;month&#x02010;old mice. One&#x02010;way <styled-content style="fixed-case">ANOVA</styled-content> with Bonferroni post hoc test. (B) Sample images of <styled-content style="fixed-case">MCM</styled-content>2 and <styled-content style="fixed-case">DAPI</styled-content> staining and quantification. Scale bars: 100&#x000a0;&#x003bc;m. (C) Sample images of <styled-content style="fixed-case">MCM</styled-content>2, <styled-content style="fixed-case">DCX</styled-content>, and <styled-content style="fixed-case">DAPI</styled-content> staining and quantification. Scale bar: 50&#x000a0;&#x003bc;m. White arrows point to <styled-content style="fixed-case">MCM</styled-content>2<sup>+</sup>
+<styled-content style="fixed-case">DCX</styled-content>
+<sup>+</sup> neuroblasts, and yellow arrows point to <styled-content style="fixed-case">MCM</styled-content>2<sup>+</sup>
+<styled-content style="fixed-case">DCX</styled-content>
+<sup>&#x02212;</sup> neural progenitors. (D) <italic>BubR1</italic>
+<sup>H/H</sup> mice show age&#x02010;dependent reduction in <styled-content style="fixed-case">DCX</styled-content>
+<sup>+</sup> immature neurons. (E) Sample images of EdU and NeuN staining and quantification. Scale bar: 50&#x000a0;&#x003bc;m. All values represent mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content>. **: <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, ***: <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001, unpaired <italic>t</italic>&#x02010;test unless noted otherwise. Number associated with bar graphs indicates the number of mice examined.</p></caption><graphic id="nlm-graphic-1" xlink:href="ACEL-16-598-g001"/></fig><p>Using adult <italic>BubR1</italic>
+<sup>H/H</sup> mice with reduced hippocampal <italic>BubR1</italic> levels (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S1C</xref>, Supporting information), we first showed significantly reduced cell proliferation in the SGZ (Fig.&#x000a0;<xref rid="acel12594-fig-0001" ref-type="fig">1</xref>B) and subventricular zone (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S2B</xref>, Supporting information). Progenitor cell types vulnerable to BubR1 insufficiency included significant reductions in activated RGCs (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S2E</xref>, Supporting information), intermediate progenitor cells (IPCs; Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S2F</xref>, Supporting information), and neuroblasts (Fig.&#x000a0;<xref rid="acel12594-fig-0001" ref-type="fig">1</xref>C). While slightly reduced, quiescent RGCs were not statistically different (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S2D</xref>, Supporting information). Furthermore, this decrease was exacerbated in <italic>BubR1</italic>
+<sup>H/H</sup> mice in an age&#x02010;dependent manner (Fig.&#x000a0;<xref rid="acel12594-fig-0001" ref-type="fig">1</xref>D). Notably, cell proliferation was not affected during embryonic day 14 and postnatal day 7 (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S3</xref>, Supporting information), indicating deficits seen in <italic>BubR1</italic>
+<sup>H/H</sup> mice were not due to early developmental dysfunction. Subsequently, <italic>BubR1</italic>
+<sup>H/H</sup> mice exhibited a significant decrease in the density of EdU<sup>+</sup>NeuN<sup>+</sup> mature new neurons (Fig.&#x000a0;<xref rid="acel12594-fig-0001" ref-type="fig">1</xref>E), while survival of new cells was not affected (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S4</xref>, Supporting information). Thus, these results indicate that the reduction in hippocampal neurogenesis may result primarily from a decrease in neural progenitor proliferation, rather than affecting survival.</p><p>To further investigate a postmitotic role of BubR1, we examined the localization of BubR1 in postmitotic neurons derived from isolated NSCs <italic>in&#x000a0;vitro</italic>. BubR1 localized in the cytoplasm and dendrites (Fig.&#x000a0;<xref rid="acel12594-fig-0002" ref-type="fig">2</xref>A), suggesting a possible role in maturation or dendrite development of new neurons. At 4&#x000a0;weeks after EdU injection, we found a significant increase in the percentage of DCX<sup>+</sup>NeuN<sup>&#x02212;</sup> immature neurons with a concurrent decrease of DCX<sup>&#x02212;</sup>NeuN<sup>+</sup> mature neurons in <italic>BubR1</italic>
+<sup>H/H</sup> mice (Fig.&#x000a0;<xref rid="acel12594-fig-0002" ref-type="fig">2</xref>B), indicating impaired neuronal maturation. To examine impact on dendrite morphogenesis, we utilized a coexpressing GFP and shRNA&#x02010;<italic>BubR1</italic> retroviral approach to selectively knock down BubR1 within new neurons (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S5A,B</xref>, Supporting information). GFP<sup>+</sup> new neurons at 14&#x000a0;days postinjection exhibited decreased primary dendrite length, total dendrite length, total branch number, and branch point number with shRNA&#x02010;<italic>BubR1</italic> expression compared to shRNA&#x02010;control (Fig.&#x000a0;<xref rid="acel12594-fig-0002" ref-type="fig">2</xref>C). Furthermore, these morphological alterations in BubR1 knockdown were significantly rescued in BubR1&#x02010;overexpression mice (excluding total branch number), indicating dendrite morphogenesis is mediated through BubR1 in a cell&#x02010;autonomous manner (Fig.&#x000a0;<xref rid="acel12594-sup-0001" ref-type="supplementary-material">S5C</xref>, Supporting information).</p><fig fig-type="Figure" xml:lang="en" id="acel12594-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Deficits in neuronal maturation in adult <italic>BubR1</italic>
+<sup>H/H</sup> mice. (A) BubR1 expression in postmitotic neurons <italic>in&#x000a0;vitro</italic>. Sample images of <styled-content style="fixed-case">MAP</styled-content>2 (a mature neuron marker), BubR1, and <styled-content style="fixed-case">DAPI</styled-content> staining in differentiated postmitotic neurons derived from hippocampal <styled-content style="fixed-case">NSC</styled-content>s. Scale bar: 20&#x000a0;&#x003bc;m. (B) Impaired neuronal maturation in the adult <italic>BubR1</italic>
+<sup>H/H</sup> mice. Sample images of EdU<sup>+</sup>
+<styled-content style="fixed-case">DCX</styled-content>
+<sup>+</sup>NeuN<sup>&#x02212;</sup> immature new neurons (red arrows), EdU<sup>+</sup>
+<styled-content style="fixed-case">DCX</styled-content>
+<sup>+</sup>NeuN<sup>+</sup> intermediate new neurons (white arrows), and EdU<sup>+</sup>
+<styled-content style="fixed-case">DCX</styled-content>
+<sup>&#x02212;</sup>NeuN<sup>+</sup> mature new neurons (yellow arrows). Scale bar: 50&#x000a0;&#x003bc;m. All values represent mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content>. *: <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, **: <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, ns: no significance, unpaired <italic>t</italic>&#x02010;test. (C) Impaired dendrite morphogenesis of new neurons by BubR1 knockdown. Left: Sample confocal images of <styled-content style="fixed-case">GFP</styled-content>
+<sup>+</sup> neurons. Scale bar: 20&#x000a0;&#x003bc;m. Right: Cumulative distribution plots of dendrite analysis of new neurons. Each symbol represents data from a single <styled-content style="fixed-case">GFP</styled-content>
+<sup>+</sup> neuron. ***: <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001, Kolmogorov&#x02013;Smirnov test.</p></caption><graphic id="nlm-graphic-3" xlink:href="ACEL-16-598-g002"/></fig><p>In this study, we have identified several novel functions of BubR1 in the adult brain. First, we show <italic>BubR1</italic> level is significantly reduced with age. Given that BubR1 insufficiency contributes to age&#x02010;related pathology including short lifespan (Baker <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0001" ref-type="ref">2004</xref>), our findings extend the established function of BubR1 to aging and cognitive decline. Second, BubR1 is primarily known as a key regulator for mitosis (Kapanidou <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0002" ref-type="ref">2015</xref>). We identify an adult&#x02010;specific mitotic function of BubR1 in ensuring a precise number of neural progenitors are proliferated and an effective rate of neurogenesis is maintained. Third, we show a critical postmitotic function of BubR1. Rather than affecting cell survival, BubR1 insufficiency impairs neuronal maturation and impairs dendrite morphogenesis. Interestingly, a previous study observed BubR1 knockdown resulting in increased dendrite growth examined at postnatal day 2 (Watanabe <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0006" ref-type="ref">2014</xref>), while we found the opposite phenotype in 8&#x02010;week&#x02010;old mice. This discrepancy may be due to different local microenvironment properties between the early and later postnatal dentate gyrus, resulting in differential regulation of dendritic growth (Kim <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0003" ref-type="ref">2012</xref>). Considering defects in neuronal maturation are associated with cognitive dysfunction (van Praag <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0005" ref-type="ref">2005</xref>), it is conceivable that age&#x02010;related BubR1 decline may contribute to cognitive aging. Furthermore, BubR1 is reported to be a spindle assembly checkpoint kinase involved in cell cycle progression and arrest, and with dysfunction, may lead to cell aneuploidy (Kapanidou <italic>et&#x000a0;al</italic>., <xref rid="acel12594-bib-0002" ref-type="ref">2015</xref>). It is possible impaired new neuron development may result from aneuploidy in new neurons although it remains an open question for future study.</p><sec id="acel12594-sec-0003"><title>Author contributions</title><p>Z.Y., H.J., and M&#x02010;H.J. designed research; Z.Y., H.J., C&#x02010;I.C., S.M.Q.H., K.H.Y., and C.H.C. performed research; A.S. and S.K. provided embryonic data; J.M.v.D. and D.J.B. provided BubR1 expression data; Z. Y., H.J., S.M.Q.H., and M&#x02010;H.J. wrote the manuscript.</p></sec><sec id="acel12594-sec-0004"><title>Funding</title><p>Mayo Clinic Center for Regenerative Medicine, Whitehall Foundation.</p></sec><sec id="acel12594-sec-0005"><title>Conflict of interest</title><p>The authors declare no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="acel12594-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1</bold> BubR1 expression in adult dentate gyrus.</p><p>
+<bold>Fig.&#x000a0;S2</bold> Impaired neural progenitor proliferation in adult <italic>BubR1</italic>
+<sup>H/H</sup> mice.</p><p>
+<bold>Fig.&#x000a0;S3</bold> Neural progenitor proliferation during early development in <italic>BubR1</italic>
+<sup>H/H</sup> mice.</p><p>
+<bold>Fig.&#x000a0;S4</bold> No difference for cell survival was found in <italic>BubR1</italic>
+<sup>H/H</sup> mice.</p><p>
+<bold>Fig.&#x000a0;S5</bold> BubR1 knockdown impairs dendrite morphogenesis of new neurons.</p><p>
+<bold>Table&#x000a0;S1</bold> Antibody list.</p><p>
+<bold>Data S1</bold> Materials and methods.</p></caption><media xlink:href="ACEL-16-598-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="acel12594-sec-0002"><title>Acknowledgments</title><p>We thank Drs. A. Windebank, D. Choi, and E. Trushina for suggestions. This work was supported by Whitehall Foundation, Mayo Clinic Center for Regenerative Medicine, to M.H.J., and K.H.Y.</p></ack><ref-list content-type="cited-references" id="acel12594-bibl-0001"><title>References</title><ref id="acel12594-bib-0001"><mixed-citation publication-type="journal" id="acel12594-cit-0001">
+<string-name>
+<surname>Baker</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Jeganathan</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Juneja</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kopecka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>de Groen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Roche</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>van Deursen</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2004</year>) <article-title>BubR1 insufficiency causes early onset of aging&#x02010;associated phenotypes and infertility in mice</article-title>. <source>Nat. Genet.</source>
+<volume>36</volume>, <fpage>744</fpage>&#x02013;<lpage>749</lpage>.<pub-id pub-id-type="pmid">15208629</pub-id></mixed-citation></ref><ref id="acel12594-bib-0002"><mixed-citation publication-type="journal" id="acel12594-cit-0002">
+<string-name>
+<surname>Kapanidou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bolanos&#x02010;Garcia</surname>
+<given-names>VM</given-names>
+</string-name> (<year>2015</year>) <article-title>BubR1 kinase: protection against aneuploidy and premature aging</article-title>. <source>Trends Mol. Med.</source>
+<volume>21</volume>, <fpage>364</fpage>&#x02013;<lpage>372</lpage>.<pub-id pub-id-type="pmid">25964054</pub-id></mixed-citation></ref><ref id="acel12594-bib-0003"><mixed-citation publication-type="journal" id="acel12594-cit-0003">
+<string-name>
+<surname>Kim</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Feighery</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rujescu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>St Clair</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Christian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Callicott</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Weinberger</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2012</year>) <article-title>Interplay between DISC1 and GABA signaling regulates neurogenesis in mice and risk for schizophrenia</article-title>. <source>Cell</source>
+<volume>148</volume>, <fpage>1051</fpage>&#x02013;<lpage>1064</lpage>.<pub-id pub-id-type="pmid">22385968</pub-id></mixed-citation></ref><ref id="acel12594-bib-0004"><mixed-citation publication-type="journal" id="acel12594-cit-0004">
+<string-name>
+<surname>Ming</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>H</given-names>
+</string-name> (<year>2011</year>) <article-title>Adult neurogenesis in the mammalian brain: significant answers and significant questions</article-title>. <source>Neuron</source>
+<volume>70</volume>, <fpage>687</fpage>&#x02013;<lpage>702</lpage>.<pub-id pub-id-type="pmid">21609825</pub-id></mixed-citation></ref><ref id="acel12594-bib-0005"><mixed-citation publication-type="journal" id="acel12594-cit-0005">
+<string-name>
+<surname>van Praag</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shubert</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gage</surname>
+<given-names>FH</given-names>
+</string-name> (<year>2005</year>) <article-title>Exercise enhances learning&#x000a0;and hippocampal neurogenesis in aged mice</article-title>. <source>J. Neurosci.</source>
+<volume>25</volume>, <fpage>8680</fpage>&#x02013;<lpage>8685</lpage>.<pub-id pub-id-type="pmid">16177036</pub-id></mixed-citation></ref><ref id="acel12594-bib-0006"><mixed-citation publication-type="journal" id="acel12594-cit-0006">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Khodosevich</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Monyer</surname>
+<given-names>H</given-names>
+</string-name> (<year>2014</year>) <article-title>Dendrite development regulated by the schizophrenia&#x02010;associated gene FEZ1 involves the ubiquitin proteasome system</article-title>. <source>Cell Rep.</source>
+<volume>7</volume>, <fpage>552</fpage>&#x02013;<lpage>564</lpage>.<pub-id pub-id-type="pmid">24726361</pub-id></mixed-citation></ref></ref-list></back></article>

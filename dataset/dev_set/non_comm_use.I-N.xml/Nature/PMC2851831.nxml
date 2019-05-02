@@ -1,0 +1,271 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">0410462</journal-id><journal-id journal-id-type="pubmed-jr-id">6011</journal-id><journal-id journal-id-type="nlm-ta">Nature</journal-id><journal-id journal-id-type="iso-abbrev">Nature</journal-id><journal-title-group><journal-title>Nature</journal-title></journal-title-group><issn pub-type="ppub">0028-0836</issn><issn pub-type="epub">1476-4687</issn></journal-meta><article-meta><article-id pub-id-type="pmid">20348905</article-id><article-id pub-id-type="pmc">2851831</article-id><article-id pub-id-type="doi">10.1038/nature08868</article-id><article-id pub-id-type="manuscript">NIHMS174216</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Double Holliday Junctions are Intermediates of DNA Break Repair</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bzymek</surname><given-names>Malgorzata</given-names></name></contrib><contrib contrib-type="author"><name><surname>Thayer</surname><given-names>Nathaniel H.</given-names></name><xref ref-type="aff" rid="A2">*</xref></contrib><contrib contrib-type="author"><name><surname>Oh</surname><given-names>Steve D.</given-names></name><xref ref-type="aff" rid="A3">#</xref></contrib><contrib contrib-type="author"><name><surname>Kleckner</surname><given-names>Nancy</given-names></name><xref ref-type="aff" rid="A4">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Hunter</surname><given-names>Neil</given-names></name></contrib></contrib-group><aff id="A1">Howard Hughes Medical Institute and Departments of Microbiology, Molecular &#x00026; Cellular Biology, and Cell Biology &#x00026; Human Anatomy, University of California Davis, Davis CA 95616, U.S.A.</aff><aff id="A2"><label>*</label>Molecular &#x00026; Cellular Biology PhD Program, University of Washington Seattle, WA 98195-7275. U.S.A.</aff><aff id="A3"><label>#</label>Department of Pathology and Comprehensive Cancer Center, University of California, San Francisco, CA 94143-0511, U.S.A.</aff><aff id="A4"><label>&#x02020;</label>Department of Molecular &#x00026; Cellular Biology, Harvard University, Cambridge MA 02138, U.S.A.</aff><author-notes><fn id="FN1"><p id="P1"><bold>Author Contributions</bold> M.B. performed the experiments, assisted by S.D.O. and N.T. M.B., N.K. and N.H. designed the experiments, discussed the results and prepared the manuscript.</p></fn><fn id="FN2"><p id="P2"><bold>Author Information</bold> Reprints and permissions information is available at <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/reprints">www.nature.com/reprints</ext-link>.</p></fn><corresp id="CR1">Correspondence and requests for materials should be addressed to N.H. (<email>nhunter@ucdavis.edu</email>).</corresp></author-notes><pub-date pub-type="nihms-submitted"><day>11</day><month>2</month><year>2010</year></pub-date><pub-date pub-type="epub"><day>28</day><month>3</month><year>2010</year></pub-date><pub-date pub-type="ppub"><day>8</day><month>4</month><year>2010</year></pub-date><pub-date pub-type="pmc-release"><day>08</day><month>10</month><year>2010</year></pub-date><volume>464</volume><issue>7290</issue><fpage>937</fpage><lpage>941</lpage><!--elocation-id from pubmed: 10.1038/nature08868--><permissions><license><license-p>Users may view, print, copy, download and text and data- mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use:
+<uri xlink:type="simple" xlink:href="http://www.nature.com/authors/editorial_policies/license.html#terms">http://www.nature.com/authors/editorial_policies/license.html#terms</uri></license-p></license></permissions><abstract><p id="P3">Repair of DNA double-strand-breaks (DSBs) by homologous recombination is crucial for cell proliferation and tumor suppression. However, despite its importance, the molecular intermediates of mitotic DSB-repair remain undefined. The double Holliday Junction (dHJ), presupposed to be the central intermediate for more than 25 years<xref rid="R1" ref-type="bibr">1</xref>, has only been identified during meiotic recombination<xref rid="R2" ref-type="bibr">2</xref>. Moreover, evidence has accumulated for alternative, dHJ-independent mechanisms<xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref>, raising the possibility that dHJs are not formed during DSB-repair in mitotically cycling cells. Here we identify intermediates of DSB-repair using a budding yeast assay system designed to mimic physiological DSB repair. This system utilizes diploid cells and provides the possibility for allelic recombination either between sister-chromatids or between homologs, as well as direct comparison with meiotic recombination at the same locus. In mitotically cycling cells, we detect inter-homolog Joint Molecule (JM) intermediates whose size and strand-composition are identical to the canonical dHJ structures observed in meiosis<xref rid="R2" ref-type="bibr">2</xref>. However, in contrast to meiosis, JMs between sister chromatids form in preference to those between homologs. Moreover, JMs appear to represent a minor pathway of DSB repair in mitotic cells, being detected at ~10-fold lower levels (per DSB) than during meiotic recombination. Thus, although dHJs are identified as intermediates of DSB-promoted recombination in both mitotic and meiotic cells, their formation is distinctly regulated according to the specific dictates of the two cellular programs.</p></abstract></article-meta></front><body><p id="P4">To identify intermediates of mitotic recombination, an inducible site-specific DSB assay system was constructed by modifying the <italic>HIS4LEU2</italic> locus, which has been used extensively to characterize meiotic recombination intermediates in <italic>Saccharomyces cerevisiae</italic> (<xref ref-type="fig" rid="F1">Fig. 1a</xref>)<xref rid="R7" ref-type="bibr">7</xref>. To better model physiological DSB-repair in mammalian cells, three features were incorporated. First, we used diploid strains, rather than the haploids typically utilized in yeast DSB-repair studies. Second, we specified that chromosome breakage should be induced relatively inefficiently such that an intact sister-chromatid repair template is available in addition to the uncut homolog templates. The commonly employed HO-endonuclease normally cleaves with high efficiency, effectively precluding inter-sister recombination<xref rid="R8" ref-type="bibr">8</xref>. In our hands, the I-<italic>Sce</italic> I endonuclease<xref rid="R9" ref-type="bibr">9</xref> cleaves much less efficiently so that an intact sister-chromatid will generally be available for repair (<xref ref-type="fig" rid="F1">Fig. 1b,c</xref>). A single I-<italic>Sce</italic> I recognition site was introduced into one homolog of a diploid strain at the location where meiotic DSBs occur (<xref ref-type="fig" rid="F1">Fig. 1a</xref>); and an <italic>SCEI</italic> gene under the control of the galactose-inducible <italic>GAL1</italic> promoter<xref rid="R10" ref-type="bibr">10</xref> was integrated elsewhere in the genome. Third, as described below, we monitored DSB-repair intermediates during a period when both homolog and sister templates are available for repair. Intermediates were monitored using a series of gel electrophoresis and Southern hybridization assays analogous to those used to study meiotic recombination (<xref ref-type="fig" rid="F1">Fig. 1b</xref> and <xref ref-type="fig" rid="F2">Fig. 2</xref>)<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R2" ref-type="bibr">2</xref>.</p><p id="P5">Cell cultures were synchronized in G1 and then transferred to fresh media to reinitiate growth, with addition of galactose to induce I-<italic>Sce</italic> I expression. After 45 minutes, I-<italic>Sce</italic> I expression was repressed by the addition of glucose. Under these conditions, DSBs appear within 30 minutes of I-<italic>Sce</italic> I induction and reach maximum levels after one hour, coincident with a period where a majority of cells are in the S and G2/M phases of the cell cycle (<xref ref-type="fig" rid="F1">Fig. 1c</xref>). Thus, many DSBs are occurring in cells containing both homolog and sister-chromatid repair templates. Moreover, the maximum DSB level, ~20% of all chromatids, implies that breakage of both sister-chromatids in S/G2 cells should be rare (~4% of cells), i.e. an intact sister-chromatid will nearly always be available for repair. Most DSBs are repaired within 2&#x02013;3 hrs of induction and their disappearance is concurrent with the appearance of inter-homolog recombinant products (<xref ref-type="fig" rid="F1">Fig. 1b</xref> and <xref ref-type="fig" rid="F4">4c</xref>. Inter-homolog recombinants are further analyzed in <xref ref-type="supplementary-material" rid="SD2">Supplemental Figs. S2 and S3</xref>).</p><p id="P6">To detect JM intermediates, cell samples were first treated with psoralen to produce DNA interstrand crosslinks that stabilize such structures<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R2" ref-type="bibr">2</xref>. DNA was then extracted and analyzed using native/native two-dimensional (2D) electrophoresis, which identifies JMs by virtue of their branched structure (<xref ref-type="fig" rid="F2">Fig. 2a</xref>)<xref rid="R12" ref-type="bibr">12</xref>. For diploid cells carrying an I-Sce I cutting site on the &#x0201c;Mom&#x0201d; homolog (<xref ref-type="fig" rid="F1">Fig. 1a</xref>), this analysis reveals transient formation of two distinct branched molecules, in addition to the Y-arcs formed by replicating DNA (<xref ref-type="fig" rid="F2">Fig. 2a</xref>). Formation of these branched species is dependent on both DSB-induction (<xref ref-type="fig" rid="F2">Fig. 2b</xref>) and the DNA strand-exchange protein, Rad51 (<xref ref-type="fig" rid="F2">Fig. 2c</xref>), indicating that they are intermediates of DSB-repair by homologous recombination. Moreover, recovery of these intermediates is dependent on psoralen cross-linking indicating the presence of migratable strand-exchange junctions (<xref ref-type="fig" rid="F2">Fig. 2d</xref>).</p><p id="P7">The gel migration patterns of the two intermediates are consistent with their being, respectively, inter-sister and inter-homolog JMs. Inter-sister strand-exchange is expected to form a &#x0201c;Mom+Mom&#x0201d; JM of ~11.8 kb (<xref ref-type="fig" rid="F1">Fig. 1a</xref> and indicated by the black arrowhead in <xref ref-type="fig" rid="F2">Fig. 2a</xref>), whereas inter-homolog strand-exchange will form a &#x0201c;Dad+Mom&#x0201d; JM of ~10.2 kb (white arrowhead in <xref ref-type="fig" rid="F2">Fig. 2a</xref>,). Since DSBs occur only on the Mom chromosome, no intersister &#x0201c;Dad+Dad&#x0201d; JMs are expected and none were observed.</p><p id="P8">These JM assignments were confirmed in three ways. (1) JM formation was monitored in cycling haploid cells, where Mom+Mom inter-sister JMs are the only possible intermediates. As expected, only the larger of the two JM species seen in diploid cells was detected (<xref ref-type="fig" rid="F3">Fig. 3a</xref>). (2) JMs were also monitored in diploid cells carrying the I-<italic>Sce</italic> I recognition site on the Dad homolog instead of on Mom (<xref ref-type="fig" rid="F3">Fig. 3b</xref>). In this case, the Mom+Mom inter-sister JM signal was absent. However, the putative interhomolog-JM signal was seen and a smaller JM species was also detected, consistent with the formation of JMs between Dad sister-chromatids (indicated by a caret in <xref ref-type="fig" rid="F3">Fig. 3b</xref>; also see <xref ref-type="fig" rid="F1">Fig. 1a</xref>). (3) The chromatid composition of detected JMs was analyzed by sequentially hybridizing 2D Southern blots with probes specific to either the Mom or Dad homologs (<xref ref-type="fig" rid="F3">Fig. 3c</xref>; probe positions shown in <xref ref-type="fig" rid="F1">Fig. 1a</xref>). This analysis was performed on samples from diploid cells carrying the I-<italic>Sce</italic> I site on the Mom homolog. At an early time point (1.25 hrs), only the larger JM is detected, and it hybridizes exclusively to the Mom-specific probe indicating that it contains only Mom chromatids and thus is an inter-sister Mom+Mom JM, as inferred above (<xref ref-type="fig" rid="F3">Fig. 3c</xref>; &#x0201c;Probe Mom&#x0201d;). After 1.75 hrs, the smaller JM (seen in <xref ref-type="fig" rid="F2">Fig. 2a</xref>, above) is also detected and it hybridizes to both Mom- and Dad-specific probes, as expected for a bi-parental inter-homolog JM (<xref ref-type="fig" rid="F3">Fig. 3c</xref>).</p><p id="P9">The structure of mitotic JMs was further investigated using native/denaturing 2D gel analysis in which psoralen cross-links are removed following electrophoresis in the first dimension gel, and component single-strands are then separated by denaturing electrophoresis in the second dimension (<xref ref-type="fig" rid="F3">Fig. 3d</xref>)<xref rid="R2" ref-type="bibr">2</xref>. For inter-homolog JMs, in which parental duplexes differ in size, this analysis can distinguish between JMs involving odd or even numbers of Holliday junctions: JMs with even numbers of junctions, such as dHJs, contain only parental-length strands; in contrast, single Holliday junctions (sHJs) (or JMs with odd numbers of junctions) are comprised of equal numbers of parental and crossover-length strands (<xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S4</xref>). This analysis reveals that interhomolog-JMs comprise primarily parental length strands implying that most molecules contain an even number of HJs, presumably two (<xref ref-type="fig" rid="F3">Fig. 3d</xref>). We infer that mitotic inter-homolog-JMs are most likely dHJs. The fact that recovery of mitotic interhomolog-JMs is dependent on psoralen cross-linking (<xref ref-type="fig" rid="F2">Fig. 2d</xref>) further supports this inference because, while dHJs are dependent on psoralen for stabilization, analogous sHJ structures are not<xref rid="R13" ref-type="bibr">13</xref>. Because inter-sister-JMs contain four identical length strands, component strand analysis cannot distinguish whether they contain odd or even numbers of junctions.</p><p id="P10">As noted above, the two JMs species detected in diploids form at different times during the course of DSB-repair. Inter-sister JMs appear first and levels peak ~1.25 hrs after DSB-induction, i.e. just 15 minutes after the peak of DSB formation (<xref ref-type="fig" rid="F4">Fig 4a,c</xref>; for normalized data see <xref ref-type="supplementary-material" rid="SD2">Supplemental Fig S5</xref>). We infer that homology search and DNA strand-exchange between sister-chromatids occurs rapidly following chromosome breakage. In contrast, inter-homolog JMs peak almost an hour later, between 2.0 to 2.25 hrs (a time when the ensuing cell division would normally have occurred; <xref ref-type="fig" rid="F4">Fig. 4c</xref> and <xref ref-type="supplementary-material" rid="SD2">SUPPLEMENT 4d</xref>). This contrasts with meiotic recombination in which inter-sister and inter-homolog-JMs form with essentially identical timing, ~1.5 hrs after DSB formation (see <xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S6</xref>)<xref rid="R7" ref-type="bibr">7</xref>.</p><p id="P11">A straightforward explanation for the later appearance of inter-homolog JMs is that they arise from DSBs induced in the early stages (G1 or early-S) of the <italic>second</italic> cell cycle, when a sister-chromatid repair template is no longer present. This scenario implies that inter-homolog JMs are essentially never formed if a sister-template is available. An alternative, explanation is that late arising inter-homolog JMs arise from DSBs induced during the G1 or early-S stages of the <italic>first</italic> cell cycle, but are not repaired until some later event(s) occur(s). In support of this idea, studies of spontaneous and X-ray induced gene conversion indicate that DSBs incurred in G1 are associated with crossing-over that occurs in the ensuing G2 phase<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>. Under this scenario, late appearance of inter-homolog JMs could be due to the fact that resection of DSB-ends, which is a prerequisite for homologous recombination, requires cyclin-dependent kinase activity and, thus, progression beyond G1 into the cell cycle<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>. It is also likely that homology search and stable DNA strand-exchange between homologs occurs more slowly than between sister chromatids because they are not already connected by cohesion<xref rid="R18" ref-type="bibr">18</xref>. Alternatively, or in addition, inter-homolog recombination could be actively suppressed until replication of the homolog template is completed. Such negative regulation of inter-homolog recombination could allow time for the homolog template to be replicated without interference from ongoing recombination.</p><p id="P12">Quantitative analysis reveals two important features regarding the levels of inter-sister and inter-homolog JMs (<xref ref-type="fig" rid="F4">Fig. 4b</xref>). First, steady-state levels of inter-sister JMs peak at ~0.12% of hybridizing DNA compared to ~0.03% for inter-homolog-JMs, pointing to a preference for use of the sister template. In actuality, if inter-homolog-JMs arise from DSBs formed in G1/early S (above), then the sister template may always be utilized for repair during late-S/G2. The inter-sister bias revealed here at the level of JM intermediates is consonant with that previously inferred by measuring recombination products<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>,<xref rid="R21" ref-type="bibr">21</xref>. Furthermore, it is the opposite of the bias observed during meiotic recombination at the <italic>HIS4LEU2</italic> locus, where inter-homolog JMs are favored over inter-sister JMs by ~5:1<xref rid="R11" ref-type="bibr">11</xref> (see <xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S6</xref>).</p><p id="P13">Second, although DSB levels induced in our mitotic assay occur at similar levels to those observed during meiosis at the same locus (~20%), the total level of detected JMs (inter-sister and inter-homolog combined) is &#x02265;10-fold lower during mitotic DSB-repair than during meiotic recombination (<xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S6</xref>)<xref rid="R11" ref-type="bibr">11</xref>. During meiosis, about one half of DSBs at <italic>HIS4LEU2</italic> are processed via JMs, all (or most) of which are specifically resolved into crossover products<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R22" ref-type="bibr">22</xref>. The remaining half are processed via a non-JM pathway, most likely synthesis-dependent strand annealing (SDSA)<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R23" ref-type="bibr">23</xref>, which yields intact duplexes that have not undergone crossing-over (&#x0201c;non-crossovers&#x0201d;). Thus, taken at face value, the relative paucity of JMs per DSB during mitotic repair implies that as many as 90% of events proceed via a non-JM pathway which, presumptively, yields non-crossover products.</p><p id="P14">The alternative possibility, that dHJs are the major intermediates of mitotic DSB-repair, could be true if we failed to detect the majority of JMs, e.g. if they migrate out of the assayed region, or if they have a much shorter lifespan relative to meiotic dHJs. If the former possibility were true, JM yield should increase when longer fragments are analyzed. However, we find that JMs are recovered at very similar levels for the 4.3 and 5.9 kb <italic>Xho</italic>I fragments (shown in <xref ref-type="fig" rid="F1">Fig. 1a</xref>) as for 13.6 kb <italic>Sac</italic>I fragments that span the <italic>HIS4LEU2-SceI</italic> locus (<xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S7</xref>), i.e. JM yield for the <italic>Xho</italic>I fragments is efficient. If the latter possibility were true, JM levels should increase when turnover-mediating factors are eliminated. <italic>In vitro</italic>, dHJs can be rapidly dissociated by helicase/topoisomerase ensembles: RecQ DNA helicase, BLM, type-I topoisomerase, TOPIII&#x003b1;, and the specificity factor, RMI (RMI1+RMI2) in human<xref rid="R23" ref-type="bibr">23</xref>,<xref rid="R24" ref-type="bibr">24</xref>; and the orthologous Sgs1-Top3-Rmi1 in budding yeast (S. Kowalczykowski, personal communication). Rapid dissociation of mitotic JMs by Sgs1-Top3-Rmi1 could explain why detected levels are so much lower than during meiosis. To address this possibility, we analyzed JM formation in an <italic>sgs1</italic> mutant diploid (<xref ref-type="fig" rid="F4">Fig. 4b, c</xref> and <xref ref-type="supplementary-material" rid="SD2">Supplemental Figs. S2 and S5</xref>). Importantly, peak JM levels in <italic>sgs1</italic> cells are only slightly higher than those measured in wild-type cells indicating that rapid turnover of JMs by Sgs1-Top3-Rmi1 cannot account for the low levels detected during mitotic DSB repair (<xref ref-type="fig" rid="F4">Fig. 4c</xref>). However, JM resolution does appear to be defective in the absence of Sgs1 helicase activity, as indicated by the persistence of both inter-sister- and inter-homolog-JM signals. Taken together, these data support the inference that JMs represent a minor pathway of DSB-repair in mitotically cycling cells and provide compelling <italic>in vivo</italic> evidence for the &#x0201c;dHJ-dissolution&#x0201d; activity of the Sgs1-Top3-Rmi1 complex.</p><p id="P15">The stark differences between mitotic and meiotic JMs reflect the distinct logic for homologous recombination in the two cell types. During mitotic DSB-repair, use of the sister template minimizes alteration of genetic content (loss-of-heterozygosity); and preferential occurrence of non-crossovers minimizes deleterious effects that can result from crossing-over, such as chromosome rearrangements and missegregation<xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R24" ref-type="bibr">24</xref>. In contrast, during meiosis, most DSBs are directed to homolog templates in order to facilitate pairing of parental homologs. Moreover, formation of dHJs and their resolution into crossovers is essential to direct segregation of homologs to opposite poles at the first meiotic division<xref rid="R25" ref-type="bibr">25</xref>.</p><sec id="S1"><title>Methods Summary</title><p id="P16">All strains are derived from SK1 strains NHY53 and NHY56 and are described in <xref ref-type="supplementary-material" rid="SD2">Supplemental Information</xref>. To synchronize cells in G1, cultures were diluted 1/100 and grown in YP-lactate (1% Bacto yeast extract, 2% Bacto peptone, 3% lactic acid, pH 5.5) for ~18 hrs at 30&#x000b0;C. Cells were then harvested and resuspended in fresh YP containing 2% galactose to induce I-<italic>Sce</italic> I expression. After 45 mins, I-<italic>Sce</italic> I expression was repressed by addition of 3% glucose. Cell samples were treated with psoralen and DNA was purified as previously described<xref rid="R2" ref-type="bibr">2</xref>. 1D and 2D gel analyses were as described<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R11" ref-type="bibr">11</xref>.</p></sec><sec sec-type="methods" id="S2"><title>Methods</title><sec id="S3"><title>Strain Construction</title><p id="P17">The linker 5'-CGCGCGG<underline>CC<bold>TAGG</bold></underline><bold>GATAACAGGGTAAT</bold>GGCGC-3', containing a single I-<italic>Sce</italic> I cleavage site (highlighted in bold), was inserted into the <italic>Mlu</italic>I sites of plasmids pNH16 (to create pMB34) and pNH93 (to create pMB7), which carry the &#x0201c;Mom&#x0201d; and &#x0201c;Dad&#x0201d; <italic>HIS4LEU2</italic> loci, respectively<xref rid="R7" ref-type="bibr">7</xref>. The linker 5'-CGCGCGG<underline>CCGAGG</underline>GATAACAGGGTAATGGCGC-3', which contains a mutated I-<italic>Sce</italic> I recognition site that is not cleaved by I-<italic>Sce</italic> I <italic>in vivo</italic>, was inserted into the <italic>Mlu</italic>I site of plasmid pNH93 (to create pMB8). Underlined sequences in the linkers indicate the polymorphic <italic>Avr</italic>II restriction site analyzed in <xref ref-type="supplementary-material" rid="SD2">Supplemental Fig. S3</xref>. The resulting plasmids were cut with <italic>Sac</italic>I and <italic>Pst</italic>I, to release the <italic>HIS4LEU2</italic> constructs from the vector backbone, and then transformed into precursor strains NHY53 and NHY56 (<xref ref-type="supplementary-material" rid="SD2">Supplemental Table S1</xref>) using standard methods (<ext-link ext-link-type="uri" xlink:href="http://home.cc.umanitoba.ca/gietz/">http://home.cc.umanitoba.ca/~gietz/</ext-link>). Correct integration at the native <italic>HIS4</italic> locus was conformed by Southern analysis with Probe 4. Plasmid pWY203<xref rid="R10" ref-type="bibr">10</xref> contains a <italic>pGAL1</italic> driven <italic>SCEI</italic> gene marked with <italic>URA3</italic> inserted into the <italic>LYS2</italic> gene. To target integration of this construct to the native <italic>LYS2</italic> locus, pWY203 was cleaved with <italic>Afl</italic>II prior to transformation.</p><p id="P18">The <italic>sgs1</italic> allele used in this study was <italic>sgs1-</italic>&#x00394;<italic>C795::hphMX4</italic> and has been described previously<xref rid="R11" ref-type="bibr">11</xref>. <italic>sgs1-</italic>&#x00394;<italic>C795</italic> encodes a truncated Sgs1 protein<xref rid="R26" ref-type="bibr">26</xref> lacking the conserved helicase and HRDC domains, which are essential for dHJ dissociation <italic>in vitro</italic><xref rid="R27" ref-type="bibr">27</xref>,<xref rid="R28" ref-type="bibr">28</xref>. The <italic>sgs1-</italic>&#x00394;<italic>C795</italic> strain, which grows normally, was used in preference to an <italic>sgs1</italic>&#x00394; strain, which grows slowly and synchronizes poorly (data not shown). <italic>rad51</italic>&#x00394;<italic>::hisG</italic> is a complete deletion of <italic>RAD51</italic> and has been described<xref rid="R29" ref-type="bibr">29</xref>.</p></sec><sec id="S4"><title>Analysis of Cell Cycle Stage</title><p id="P19">To asses the synchrony of cultures and follow progression through the cell cycle, cell samples (0.5 mL) were fixed in 40% ethanol 0.1M sorbitol, stained with 4',6-diamidino-2-phenylindole and visualized microscopically with both fluorescence and bright-field illumination. Cell cycle stage (G1, S, G2 or M) was scored according to standard criteria. ~200 cells were analyzed for each time point.</p></sec><sec id="S5"><title>DNA Analysis</title><p id="P20">Detailed methods for psoralen cross-linking, DNA extraction, gel electrophoresis and Southern analysis methods are described in Oh <italic>et al.</italic><xref rid="R30" ref-type="bibr">30</xref>. For 1D gels, 2&#x003bc;g of genomic DNA was digested and analyzed for each time point; 6 &#x003bc;g of DNA was used for 2D gels. JM signals were quantified using a phosphorimager. For the JM component-strand analysis experiment in <xref ref-type="fig" rid="F3">Fig. 3d</xref>, given that mitotic JMs are relatively rare, we first used preparative gel electrophoresis to obtain a sample enriched for these molecules. DNA fragments of the appropriate size were recovered from the preparative gel and then analyzed by native/denaturing 2D gel electrophoresis as described<xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R30" ref-type="bibr">30</xref>.</p></sec></sec><sec sec-type="supplementary-material" id="SM"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1"><label>1</label><media xlink:href="NIHMS174216-supplement-1.doc" mimetype="application" mime-subtype="msword" xlink:type="simple" id="d37e693" position="anchor"/></supplementary-material><supplementary-material content-type="local-data" id="SD2"><label>2</label><media xlink:href="NIHMS174216-supplement-2.pdf" mimetype="application" mime-subtype="pdf" xlink:type="simple" id="d37e697" position="anchor"/></supplementary-material></sec></body><back><ack id="S6"><title>Acknowledgements</title><p>We thank Robert Schiestl (UCLA) for plasmid pWY203 and Wolf Heyer for critical reading of the manuscript. This work was supported by NIH NIGMS grants GM025326 to N.K. and GM074223 to N.H.</p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szostak</surname><given-names>JW</given-names></name><name><surname>Orr-Weaver</surname><given-names>TL</given-names></name><name><surname>Rothstein</surname><given-names>RJ</given-names></name><name><surname>Stahl</surname><given-names>FW</given-names></name></person-group>
+<article-title>The double-strand-break repair model for recombination</article-title>
+<source>Cell</source>
+<year>1983</year>
+<volume>33</volume>
+<issue>1</issue>
+<fpage>25</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="pmid">6380756</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwacha</surname><given-names>A</given-names></name><name><surname>Kleckner</surname><given-names>N</given-names></name></person-group>
+<article-title>Identification of double Holliday junctions as intermediates in meiotic recombination</article-title>
+<source>Cell</source>
+<year>1995</year>
+<volume>83</volume>
+<issue>5</issue>
+<fpage>783</fpage>
+<lpage>791</lpage>
+<pub-id pub-id-type="pmid">8521495</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Resnick</surname><given-names>MA</given-names></name></person-group>
+<article-title>The repair of double-strand breaks in DNA; a model involving recombination</article-title>
+<source>J Theor Biol</source>
+<year>1976</year>
+<volume>59</volume>
+<issue>1</issue>
+<fpage>97</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="pmid">940351</pub-id></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nassif</surname><given-names>N</given-names></name><name><surname>Penney</surname><given-names>J</given-names></name><name><surname>Pal</surname><given-names>S</given-names></name><name><surname>Engels</surname><given-names>WR</given-names></name><name><surname>Gloor</surname><given-names>GB</given-names></name></person-group>
+<article-title>Efficient copying of nonhomologous sequences from ectopic sites via P-element-induced gap repair</article-title>
+<source>Molecular and cellular biology</source>
+<year>1994</year>
+<volume>14</volume>
+<issue>3</issue>
+<fpage>1613</fpage>
+<lpage>1625</lpage>
+<pub-id pub-id-type="pmid">8114699</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McMahill</surname><given-names>MS</given-names></name><name><surname>Sham</surname><given-names>CW</given-names></name><name><surname>Bishop</surname><given-names>DK</given-names></name></person-group>
+<article-title>Synthesis-dependent strand annealing in meiosis</article-title>
+<source>PLoS Biol</source>
+<year>2007</year>
+<volume>5</volume>
+<issue>11</issue>
+<fpage>e299</fpage>
+<pub-id pub-id-type="pmid">17988174</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heyer</surname><given-names>WD</given-names></name><name><surname>Ehmsen</surname><given-names>KT</given-names></name><name><surname>Solinger</surname><given-names>JA</given-names></name></person-group>
+<article-title>Holliday junctions in the eukaryotic nucleus: resolution in sight?</article-title>
+<source>Trends Biochem Sci</source>
+<year>2003</year>
+<volume>28</volume>
+<issue>10</issue>
+<fpage>548</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="pmid">14559184</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hunter</surname><given-names>N</given-names></name><name><surname>Kleckner</surname><given-names>N</given-names></name></person-group>
+<article-title>The single-end invasion: an asymmetric intermediate at the double-strand break to double-holliday junction transition of meiotic recombination</article-title>
+<source>Cell</source>
+<year>2001</year>
+<volume>106</volume>
+<issue>1</issue>
+<fpage>59</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="pmid">11461702</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haber</surname><given-names>JE</given-names></name></person-group>
+<article-title>Uses and abuses of HO endonuclease</article-title>
+<source>Methods Enzymol</source>
+<year>2002</year>
+<volume>350</volume>
+<fpage>141</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="pmid">12073310</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Monteilhet</surname><given-names>C</given-names></name><name><surname>Perrin</surname><given-names>A</given-names></name><name><surname>Thierry</surname><given-names>A</given-names></name><name><surname>Colleaux</surname><given-names>L</given-names></name><name><surname>Dujon</surname><given-names>B</given-names></name></person-group>
+<article-title>Purification and characterization of the in vitro activity of I-Sce I, a novel and highly specific endonuclease encoded by a group I intron</article-title>
+<source>Nucleic Acids Res</source>
+<year>1990</year>
+<volume>18</volume>
+<issue>6</issue>
+<fpage>1407</fpage>
+<lpage>1413</lpage>
+<pub-id pub-id-type="pmid">2183191</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galli</surname><given-names>A</given-names></name><name><surname>Schiestl</surname><given-names>RH</given-names></name></person-group>
+<article-title>Effects of DNA double-strand and single-strand breaks on intrachromosomal recombination events in cell-cycle-arrested yeast cells</article-title>
+<source>Genetics</source>
+<year>1998</year>
+<volume>149</volume>
+<issue>3</issue>
+<fpage>1235</fpage>
+<lpage>1250</lpage>
+<pub-id pub-id-type="pmid">9649517</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oh</surname><given-names>SD</given-names></name><etal/></person-group>
+<article-title>BLM ortholog, Sgs1, prevents aberrant crossing-over by suppressing formation of multichromatid joint molecules</article-title>
+<source>Cell</source>
+<year>2007</year>
+<volume>130</volume>
+<issue>2</issue>
+<fpage>259</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="pmid">17662941</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bell</surname><given-names>L</given-names></name><name><surname>Byers</surname><given-names>B</given-names></name></person-group>
+<article-title>Separation of branched from linear DNA by two-dimensional gel electrophoresis</article-title>
+<source>Analyt Biochem</source>
+<year>1983</year>
+<volume>130</volume>
+<fpage>527</fpage>
+<lpage>535</lpage>
+<pub-id pub-id-type="pmid">6869840</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cromie</surname><given-names>GA</given-names></name><etal/></person-group>
+<article-title>Single Holliday junctions are intermediates of meiotic recombination</article-title>
+<source>Cell</source>
+<year>2006</year>
+<volume>127</volume>
+<issue>6</issue>
+<fpage>1167</fpage>
+<lpage>1178</lpage>
+<pub-id pub-id-type="pmid">17174892</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Roman</surname><given-names>H</given-names></name><name><surname>Fabre</surname><given-names>F</given-names></name></person-group>
+<article-title>Gene conversion and associated reciprocal recombination are separable events in vegetative cells of <italic>Saccharomyces cerevisiae</italic></article-title>
+<year>1983</year>
+<volume>80</volume>
+<issue>22</issue>
+<fpage>6912</fpage>
+<lpage>6916</lpage>
+<conf-name>Proceedings of the National Academy of Sciences of the United States of America</conf-name>
+</element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>PS</given-names></name><etal/></person-group>
+<article-title>A fine-structure map of spontaneous mitotic crossovers in the yeast <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>PLoS Genet</source>
+<year>2009</year>
+<volume>5</volume>
+<issue>3</issue>
+<fpage>e1000410</fpage>
+<pub-id pub-id-type="pmid">19282969</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ira</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>DNA end resection, homologous recombination and DNA damage checkpoint activation require CDK1</article-title>
+<source>Nature</source>
+<year>2004</year>
+<volume>431</volume>
+<issue>7011</issue>
+<fpage>1011</fpage>
+<lpage>1017</lpage>
+<pub-id pub-id-type="pmid">15496928</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aylon</surname><given-names>Y</given-names></name><name><surname>Liefshitz</surname><given-names>B</given-names></name><name><surname>Kupiec</surname><given-names>M</given-names></name></person-group>
+<article-title>The CDK regulates repair of double-strand breaks by homologous recombination during the cell cycle</article-title>
+<source>The EMBO journal</source>
+<year>2004</year>
+<volume>23</volume>
+<issue>24</issue>
+<fpage>4868</fpage>
+<lpage>4875</lpage>
+<pub-id pub-id-type="pmid">15549137</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sjogren</surname><given-names>C</given-names></name><name><surname>Nasmyth</surname><given-names>K</given-names></name></person-group>
+<article-title>Sister chromatid cohesion is required for postreplicative double-strand break repair in <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Curr Biol</source>
+<year>2001</year>
+<volume>11</volume>
+<issue>12</issue>
+<fpage>991</fpage>
+<lpage>995</lpage>
+<pub-id pub-id-type="pmid">11448778</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fabre</surname><given-names>F</given-names></name><name><surname>Boulet</surname><given-names>A</given-names></name><name><surname>Roman</surname><given-names>H</given-names></name></person-group>
+<article-title>Gene conversion at different points in the mitotic cycle of <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Mol Gen Genet</source>
+<year>1984</year>
+<volume>195</volume>
+<issue>1&#x02013;2</issue>
+<fpage>139</fpage>
+<lpage>143</lpage>
+<pub-id pub-id-type="pmid">6387388</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kadyk</surname><given-names>LC</given-names></name><name><surname>Hartwell</surname><given-names>LH</given-names></name></person-group>
+<article-title>Sister chromatids are preferred over homologs as substrates for recombinational repair in <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Genetics</source>
+<year>1992</year>
+<volume>132</volume>
+<issue>2</issue>
+<fpage>387</fpage>
+<lpage>402</lpage>
+<pub-id pub-id-type="pmid">1427035</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>RD</given-names></name><name><surname>Jasin</surname><given-names>M</given-names></name></person-group>
+<article-title>Double-strand-break-induced homologous recombination in mammalian cells</article-title>
+<source>Biochem Soc Trans</source>
+<year>2001</year>
+<volume>29</volume>
+<issue>Pt 2</issue>
+<fpage>196</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="pmid">11356153</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borner</surname><given-names>GV</given-names></name><name><surname>Kleckner</surname><given-names>N</given-names></name><name><surname>Hunter</surname><given-names>N</given-names></name></person-group>
+<article-title>Crossover/noncrossover differentiation, synaptonemal complex formation, and regulatory surveillance at the leptotene/zygotene transition of meiosis</article-title>
+<source>Cell</source>
+<year>2004</year>
+<volume>117</volume>
+<issue>1</issue>
+<fpage>29</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="pmid">15066280</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jessop</surname><given-names>L</given-names></name><name><surname>Allers</surname><given-names>T</given-names></name><name><surname>Lichten</surname><given-names>M</given-names></name></person-group>
+<article-title>Infrequent co-conversion of markers flanking a meiotic recombination initiation site in <italic>Saccharomyces cerevisiae</italic></article-title>
+<source>Genetics</source>
+<year>2005</year>
+<volume>169</volume>
+<issue>3</issue>
+<fpage>1353</fpage>
+<lpage>1367</lpage>
+<pub-id pub-id-type="pmid">15654098</pub-id></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beumer</surname><given-names>KJ</given-names></name><name><surname>Pimpinelli</surname><given-names>S</given-names></name><name><surname>Golic</surname><given-names>KG</given-names></name></person-group>
+<article-title>Induced chromosomal exchange directs the segregation of recombinant chromatids in mitosis of Drosophila</article-title>
+<source>Genetics</source>
+<year>1998</year>
+<volume>150</volume>
+<issue>1</issue>
+<fpage>173</fpage>
+<lpage>188</lpage>
+<pub-id pub-id-type="pmid">9725837</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hunter</surname><given-names>N</given-names></name></person-group>
+<person-group person-group-type="editor"><name><surname>Aguilera</surname><given-names>A</given-names></name><name><surname>Rothstein</surname><given-names>R</given-names></name></person-group>
+<article-title>Meiotic Recombination</article-title>
+<source>Molecular Genetics of Recombination</source>
+<year>2006</year>
+<fpage>381</fpage>
+<lpage>442</lpage>
+<publisher-name>Springer-Verlag</publisher-name>
+<publisher-loc>Heidelberg</publisher-loc>
+</element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mullen</surname><given-names>JR</given-names></name><name><surname>Kaliraman</surname><given-names>V</given-names></name><name><surname>Brill</surname><given-names>SJ</given-names></name></person-group>
+<article-title>Bipartite structure of the SGS1 DNA helicase in Saccharomyces cerevisiae</article-title>
+<source>Genetics</source>
+<year>2000</year>
+<volume>154</volume>
+<issue>3</issue>
+<fpage>1101</fpage>
+<lpage>1114</lpage>
+<pub-id pub-id-type="pmid">10757756</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>L</given-names></name><name><surname>Hickson</surname><given-names>ID</given-names></name></person-group>
+<article-title>The Bloom's syndrome helicase suppresses crossing over during homologous recombination</article-title>
+<source>Nature</source>
+<year>2003</year>
+<volume>426</volume>
+<issue>6968</issue>
+<fpage>870</fpage>
+<lpage>874</lpage>
+<pub-id pub-id-type="pmid">14685245</pub-id></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>The HRDC domain of BLM is required for the dissolution of double Holliday junctions</article-title>
+<source>The EMBO journal</source>
+<year>2005</year>
+<volume>24</volume>
+<issue>14</issue>
+<fpage>2679</fpage>
+<lpage>2687</lpage>
+<pub-id pub-id-type="pmid">15990871</pub-id></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shinohara</surname><given-names>A</given-names></name><name><surname>Ogawa</surname><given-names>H</given-names></name><name><surname>Ogawa</surname><given-names>T</given-names></name></person-group>
+<article-title>Rad51 protein involved in repair and recombination in S. cerevisiae is a RecA-like protein</article-title>
+<source>Cell</source>
+<year>1992</year>
+<volume>69</volume>
+<issue>3</issue>
+<fpage>457</fpage>
+<lpage>470</lpage>
+<pub-id pub-id-type="pmid">1581961</pub-id></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Oh</surname><given-names>SD</given-names></name><name><surname>Jessop</surname><given-names>L</given-names></name><name><surname>Lao</surname><given-names>JP</given-names></name><name><surname>Lichten</surname><given-names>MJ</given-names></name><name><surname>Hunter</surname><given-names>NH</given-names></name></person-group>
+<person-group person-group-type="editor"><name><surname>Keeney</surname><given-names>S</given-names></name></person-group>
+<article-title>Stabilization and Electrophoretic Analysis of Meiotic Recombination Intermediates</article-title>
+<source>Methods in Molecular Biology, Meiosis: Molecular and Genetic Methods</source>
+<year>2009</year>
+<fpage>209</fpage>
+<lpage>234</lpage>
+<publisher-name>Humana Press</publisher-name>
+<publisher-loc>New York</publisher-loc>
+</element-citation></ref></ref-list></back><floats-group><fig id="F1" position="float"><label>Figure. 1</label><caption><title>Inducible DSB-repair system</title><p><bold>a,</bold> Map of the <italic>HIS4LEU2-SceI</italic> locus showing diagnostic restriction sites and probe positions. DNA species detected following Southern hybridization are shown below. Lollipops indicate <italic>Xho</italic>I restriction site polymorphisms. Diploid strains contain the I-Sce I recognition site on either the Mom or the Dad homolog. IS-JM, inter-sister joint molecule; IH-JM, inter-homolog joint molecule.</p><p><bold>b,</bold> Image of one-dimensional gel hybridized with Probe 4 showing the DNA species detailed in (a). JMs are detected using two-dimensional gel analysis (see <xref ref-type="fig" rid="F2">Fig. 2</xref>).</p><p><bold>c,</bold> Time course analysis of DSB formation and repair in cycling diploid cells following DSB-induction. Sampling intervals are 15 minutes. Cell cycle stage was assessed microscopically.</p></caption><graphic xlink:href="nihms-174216-f0001"/></fig><fig id="F2" position="float"><label>Fig. 2</label><caption><title>Detection of Joint Molecules during DSB-repair</title><p><bold>a,</bold> Images of native/native 2D gels hybridized with Probe 4. Panels on the right-hand side show magnifications of the JM region. Black and white arrows highlight the two JM species.</p><p><bold>b&#x02013;d,</bold> JM signals are dependent on DSB-induction, the Rad51 protein and stabilization by psoralen crosslinking.</p></caption><graphic xlink:href="nihms-174216-f0002"/></fig><fig id="F3" position="float"><label>Fig. 3</label><caption><title>Analysis of Joint Molecule composition</title><p><bold>a,</bold> 2D gel analysis of JMs during DSB-repair in cycling haploid cells.</p><p><bold>b,</bold> 2D gel analysis of JMs in diploid cells carrying the I-<italic>Sce</italic> I recognition site on the Dad homolog. The smaller Dad+Dad intersister JM is highlighted by a caret. The asterisk highlights a high molecular weight species of unknown identity.</p><p><bold>c,</bold> Successive hybridizations of 2D gels with Probe 4 and homolog-specific probes. Mom+Mom intersister JMs and Mom+Dad interhomolog JMs are highlighted by black and white arrows, respectively.</p><p><bold>d,</bold> Native/denaturing 2D gel analysis of the strand composition of JMs. The corresponding native/native 2D gel is shown in the top panel to align JM species with their component strands in the lower panels. The same JM sample was analyzed using two different agarose concentrations in the second dimension. Component strands are more sharply resolved in the 1.2% gel and show that interhomolog JMs comprise primarily parental length strands. The lower detection limit for this experiment is estimated to be 28% recombinant strands, i.e. 28% of interhomolog-JMs could be sHJs and go undetected by this assay.</p></caption><graphic xlink:href="nihms-174216-f0003"/></fig><fig id="F4" position="float"><label>Fig. 4</label><caption><title>Temporal analysis of JMs in wild-type and <italic>sgs1</italic> cells</title><p><bold>a and b,</bold> 2D analysis of JM formation over the time-course of DSB-repair in wild-type and <italic>sgs1</italic> strains. Intersister JMs and interhomolog JMs are highlighted by black and white arrows, respectively.</p><p><bold>c,</bold> Quantitation of DSBs, JMs and recombinants (Recs). DSBs and Recs were quantitated from 1D gel analysis. JMs were quantitated from 2D gels. See <xref ref-type="supplementary-material" rid="SD2">Supplemental Figs. S2 and S3</xref> for additional analysis and interpretation of recombinants in this system.</p></caption><graphic xlink:href="nihms-174216-f0004"/></fig></floats-group></article>

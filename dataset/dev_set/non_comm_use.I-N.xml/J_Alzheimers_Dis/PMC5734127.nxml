@@ -1,0 +1,2311 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Alzheimers Dis</journal-id><journal-id journal-id-type="iso-abbrev">J. Alzheimers Dis</journal-id><journal-id journal-id-type="publisher-id">JAD</journal-id><journal-title-group><journal-title>Journal of Alzheimer's Disease</journal-title></journal-title-group><issn pub-type="ppub">1387-2877</issn><issn pub-type="epub">1875-8908</issn><issn-l>1387-2877</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29103039</article-id><article-id pub-id-type="pmc">5734127</article-id><article-id pub-id-type="publisher-id">JAD170654</article-id><article-id pub-id-type="doi">10.3233/JAD-170654</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The Need to Separate Chronic Traumatic Encephalopathy Neuropathology from Clinical Features</article-title><alt-title alt-title-type="left-running-head">G.L. Iverson et al.</alt-title><alt-title alt-title-type="right-running-head">Separating CTE Pathology from Clinical Features</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Iverson</surname><given-names>Grant L.</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Keene</surname><given-names>C. Dirk</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Perry</surname><given-names>George</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Castellani</surname><given-names>Rudolph J.</given-names></name><xref ref-type="aff" rid="aff4">d</xref></contrib><aff id="aff1">
+<label>a</label>Department of Physical Medicine and Rehabilitation, Harvard Medical School, Spaulding Rehabilitation Hospital, MassGeneral Hospital for Children&#x02122; Sports Concussion Program, and Home Base, A Red Sox Foundation and Massachusetts General Hospital Program, Boston, MA, <country>USA</country>
+</aff><aff id="aff2">
+<label>b</label>Department of Pathology, Division of Neuropathology, <institution>University of Washington School of Medicine</institution>, Seattle, WA, <country>USA</country>
+</aff><aff id="aff3">
+<label>c</label>College of Sciences, <institution>University of Texas</institution>, San Antonio, San Antonio, TX, <country>USA</country>
+</aff><aff id="aff4">
+<label>d</label>Center for Neuropathology, <institution>Western Michigan University Homer Stryker MD School of Medicine</institution>, Kalamazoo, MI, <country>USA</country>
+</aff></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Tabaton</surname><given-names>Massimo</given-names></name><role>Handling Editor</role></contrib></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Grant L. Iverson, Ph.D., Center for Health and Rehabilitation Research, Department of Physical Medicine and Rehabilitation, 79/96 Thirteenth Street, Charlestown Navy Yard, Charlestown 02129, MA, USA. E-mail: <email>giverson@mgh.harvard.edu</email>.
+</corresp></author-notes><pub-date date-type="preprint" publication-format="electronic"><day>30</day><month>10</month><year>2017</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>28</day><month>11</month><year>2017</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2018</year></pub-date><volume>61</volume><issue>1</issue><fpage>17</fpage><lpage>28</lpage><history><date date-type="accepted"><day>31</day><month>8</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2018 &#x02013; IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>There is tremendous recent interest in chronic traumatic encephalopathy (CTE) in former collision sport athletes, civilians, and military veterans. This critical review places important recent research results into a historical context. In 2015, preliminary consensus criteria were developed for defining the neuropathology of CTE, which substantially narrowed the pathology previously reported to be characteristic. There are no agreed upon clinical criteria for diagnosis, although sets of criteria have been proposed for research purposes. A prevailing theory is that CTE is an inexorably progressive neurodegenerative disease within the molecular classification of the tauopathies. However, historical and recent evidence suggests that CTE, as it is presented in the literature, might not be pathologically or clinically progressive in a substantial percentage of people. At present, it is not known whether the emergence, course, or severity of clinical symptoms can be predicted by specific combinations of neuropathologies, thresholds for accumulation of pathology, or regional distributions of pathologies. More research is needed to determine the extent to which the neuropathology ascribed to long-term effects of neurotrauma is static, progressive, or both. Disambiguating the pathology from the broad array of clinical features that have been reported in recent studies might facilitate and accelerate research&#x02014; and improve understanding of CTE.</p></abstract><kwd-group><label>Keywords</label><kwd>Concussion</kwd><kwd>neurodegenerative</kwd><kwd>neuropathology</kwd><kwd>tau</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>Chronic traumatic encephalopathy (CTE) has been recognized, but not well studied, for more than 80 years, and the large majority of publications in the past century are case studies [<xref rid="ref001" ref-type="bibr">1&#x02013;6</xref>]. CTE was initially conceptualized as a neurological disorder affecting boxers who had tremendous exposure to neurotrauma [<xref rid="ref001" ref-type="bibr">1, 2</xref>]. Martland [<xref rid="ref001" ref-type="bibr">1</xref>] described the clinical features as mostly including gait disturbance, dysarthria, tremor, and cognitive impairment. In the 1930s, the syndrome was referred to as traumatic encephalopathy [<xref rid="ref007" ref-type="bibr">7</xref>] and dementia pugilistica [<xref rid="ref008" ref-type="bibr">8</xref>]. In the late 1940s, Critchley referred to it as CTE [<xref rid="ref009" ref-type="bibr">9</xref>] and in 1957 he referred to it as chronic <italic>progressive</italic> (italics added) traumatic encephalopathy [<xref rid="ref010" ref-type="bibr">10</xref>]. In 1969, the first and only large clinical study of chronic neurotrauma in boxers was published by Roberts as a book. He selected an age-stratified random sample of 250 retired boxers from a cohort of 16,781, located and clinically examined 224, and identified 17% as having the syndrome (i.e., 11% as having a mild form of the syndrome and 6% as having severe traumatic encephalopathy). Omalu and colleagues published the first description of CTE in a retired National Football League (NFL) player in 2005 [<xref rid="ref011" ref-type="bibr">11</xref>], with additional case studies published in 2006 [<xref rid="ref012" ref-type="bibr">12</xref>] and 2010 [<xref rid="ref013" ref-type="bibr">13</xref>]. In 2009, McKee and colleagues described three additional cases, one retired football player and two boxers, within their review of 48 known cases in the world literature [<xref rid="ref014" ref-type="bibr">14</xref>].</p><p>Omalu and colleagues introduced four neuropathological &#x0201c;phenotypes&#x0201d; in 2011 [<xref rid="ref015" ref-type="bibr">15</xref>], and McKee and colleagues introduced four neuropathological &#x0201c;stages&#x0201d; of CTE in 2013 [<xref rid="ref016" ref-type="bibr">16</xref>]. These descriptions of phenotypes and stages vary in the diversity and severity of neuropathology. These phenotypes and stages largely underlie the theory and assumption that the pathology and clinical features are progressive. Moreover, the stages vary as a function of age&#x02014; and Stage III and IV cases often have co-morbid neurodegenerative diseases [<xref rid="ref016" ref-type="bibr">16</xref>].</p><p>In Roberts&#x02019; large study of boxers in the 1960s, he reported that most with the syndrome had a static course, there were anecdotal cases of improvement after retirement from boxing, and a small subgroup appeared to have a progressive course greater than expected from aging [<xref rid="ref002" ref-type="bibr">2</xref>]. Decades later, Jordan echoed the conclusions of Roberts and noted that it was unclear whether worsening of chronic brain injury in boxers reflected a progressive neurodegenerative disease, the aging process superimposed on a fixed neurological injury, or both [<xref rid="ref017" ref-type="bibr">17</xref>]. In contrast, in recent years CTE has been described definitively as a <italic>delayed-onset</italic> and <italic>progressive</italic> neurodegenerative disease, with symptoms appearing &#x0201c;in midlife&#x0201d; [<xref rid="ref018" ref-type="bibr">18, 19</xref>] or decades after exposure [<xref rid="ref014" ref-type="bibr">14, 15, 18&#x02013;24</xref>].</p><p>To date, however, there are no prospective, longitudinal, or epidemiological studies that support the theory that CTE pathology is progressive in a manner similar to canonical neurodegenerative diseases such as Alzheimer&#x02019;s disease (AD), Parkinson&#x02019;s disease (PD), or amyotrophic lateral sclerosis (ALS). Adding further complexity to theories relating to the natural history of CTE, Omalu [<xref rid="ref022" ref-type="bibr">22</xref>] has asserted that CTE can begin immediately, days, weeks, months, years, or decades after exposure to neurotrauma, and he states that a <italic>single</italic> injury of any severity [<xref rid="ref023" ref-type="bibr">23</xref>] or repetitive subconcussive blows can cause CTE [<xref rid="ref013" ref-type="bibr">13</xref>]. The confident assertions of causation by some researchers stand in juxtaposition with the fact that the etiologies of much better characterized sporadic neurodegenerative diseases, each of which is inexorably progressive, are mostly unknown. This article discusses the complexity of the current conceptualization of CTE pathology and clinical features attributed to that pathology.</p></sec><sec id="sec0010"><title>NEUROPATHOLOGY</title><p>In publications from 2005&#x02013;2015, CTE has been described as a progressive neurodegenerative disease characterized by a broad and diverse range of both macroscopic and microscopic neuropathology. The gross neuropathology, described as &#x0201c;characteristic&#x0201d; of CTE, includes 1) frontal and temporal atrophy, thinning of the hypothalamic floor, shrinkage of the mammillary bodies, pallor of the substantia nigra, hippocampal sclerosis, and reduction in brain mass; 2) enlarged ventricles; and 3) cavum septum pellucidum with or without septal fenestrations [<xref rid="ref014" ref-type="bibr">14, 24, 25</xref>]. Microscopic features described as characteristic have included 1) localized neuronal and glial accumulations of phosphorylated tau (p-tau) with varying microscopic morphologies, involving perivascular areas of the cerebral cortex and sulcal depths, and with a preference for neurons within superficial cortical laminae; 2) multifocal axonal varicosities involving deep cortex and subcortical white matter; 3) variable and often absent amyloid-&#x003b2; (A&#x003b2;) deposits; and 4) TDP-43-positive inclusions and neurites [<xref rid="ref014" ref-type="bibr">14, 24, 25</xref>]. A variable distribution and quantity of tau pathology, and the accumulation of other altered proteins such as A&#x003b2;, &#x003b1;-synuclein (&#x003b1;S), and transactive response DNA (TDP) binding protein 43-immunoreactivity, occurs with human aging and other distinct diseases, and can also be found in people who are cognitively normal [<xref rid="ref026" ref-type="bibr">26</xref>]. Most of the above-mentioned gross and microscopic features have not, as yet, been independently verified as specific to CTE [<xref rid="ref027" ref-type="bibr">27&#x02013;30</xref>], and virtually all are associated with aging, other neurological diseases, or both.</p><p>Prior to 2015, there were no agreed upon neuropathological criteria for CTE, and the criteria put forward by the two research groups in the US differed [<xref rid="ref015" ref-type="bibr">15, 16</xref>]. To address this problem, a panel of seven neuropathologists, convened by the National Institutes of Health (NIH), were provided 10 cases of advanced CTE (two with Stage III and eight with Stage IV pathology [<xref rid="ref016" ref-type="bibr">16</xref>]) and 15 cases with primary tau-related neurodegenerative diseases to examine blindly [<xref rid="ref030" ref-type="bibr">30</xref>]. The 10 cases of presumptive CTE were former professional athletes, between the ages of 60 and 85, selected by researchers from Boston University. The pathologists were provided a presumptive <italic>a priori</italic> definition of the neuropathology of CTE from Boston University (see online supplementary material 1 in the original article). They then examined the cases without access to demographic information, clinical history, or gross neuropathologic data, and listed their diagnoses. They then met in person to further refine their interpretations and discuss the overall findings.</p><p>Through their work, preliminary consensus criteria for the neuropathology of CTE were developed [<xref rid="ref030" ref-type="bibr">30</xref>]. It should be noted that the panel did not fully adopt the <italic>a priori</italic> neuropathological criteria (i.e., online supplementary material 1), but they did produce a set of criteria that were similar. They defined a single &#x0201c;pathognomonic&#x0201d; criterion for CTE as an accumulation of abnormal p-tau in neurons, astrocytes, and cell processes around small vessels in an irregular pattern at the depths of the cortical sulci [<xref rid="ref030" ref-type="bibr">30</xref>]. This finding represents a distribution of p-tau that is believed to differ from that seen in aging and neurodegenerative diseases. The consensus report did not indicate that p-tau increases quantitatively on a whole brain level, greater than what would be expected from aging, pre-clinical neurodegeneration, or comorbid neurodegenerative disease. Rather, the pathognomonic feature relates to specific distributions, not overall burden, of pathology.</p><p>They also identified <italic>supportive</italic> criteria as follows: &#x0201c;(1) abnormal p-tau immunoreactive pretangles and NFTs preferentially affecting superficial layers (layers II&#x02013;III), in contrast to layers III and V as in AD; (2) in the hippocampus, pretangles, NFTs or extracellular tangles preferentially affecting CA2, and pretangles and prominent proximal dendritic swellings in CA4. These regional p-tau pathologies differ from the preferential involvement of CA1 and subiculum found in AD; (3) abnormal p-tau immunoreactive neuronal and astrocytic aggregates in subcortical nuclei, including the mammillary bodies and other hypothalamic nuclei, amygdala, nucleus accumbens, thalamus, midbrain tegmentum, and isodendritic core (nucleus basalis of Meynert, raphe nuclei, substantia nigra and locus coeruleus); (4) p-Tau immunoreactive thorny astrocytes at the glial limitans most commonly found in the subpial and periventricular regions; and (5) p-Tau immunoreactive large grain-like and dot-like structures (in addition to some threadlike neurites)&#x0201d; [<xref rid="ref030" ref-type="bibr">30</xref>]. Additional pathologies that were considered supportive of the diagnosis were as follows: &#x0201c;(1) macroscopic features: disproportionate dilatation of the third ventricle, septal abnormalities, mammillary body atrophy, and contusions or other signs of previous traumatic injury; and (2) TDP-43 immunoreactive neuronal cytoplasmic inclusions and dot-like structures in the hippocampus, anteromedial temporal cortex and amygdala&#x0201d; [<xref rid="ref030" ref-type="bibr">30</xref>]. The consensus panel acknowledged the limitation of using only &#x0201c;moderate to late stage&#x0201d; CTE to develop the consensus criteria. Interestingly, the frequent co-morbidities in advanced stage CTE might actually hamper the interpretation compared to early stage CTE, which should be more easily separated from both age-related changes and other neurodegenerative diseases. The consensus panel did not adopt the four neuropathological phenotypes [<xref rid="ref015" ref-type="bibr">15</xref>] or stages of CTE [<xref rid="ref016" ref-type="bibr">16</xref>], and indicated that the preliminary criteria were a &#x0201c;first step along the path to standardizing the neuropathology of CTE&#x0201d; [<xref rid="ref030" ref-type="bibr">30</xref>]. Moreover, they did not address whether CTE was a progressive neurodegenerative disease, or whether there were known or predictable clinicopathologic correlations. Instead, they examined whether CTE could be separated neuropathologically from other pathologies.</p></sec><sec id="sec0015"><title>CTE-LIKE NEUROPATHOLOGY IN AGING AND OTHER DISEASES</title><p>The consensus criteria for CTE [<xref rid="ref030" ref-type="bibr">30</xref>] are mostly similar to, but have some important differences from, the neuropathological criteria described in papers between 2005 and 2015. Many of the gross and microscopic neuropathological features described in past studies were not included in the definition. Moreover, the presumptive diagnostic criteria provided to the panelists prior to the consensus conference were not adopted in whole. For example, the first presumptive criterion, &#x0201c;perivascular foci of p-tau immunoreactive neurofibrillary tangles (NFTs) and astrocytic tangles (ATs) in the neocortex&#x0201d; (see online supplementary material 1) was not adopted&#x02014; presumably because this criterion is not unique to CTE. P-tau in these regions has recently been described in the postmortem brains of patients who had ALS [<xref rid="ref031" ref-type="bibr">31</xref>], temporal lobe epilepsy [<xref rid="ref032" ref-type="bibr">32</xref>], and multiple system atrophy [<xref rid="ref033" ref-type="bibr">33</xref>] but no known history of participation in contact sports or neurotrauma. Gao and colleagues recently described a case of a man with ALS and no known history of neurotrauma who had CTE-like pathology in both depths of sulci and perivascular regions [<xref rid="ref034" ref-type="bibr">34</xref>].</p><p>Perivascular, subpial, and periventricular p-tau immunoreactive NFTs and astrocytic tangles in the neocortex have been reported to be characteristic of both primary age-related tauopathy (PART) [<xref rid="ref035" ref-type="bibr">35</xref>] and age-related tau astrogliopathy (ARTAG) [<xref rid="ref036" ref-type="bibr">36</xref>]. PART is characterized by neurofibrillary degeneration most notable in medial temporal lobe, basal forebrain, brainstem, olfactory bulb, and cortex, in association with little or no amyloid-&#x003b2; accumulation&#x02014; and PART may or may not be associated with cognitive impairment. PART refers to neuronal tau pathology and ARTAG is characterized by astrocytic tau pathology, although they are not mutually exclusive, and appear to be more a manifestation of age than a subtype of neurodegenerative disease. The authors describing ARTAG appear to emphasize p-tau in the sulcal depths as the most specific feature distinguishing CTE and ARTAG, stating &#x0201c;ARTAG has features that overlap those of CTE, including the accentuation of tau pathology around small cerebral vessels and in subpial and periventricular areas. On the other hand, tau pathology, including neuronal and astroglial, in CTE is more abundant in the depths of the cerebral sulci, especially in early stages, an aspect that has not been reported in tau astrogliopathy in the aging brain.&#x0201d; This distinction was not made prior to 2015, so in some past published cases PART and ARTAG neuropathology was likely interpreted as CTE-specific neuropathology. Historical cases of dementia pugilistica are interesting in this regard, in that the pathological descriptions in some cases appear indistinguishable from PART [<xref rid="ref006" ref-type="bibr">6</xref>], consistent with Jordan&#x02019;s hypothesis that dementia pugilistica may in some cases represent the aging process superimposed on fixed structural pathology [<xref rid="ref017" ref-type="bibr">17</xref>].</p><p>In a large-scale post-mortem study of CTE in the United Kingdom, Ling and colleagues screened 268 cases and identified pathology consistent with recent descriptions of CTE in 32 (11.9%) [<xref rid="ref037" ref-type="bibr">37</xref>]. History of traumatic brain injury, with or without loss of consciousness, was present in nearly all cases (i.e., 93.8%). Only a minority, however, had known participation in sports (34%), and 18.8% were military veterans. Remarkably, of those 32 cases, 13 were women (40.6%). The majority of the screened cases met neuropathological criteria for other neurodegenerative diseases, although some were control subjects. The rates of CTE pathology stratified by neurodegenerative diseases were as follows: progressive supranuclear palsy&#x0200a;=&#x0200a;24%, PD&#x0200a;=&#x0200a;16%, AD&#x0200a;=&#x0200a;10%, corticobasal degeneration&#x0200a;=&#x0200a;7.4%, frontotemporal lobar degeneration&#x0200a;=&#x0200a;4.2%, multiple system atrophy&#x0200a;=&#x0200a;2%, and control subjects over the age of 60&#x0200a;=&#x0200a;12.8%. This study was completed before the NIH consensus criteria were published, so it is possible that the rates would be different (i.e., lower) if those criteria had been applied. It is not known whether, or the extent to which, ARTAG and PART pathology was conceptualized as CTE pathology in that study. In another large-scale neuropathology study [<xref rid="ref038" ref-type="bibr">38</xref>], 21 of 66 former athletes (31.8%) had tau pathology suggestive of CTE. In contrast, none of the 198 cases who were not former athletes showed CTE pathology, including a subgroup of 33 cases who had a history of a single traumatic brain injury. Nearly all (95%; 20/21) of those with CTE pathology had primary neuropathological diagnoses of a neurodegenerative disease such as AD, frontotemporal dementia, Lewy body disease, or ALS. Of the former boxers, 2 of 9 (22.2%) had CTE pathology and 16 of 43 former football players (37.2%) had CTE pathology.</p><p>Koga and colleagues [<xref rid="ref033" ref-type="bibr">33</xref>] examined 139 autopsy-confirmed cases of multiple system atrophy for pathological evidence of CTE. Using the consensus criteria, they identified CTE pathology in 8 cases (6%). All were men, but only four had a history of participation in sports (three in football and one in basketball). The authors were careful to differentiate cases of ARTAG (10 cases) from CTE in this study, and noted that ARTAG pathology in past studies might have been mistaken for CTE pathology. The authors speculated that the CTE pathology could be related to falls associated with having multiple system atrophy&#x02014; but there was no reported statistical association between falls and CTE pathology in that study. In addition, the authors did not report other evidence that might be associated with falls and neurotrauma, such as structural pathology (e.g., contusions).</p><p>Noy and colleagues [<xref rid="ref039" ref-type="bibr">39</xref>] examined 111 brains in a routine neuropathology service in Canada for the presence of CTE pathology. The subjects were between the ages of 18 and 60, and they were from a non-selected community-based neuropathology referral base. They set their cutoff age at 60 to reduce the confounding effects of aging and pre-clinical neurodegenerative diseases. They identified CTE pathology, based on the staging system of McKee et al. [<xref rid="ref016" ref-type="bibr">16</xref>], in 4.5% (three cases of Stage I and two cases of Stage II). However, they made the important observation that there is no lower bound for classifying Stage I CTE pathology, so if they included tiny amounts of pathology characteristic of Stage I, an additional 34 cases were identified (30.6% of the sample). Therefore, of the total sample, 35.1% had some degree of mild CTE pathology. Only one subject had a history of sports participation, and there were three women in the sample. Factors that were associated with the presence of CTE pathology were age, history of traumatic brain injury, and substance abuse. Some of the cases had no known history of traumatic brain injury. There was no association between CTE pathology and psychiatric illness in this sample.</p></sec><sec id="sec0020"><title>NEURODEGENERATION SEPARATE FROM CTE OR CO-OCCURRING WITH CTE</title><p>If one examines the online supplementary material that accompanied the study by McKee and colleagues that describes the stages of CTE [<xref rid="ref016" ref-type="bibr">16</xref>], it is apparent that some cases conceptualized as having pure CTE also have other proteinopathies (e.g., non-specific p-tau, amyloid-&#x003b2;, &#x003b1;-synuclein, and TDP-43), which raises the possibility of early or preclinical neurodegenerative disease distinct from the pathology attributed to CTE. Therefore, &#x0201c;pure CTE&#x0201d; might be a misnomer in some cases, especially for cases with lesser amounts of region-specific p-tau who might have some degree of PART or ARTAG pathology that is separate from CTE. It is unknown if CTE pathologic lesions begin as purely glial and then progress to involving neurons. If so, ARTAG could be a precursor lesion to CTE pathology in some cases, or CTE pathology could mimic ARTAG in the mildest examples. Without good experimental models, it is virtually impossible to know how pathology progresses.</p><p>Neurodegenerative diseases exist in &#x0201c;pure&#x0201d; forms, but it is well understood that polypathology and disease comorbidities are common in those with AD, Lewy body disease, cerebrovascular disease, and hippocampal sclerosis. It can be difficult to determine the extent to which each pathological change contributed to a given person&#x02019;s clinical symptoms and course without rigorous clinicopathologic correlation. Even then, correlation between proteinopathy and clinical signs can be limited [<xref rid="ref040" ref-type="bibr">40</xref>]. It is now well established that a large percentage of former athletes identified as having CTE neuropathology also have neuropathology associated with age related neurodegenerative diseases such as AD, PD, Lewy body disease, hippocampal sclerosis, and ALS [<xref rid="ref014" ref-type="bibr">14, 41&#x02013;44</xref>] to the extent that they meet full neuropathological criteria for an alternative, well-characterized neurodegenerative disease [<xref rid="ref016" ref-type="bibr">16</xref>]. Often, however, whenever the pathology of CTE is identified, regardless of the amount, the case is conceptualized as CTE, when in fact it might be more appropriate to conceptualize the person as having another neurodegenerative disease with small amounts of CTE neuropathology. A recent case report emphasizes this problem [<xref rid="ref045" ref-type="bibr">45</xref>]. In fact, in studies involving traditional brain banks, the majority of people identified as having CTE pathology have only mild forms of the pathology (e.g., Stage I or Stage II), in association with a separate and primary relentlessly progressive and fatal neurodegenerative disease [<xref rid="ref033" ref-type="bibr">33, 37, 38</xref>].</p></sec><sec id="sec0025"><title>IS THE NEUROPATHOLOGY OF CTE INEXORABLY PROGRESSIVE?</title><p>Researchers have not established that the neuropathology defining CTE is inexorably progressive. In fact, some accumulating evidence is inconsistent with the theory that CTE is a progressive neurodegenerative disease. It is well established that some people who have large exposures to repetitive neurotrauma, such as retired professional football players or boxers, had only Stage I or Stage II CTE at the time of their deaths [<xref rid="ref016" ref-type="bibr">16</xref>], and some of these individuals died in their 80s. This suggests that the kinetics of p-tau accumulation in some people is either non-existent or limited. In the previously discussed large-scale postmortem study of CTE in the United Kingdom, Ling and colleagues screened 268 cases and identified pathology consistent with CTE in 11.9% [<xref rid="ref037" ref-type="bibr">37</xref>]. All cases were considered Stage I or Stage II based on the staging system of McKee and colleagues [<xref rid="ref016" ref-type="bibr">16</xref>], and their mean age of death was 81.0 years. The authors assumed that most of the cases with CTE pathology were likely to be clinically asymptomatic. Given the limited pathology (Stage I or Stage II) late in life, a progressive tauopathy, and associated psychiatric or neurologic disease, appears unlikely in these cases.</p><p>In another study [<xref rid="ref038" ref-type="bibr">38</xref>], 21 of 66 former athletes (31.8%) had tau pathology suggestive of CTE. All cases had a separate neurodegenerative disease. Of the 21 cases of CTE pathology, 14 (66.7%) had Stage I or II pathology based on the staging system of McKee and colleagues [<xref rid="ref016" ref-type="bibr">16</xref>], suggesting that if the pathology is progressive it had not progressed to a later stage in most people, in the setting of a primary neurodegenerative disease with extensive proteinopathy that began many years after athletic exposure (and possibly after the deposition of p-tau in a CTE-like distribution). Of the 7 with Stage I pathology, two died with ALS. Of the 5 who did not have ALS, 4 were over the age of 70 at the time of their death, suggesting that the CTE pathology had not or had minimally progressed over their adult lives. Moreover, if the CTE pathology represented a separate progressive neurodegenerative disease, it would be expected that former athletes with CTE, compared to those without CTE, would have earlier onset clinical features of disease and earlier death. However, there were no differences between groups in disease onset, disease duration, or age at death [<xref rid="ref038" ref-type="bibr">38</xref>].</p><p>As previously discussed, Koga and colleagues [<xref rid="ref033" ref-type="bibr">33</xref>] examined 139 cases of multiple system atrophy and identified CTE pathology in 6%. They classified two cases as Stage I, five as Stage II, and one as Stage III. In the Canadian series of 111 brains from a community autopsy service [<xref rid="ref039" ref-type="bibr">39</xref>], only 4.5% had Stage I or Stage II CTE pathology, and there were no cases of Stage III or IV pathology. Nearly one in three subjects (30.6%), however, had a very small amount of p-tau which was conceptualized as less than Stage I pathology. In summary, there is emerging evidence from several research groups that CTE pathology might not be inexorably progressive.</p></sec><sec id="sec0030"><title>ARE THE CLINICAL FEATURES KNOWN?</title><p>There are no agreed upon or validated clinical criteria for CTE, although proposed criteria have been published by Jordan [<xref rid="ref046" ref-type="bibr">46</xref>], Victoroff [<xref rid="ref047" ref-type="bibr">47</xref>], and Montenigro and colleagues [<xref rid="ref021" ref-type="bibr">21</xref>]. In the past, based on studies in boxers with extensive neurotrauma exposure, slurred and dysarthric speech, gait problems, Parkinsonism, cognitive impairment, and dementia were considered clinical features [<xref rid="ref002" ref-type="bibr">2, 48, 49</xref>]. Some descriptions of historical cases also included psychiatric illnesses, severe substance abuse, and other medical or neurological problems. Over the past decade, the clinical features attributed to CTE have been expanded greatly and include virtually any mental health or neurological symptom or problem present prior to death, such as 1) depression and anxiety [<xref rid="ref015" ref-type="bibr">15, 16, 24</xref>]; 2) suicidality [<xref rid="ref016" ref-type="bibr">16, 18&#x02013;20, 22&#x02013;24</xref>]; 3) personality changes, anger control problems, and violence [<xref rid="ref015" ref-type="bibr">15, 16, 24</xref>]; 4) poor financial decisions, financial problems, and bankruptcy [<xref rid="ref015" ref-type="bibr">15</xref>]; 5) marital problems, separation, and divorce [<xref rid="ref022" ref-type="bibr">22</xref>]; 6) headaches [<xref rid="ref014" ref-type="bibr">14&#x02013;16</xref>]; 7) generalized body aches and pain [<xref rid="ref015" ref-type="bibr">15</xref>]; 8) insomnia [<xref rid="ref022" ref-type="bibr">22</xref>]; 9) Parkinsonism [<xref rid="ref011" ref-type="bibr">11, 16, 24</xref>]; 10) mild cognitive impairment (MCI) [<xref rid="ref015" ref-type="bibr">15, 16, 24</xref>]; 11) dementia [<xref rid="ref015" ref-type="bibr">15, 16, 24</xref>]; and 12) motor neuron disease resembling ALS [<xref rid="ref043" ref-type="bibr">43</xref>]. Although suicide is often reported to be a clinical feature of CTE in case studies and general review papers [<xref rid="ref013" ref-type="bibr">13, 16, 18&#x02013;20, 22&#x02013;24</xref>], several reviews focused specifically on suicide [<xref rid="ref050" ref-type="bibr">50&#x02013;53</xref>],one retrospective historical case review study [<xref rid="ref054" ref-type="bibr">54</xref>], and one epidemiological study [<xref rid="ref055" ref-type="bibr">55</xref>] have concluded that there is minimal or no scientific evidence to support this assertion.</p><p>Many of the clinical symptoms that have been attributed to CTE pathology are common in the general population (e.g., depression, anxiety, anger, financial problems, marital problems, headaches, bodily pain, and insomnia). Of these, depression is often ascribed to CTE pathology, or that CTE pathology <italic>causes</italic> depression. Such an assertion should be considered a hypothesis to be tested, not an established clinicopathological correlation or causal association. The theoretical mechanisms by which heterogeneous psychological, functional, and biochemical disturbances underlying depression relate directly to the accumulation of insoluble post-translationally modified proteins have not been discussed or resolved in prior studies. Further, a correlation between CTE pathology and depression has not been established. Moreover, in psychiatry depression is conceptualized as heterogeneous, multifactorial in causation, and it is believed to arise from the cumulative effects [<xref rid="ref056" ref-type="bibr">56&#x02013;58</xref>] of genetics [<xref rid="ref059" ref-type="bibr">59&#x02013;62</xref>], adverse events in childhood [<xref rid="ref063" ref-type="bibr">63&#x02013;66</xref>], and ongoing life stressors [<xref rid="ref067" ref-type="bibr">67&#x02013;70</xref>]. In the general population, depression is associated with a wide range of health, mental health, and neurological conditions, such as 1) chronic pain [<xref rid="ref071" ref-type="bibr">71&#x02013;75</xref>]; 2) headaches and migraines [<xref rid="ref076" ref-type="bibr">76&#x02013;79</xref>]; 3) diabetes [<xref rid="ref080" ref-type="bibr">80&#x02013;82</xref>]; 4) low testosterone [<xref rid="ref083" ref-type="bibr">83&#x02013;85</xref>]; 5) cardiovascular, cerebrovascular, and small vessel ischemic disease [<xref rid="ref086" ref-type="bibr">86&#x02013;92</xref>]; 6) PD [<xref rid="ref093" ref-type="bibr">93</xref>]; 7) MCI [<xref rid="ref094" ref-type="bibr">94&#x02013;96</xref>]; and 8) AD [<xref rid="ref097" ref-type="bibr">97</xref>]. Therefore, former athletes, military veterans, and civilians who have neuropathology characteristic of CTE might experience depression for a broad range of reasons, similar to people in the general population who have no history of athletic participation or military service.</p><p>Clearly, people with psychiatric, neurological, and neurodegenerative diseases have the same symptoms and problems as those described in the CTE case studies. Moreover, if one assumes that CTE pathology clinically manifests decades after exposure (something that has not been demonstrated by prospective studies) the likelihood is maximized that any health, psychiatric, or neurological condition that affects a person&#x02019;s brain and behavior could be erroneously attributed in whole or part to the CTE pathology. Simply put, if a former athlete developed depression in association with life stress, marital problems, and chronic pain, that person could be incorrectly assumed to be showing the clinical features of a &#x0201c;progressive neurodegenerative disease,&#x0201d; the diagnosis of which could further exacerbate this psychiatric condition. The neuropathology consensus group convened by the NIH noted that it is especially important to understand that it is not yet possible to correlate clinical symptoms or future brain health with the signature pathologic feature of CTE [<xref rid="ref030" ref-type="bibr">30</xref>]. Research is needed to determine whether neurotrauma associated with athletic participation intrinsically causes localized and variable deposits of post-translationally modified and insoluble p-tau, and whether those protein deposits cause specific symptoms or syndromes, such as depression.</p></sec><sec id="sec0035"><title>ARE THE CLINICAL FEATURES PROGRESSIVE?</title><p>In 1928, Martland reported that some cases remain mild and do not progress, and other cases progress to advanced Parkinsonism and dementia. Carroll, in 1936, described the punch-drunk syndrome as evolving during one&#x02019;s boxing career, progressing for a year or so after, and then becoming stationary. He noted that some boxers, however, deteriorated and needed to be institutionalized [<xref rid="ref098" ref-type="bibr">98</xref>]. In contrast, in 1957 Critchley emphasized that the condition is gradually progressive [<xref rid="ref010" ref-type="bibr">10</xref>]. Similarly, in 1963, Mawdsley and Ferguson [<xref rid="ref004" ref-type="bibr">4</xref>] reported 10 cases of boxers, some of whom noticed the onset of neurological problems, such as slowing down and have slurred speech, while still actively fighting. Others noticed neurological deterioration years after they retired. These cases had a progressive course. In Roberts&#x02019; large-scale study of more than 200 boxers in the 1960s, he reported that most with the syndrome had a static course, there were anecdotal cases of improvement after retirement from boxing, and a small subgroup appeared to have a progressive course greater than expected from aging [<xref rid="ref002" ref-type="bibr">2</xref>]. Decades later, in 2000, Jordan reviewed the literature and reported that it was unclear whether clinical worsening in boxers reflected a progressive neurodegenerative disease, the aging process superimposed on a fixed neurological injury, or both [<xref rid="ref017" ref-type="bibr">17</xref>]. At present, it remains inconclusive as to whether the neuropathology or the clinical features of CTE are inexorably progressive. It also remains inconclusive as to whether p-tau causes specific static or progressive clinical features.</p></sec><sec id="sec0040"><title>LESSONS LEARNED FROM ALZHEIMER&#x02019;S DISEASE</title><p>Studies over the past 20 years have supported the existence of pre-clinical burden of pathology in AD [<xref rid="ref099" ref-type="bibr">99&#x02013;101</xref>], and in 2011 a working group published a conceptual framework and operational research criteria for pre-clinical AD [<xref rid="ref102" ref-type="bibr">102</xref>]. Nevertheless, after decades of research, both the etiology and the pathophysiologic sequence of AD remain uncertain [<xref rid="ref102" ref-type="bibr">102</xref>]&#x02014; and it is well established that the pathological burden of diverse lesions and proteinopathies can be substantial in people who are living independently and are clinically asymptomatic [<xref rid="ref103" ref-type="bibr">103&#x02013;107</xref>]. The inflection point or biochemical trigger that separates healthy aging from inexorable progressive neurodegeneration is unknown. Indeed, the conversion from MCI to AD is difficult to predict, and some patients with MCI improve [<xref rid="ref108" ref-type="bibr">108</xref>]. Because there is evidence that the pathophysiology of AD likely begins many years before the emergence of clinical symptoms or a syndrome such as MCI or dementia, and because the correlation between hallmark lesions and the presence and severity of disease is modest, some in the research community have determined that it is important to disambiguate AD into AD-pathological processes and the clinical phases of the disease, which can be termed AD-clinical [<xref rid="ref102" ref-type="bibr">102</xref>]. Similarly, it seems prudent to disambiguate the neuropathology ascribed to CTE from the diverse purported clinical features.</p></sec><sec id="sec0045"><title>CONCLUSION</title><p>Between the late 1920s and 2009, the clinical features of CTE were described as mostly including gait disturbance, dysarthria, tremor, and cognitive impairment&#x02014; including dementia. However, mild forms of neuropsychiatric clinical presentations have also been described. It has not been clear in the literature whether CTE is inexorably progressive. Many cases have been described as being static, not progressive. Moreover, it is now well-established that the pathology of CTE is present in people with other neurodegenerative diseases, such as AD, PD, and multiple system atrophy, so the progression of clinical features in those cases is expected as a direct result of those primary neurodegenerative diseases. There are now several studies illustrating that CTE neuropathology, at the time of death, is limited to Stage I or less in many people [<xref rid="ref033" ref-type="bibr">33, 37, 39</xref>], suggesting that the kinetics of p-tau accumulation are limited&#x02014; at least in some people. Further research is needed to determine whether some individuals exposed to repetitive neurotrauma from athletic participation suffer a unique progressive neurodegenerative process, rendered susceptible by the extent of exposure, genetic predisposition, or other factors. At present, there is an absence of scientific evidence to conclude that all or nearly all people with CTE pathology have a progressive neurodegenerative disease, and there is some evidence to support the theory that CTE pathology might not be inexorably progressive. It is not known whether the emergence, course, or severity of clinical symptoms can be predicted by 1) specific combinations of neuropathologies (e.g., p-tau, synaptic dysfunction, amyloid-&#x003b2;, and neuronal loss), 2) thresholds for accumulation of pathology, or 3) regional distributions of pathologies. In addition, factors relating to the resistance and resilience of the human brain to damaging effects of repetitive mild neurotrauma are not understood. When one considers, for example, the enormous neurotrauma exposure of boxers in the early part of the 20th century, and the fact that only 17% of those studied developed a diagnosed neurological syndrome, the resilience and plasticity of the human brain is likely remarkable. Therefore, researchers and clinicians are encouraged to be cautious when considering the clinical symptoms and psychosocial problems of former athletes, civilians, and military veterans, and to be mindful of potential iatrogenic effects of diagnosing a progressive neurodegenerative disease in someone with a psychiatric illness due mostly or entirely to other factors.</p><p>In conclusion, preliminary consensus-based neuropathological criteria for CTE were published in 2015 and research criteria for the clinical diagnosis of CTE have been proposed. It has been stated definitively in recent years that CTE is a delayed-onset progressive neurodegenerative disease, although minimal scientific evidence to support this theory is currently available. Some people with the neuropathology of CTE do not appear to have clinical signs or symptoms that are attributable to that pathology, and many do not appear to have a progressive tauopathy. To advance science in this area, it seems prudent to disambiguate the neuropathology of CTE from the possible clinical features.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>The authors thank Andrew Gardner, Ph.D. for assistance with the literature review.</p><p>George Perry, PhD, is supported by the National Institutes of Health (G12-MD007591).</p><p>C. Dirk Keene, MD, PhD is supported by the National Institutes of Health (U01 NS086625 and P50 AG05136) and the Nancy and Buster Alvord Endowment.</p><p>Authors&#x02019; disclosures available online (<ext-link ext-link-type="uri" xlink:href="http://j-alz.com/manuscript-disclosures/17-0654">http://j-alz.com/manuscript-disclosures/17-0654</ext-link>).</p></ack><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Martland</surname>
+<given-names>HS</given-names>
+</string-name> (<year>1928</year>) <article-title>Punch drunk</article-title>. <source>J Am Med Assoc</source>
+<volume>19</volume>, <fpage>1103</fpage>&#x02013;<lpage>1107</lpage>.</mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Roberts</surname>
+<given-names>A</given-names>
+</string-name> (<year>1969</year>) <source>Brain damage in boxers: A study of prevalence of traumatic encephalopathy among ex-professional boxers</source>, <publisher-name>Pitman Medical Scientific Publishing Co</publisher-name>, <publisher-loc>London</publisher-loc>.</mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Neubuerger</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Sinton</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Denst</surname>
+<given-names>J</given-names>
+</string-name> (<year>1959</year>) <article-title>Cerebral atrophy associated with boxing</article-title>. <source>AMA Arch Neurol Psychiatry</source>
+<volume>81</volume>, <fpage>403</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">13636508</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mawdsley</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>
+<given-names>FR</given-names>
+</string-name> (<year>1963</year>) <article-title>Neurological disease in boxers</article-title>. <source>Lancet</source>
+<volume>2</volume>, <fpage>795</fpage>&#x02013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">14052038</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Payne</surname>
+<given-names>EE</given-names>
+</string-name> (<year>1968</year>) <article-title>Brains of boxers</article-title>. <source>Neurochirurgia (Stuttg)</source>
+<volume>11</volume>, <fpage>173</fpage>&#x02013;<lpage>188</lpage>.<pub-id pub-id-type="pmid">5729752</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Corsellis</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Bruton</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Freeman-Browne</surname>
+<given-names>D</given-names>
+</string-name> (<year>1973</year>) <article-title>The aftermath of boxing</article-title>. <source>Psychol Med</source>
+<volume>3</volume>, <fpage>270</fpage>&#x02013;<lpage>303</lpage>.<pub-id pub-id-type="pmid">4729191</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Parker</surname>
+<given-names>HL</given-names>
+</string-name> (<year>1934</year>) <article-title>Traumatic encephalopathy (&#x02018;punch drunk&#x02019;) of professional pugilists</article-title>. <source>J Neurol Psychopathol</source>
+<volume>15</volume>, <fpage>20</fpage>&#x02013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">21610785</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Millspaugh</surname>
+<given-names>JA</given-names>
+</string-name> (<year>1937</year>) <article-title>Dementia pugilistica</article-title>. <source>U S Nav Med Bull</source>
+<volume>35</volume>, <fpage>297</fpage>&#x02013;<lpage>303</lpage>.</mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Critchley</surname>
+<given-names>M</given-names>
+</string-name> (<year>1949</year>) <source>Punch-drunk syndromes: The chronic traumatic encephalopathy of boxers. Hommage a Clovis Vincent (ed)</source>, <publisher-name>Maloine</publisher-name>, <publisher-loc>Paris</publisher-loc></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Critchley</surname>
+<given-names>M</given-names>
+</string-name> (<year>1957</year>) <article-title>Medical aspects of boxing, particularly from a neurological standpoint</article-title>. <source>Br Med J</source>
+<volume>1</volume>, <fpage>357</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">13396257</pub-id></mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>DeKosky</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Minster</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kamboh</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Wecht</surname>
+<given-names>CH</given-names>
+</string-name> (<year>2005</year>) <article-title>Chronic traumatic encephalopathy in a National Football League player</article-title>. <source>Neurosurgery</source>
+<volume>57</volume>, <fpage>128</fpage>&#x02013;<lpage>134</lpage>; <comment>discussion 128-134</comment>.</mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>DeKosky</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Minster</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kamboh</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Shakir</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Wecht</surname>
+<given-names>CH</given-names>
+</string-name> (<year>2006</year>) <article-title>Chronic traumatic encephalopathy in a national football league player: Part II</article-title>. <source>Neurosurgery</source>
+<volume>59</volume>, <fpage>1086</fpage>&#x02013;<lpage>1092</lpage>; <comment>discussion 1092-1083</comment>.<pub-id pub-id-type="pmid">17143242</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kamboh</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>DeKosky</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Bailes</surname>
+<given-names>J</given-names>
+</string-name> (<year>2010</year>) <article-title>Chronic traumatic encephalopathy (CTE) in a National Football League Player: Case report and emerging medicolegal practice questions</article-title>. <source>J Forensic Nurs</source>
+<volume>6</volume>, <fpage>40</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">20201914</pub-id></mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Hedley-Whyte</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Gavett</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Budson</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Santini</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kubilus</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2009</year>) <article-title>Chronic traumatic encephalopathy in athletes: Progressive tauopathy after repetitive head injury</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>68</volume>, <fpage>709</fpage>&#x02013;<lpage>735</lpage>.<pub-id pub-id-type="pmid">19535999</pub-id></mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bailes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kamboh</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Hammers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Case</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fitzsimmons</surname>
+<given-names>R</given-names>
+</string-name> (<year>2011</year>) <article-title>Emerging histomorphologic phenotypes of chronic traumatic encephalopathy in American athletes</article-title>. <source>Neurosurgery</source>
+<volume>69</volume>, <fpage>173</fpage>&#x02013;<lpage>183</lpage>; <comment>discussion 183</comment>.<pub-id pub-id-type="pmid">21358359</pub-id></mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Daneshvar</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wojtowicz</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Baugh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Kubilus</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Cormier</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Ikezu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Reichard</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Wolozin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Budson</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Kowall</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name> (<year>2013</year>) <article-title>The spectrum of disease in chronic traumatic encephalopathy</article-title>. <source>Brain</source>
+<volume>136</volume>, <fpage>43</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">23208308</pub-id></mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jordan</surname>
+<given-names>B</given-names>
+</string-name> (<year>2000</year>) <article-title>Chronic traumatic brain injury associated with boxing</article-title>. <source>Semin Neurol</source>
+<volume>20</volume>, <fpage>179</fpage>&#x02013;<lpage>185</lpage>.<pub-id pub-id-type="pmid">10946737</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gavett</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name> (<year>2011</year>) <article-title>Chronic traumatic encephalopathy: A potential late effect of sport-related concussive and subconcussive head trauma</article-title>. <source>Clin Sports Med</source>
+<volume>30</volume>, <fpage>179</fpage>&#x02013;<lpage>188</lpage>, <comment>xi</comment>.<pub-id pub-id-type="pmid">21074091</pub-id></mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Daneshvar</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name> (<year>2011</year>) <article-title>Long-term consequences of repetitive brain trauma: Chronic traumatic encephalopathy</article-title>. <source>PM R</source>
+<volume>3</volume>, <fpage>S460</fpage>&#x02013;<lpage>S467</lpage>.<pub-id pub-id-type="pmid">22035690</pub-id></mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Daneshvar</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Baugh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Seichepine</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Montenigro</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Fritts</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Stamm</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Robbins</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>McHale</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Simkin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Budson</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Kowall</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name> (<year>2013</year>) <article-title>Clinical presentation of chronic traumatic encephalopathy</article-title>. <source>Neurology</source>
+<volume>81</volume>, <fpage>1122</fpage>&#x02013;<lpage>1129</lpage>.<pub-id pub-id-type="pmid">23966253</pub-id></mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Montenigro</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Baugh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Daneshvar</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Mez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Budson</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Au</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2014</year>) <article-title>Clinical subtypes of chronic traumatic encephalopathy: Literature review and proposed research diagnostic criteria for traumatic encephalopathy syndrome</article-title>. <source>Alzheimers Res Ther</source>
+<volume>6</volume>, <fpage>68</fpage>.<pub-id pub-id-type="pmid">25580160</pub-id></mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>B</given-names>
+</string-name> (<year>2014</year>) <article-title>Chronic traumatic encephalopathy</article-title>. <source>Prog Neurol Surg</source>
+<volume>28</volume>, <fpage>38</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">24923391</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Omalu</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>Bailes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hammers</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Fitzsimmons</surname>
+<given-names>RP</given-names>
+</string-name> (<year>2010</year>) <article-title>Chronic traumatic encephalopathy, suicides and parasuicides in professional American athletes: The role of the forensic pathologist</article-title>. <source>Am J Forensic Med Pathol</source>
+<volume>31</volume>, <fpage>130</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">20032774</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Baugh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Stamm</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Riley</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Gavett</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Shenton</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2012</year>) <article-title>Chronic traumatic encephalopathy: Neurodegeneration following repetitive concussive and subconcussive brain trauma</article-title>. <source>Brain Imaging Behav</source>
+<volume>6</volume>, <fpage>244</fpage>&#x02013;<lpage>254</lpage>.<pub-id pub-id-type="pmid">22552850</pub-id></mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gavett</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Shenton</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2011</year>) <article-title>Clinical appraisal of chronic traumatic encephalopathy: Current perspectives and future directions</article-title>. <source>Curr Opin Neurol</source>
+<volume>24</volume>, <fpage>525</fpage>&#x02013;<lpage>531</lpage>.<pub-id pub-id-type="pmid">22045219</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Elobeid</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Libard</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Leino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Popova</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Alafuzoff</surname>
+<given-names>I</given-names>
+</string-name> (<year>2016</year>) <article-title>Altered Proteins in the Aging Brain</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>75</volume>, <fpage>316</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">26979082</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Castellani</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Iverson</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2015</year>) <article-title>Chronic effects of mild neurotrauma: Putting the cart before the horse?</article-title>
+<source>J Neuropathol Exp Neurol</source>
+<volume>74</volume>, <fpage>493</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">25933385</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Davis</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Castellani</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>McCrory</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Neurodegeneration and sport</article-title>. <source>Neurosurgery</source>
+<volume>76</volume>, <fpage>643</fpage>&#x02013;<lpage>656</lpage>.<pub-id pub-id-type="pmid">25988925</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iverson</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>McCrory</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zafonte</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Castellani</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>2015</year>) <article-title>A critical review of chronic traumatic encephalopathy</article-title>. <source>Neurosci Biobehav Rev</source>
+<volume>56</volume>, <fpage>276</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">26183075</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Folkerth</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Keene</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Litvan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Perl</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Vonsattel</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Tripodis</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Crary</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Bieniek</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Dams-O&#x02019;Connor</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>WA</given-names>
+</string-name>, <collab>TBI/CTE group</collab> (<year>2016</year>) <article-title>The first NINDS/NIBIB consensus meeting to define neuropathological criteria for the diagnosis of chronic traumatic encephalopathy</article-title>. <source>Acta Neuropathol</source>
+<volume>131</volume>, <fpage>75</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">26667418</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fournier</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Gearing</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Upadhyayula</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Glass</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2015</year>) <article-title>Head injury does not alter disease progression or neuropathologic outcomes in ALS</article-title>. <source>Neurology</source>
+<volume>84</volume>, <fpage>1788</fpage>&#x02013;<lpage>1795</lpage>.<pub-id pub-id-type="pmid">25832660</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Puvenna</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Engeler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Banjara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dadas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bahrami</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Solanki</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhyay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Bernick</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ghosh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rapp</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bazarian</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Janigro</surname>
+<given-names>D</given-names>
+</string-name> (<year>2016</year>) <article-title>Is phosphorylated tau unique to chronic traumatic encephalopathy? Phosphorylated tau in epileptic brain and chronic traumatic encephalopathy</article-title>. <source>Brain Res</source>
+<volume>1630</volume>, <fpage>225</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">26556772</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Koga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Bieniek</surname>
+<given-names>KF</given-names>
+</string-name> (<year>2016</year>) <article-title>Chronic traumatic encephalopathy pathology in multiple system atrophy</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>75</volume>, <fpage>963</fpage>&#x02013;<lpage>970</lpage>.<pub-id pub-id-type="pmid">27543120</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gao</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Ramsay</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Twose</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rogaeva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tator</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hazrati</surname>
+<given-names>LN</given-names>
+</string-name> (<year>2017</year>) <article-title>Chronic traumatic encephalopathy-like neuropathological findings without a history of trauma</article-title>. <source>Int J Pathol Clin Res</source>
+<volume>3</volume>, <fpage>050</fpage>.</mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Crary</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Abisambra</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Abner</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Alafuzoff</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Attems</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Bigio</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Gearing</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grinberg</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Hof</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Jellinger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jicha</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Kovacs</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Kofler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kukull</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Mackenzie</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Neltner</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Santa-Maria</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Seeley</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name>
+<surname>Serrano-Pozo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shelanski</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Troncoso</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Vonsattel</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>CL</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Wisniewski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Woltjer</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>PT</given-names>
+</string-name> (<year>2014</year>) <article-title>Primary age-related tauopathy (PART): A common pathology associated with human aging</article-title>. <source>Acta Neuropathol</source>
+<volume>128</volume>, <fpage>755</fpage>&#x02013;<lpage>766</lpage>.<pub-id pub-id-type="pmid">25348064</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kovacs</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Grinberg</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Alafuzoff</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Attems</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Budka</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Crary</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Duyckaerts</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ghetti</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Ironside</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Love</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mackenzie</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Munoz</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Trojanowski</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Ansorge</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Arzberger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Baborie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Bieniek</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Bigio</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Bodi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Dugger</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>Feany</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gelpi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gentleman</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Giaccone</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hatanpaa</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Heale</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hof</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Hofer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hortobagyi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jellinger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jicha</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ince</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kofler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kovari</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kril</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Matej</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>McLean</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Milenkovic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Murayama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Rahimi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Rozemuller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Seeley</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Seilhean</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tagliavini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Takao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Tolnay</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Troncoso</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Vinters</surname>
+<given-names>HV</given-names>
+</string-name>, <string-name>
+<surname>Weis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wharton</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>CL</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Wisniewski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Woulfe</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name> (<year>2016</year>) <article-title>Aging-related tau astrogliopathy (ARTAG): Harmonized evaluation strategy</article-title>. <source>Acta Neuropathol</source>
+<volume>131</volume>, <fpage>87</fpage>&#x02013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">26659578</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Holton</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Davey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lashley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Revesz</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>Histological evidence of chronic traumatic encephalopathy in a large series of neurodegenerative diseases</article-title>. <source>Acta Neuropathol</source>
+<volume>130</volume>, <fpage>891</fpage>&#x02013;<lpage>893</lpage>.<pub-id pub-id-type="pmid">26497674</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bieniek</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Cormier</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Walton</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Soto-Ortolaza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>DeSaro</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Boylan</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Graff-Radford</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Wszolek</surname>
+<given-names>ZK</given-names>
+</string-name>, <string-name>
+<surname>Rademakers</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name> (<year>2015</year>) <article-title>Chronic traumatic encephalopathy pathology in a neurodegenerative disorders brain bank</article-title>. <source>Acta Neuropathol</source>
+<volume>130</volume>, <fpage>877</fpage>&#x02013;<lpage>889</lpage>.<pub-id pub-id-type="pmid">26518018</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Noy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Krawitz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Del Bigio</surname>
+<given-names>MR</given-names>
+</string-name> (<year>2016</year>) <article-title>Chronic traumatic encephalopathy-like abnormalities in a routine neuropathology service</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>75</volume>, <fpage>1145</fpage>&#x02013;<lpage>1154</lpage>.<pub-id pub-id-type="pmid">27815395</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Castellani</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>G</given-names>
+</string-name> (<year>2014</year>) <article-title>The complexities of the pathology-pathogenesis relationship in Alzheimer disease</article-title>. <source>Biochem Pharmacol</source>
+<volume>88</volume>, <fpage>671</fpage>&#x02013;<lpage>676</lpage>.<pub-id pub-id-type="pmid">24447936</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hazrati</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Tartaglia</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Diamandis</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Wennberg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ezerins</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tator</surname>
+<given-names>CH</given-names>
+</string-name> (<year>2013</year>) <article-title>Absence of chronic traumatic encephalopathy in retired football players with multiple concussions and neurological symptomatology</article-title>. <source>Front Hum Neurosci</source>
+<volume>7</volume>, <fpage>222</fpage>.<pub-id pub-id-type="pmid">23745112</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Revesz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Plant</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Martino</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Houlden</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Holton</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2014</year>) <article-title>Concomitant progressive supranuclear palsy and chronic traumatic encephalopathy in a boxer</article-title>. <source>Acta Neuropathol Commun</source>
+<volume>2</volume>, <fpage>24</fpage>.<pub-id pub-id-type="pmid">24559032</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McKee</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Gavett</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Nowinski</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Cantu</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Kowall</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Perl</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Hedley-Whyte</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Morin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kubilus</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Daneshvar</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Wulff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Budson</surname>
+<given-names>AE</given-names>
+</string-name> (<year>2010</year>) <article-title>TDP-43 proteinopathy and motor neuron disease in chronic traumatic encephalopathy</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>69</volume>, <fpage>918</fpage>&#x02013;<lpage>929</lpage>.<pub-id pub-id-type="pmid">20720505</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Neal</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Holton</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Revesz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>DD</given-names>
+</string-name> (<year>2017</year>) <article-title>Mixed pathologies including chronic traumatic encephalopathy account for dementia in retired association football (soccer) players</article-title>. <source>Acta Neuropathol</source>
+<volume>133</volume>, <fpage>337</fpage>&#x02013;<lpage>352</lpage>.<pub-id pub-id-type="pmid">28205009</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grinberg</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Anghinah</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nascimento</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Amaro</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Leite</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Martin Mda</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Naslavsky</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Takada</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Filho</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Pasqualucci</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Nitrini</surname>
+<given-names>R</given-names>
+</string-name> (<year>2016</year>) <article-title>Chronic traumatic encephalopathy presenting as Alzheimer&#x02019;s disease in a retired soccer player</article-title>. <source>J Alzheimers Dis</source>
+<volume>54</volume>, <fpage>169</fpage>&#x02013;<lpage>174</lpage>.<pub-id pub-id-type="pmid">27472879</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jordan</surname>
+<given-names>BD</given-names>
+</string-name> (<year>2013</year>) <article-title>The clinical spectrum of sport-related traumatic brain injury</article-title>. <source>Nat Rev Neurol</source>
+<volume>9</volume>, <fpage>222</fpage>&#x02013;<lpage>230</lpage>.<pub-id pub-id-type="pmid">23478462</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Victoroff</surname>
+<given-names>J</given-names>
+</string-name> (<year>2013</year>) <article-title>Traumatic encephalopathy: Review and provisional research diagnostic criteria</article-title>. <source>NeuroRehabilitation</source>
+<volume>32</volume>, <fpage>211</fpage>&#x02013;<lpage>224</lpage>.<pub-id pub-id-type="pmid">23535783</pub-id></mixed-citation></ref><ref id="ref048"><label>[48]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Roberts</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Allsop</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bruton</surname>
+<given-names>C</given-names>
+</string-name> (<year>1990</year>) <article-title>The occult aftermath of boxing</article-title>. <source>J Neurol Neurosurg Psychiatry</source>
+<volume>53</volume>, <fpage>373</fpage>&#x02013;<lpage>378</lpage>.<pub-id pub-id-type="pmid">2191084</pub-id></mixed-citation></ref><ref id="ref049"><label>[49]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Johnson</surname>
+<given-names>J</given-names>
+</string-name> (<year>1969</year>) <article-title>Organic psychosyndromes due to boxing</article-title>. <source>Br J Psychiatry</source>
+<volume>115</volume>, <fpage>45</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">5305282</pub-id></mixed-citation></ref><ref id="ref050"><label>[50]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iverson</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2016</year>) <article-title>Suicide and chronic traumatic encephalopathy</article-title>. <source>J Neuropsychiatry Clin Neurosci</source>
+<volume>28</volume>, <fpage>9</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">26449269</pub-id></mixed-citation></ref><ref id="ref051"><label>[51]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wortzel</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Shura</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Brenner</surname>
+<given-names>LA</given-names>
+</string-name> (<year>2013</year>) <article-title>Chronic traumatic encephalopathy and suicide: A systematic review</article-title>. <source>Biomed Res Int</source>
+<volume>2013</volume>, <fpage>424280</fpage>.<pub-id pub-id-type="pmid">24328030</pub-id></mixed-citation></ref><ref id="ref052"><label>[52]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iverson</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2014</year>) <article-title>Chronic traumatic encephalopathy and risk of suicide in former athletes</article-title>. <source>Br J Sports Med</source>
+<volume>48</volume>, <fpage>162</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">24178363</pub-id></mixed-citation></ref><ref id="ref053"><label>[53]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Maroon</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Winkelman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bost</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Amos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mathyssek</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Miele</surname>
+<given-names>V</given-names>
+</string-name> (<year>2015</year>) <article-title>Chronic traumatic encephalopathy in contact sports: A systematic review of all reported pathological cases</article-title>. <source>PLoS One</source>
+<volume>10</volume>, <fpage>e0117338</fpage>.<pub-id pub-id-type="pmid">25671598</pub-id></mixed-citation></ref><ref id="ref054"><label>[54]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Webner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Iverson</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2016</year>) <article-title>Suicide in professional American football player in the past 95 years</article-title>. <source>Brain Inj</source>
+<volume>30</volume>, <fpage>1718</fpage>&#x02013;<lpage>1721</lpage>.<pub-id pub-id-type="pmid">27996330</pub-id></mixed-citation></ref><ref id="ref055"><label>[55]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lehman</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Hein</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Gersic</surname>
+<given-names>CM</given-names>
+</string-name> (<year>2016</year>) <article-title>Suicide mortality among retired National Football League players who played 5 or more seasons</article-title>. <source>Am J Sports Med</source>
+<volume>44</volume>, <fpage>2486</fpage>&#x02013;<lpage>2491</lpage>.<pub-id pub-id-type="pmid">27159317</pub-id></mixed-citation></ref><ref id="ref056"><label>[56]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kendler</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Thornton</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>CO</given-names>
+</string-name> (<year>2001</year>) <article-title>Genetic risk, number of previous depressive episodes, and stressful life events in predicting onset of major depression</article-title>. <source>Am J Psychiatry</source>
+<volume>158</volume>, <fpage>582</fpage>&#x02013;<lpage>586</lpage>.<pub-id pub-id-type="pmid">11282692</pub-id></mixed-citation></ref><ref id="ref057"><label>[57]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kendler</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Thornton</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>CO</given-names>
+</string-name> (<year>2000</year>) <article-title>Stressful life events and previous episodes in the etiology of major depression in women: An evaluation of the &#x0201c;kindling&#x0201d; hypothesis</article-title>. <source>Am J Psychiatry</source>
+<volume>157</volume>, <fpage>1243</fpage>&#x02013;<lpage>1251</lpage>.<pub-id pub-id-type="pmid">10910786</pub-id></mixed-citation></ref><ref id="ref058"><label>[58]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Monroe</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Harkness</surname>
+<given-names>KL</given-names>
+</string-name> (<year>2005</year>) <article-title>Life stress, the &#x0201c;kindling&#x0201d; hypothesis, and the recurrence of depression: Considerations from a life stress perspective</article-title>. <source>Psychol Rev</source>
+<volume>112</volume>, <fpage>417</fpage>&#x02013;<lpage>445</lpage>.<pub-id pub-id-type="pmid">15783292</pub-id></mixed-citation></ref><ref id="ref059"><label>[59]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Binder</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Nemeroff</surname>
+<given-names>CB</given-names>
+</string-name> (<year>2010</year>) <article-title>The CRF system, stress, depression and anxiety-insights from human genetic studies</article-title>. <source>Mol Psychiatry</source>
+<volume>15</volume>, <fpage>574</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">20010888</pub-id></mixed-citation></ref><ref id="ref060"><label>[60]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hauger</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Risbrough</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Oakley</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Olivares-Reyes</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Dautzenberg</surname>
+<given-names>FM</given-names>
+</string-name> (<year>2009</year>) <article-title>Role of CRF receptor signaling in stress vulnerability, anxiety, and depression</article-title>. <source>Ann N Y Acad Sci</source>
+<volume>1179</volume>, <fpage>120</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">19906236</pub-id></mixed-citation></ref><ref id="ref061"><label>[61]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McGuffin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brewster</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Craddock</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Korszun</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mors</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Preisig</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rietschel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sham</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Farmer</surname>
+<given-names>AE</given-names>
+</string-name> (<year>2005</year>) <article-title>Whole genome linkage scan of recurrent depressive disorder from the depression network study</article-title>. <source>Hum Mol Genet</source>
+<volume>14</volume>, <fpage>3337</fpage>&#x02013;<lpage>3345</lpage>.<pub-id pub-id-type="pmid">16203746</pub-id></mixed-citation></ref><ref id="ref062"><label>[62]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sullivan</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Neale</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Kendler</surname>
+<given-names>KS</given-names>
+</string-name> (<year>2000</year>) <article-title>Genetic epidemiology of major depression: Review and meta-analysis</article-title>. <source>Am J Psychiatry</source>
+<volume>157</volume>, <fpage>1552</fpage>&#x02013;<lpage>1562</lpage>.<pub-id pub-id-type="pmid">11007705</pub-id></mixed-citation></ref><ref id="ref063"><label>[63]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bradley</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Binder</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gillespie</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Evces</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Newport</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Stowe</surname>
+<given-names>ZN</given-names>
+</string-name>, <string-name>
+<surname>Heim</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Nemeroff</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cubells</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Ressler</surname>
+<given-names>KJ</given-names>
+</string-name> (<year>2008</year>) <article-title>Influence of child abuse on adult depression: Moderation by the corticotropin-releasing hormone receptor gene</article-title>. <source>Arch Gen Psychiatry</source>
+<volume>65</volume>, <fpage>190</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">18250257</pub-id></mixed-citation></ref><ref id="ref064"><label>[64]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Newport</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Mletzko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Nemeroff</surname>
+<given-names>CB</given-names>
+</string-name> (<year>2008</year>) <article-title>The link between childhood trauma and depression: Insights from HPA axis studies in humans</article-title>. <source>Psychoneuroendocrinology</source>
+<volume>33</volume>, <fpage>693</fpage>&#x02013;<lpage>710</lpage>.<pub-id pub-id-type="pmid">18602762</pub-id></mixed-citation></ref><ref id="ref065"><label>[65]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mletzko</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Deveau</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Musselman</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Nemeroff</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Ressler</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Binder</surname>
+<given-names>EB</given-names>
+</string-name> (<year>2009</year>) <article-title>Effect of childhood trauma on adult depression and neuroendocrine function: Sex-specific moderation by CRH receptor 1 gene</article-title>. <source>Front Behav Neurosci</source>
+<volume>3</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">19194528</pub-id></mixed-citation></ref><ref id="ref066"><label>[66]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gatt</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Nemeroff</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Dobson-Stone</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Bryant</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Schofield</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kemp</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>LM</given-names>
+</string-name> (<year>2009</year>) <article-title>Interactions between BDNF Val66Met polymorphism and early life stress predict brain and arousal pathways to syndromal depression and anxiety</article-title>. <source>Mol Psychiatry</source>
+<volume>14</volume>, <fpage>681</fpage>&#x02013;<lpage>695</lpage>.<pub-id pub-id-type="pmid">19153574</pub-id></mixed-citation></ref><ref id="ref067"><label>[67]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Farmer</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>McGuffin</surname>
+<given-names>P</given-names>
+</string-name> (<year>2003</year>) <article-title>Humiliation, loss and other types of life events and difficulties: A comparison of depressed subjects, healthy controls and their siblings</article-title>. <source>Psychol Med</source>
+<volume>33</volume>, <fpage>1169</fpage>&#x02013;<lpage>1175</lpage>.<pub-id pub-id-type="pmid">14580071</pub-id></mixed-citation></ref><ref id="ref068"><label>[68]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Friis</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Wittchen</surname>
+<given-names>HU</given-names>
+</string-name>, <string-name>
+<surname>Pfister</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lieb</surname>
+<given-names>R</given-names>
+</string-name> (<year>2002</year>) <article-title>Life events and changes in the course of depression in young adults</article-title>. <source>Eur Psychiatry</source>
+<volume>17</volume>, <fpage>241</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">12381493</pub-id></mixed-citation></ref><ref id="ref069"><label>[69]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kendler</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Hettema</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Butera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>CA</given-names>
+</string-name> (<year>2003</year>) <article-title>Life event dimensions of loss, humiliation, entrapment, and danger in the prediction of onsets of major depression and generalized anxiety</article-title>. <source>Arch Gen Psychiatry</source>
+<volume>60</volume>, <fpage>789</fpage>&#x02013;<lpage>796</lpage>.<pub-id pub-id-type="pmid">12912762</pub-id></mixed-citation></ref><ref id="ref070"><label>[70]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kendler</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Karkowski</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>CA</given-names>
+</string-name> (<year>1999</year>) <article-title>Causal relationship between stressful life events and the onset of major depression</article-title>. <source>Am J Psychiatry</source>
+<volume>156</volume>, <fpage>837</fpage>&#x02013;<lpage>841</lpage>.<pub-id pub-id-type="pmid">10360120</pub-id></mixed-citation></ref><ref id="ref071"><label>[71]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Atkinson</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Slater</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Garfin</surname>
+<given-names>SR</given-names>
+</string-name> (<year>1991</year>) <article-title>Prevalence, onset, and risk of psychiatric disorders in men with chronic low back pain: A controlled study</article-title>. <source>Pain</source>
+<volume>45</volume>, <fpage>111</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">1831555</pub-id></mixed-citation></ref><ref id="ref072"><label>[72]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fishbain</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Cutler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rosomoff</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Rosomoff</surname>
+<given-names>RS</given-names>
+</string-name> (<year>1997</year>) <article-title>Chronic pain-associated depression: Antecedent or consequence of chronic pain? A review</article-title>. <source>Clin J Pain</source>
+<volume>13</volume>, <fpage>116</fpage>&#x02013;<lpage>137</lpage>.<pub-id pub-id-type="pmid">9186019</pub-id></mixed-citation></ref><ref id="ref073"><label>[73]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wilson</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;Eon</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Mikail</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Emery</surname>
+<given-names>PC</given-names>
+</string-name> (<year>2002</year>) <article-title>Major depression and insomnia in chronic pain</article-title>. <source>Clin J Pain</source>
+<volume>18</volume>, <fpage>77</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">11882770</pub-id></mixed-citation></ref><ref id="ref074"><label>[74]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Campbell</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Clauw</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Keefe</surname>
+<given-names>FJ</given-names>
+</string-name> (<year>2003</year>) <article-title>Persistent pain and depression: A biopsychosocial perspective</article-title>. <source>Biol Psychiatry</source>
+<volume>54</volume>, <fpage>399</fpage>&#x02013;<lpage>409</lpage>.<pub-id pub-id-type="pmid">12893114</pub-id></mixed-citation></ref><ref id="ref075"><label>[75]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McWilliams</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Enns</surname>
+<given-names>MW</given-names>
+</string-name> (<year>2003</year>) <article-title>Mood and anxiety disorders associated with chronic pain: An examination in a nationally reresentative sample</article-title>. <source>Pain</source>
+<volume>106</volume>, <fpage>127</fpage>&#x02013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">14581119</pub-id></mixed-citation></ref><ref id="ref076"><label>[76]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hung</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Fuh</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Juang</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2006</year>) <article-title>Comorbid migraine is associated with a negative impact on quality of life in patients with major depression</article-title>. <source>Cephalalgia</source>
+<volume>26</volume>, <fpage>26</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">16396663</pub-id></mixed-citation></ref><ref id="ref077"><label>[77]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Breslau</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Lucia</surname>
+<given-names>VC</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>
+<given-names>KM</given-names>
+</string-name> (<year>2000</year>) <article-title>Headache and major depression: Is the association specific to migraine?</article-title>
+<source>Neurology</source>
+<volume>54</volume>, <fpage>308</fpage>&#x02013;<lpage>313</lpage>.<pub-id pub-id-type="pmid">10668688</pub-id></mixed-citation></ref><ref id="ref078"><label>[78]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Breslau</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>
+<given-names>KM</given-names>
+</string-name> (<year>2003</year>) <article-title>Comorbidity of migraine and depression: Investigating potential etiology and prognosis</article-title>. <source>Neurology</source>
+<volume>60</volume>, <fpage>1308</fpage>&#x02013;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">12707434</pub-id></mixed-citation></ref><ref id="ref079"><label>[79]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sheftell</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name>
+<surname>Atlas</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2002</year>) <article-title>Migraine and psychiatric comorbidity: From theory and hypotheses to clinical application</article-title>. <source>Headache</source>
+<volume>42</volume>, <fpage>934</fpage>&#x02013;<lpage>944</lpage>.<pub-id pub-id-type="pmid">12390624</pub-id></mixed-citation></ref><ref id="ref080"><label>[80]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Anderson</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Freedland</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Clouse</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Lustman</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2001</year>) <article-title>The prevalence of comorbid depression in adults with diabetes: A meta-analysis</article-title>. <source>Diabetes Care</source>
+<volume>24</volume>, <fpage>1069</fpage>&#x02013;<lpage>1078</lpage>.<pub-id pub-id-type="pmid">11375373</pub-id></mixed-citation></ref><ref id="ref081"><label>[81]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Rutter</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Katon</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Heckbert</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Ciechanowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Ludman</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>McCulloch</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Von Korff</surname>
+<given-names>M</given-names>
+</string-name> (<year>2010</year>) <article-title>Depression and advanced complications of diabetes: A prospective cohort study</article-title>. <source>Diabetes Care</source>
+<volume>33</volume>, <fpage>264</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">19933989</pub-id></mixed-citation></ref><ref id="ref082"><label>[82]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Naranjo</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Arean</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Hessler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mullan</surname>
+<given-names>J</given-names>
+</string-name> (<year>2011</year>) <article-title>Patients with type 2 diabetes at risk for major depressive disorder over time</article-title>. <source>Ann Fam Med</source>
+<volume>9</volume>, <fpage>115</fpage>&#x02013;<lpage>120</lpage>.<pub-id pub-id-type="pmid">21403137</pub-id></mixed-citation></ref><ref id="ref083"><label>[83]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zarrouf</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Artz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Griffith</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sirbu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kommor</surname>
+<given-names>M</given-names>
+</string-name> (<year>2009</year>) <article-title>Testosterone and depression: Systematic review and meta-analysis</article-title>. <source>J Psychiatr Pract</source>
+<volume>15</volume>, <fpage>289</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">19625884</pub-id></mixed-citation></ref><ref id="ref084"><label>[84]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yeap</surname>
+<given-names>BB</given-names>
+</string-name> (<year>2014</year>) <article-title>Hormonal changes and their impact on cognition and mental health of ageing men</article-title>. <source>Maturitas</source>
+<volume>79</volume>, <fpage>227</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">24953176</pub-id></mixed-citation></ref><ref id="ref085"><label>[85]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khera</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Patients with testosterone deficit syndrome and depression</article-title>. <source>Arch Esp Urol</source>
+<volume>66</volume>, <fpage>729</fpage>&#x02013;<lpage>736</lpage>.<pub-id pub-id-type="pmid">24047633</pub-id></mixed-citation></ref><ref id="ref086"><label>[86]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Almeida</surname>
+<given-names>OP</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Flicker</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hankey</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Yeap</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Clancy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Golledge</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>Angiogenesis inhibition and depression in older men</article-title>. <source>J Psychiatry Neurosci</source>
+<volume>39</volume>, <fpage>200</fpage>&#x02013;<lpage>205</lpage>.<pub-id pub-id-type="pmid">24331740</pub-id></mixed-citation></ref><ref id="ref087"><label>[87]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ravven</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bader</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Azar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rudolph</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2013</year>) <article-title>Depressive symptoms after CABG surgery: A meta-analysis</article-title>. <source>Harv Rev Psychiatry</source>
+<volume>21</volume>, <fpage>59</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">23656830</pub-id></mixed-citation></ref><ref id="ref088"><label>[88]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ayerbe</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ayis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wolfe</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Rudd</surname>
+<given-names>AG</given-names>
+</string-name> (<year>2013</year>) <article-title>Natural history, predictors and outcomes of depression after stroke: Systematic review and meta-analysis</article-title>. <source>Br J Psychiatry</source>
+<volume>202</volume>, <fpage>14</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">23284148</pub-id></mixed-citation></ref><ref id="ref089"><label>[89]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Leung</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Flora</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Gravely</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Irvine</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carney</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Grace</surname>
+<given-names>SL</given-names>
+</string-name> (<year>2012</year>) <article-title>The impact of premorbid and postmorbid depression onset on mortality and cardiac morbidity among patients with coronary heart disease: Meta-analysis</article-title>. <source>Psychosom Med</source>
+<volume>74</volume>, <fpage>786</fpage>&#x02013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">23001393</pub-id></mixed-citation></ref><ref id="ref090"><label>[90]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Meng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hui</surname>
+<given-names>R</given-names>
+</string-name> (<year>2012</year>) <article-title>Depression increases the risk of hypertension incidence: A meta-analysis of prospective cohort studies</article-title>. <source>J Hypertens</source>
+<volume>30</volume>, <fpage>842</fpage>&#x02013;<lpage>851</lpage>.<pub-id pub-id-type="pmid">22343537</pub-id></mixed-citation></ref><ref id="ref091"><label>[91]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gothe</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Enache</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wahlund</surname>
+<given-names>LO</given-names>
+</string-name>, <string-name>
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Crisby</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lokk</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name> (<year>2012</year>) <article-title>Cerebrovascular diseases and depression: Epidemiology, mechanisms and treatment</article-title>. <source>Panminerva Med</source>
+<volume>54</volume>, <fpage>161</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">22801433</pub-id></mixed-citation></ref><ref id="ref092"><label>[92]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Naarding</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>AT</given-names>
+</string-name> (<year>2011</year>) <article-title>Vascular depression: Where do we go from here?</article-title>
+<source>Expert Rev Neurother</source>
+<volume>11</volume>, <fpage>77</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">21158557</pub-id></mixed-citation></ref><ref id="ref093"><label>[93]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Djamshidian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2014</year>) <article-title>Anxiety and depression in Parkinson&#x02019;s disease</article-title>. <source>Curr Treat Options Neurol</source>
+<volume>16</volume>, <fpage>285</fpage>.<pub-id pub-id-type="pmid">24532378</pub-id></mixed-citation></ref><ref id="ref094"><label>[94]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bruce</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Bhalla</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Westervelt</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tremont</surname>
+<given-names>G</given-names>
+</string-name> (<year>2008</year>) <article-title>Neuropsychological correlates of self-reported depression and self-reported cognition among patients with mild cognitive impairment</article-title>. <source>J Geriatr Psychiatry Neurol</source>
+<volume>21</volume>, <fpage>34</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">18287168</pub-id></mixed-citation></ref><ref id="ref095"><label>[95]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Barnes</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Alexopoulos</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>OL</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Yaffe</surname>
+<given-names>K</given-names>
+</string-name> (<year>2006</year>) <article-title>Depressive symptoms, vascular disease, and mild cognitive impairment: Findings from the Cardiovascular Health Study</article-title>. <source>Arch Gen Psychiatry</source>
+<volume>63</volume>, <fpage>273</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">16520432</pub-id></mixed-citation></ref><ref id="ref096"><label>[96]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kosteniuk</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Connell</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Crossley</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kirk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Karunanayake</surname>
+<given-names>CP</given-names>
+</string-name> (<year>2014</year>) <article-title>Prevalence and covariates of elevated depressive symptoms in rural memory clinic patients with mild cognitive impairment or dementia</article-title>. <source>Dement Geriatr Cogn Dis Extra</source>
+<volume>4</volume>, <fpage>209</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">25177329</pub-id></mixed-citation></ref><ref id="ref097"><label>[97]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Raskind</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2008</year>) <article-title>Diagnosis and treatment of depression comorbid with neurologic disorders</article-title>. <source>Am J Med</source>
+<volume>121</volume>, <fpage>S28</fpage>&#x02013;<lpage>S37</lpage>.</mixed-citation></ref><ref id="ref098"><label>[98]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Carrol</surname>
+<given-names>EJ</given-names>
+</string-name> (<year>1936</year>) <article-title>Punch-drunk</article-title>. <source>Am J Med Sci</source>
+<volume>191</volume>, <fpage>706</fpage>&#x02013;<lpage>712</lpage>.</mixed-citation></ref><ref id="ref099"><label>[99]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Storandt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McKeel</surname>
+<given-names>DW</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>L</given-names>
+</string-name> (<year>1996</year>) <article-title>Cerebral amyloid deposition and diffuse plaques in &#x0201c;normal&#x0201d; aging: Evidence for presymptomatic and very mild Alzheimer&#x02019;s disease</article-title>. <source>Neurology</source>
+<volume>46</volume>, <fpage>707</fpage>&#x02013;<lpage>719</lpage>.<pub-id pub-id-type="pmid">8618671</pub-id></mixed-citation></ref><ref id="ref100"><label>[100]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hulette</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Welsh-Bohmer</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Saunders</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Mash</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>McIntyre</surname>
+<given-names>LM</given-names>
+</string-name> (<year>1998</year>) <article-title>Neuropathological and neuropsychological changes in &#x0201c;normal&#x0201d; aging: Evidence for preclinical Alzheimer disease in cognitively normal individuals</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>57</volume>, <fpage>1168</fpage>&#x02013;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">9862640</pub-id></mixed-citation></ref><ref id="ref101"><label>[101]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name> (<year>1999</year>) <article-title>Is Alzheimer&#x02019;s disease inevitable with age?: Lessons from clinicopathologic studies of healthy aging and very mild alzheimer&#x02019;s disease</article-title>. <source>J Clin Invest</source>
+<volume>104</volume>, <fpage>1171</fpage>&#x02013;<lpage>1173</lpage>.<pub-id pub-id-type="pmid">10545515</pub-id></mixed-citation></ref><ref id="ref102"><label>[102]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Beckett</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Craft</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fagan</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Iwatsubo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Kaye</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Reiman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Rowe</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Siemers</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yaffe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Thies</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Morrison-Bogorad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wagster</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name> (<year>2011</year>) <article-title>Toward defining the preclinical stages of Alzheimer&#x02019;s disease: Recommendations from the National Institute on Aging-Alzheimer&#x02019;s Association workgroups on diagnostic guidelines for Alzheimer&#x02019;s disease</article-title>. <source>Alzheimers Dement</source>
+<volume>7</volume>, <fpage>280</fpage>&#x02013;<lpage>292</lpage>.<pub-id pub-id-type="pmid">21514248</pub-id></mixed-citation></ref><ref id="ref103"><label>[103]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Arvanitakis</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Aggarwal</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>RS</given-names>
+</string-name> (<year>2006</year>) <article-title>Neuropathology of older persons without cognitive impairment from two community-based studies</article-title>. <source>Neurology</source>
+<volume>66</volume>, <fpage>1837</fpage>&#x02013;<lpage>1844</lpage>.<pub-id pub-id-type="pmid">16801647</pub-id></mixed-citation></ref><ref id="ref104"><label>[104]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name> (<year>2014</year>) <article-title>The relevance of beta-amyloid on markers of Alzheimer&#x02019;s disease in clinically normal individuals and factors that influence these associations</article-title>. <source>Neuropsychol Rev</source>
+<volume>24</volume>, <fpage>300</fpage>&#x02013;<lpage>312</lpage>.<pub-id pub-id-type="pmid">25108368</pub-id></mixed-citation></ref><ref id="ref105"><label>[105]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vanharanta</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Malmivaara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Korpi</surname>
+<given-names>J</given-names>
+</string-name> (<year>1989</year>) <article-title>[Back pain]</article-title>. <source>Duodecim</source>
+<volume>105</volume>, <fpage>105</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">2522039</pub-id></mixed-citation></ref><ref id="ref106"><label>[106]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Becker</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Hedden</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Carmasin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Maye</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Putcha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fischl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Greve</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Salloway</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Marks</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Buckner</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>KA</given-names>
+</string-name> (<year>2011</year>) <article-title>Amyloid-beta associated cortical thinning in clinically normal elderly</article-title>. <source>Ann Neurol</source>
+<volume>69</volume>, <fpage>1032</fpage>&#x02013;<lpage>1042</lpage>.<pub-id pub-id-type="pmid">21437929</pub-id></mixed-citation></ref><ref id="ref107"><label>[107]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Fujishiro</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>DelleDonne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Menke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Klos</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Frigerio</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Parisi</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Ahlskog</surname>
+<given-names>JE</given-names>
+</string-name> (<year>2008</year>) <article-title>Evidence that incidental Lewy body disease is pre-symptomatic Parkinson&#x02019;s disease</article-title>. <source>Acta Neuropathol</source>
+<volume>115</volume>, <fpage>437</fpage>&#x02013;<lpage>444</lpage>.<pub-id pub-id-type="pmid">18264713</pub-id></mixed-citation></ref><ref id="ref108"><label>[108]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name> (<year>2011</year>) <article-title>Clinical practice. Mild cognitive impairment</article-title>. <source>N Engl J Med</source>
+<volume>364</volume>, <fpage>2227</fpage>&#x02013;<lpage>2234</lpage>.<pub-id pub-id-type="pmid">21651394</pub-id></mixed-citation></ref></ref-list></back></article>

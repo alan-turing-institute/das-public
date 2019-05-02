@@ -1,0 +1,1361 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Protein Sci</journal-id><journal-id journal-id-type="iso-abbrev">Protein Sci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1469-896X</journal-id><journal-id journal-id-type="publisher-id">PRO</journal-id><journal-title-group><journal-title>Protein Science : A Publication of the Protein Society</journal-title></journal-title-group><issn pub-type="ppub">0961-8368</issn><issn pub-type="epub">1469-896X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26756197</article-id><article-id pub-id-type="pmc">4832280</article-id><article-id pub-id-type="doi">10.1002/pro.2879</article-id><article-id pub-id-type="publisher-id">PRO2879</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Using hydrogen deuterium exchange mass spectrometry to engineer optimized constructs for crystallization of protein complexes: Case study of PI4KIII&#x003b2; with Rab11</article-title><alt-title alt-title-type="right-running-head">HDX&#x02010;MS to Crystallize PI4KIII&#x003b2; with Rab11</alt-title><alt-title alt-title-type="left-running-head">Fowler et al.</alt-title></title-group><contrib-group><contrib id="pro2879-cr-0001" contrib-type="author"><name><surname>Fowler</surname><given-names>Melissa L.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro2879-cr-0002" contrib-type="author"><name><surname>McPhail</surname><given-names>Jacob A.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro2879-cr-0003" contrib-type="author"><name><surname>Jenkins</surname><given-names>Meredith L.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro2879-cr-0004" contrib-type="author"><name><surname>Masson</surname><given-names>Glenn R.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pro2879-cr-0005" contrib-type="author"><name><surname>Rutaganira</surname><given-names>Florentine U.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pro2879-cr-0006" contrib-type="author"><name><surname>Shokat</surname><given-names>Kevan M.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pro2879-cr-0007" contrib-type="author"><name><surname>Williams</surname><given-names>Roger L.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pro2879-cr-0008" contrib-type="author" corresp="yes"><name><surname>Burke</surname><given-names>John E.</given-names></name><xref ref-type="aff" rid="pro2879-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pro2879-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Biochemistry and Microbiology</named-content><institution>University of Victoria</institution><named-content content-type="city">British Columbia</named-content><named-content content-type="post-code">V8P 5C2</named-content><country country="CA">Canada</country></aff><aff id="pro2879-aff-0002"><label><sup>2</sup></label><institution>MRC Laboratory of Molecular Biology, Francis Crick Avenue, Cambridge Biomedical Campus</institution><named-content content-type="city">Cambridge</named-content><named-content content-type="post-code">CB2 0QH</named-content><country country="GB">United Kingdom</country></aff><aff id="pro2879-aff-0003"><label><sup>3</sup></label><institution>Howard Hughes Medical Institute and Department of Cellular and Molecular Pharmacology, University of California</institution><named-content content-type="city">San Francisco (UCSF)</named-content><named-content content-type="country-part">California</named-content><named-content content-type="post-code">94158</named-content></aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: John E Burke, University of Victoria, Biochemistry and Microbiology, 3800 Finnerty Road, 270 Petch, Victoria, British Columbia V8W 2Y2, Canada. E&#x02010;mail: <email>jeburke@uvic.ca</email></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>2</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2016</year></pub-date><volume>25</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/pro.v25.4</issue-id><fpage>826</fpage><lpage>839</lpage><history><date date-type="received"><day>17</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>22</day><month>12</month><year>2015</year></date><date date-type="accepted"><day>07</day><month>1</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 The Protein Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors Protein Science published by Wiley Periodicals, Inc. on behalf of The Protein Society</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PRO-25-826.pdf"/><abstract><title>Abstract</title><p>The ability of proteins to bind and interact with protein partners plays fundamental roles in many cellular contexts. X&#x02010;ray crystallography has been a powerful approach to understand protein&#x02010;protein interactions; however, a challenge in the crystallization of proteins and their complexes is the presence of intrinsically disordered regions. In this article, we describe an application of hydrogen deuterium exchange mass spectrometry (HDX&#x02010;MS) to identify dynamic regions within type III phosphatidylinositol 4 kinase beta (PI4KIII&#x003b2;) in complex with the GTPase Rab11. This information was then used to design deletions that allowed for the production of diffraction quality crystals. Importantly, we also used HDX&#x02010;MS to verify that the new construct was properly folded, consistent with it being catalytically and functionally active. Structures of PI4KIII&#x003b2; in an Apo state and bound to the potent inhibitor BQR695 in complex with both GTP&#x003b3;S and GDP loaded Rab11 were determined. This hybrid HDX&#x02010;MS/crystallographic strategy revealed novel aspects of the PI4KIII&#x003b2;&#x02010;Rab11 complex, as well as the molecular mechanism of potency of a PI4K specific inhibitor (BQR695). This approach is widely applicable to protein&#x02010;protein complexes, and is an excellent strategy to optimize constructs for high&#x02010;resolution structural approaches.</p></abstract><abstract abstract-type="short"><p>PDB Code(s): <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5C46">5C46</ext-link>; <ext-link ext-link-type="uri" xlink:href="http://firstglance.jmol.org/fg.htm?mol=5C4G">5C4G</ext-link>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pro2879-kwd-0001">structural biology</kwd><kwd id="pro2879-kwd-0002">hydrogen deuterium exchange mass spectrometry</kwd><kwd id="pro2879-kwd-0003">HDX&#x02010;MS</kwd><kwd id="pro2879-kwd-0004">phosphatidylinositol 4 kinase</kwd><kwd id="pro2879-kwd-0005">Rab11</kwd><kwd id="pro2879-kwd-0006">X&#x02010;ray crystallography</kwd><kwd id="pro2879-kwd-0007">phosphoinositide signaling</kwd><kwd id="pro2879-kwd-0008">lipid signaling</kwd></kwd-group><funding-group><award-group><funding-source>CIHR</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Natural Sciences and Engineering Research Council of Canada</funding-source><award-id>NSERC&#x02010;2014&#x02010;05218</award-id></award-group></funding-group><funding-group><award-group><funding-source>British Columbia Proteomics Network (BCPN)</funding-source></award-group></funding-group><funding-group><award-group><funding-source> British Heart Foundation</funding-source><award-id>PG11/109/29247</award-id></award-group></funding-group><funding-group><award-group><funding-source>MRC</funding-source><award-id>U10518430</award-id></award-group></funding-group><funding-group><award-group><funding-source>NIH</funding-source><award-id>AI109622 and AI099245</award-id></award-group></funding-group><funding-group><award-group><funding-source> Natural Sciences and Engineering Research Council of Canada</funding-source></award-group></funding-group><funding-group><award-group><funding-source> National Research Council Canada</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Canadian Institutes of Health Research</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Province of Saskatchewan</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Western Economic Diversification Canada</funding-source></award-group></funding-group><funding-group><award-group><funding-source>University of Saskatchewan</funding-source></award-group></funding-group><counts><page-count count="14"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pro2879</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.6 mode:remove_FC converted:22.04.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pro2879-sec-0001"><title>Introduction</title><p>Protein&#x02010;protein interactions play a fundamental role in almost every aspect of cellular function. High&#x02010;resolution structural approaches, including X&#x02010;ray crystallography and NMR, are extremely useful in defining the molecular mechanisms that mediate these interactions. However, there are many technical limitations that make examining protein complexes challenging by standard structural approaches. Massive advances have been made in the use of cryo electron microscopy to study large dynamic protein complexes,<xref rid="pro2879-bib-0001" ref-type="ref">1</xref> however even this approach is limited by disorder, flexibility and sample heterogeneity. Dynamic regions within proteins with either no or limited secondary structure are a major contributor to flexibility and sample heterogeneity, and they are a major impediment to generating constructs that are amenable to higher&#x02010;resolution methods. These regions can cause difficulties at many stages, including inducing aggregation and sample instability, as well as preventing the ordered packing required for the formation of diffracting protein crystals. A number of tools are available to predict protein disorder,<xref rid="pro2879-bib-0002" ref-type="ref">2</xref>, <xref rid="pro2879-bib-0003" ref-type="ref">3</xref> however, a major limitation is the prediction of disorder within protein&#x02010;protein complexes. Many intrinsically disordered regions within proteins are only disordered in the context of the Apo form, and are able to become folded when bound to protein binding partners.<xref rid="pro2879-bib-0004" ref-type="ref">4</xref>, <xref rid="pro2879-bib-0005" ref-type="ref">5</xref>, <xref rid="pro2879-bib-0006" ref-type="ref">6</xref>
+</p><p>Truncations of dynamic N&#x02010;terminal and C&#x02010;terminal regions have been extremely useful for the creation of constructs amenable to both X&#x02010;ray crystallography and NMR. One of the techniques used to experimentally validate the presence of secondary structure is hydrogen deuterium exchange mass spectrometry (HDX&#x02010;MS). HDX&#x02010;MS is a technique that measures the exchange rate of amide hydrogens, and is an excellent probe of secondary structure and solvent accessibility.<xref rid="pro2879-bib-0007" ref-type="ref">7</xref> Experiments examining the theoretical basis of the rate of exchange of amide hydrogens have shown that the primary determinant of an amide's rate of exchange in a folded protein is its involvement in secondary structure.<xref rid="pro2879-bib-0008" ref-type="ref">8</xref>, <xref rid="pro2879-bib-0009" ref-type="ref">9</xref> This dependence of H/D exchange rates on secondary structure makes HDX&#x02010;MS a powerful tool to study and identify intrinsically disordered regions within proteins.<xref rid="pro2879-bib-0010" ref-type="ref">10</xref>
+</p><p>HDX&#x02010;MS has been successfully used as a preliminary step to produce N&#x02010;terminally and C&#x02010;terminally truncated constructs optimized for both crystallography<xref rid="pro2879-bib-0011" ref-type="ref">11</xref>, <xref rid="pro2879-bib-0012" ref-type="ref">12</xref> and NMR.<xref rid="pro2879-bib-0013" ref-type="ref">13</xref>, <xref rid="pro2879-bib-0014" ref-type="ref">14</xref> HDX&#x02010;MS has also been used as a powerful tool to map out protein&#x02010;protein interfaces both in solution and on membrane surfaces.<xref rid="pro2879-bib-0015" ref-type="ref">15</xref>, <xref rid="pro2879-bib-0016" ref-type="ref">16</xref>, <xref rid="pro2879-bib-0017" ref-type="ref">17</xref>, <xref rid="pro2879-bib-0018" ref-type="ref">18</xref>, <xref rid="pro2879-bib-0019" ref-type="ref">19</xref>, <xref rid="pro2879-bib-0020" ref-type="ref">20</xref> Herein we describe an experimental approach to use HDX&#x02010;MS to define dynamic regions within a protein complex, in this case the type III phosphatidylinositol 4 kinase beta (PI4KIII&#x003b2;) in complex with the GTPase Rab11, and use this information to generate optimized constructs for X&#x02010;ray crystallography. PI4KIII&#x003b2; is a lipid kinase that plays a key role in mediating membrane trafficking,<xref rid="pro2879-bib-0021" ref-type="ref">21</xref> and is also an emerging drug target for both antiviral<xref rid="pro2879-bib-0022" ref-type="ref">22</xref>, <xref rid="pro2879-bib-0023" ref-type="ref">23</xref>, <xref rid="pro2879-bib-0024" ref-type="ref">24</xref>, <xref rid="pro2879-bib-0025" ref-type="ref">25</xref> and antimalarial therapeutics.<xref rid="pro2879-bib-0026" ref-type="ref">26</xref> The combined HDX&#x02010;MS and X&#x02010;ray crystallographic analysis reveals novel aspects of the PI4KIII&#x003b2;&#x02010;Rab11 complex, specifically conformational changes induced in the switch regions of activated Rab11, as well as novel molecular details of PI4K inhibitor interactions.</p></sec><sec id="pro2879-sec-0002"><title>Results</title><sec id="pro2879-sec-0003"><title>Using HDX&#x02010;MS to design novel constructs of PI4KIII&#x003b2; for crystallography</title><p>HDX&#x02010;MS experiments were carried out on the full&#x02010;length construct of PI4KIII&#x003b2; in the presence of the GTPase Rab11. HDX&#x02010;MS is dependent on the generation of an optimized peptide map for localization of amide exchange rates throughout the protein. The optimized map for PI4KIII&#x003b2; is shown in Figure <xref rid="pro2879-fig-0001" ref-type="fig">1</xref>, and was composed of 125 individual peptic peptides, which covered 88% of the amide hydrogens of PI4KIII&#x003b2;.</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<bold>Optimized peptide map of PI4KIII&#x003b2; and Rab11</bold>. <bold>A</bold>: Peptides that were generated during online immobilized pepsin digestion of PI4KIII&#x003b2; are represented on the sequence. The sequence is colored according to the domain structure of PI4KIII&#x003b2;. <bold>B</bold>: Peptides that were generated during online immobilized pepsin digestion of Rab11 Q70L are represented on the sequence.</p></caption><graphic id="nlm-graphic-1" xlink:href="PRO-25-826-g001"/></fig><p>The initial goal of HDX&#x02010;MS experiments was to define dynamic regions (either no or very transient secondary structure) in PI4KIII&#x003b2; that might be removed for crystallographic analysis. Initial HDX experiments were carried out using a very short pulse of deuterium (3 s of D<sub>2</sub>O exposure at 0&#x000b0;C) so that only amides with a very low content of secondary structure would be deuterated. The exchange profile of PI4KIII&#x003b2; is shown in Figure <xref rid="pro2879-fig-0002" ref-type="fig">2</xref> mapped onto the sequence of PI4KIII&#x003b2;. There were a number of regions within PI4KIII&#x003b2; that showed very high levels of deuterium incorporation (&#x0003e;90% deuterium incorporation) even at these very short exposure times. Recent evidence suggests that the primary, but not sole, determinant of the rate of exchange of amide hydrogens is the involvement in secondary structure,<xref rid="pro2879-bib-0008" ref-type="ref">8</xref>, <xref rid="pro2879-bib-0009" ref-type="ref">9</xref>, <xref rid="pro2879-bib-0027" ref-type="ref">27</xref> suggesting that these rapidly exchanging regions in PI4KIII&#x003b2; are either intrinsically disordered or contain very dynamic secondary structure elements. These regions included the N&#x02010;terminus (residues 1&#x02013;130), a serine rich region from residues 242 to 289, a long linker from residues 408&#x02013;507 located within the kinase domain, the activation loop in the kinase domain, and the C&#x02010;terminal residues 785&#x02013;801.</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<bold>Identification of dynamic regions in PI4KIII&#x003b2;.</bold> Hydrogen deuterium exchange levels for the full length PI4KIII&#x003b2; enzyme after 3 seconds of deuterium exposure at zero degrees. Every point in the graph represents an individual peptide (See Fig. 1), with the central residue (i) graphed on the x&#x02010;axis versus HDX on the y&#x02010;axis. The domain organization is shown below, with areas showing high levels of deuterium incorporation shaded gray. Experiments were carried out in triplicate, and error bars are shown on the graphs (most are smaller than the size of the point, average standard deviation across entire dataset was 1.01%).</p></caption><graphic id="nlm-graphic-3" xlink:href="PRO-25-826-g002"/></fig><p>We also wanted to establish the important regions in both PI4KIII&#x003b2; and Rab11 that mediated the contacts between this complex. We carried out HDX&#x02010;MS experiments on both Rab11 and PI4KIII&#x003b2; at a number of time points (3, 30, 300 s at 21&#x000b0;C, and 3 s at 0&#x000b0;C), and significant decreases (&#x0003e;6% and 0.6 Da change in deuterium exchange at any time point, paired t&#x02010;test <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01) were seen in peptides covering the helical region of PI4KIII&#x003b2;, and throughout numerous regions within Rab11 (Fig. <xref rid="pro2879-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<bold>C. HDX curves for peptic peptides in both PI4KIII&#x003b2; and Rab11 in the presence and absence of their protein&#x02010;binding partner</bold>. <bold>A</bold>: Peptides in PI4KIII&#x003b2; with changes in HDX upon binding Rab11. A peptide spanning 319&#x02013;337 is also shown as an example of a peptide that has no change in HDX in the presence of Rab11. Curves were carried out in triplicate, and error bars are shown on the graphs (most are smaller than the size of the point). <bold>B</bold>: Peptides in Rab11 with changes in HDX upon binding PI4KIII&#x003b2;. <bold>C</bold>: Changes in HDX mapped on the sequence of both PI4KIII&#x003b2; and Rab11 according to the legend.</p></caption><graphic id="nlm-graphic-5" xlink:href="PRO-25-826-g003"/></fig><p>Using the HDX information describing both dynamic regions and conformational changes accompanying Rab11 binding, we designed a number of deletions [Fig. <xref rid="pro2879-fig-0004" ref-type="fig">4</xref>(A)] including an N&#x02010;terminal deletion from 1 to 120, two internal deletions (one from 249 to 287, and one from 408 to 507), and a C&#x02010;terminal deletion from 785 to 801. Individual deletions were screened for their expression, with each expressing at a similar level to the wild type enzyme. All deletions were then combined into a single construct that contained two internal deletions, as well as removing the N&#x02010;terminus and the C&#x02010;terminus. This construct, referred to from now on as xtalPI4K (HsPI4KB S294A 121&#x02013;784, &#x00394;249&#x02013;287, &#x00394;408&#x02013;507), enabled us to generate crystals of PI4KIII&#x003b2; in complex with Rab11. Diffracting crystals were only obtained in the presence of the Rab11 binding partner [Fig. <xref rid="pro2879-fig-0004" ref-type="fig">4</xref>(A)].</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<bold>Design of optimized crystallography constructs of PI4KIII&#x003b2;</bold>. <bold>A</bold>: Optimized X&#x02010;ray crystallography constructs designed using the summary of the information in Figures <xref rid="pro2879-fig-0002" ref-type="fig">2</xref> and <xref rid="pro2879-fig-0003" ref-type="fig">3</xref>. Four truncations were made in PI4KIII&#x003b2; (1&#x02010;120, 249&#x02010;287, 408&#x02010;507, and 785&#x02010;801, referred to as xtal&#x02010;PI4KIII&#x003b2;), and Rab11 was full&#x02010;length. Representative crystals of GTP&#x003b3;S Rab11 with Apo xtal&#x02010;PI4KIII&#x003b2;, best crystals diffracted to 2.65 &#x000c5;. <bold>B</bold>: HDX levels for the full length and truncated versions of PI4KIII&#x003b2; after 3 seconds of deuterium exposure at 0&#x000b0;. <bold>C</bold>: Pulldown assays with GST&#x02010;tagged Rab11 Q70L loaded with GTP&#x003b3;S for both the full&#x02010;length wild&#x02010;type PI4KIII&#x003b2; and xtal&#x02010;PI4KIII&#x003b2; constructs. The inputs and the bound proteins were analysed on SDS gels stained with Instant Blue. D: Lipid kinase assay of full&#x02010;length wild&#x02010;type PI4KIII&#x003b2; and xtal&#x02009;+&#x02009;cterm PI4KIII&#x003b2; constructs. Assays were carried out with 200 n<italic>M</italic> PI4KIII&#x003b2; in the presence of 0.5 mg/mL phosphatidylinositol vesicles with 10 &#x003bc;M ATP. Enzyme activity is normalized to the activity of the full length wild&#x02010;type enzyme. Substrate conversion of ATP was &#x0223c;15% for the wild type PI4KIII&#x003b2;.</p></caption><graphic id="nlm-graphic-7" xlink:href="PRO-25-826-g004"/></fig><p>A major concern when engineering proteins for structural studies is that the introduction of truncations may disrupt the native conformation, as well as the function of the enzyme. To verify that the HDX optimized construct was not structurally perturbed by the engineered deletions we carried out tests on both the structure and function of this enzyme compared with the full&#x02010;length enzyme. HDX&#x02010;MS experiments were carried out on both full length PI4KIII&#x003b2; and xtalPI4K, and these revealed that levels of deuterium incorporation for xtalPI4K were similar to full length PI4KIII&#x003b2; [Fig. <xref rid="pro2879-fig-0004" ref-type="fig">4</xref>(B)]. Importantly, there was no difference in dynamics within or around the active site of the enzyme. To verify that truncations did not change the activity or ability to bind protein partners, we carried out lipid kinase assays as well as GST pulldowns with GST&#x02010;tagged Rab11. We have previously shown that the C&#x02010;termini of both PI4K and PI3Ks are essential for their activity.<xref rid="pro2879-bib-0028" ref-type="ref">28</xref>, <xref rid="pro2879-bib-0029" ref-type="ref">29</xref> For this reason, we made a construct containing the N&#x02010;terminal and internal deletions, but with an intact C&#x02010;terminus (referred to as xtal PI4KIII&#x003b2; +cterm). This construct showed a slightly reduced (&#x0223c;70%) lipid kinase activity on pure PI vesicles compared to WT full length PI4KIII&#x003b2; [Fig. <xref rid="pro2879-fig-0004" ref-type="fig">4</xref>(D)]. Binding assays were carried out with the PI4KIII&#x003b2; binding partner Rab11 [Fig. <xref rid="pro2879-fig-0004" ref-type="fig">4</xref>(C)], and GST pull downs indicated that there was no qualitative difference in the ability of the xtalPI4K to bind to Rab11 compared with full length PI4KIII&#x003b2;.</p></sec><sec id="pro2879-sec-0004"><title>Structure of PI4K bound to GTP&#x003b3;S and GDP loaded Rab11</title><p>Using the HDX optimized constructs of PI4K and Rab11 we solved the structures of PI4KIII&#x003b2; in complex with Rab11&#x02010;GTP&#x003b3;S (2.65 &#x000c5;) and in complex with both Rab11&#x02010;GDP as well as the potent small molecule inhibitor BQR695 (3.2 &#x000c5;, Crystallographic details in Table <xref rid="pro2879-tbl-0001" ref-type="table-wrap">1</xref>). The HDX levels are shown mapped onto the structure of PI4KIII&#x003b2; [Fig. <xref rid="pro2879-fig-0005" ref-type="fig">5</xref>(A)]. The full details of the interaction of PI4KIII&#x003b2; with Rab11 were described in a recent manuscript that solved the structure of an intermediate deletion construct of PI4KIII&#x003b2; (121&#x02013;784 with an internal deletion from 408 to 507) bound to Rab11 at 2.99 &#x000c5; resolution.<xref rid="pro2879-bib-0028" ref-type="ref">28</xref> This structure revealed the molecular basis of its interaction with Rab11, as well as the molecular details of its interaction with the potent small molecule inhibitor PIK&#x02010;93, however, this construct was refractive to the generation of higher resolution crystals and only crystallized in the presence of PIK&#x02010;93.</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<bold>HDX and structures of PI4KIII&#x003b2; bound to GTP&#x003b3;S and GDP loaded Rab11</bold>. <bold>A</bold>: The hydrogen exchange levels of PI4KIII&#x003b2; at 3 s of exchange at 21&#x000b0;C were mapped onto the structure of PI4KIII&#x003b2; according to the legend. Predicted intrinsically disordered loops are indicated in red. <bold>B</bold>: Structure of PI4KIII&#x003b2; bound to GTP&#x003b3;S loaded Rab11. Helical domain is shown in blue, with the kinase domain shown in red and yellow. Rab11 is colored in green, with the switch regions colored orange. <bold>C</bold>: Structure of PI4KIII&#x003b2; bound to GDP loaded Rab11. Proteins are coloured accorded to the scheme described in B.</p></caption><graphic id="nlm-graphic-9" xlink:href="PRO-25-826-g005"/></fig><table-wrap id="pro2879-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Data Collection and Refinement Statistics</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Data collection</th><th align="center" valign="bottom" rowspan="1" colspan="1">PI4K_BQR695_Rab11_GDP</th><th align="center" valign="bottom" rowspan="1" colspan="1">PI4K_Rab11_GTP</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Wavelength (&#x000c3;)</td><td align="center" valign="top" rowspan="1" colspan="1">0.9797</td><td align="center" valign="top" rowspan="1" colspan="1">0.9797</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Space group</td><td align="center" valign="top" rowspan="1" colspan="1">P 21 21 21</td><td align="center" valign="top" rowspan="1" colspan="1">P 21 21 21</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unit cell</td><td align="center" valign="top" rowspan="1" colspan="1">48.82 105.4 188.85 90 90 90</td><td align="center" valign="top" rowspan="1" colspan="1">48.94 97.95 190.43 90 90 90</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total reflections</td><td align="center" valign="top" rowspan="1" colspan="1">62,007 (5729)</td><td align="center" valign="top" rowspan="1" colspan="1">172,902 (16552)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unique reflections</td><td align="center" valign="top" rowspan="1" colspan="1">16,065 (1499)</td><td align="center" valign="top" rowspan="1" colspan="1">27,470 (2709)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Multiplicity</td><td align="center" valign="top" rowspan="1" colspan="1">3.9 (3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">6.3 (6.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Completeness (%)</td><td align="center" valign="top" rowspan="1" colspan="1">95.56 (90.96)</td><td align="center" valign="top" rowspan="1" colspan="1">99.94 (99.96)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean I/sigma(I)</td><td align="center" valign="top" rowspan="1" colspan="1">8.12 (1.64)</td><td align="center" valign="top" rowspan="1" colspan="1">12.24 (2.50)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Wilson B&#x02010;factor</td><td align="center" valign="top" rowspan="1" colspan="1">91.96</td><td align="center" valign="top" rowspan="1" colspan="1">62.65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">R&#x02010;merge</td><td align="center" valign="top" rowspan="1" colspan="1">0.1008 (0.7039)</td><td align="center" valign="top" rowspan="1" colspan="1">0.1093 (0.9397)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">R&#x02010;meas</td><td align="center" valign="top" rowspan="1" colspan="1">0.1164</td><td align="center" valign="top" rowspan="1" colspan="1">0.1193</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CC1/2</td><td align="center" valign="top" rowspan="1" colspan="1">0.996 (0.815)</td><td align="center" valign="top" rowspan="1" colspan="1">0.997 (0.781)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CC*</td><td align="center" valign="top" rowspan="1" colspan="1">0.999 (0.948)</td><td align="center" valign="top" rowspan="1" colspan="1">0.999 (0.936)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Refinement</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resolution range (&#x000c3;)</td><td align="center" valign="top" rowspan="1" colspan="1">54.05&#x02013;3.2 (3.314&#x02013;3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">48.98&#x02013;2.65 (2.745&#x02013;2.65)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Reflections used for R&#x02010;free</td><td align="center" valign="top" rowspan="1" colspan="1">5%</td><td align="center" valign="top" rowspan="1" colspan="1">5%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">R&#x02010;work</td><td align="center" valign="top" rowspan="1" colspan="1">0.2553 (0.3936)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2161 (0.3919)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">R&#x02010;free</td><td align="center" valign="top" rowspan="1" colspan="1">0.2864 (0.3915)</td><td align="center" valign="top" rowspan="1" colspan="1">0.2460 (0.4466)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of nonhydrogen atoms</td><td align="center" valign="top" rowspan="1" colspan="1">5059</td><td align="center" valign="top" rowspan="1" colspan="1">5219</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Macromolecules</td><td align="center" valign="top" rowspan="1" colspan="1">5020</td><td align="center" valign="top" rowspan="1" colspan="1">5172</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ligands</td><td align="center" valign="top" rowspan="1" colspan="1">39</td><td align="center" valign="top" rowspan="1" colspan="1">43</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Water</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Protein residues</td><td align="center" valign="top" rowspan="1" colspan="1">622</td><td align="center" valign="top" rowspan="1" colspan="1">644</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RMS (bonds)</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RMS (angles)</td><td align="center" valign="top" rowspan="1" colspan="1">0.40</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ramachandran favored (%)</td><td align="center" valign="top" rowspan="1" colspan="1">95</td><td align="center" valign="top" rowspan="1" colspan="1">97</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ramachandran outliers (%)</td><td align="center" valign="top" rowspan="1" colspan="1">0.17</td><td align="center" valign="top" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Clashscore</td><td align="center" valign="top" rowspan="1" colspan="1">21.10</td><td align="center" valign="top" rowspan="1" colspan="1">3.83</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Average B&#x02010;factor</td><td align="center" valign="top" rowspan="1" colspan="1">110.80</td><td align="center" valign="top" rowspan="1" colspan="1">82.10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Macromolecules</td><td align="center" valign="top" rowspan="1" colspan="1">110.80</td><td align="center" valign="top" rowspan="1" colspan="1">82.10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ligands</td><td align="center" valign="top" rowspan="1" colspan="1">119.20</td><td align="center" valign="top" rowspan="1" colspan="1">88.80</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Solvent</td><td align="center" valign="top" rowspan="1" colspan="1">N.A.</td><td align="center" valign="top" rowspan="1" colspan="1">65.00</td></tr></tbody></table><table-wrap-foot><fn id="pro2879-note-0001"><p>Statistics for the highest&#x02010;resolution shell are shown in parentheses.</p></fn></table-wrap-foot></table-wrap><p>It has been postulated previously that PI4KIII&#x003b2; can bind to both GDP and GTP loaded Rab11,<xref rid="pro2879-bib-0028" ref-type="ref">28</xref> with a slight preference for the GTP loaded state. The structure of GDP loaded Rab11 bound to PI4KIII&#x003b2; reveals that the interface between these proteins is similar, to the interface for GTP loaded Rab11 bound to PI4KIII&#x003b2;, with the switch regions in Rab11 being disordered when bound to GDP [Fig. <xref rid="pro2879-fig-0005" ref-type="fig">5</xref>(B,C)], similar to what has been reported for previously reported GDP loaded Rab11 protein complexes.<xref rid="pro2879-bib-0030" ref-type="ref">30</xref>
+</p><p>The higher resolution crystals of the PI4KIII&#x003b2; bound to GTP&#x003b3;S&#x02010;Rab11 revealed novel molecular details of the PI4KIII&#x003b2;&#x02010;Rab11 interface. These crystals revealed formation of a helical element (residues 70&#x02013;77) within switch 2 (residues 72&#x02013;82) of Rab11 that was not present in structures of Rab11 GTP&#x003b3;S alone.<xref rid="pro2879-bib-0031" ref-type="ref">31</xref> This region of Rab11 is located at a crystallographic contact site with a symmetry&#x02010;related PI4KIII&#x003b2; molecule. To examine if this conformational change occurs in solution, we examined the H/D exchange information of Rab11 in the presence and absence of PI4KIII&#x003b2;, mapped on to the structure. Notably, there was a decrease in exchange in the region from 72 to 80 within switch 2 of Rab11 [Fig. <xref rid="pro2879-fig-0006" ref-type="fig">6</xref>(A)], and there is no direct contact between this region and PI4KIII&#x003b2;. This confirmed that there is indeed a conformational change in solution of the switch regions of Rab11 in the presence of PI4KIII&#x003b2;.</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>
+<bold>HDX&#x02010;MS of Rab11 bound to PI4K, and conformational changes in switch regions of Rab11</bold>. <bold>A</bold>: The HDX&#x02010;MS information from Figure <xref rid="pro2879-fig-0003" ref-type="fig">3</xref> mapped onto the structure of both PI4KIII&#x003b2; and Rab11. The structure of GTP&#x003b3;S loaded Rab11 alone (pdb: <ext-link ext-link-type="pdb" xlink:href="1OIW">1OIW</ext-link>) is shown to the left, with the HDX&#x02010;MS data plotted on the structure of PI4KIII&#x003b2; bound to GTP&#x003b3;S loaded Rab11 on the right. Decreases in exchange are indicated on the legend. Circled is the region of switch 2 showing a conformational change between the two structures. <bold>B</bold>: Structure of PI4KIII&#x003b2; bound to GTP&#x003b3;S loaded Rab11. Helical domain is shown in blue, with the kinase domain shown in red and yellow. Rab11 is colored in green, with the switch regions colored orange. The hydrophobic triad residues, as well as Thr67 are shown in yellow. <bold>C</bold>: Structure of GTP&#x003b3;S loaded Rab11 (from PDB: <ext-link ext-link-type="pdb" xlink:href="10IW">10IW</ext-link>
+<xref rid="pro2879-bib-0031" ref-type="ref">31</xref>). Proteins and residues are coloured according to the scheme described in B. <bold>D,E</bold>: The 2F0&#x02010;Fc density for both PI4KIII&#x003b2; bound to GTP&#x003b3;S and GTP&#x003b3;S loaded Rab11 for the hydrophobic triad and Thr67 molecules is shown. Maps were contoured at 1.2 &#x003c3;. The shift in conformation between these two states can also be visualized in Supporting Information movie 1.</p></caption><graphic id="nlm-graphic-11" xlink:href="PRO-25-826-g006"/></fig><p>The major consequence of the changed orientation of switch 2 is a reorientation of the hydrophobic triad of Rab11 (Phe48, Trp65, and Tyr80), which is involved in binding to downstream effector proteins [Fig. <xref rid="pro2879-fig-0006" ref-type="fig">6</xref>(B&#x02013;D] (Supporting Information movie 1).</p></sec><sec id="pro2879-sec-0005"><title>Structure of the active site of PI4KIII&#x003b2;</title><p>The fully optimized xtalPI4KIII&#x003b2; construct in complex with Rab11 formed crystals in the absence of small molecule inhibitors, and crystallization was amenable to soaking with a variety of small molecule inhibitors. Examination of the active site of Apo PI4KIII&#x003b2; (from the GTP revealed a small conformational change compared to PI4KIII&#x003b2; bound to PIK93, with K549 and D674 forming a salt bridge that occupies the active site [Fig. <xref rid="pro2879-fig-0006" ref-type="fig">6</xref>(A)].</p><p>The structure of PI4KIII&#x003b2; bound to the potent anti&#x02010;malarial compound BQR695 in complex with GDP loaded Rab11 was refined to a resolution of 3.2 &#x000c5; [Fig. <xref rid="pro2879-fig-0007" ref-type="fig">7</xref>(B,C)]. The compound BQR695 is a recently reported highly potent PI4KIII&#x003b2; inhibitor that has high potency against both the human (IC50&#x02009;=&#x02009;80 n<italic>M</italic>) and <italic>Plasmodium vivax</italic> (&#x0223c;3.5 n<italic>M</italic>) variants of PI4KIII&#x003b2;.<xref rid="pro2879-bib-0026" ref-type="ref">26</xref> The binding mode of this compound was unambiguous (Supporting Information Fig. S1), and the residues mediating this interaction are shown in Figure <xref rid="pro2879-fig-0007" ref-type="fig">7</xref>. This compound makes two putative hydrogen bonds with PI4KIII&#x003b2;, one between the nitrogen of the central quinoxaline and the amide hydrogen of V598, and one between the hydrogen on the amino group off the central quinoxaline with the carbonyl of A601. The hydrogen bond between V598 and the central quinoxaline is characteristic of many protein and lipid kinase inhibitors,<xref rid="pro2879-bib-0032" ref-type="ref">32</xref> as this mimics the hydrogen bond made with the N1 of the ATP adenine. This compound has been shown to be specific over PI3K kinases (10 fold more potent against PI4KIII&#x003b2; relative to p110&#x003b1;, and &#x0003e;100 fold more potent against PI4KIII&#x003b2; compared with all other class I and class III PI3K isoforms). Comparing the structure of PI4KIII&#x003b2; bound to BQR695 compared with structures of different PI3K inhibitor structures<xref rid="pro2879-bib-0033" ref-type="ref">33</xref>, <xref rid="pro2879-bib-0034" ref-type="ref">34</xref>, <xref rid="pro2879-bib-0035" ref-type="ref">35</xref>, <xref rid="pro2879-bib-0036" ref-type="ref">36</xref> reveals the molecular basis for this specificity. PI4KIII&#x003b2; has a larger binding pocket to accommodate the glycyl methyl amide group compared to the class I and class III PI3Ks. The wall of this pocket is composed of L383 in PI4KIII&#x003b2;, which corresponds to a tryptophan in class I PI3Ks, and a phenylalanine in class III PI3Ks [Fig. <xref rid="pro2879-fig-0007" ref-type="fig">7</xref>(D,E)]. The clash at this position is likely to interfere with the ability of the central quinoxaline of BQR695 to properly hydrogen bond with V598 of PI4KIII&#x003b2;.</p><fig fig-type="Figure" xml:lang="en" id="pro2879-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<bold>Structure of the active site of PI4KIII&#x003b2; in the Apo state and bound to the inhibitor BQR695</bold>. <bold>A</bold>: The active site of PI4KIII&#x003b2; in its Apo state, with the two residues (K549, D674) that have a change in conformation when compared with inhibitor bound states labeled. <bold>B</bold>: The fit of BQR695 in the PI4KIII&#x003b2; active site pocket. The kinase domain is colored with the N&#x02010;lobe shown in red, and the C&#x02010;lobe shown in yellow. <bold>C</bold>: Residues mediating the interaction of PI4KIII&#x003b2; with BQR695 are shown, with putative hydrogen bonds indicated by dotted lines. Figure generated using ligplot.<xref rid="pro2879-bib-0053" ref-type="ref">53</xref> D,E: Comparision of the PI4KIII&#x003b2; and class I PI3K (p110&#x003b1;) active site. Shown are the PI4KIII&#x003b2; structure with BQR695, and a model of p110&#x003b1; (derived from PDB: <ext-link ext-link-type="pdb" xlink:href="4JPS">4JPS</ext-link>
+<xref rid="pro2879-bib-0054" ref-type="ref">54</xref>) with BQR695. Residues in similar position in PI4KIII&#x003b2; and p110&#x003b1; are highlighted (L373 and L384 in PI4KIII&#x003b2;) and (M772 and W780 in p110&#x003b1;) are shown as sticks. Potential clashes in the p110&#x003b1; are highlighted in red.</p></caption><graphic id="nlm-graphic-13" xlink:href="PRO-25-826-g007"/></fig></sec></sec><sec id="pro2879-sec-0006"><title>Discussion</title><p>Structural mass spectrometry has become an extremely useful tool in determining the architecture, shape, and conformation of large macromolecular complexes.<xref rid="pro2879-bib-0037" ref-type="ref">37</xref> This information has been a major complement to the study of macromolecular complexes by high&#x02010;resolution approaches including NMR, X&#x02010;ray crystallography, and Cryo&#x02010;electron microscopy. However, structural mass spectrometry approaches are also extremely useful in generating constructs that are suitable for high&#x02010;resolution approaches. A major complication in the study of proteins by X&#x02010;ray crystallography is the design of constructs that are suitable for formation of ordered highly diffracting crystals. Structural genomics efforts have made significant inroads using a variety of biophysical and computational approaches to improve the generation of constructs amenable to X&#x02010;ray crystallography.<xref rid="pro2879-bib-0038" ref-type="ref">38</xref> HDX&#x02010;MS is particularly useful in the design of novel protein constructs, and it has been used to design optimized N&#x02010;terminal and C&#x02010;terminal deletion constructs for both X&#x02010;ray crystallography<xref rid="pro2879-bib-0012" ref-type="ref">12</xref> and NMR.<xref rid="pro2879-bib-0014" ref-type="ref">14</xref> While these removed disordered regions likely play key biological roles,<xref rid="pro2879-bib-0004" ref-type="ref">4</xref> their presence greatly hampers attempts for high resolution structural studies. HDX&#x02010;MS has also been extensively used for mapping protein&#x02010;protein interfaces, and conformational changes induced by either protein or small molecule binding partners.<xref rid="pro2879-bib-0039" ref-type="ref">39</xref>, <xref rid="pro2879-bib-0040" ref-type="ref">40</xref>, <xref rid="pro2879-bib-0041" ref-type="ref">41</xref> A major advantage of using HDX&#x02010;MS in tandem with high resolution approaches is that the information on conformational dynamics of protein complexes provided by HDX&#x02010;MS allows for the design of an optimized strategy to design novel constructs of these complexes.</p><p>Using HDX&#x02010;MS to identify disordered regions and map conformational changes in the kinase PI4KIII&#x003b2; bound to the small GTPase Rab11 allowed us to successfully crystallize this complex in the presence of both GTP&#x003b3;S and GDP loaded forms of Rab11 and to collect data to resolutions of 2.65 and 3.2 &#x000c5;, respectively. This approach also permitted us to generate crystals of PI4KIII&#x003b2; in the absence of small molecule inhibitors, enabling us to soak these crystals with the potent PI4K inhibitor BQR695, and solve the cocrystal structure with this compound. These structures have revealed novel molecular details about the mechanism of specificity of PI4K inhibitors, as well as providing new insight into the complex formed between PI4KIII&#x003b2; and Rab11.</p><p>Intriguingly, the combined crystallographic and dynamic information from HDX&#x02010;MS revealed conformational changes in the switch region of Rab11 upon PI4KIII&#x003b2; binding. Switch plasticity in Rab11 binding interactions has been noted for a number of Rab11 effector complexes, specifically in Rab11 bound to the motor protein myosin V,<xref rid="pro2879-bib-0030" ref-type="ref">30</xref> as well as in the complex of Rab11 with FIP3.<xref rid="pro2879-bib-0042" ref-type="ref">42</xref> This intriguing observation that PI4KIII&#x003b2; changes the conformation of the Rab11 switch regions both in solution and in the crystal structure, suggests that this may be a mechanism of how Rab11 could be biased toward binding specific effectors. This is a question that will require further study to verify if PI4KIII&#x003b2; is able to alter the affinity of Rab11 for various effector proteins. However, this does agree with recent work showing an increased affinity of Rab11 for its binding partner Rabin8 in the presence of the Rab11 effector FIP3.<xref rid="pro2879-bib-0043" ref-type="ref">43</xref>
+</p><p>This strategy of using HDX&#x02010;MS to identify disordered regions and conformational changes in protein complexes with the full&#x02010;length native proteins will be applicable to a wide variety of macromolecular complexes. Importantly, the HDX&#x02010;MS methodology also allowed us to verify that the newly generated optimized crystallography construct did not change the conformation compared to the full&#x02010;length wild type construct. This strategy will be extremely useful for proteins that are only stable in the context of a multisubunit assembly. There are many important signaling enzymes that are only stable when bound to their partners, and this HDX&#x02010;MS optimized crystallographic approach will be useful to obtain high resolution structural data on these complexes.</p></sec><sec id="pro2879-sec-0007"><title>Materials and Methods</title><sec id="pro2879-sec-0008"><title>Protein expression</title><p>Truncated human PI4KIII&#x003b2; and full&#x02010;length human Rab11a (Q70L) were expressed in BL21 C41 (DE3) cells. For Rab11a (Q70L) expression, cultures were grown to an OD<sub>600</sub> of 0.7 and induced with 0.5 m<italic>M</italic> IPTG for 3.5 h at 37&#x000b0;C. For truncated PI4KIII&#x003b2; expression, cultures were induced overnight at 16&#x000b0;C with 0.1 mM IPTG at an OD<sub>600</sub> of 0.6. Cells were harvested by centrifugation, washed with cold phosphate&#x02010;buffered saline (PBS), frozen in liquid nitrogen, and pellets were stored at &#x02212;80&#x000b0;C. Full length PI4KIII&#x003b2; was expressed from <italic>Spodoptera frugiperda</italic> (Sf9) cells by infecting 1&#x02013;4 L of cells at a density of 1.0 &#x000d7; 10<sup>6</sup> cells/mL with baculovirus encoding the kinase. All PI4K constructs had an N&#x02010;terminal 6xhis&#x02010;tag followed by a TEV protease site. After 48&#x02013;65 h infection at 27&#x000b0;C, Sf9 cells were harvested and washed with ice&#x02010;cold PBS.</p></sec><sec id="pro2879-sec-0009"><title>Protein purification</title><p>Pellets of cells expressing PI4KIII&#x003b2; were resuspended in lysis buffer [20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0 (4&#x000b0;C), 100 m<italic>M</italic> NaCl, 10 m<italic>M</italic> imidazole, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol, protease inhibitor cocktail (Millipore Protease Inhibitor Cocktail Set III, Animal&#x02010;Free)], and were sonicated on ice for 5 min. Triton X&#x02010;100 was then added to a final concentration of 0.2%, and the lysate was centrifuged for 45 min at 20,000<italic>g</italic>. The supernatant was then filtered through a 0.45 &#x000b5;m filter (Celltreat Scientific Products) and was loaded onto a 5 mL HisTrap FF column (GE Healthcare) equilibrated in buffer A [20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0 (4&#x000b0;C), 100 m<italic>M</italic> NaCl, 10 m<italic>M</italic> imidazole, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol]. The column was washed with 20 mL of buffer A, followed by 20 mL of 6% buffer B (20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 100 m<italic>M</italic> NaCl, 200 m<italic>M</italic> imidazole, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol), and was eluted with 100% buffer B. The His&#x02010;affinity tagged protein was cleaved overnight at 4&#x000b0;C with TEV protease. The cleaved protein was then diluted to 50 m<italic>M</italic> NaCl (using 20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 10 m<italic>M</italic> imidazole, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol) and was loaded onto a 5 mL HiTrap Q HP column (GE Healthcare) equilibrated in buffer C (20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 50 m<italic>M</italic> NaCl, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol). Protein was eluted with a gradient elution using buffer D (20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 1.0<italic>M</italic> NaCl, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol). Fractions containing the cleaved PI4KIII&#x003b2; were pooled and concentrated to 700 &#x003bc;L in an Amicon 50 K centrifugal filter (Millipore). The protein was then loaded onto a HiPrep 16/60 Sephacryl S200 column equilibrated in buffer E [20 m<italic>M</italic> HEPES pH 7.2, 150 m<italic>M</italic> NaCl, 1 m<italic>M</italic> Tris Carboxyl Ethyl Phosphine (TCEP)]. The cleaved PI4KIII&#x003b2; was then concentrated to &#x0003c;15 mg/mL in an Amicon 50 K centrifugal filter (Millipore), and aliquots were frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C.</p><p>Pellets of cells expressing Rab11 were resuspended in lysis buffer lacking imidazole [20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 100 m<italic>M</italic> NaCl, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol, protease inhibitor cocktail (Millipore Protease Inhibitor Cocktail Set III, Animal&#x02010;Free)]. Cells were sonicated and centrifuged as described for PI4KIII&#x003b2;. The supernatant was filtered through a 0.45 &#x000b5;m filter (Celltreat Scientific Products) and incubated for 1 hour with 4 mL of Glutathione Sepharose 4B beads (GE Healthcare) equilibrated in buffer F (20 m<italic>M</italic> Tris&#x02010;HCl pH 8.0, 100 m<italic>M</italic> NaCl, 5% (v/v) glycerol, 2 m<italic>M</italic> &#x003b2;&#x02010;mercaptoethanol) followed by a 3 &#x000d7; 15 mL wash in buffer F. The GST tag was cleaved overnight on the beads with TEV protease. Anion&#x02010;exchange chromatography was performed as outlined above for the truncated PI4KIII&#x003b2;. Cleaved and GST&#x02010;tagged Rab11a(Q70L) were then concentrated to between 5 and 15 mg/mL and nucleotide loaded by adding EDTA to 10 mM followed by 1 U of phosphatase (Phosphatase, Alkaline&#x02010;Agarose from calf intestine, Sigma P0762&#x02010;100UN) per mg of protein. Proteins were then incubated for 1.5 h. The phosphatase was removed using a 0.2 &#x000b5;m spin filter (Millipore); the flow&#x02010;through was collected, and a 10&#x02010;fold molar excess of GTP&#x003b3;S or GDP was added followed by MgCl<sub>2</sub> to a final concentration of 20 m<italic>M</italic>. Proteins were incubated for 30 min. GST&#x02010;tagged Rab11a(Q70L) was aliquoted and frozen in liquid nitrogen. Gel filtration was performed with cleaved GDP or GTP&#x003b3;S&#x02010;loaded Rab11a(Q70L) as described above for PI4KIII&#x003b2;.</p></sec><sec id="pro2879-sec-0010"><title>Pulldown assay</title><p>Glutathione Sepharose 4B beads (GE Healthcare) were washed three times by centrifugation and resuspension in fresh buffer G (20 m<italic>M</italic> Hepes pH 7.0, 100 m<italic>M</italic> NaCl, 2 m<italic>M</italic> TCEP) at 4&#x000b0;C. GST&#x02010;tagged bait protein [GST control or GST&#x02010;Rab11a Q70L (GTP&#x003b3;S)] was then added to a concentration of 5 &#x003bc;<italic>M</italic> and incubated with the beads on ice for 30 min. Beads were then washed three times with buffer G at 4&#x000b0;C. Nontagged prey proteins (PI4KIII&#x003b2; or truncated PI4KIII&#x003b2;) were then added to a final concentration of 5 &#x003bc;<italic>M</italic> at which point the input was taken for SDS PAGE analysis. The mixture was incubated on ice for an additional 30 min and then washed four times with buffer G at 4&#x000b0;C, at which time an aliquot was taken for SDS PAGE analysis.</p></sec><sec id="pro2879-sec-0011"><title>Lipid kinase assay</title><p>One hundred nanometer extruded PI vesicles were made with soybean phosphatidylinositol (Sigma) in lipid buffer [20 m<italic>M</italic> HEPES pH 7.5 (RT), 100 m<italic>M</italic> KCl, 0.5 m<italic>M</italic> EDTA] using the Avanti lipid mini&#x02010;extruder. Lipid kinase assays were carried out using the Transcreener&#x000ae; ADP<sup>2</sup> FI Assay (BellBrook Labs) following the published protocol as previously described<xref rid="pro2879-bib-0044" ref-type="ref">44</xref>; 4 &#x000b5;L Reactions ran at 21&#x000b0;C for 30 min in a buffer containing 30 m<italic>M</italic> Hepes pH 7.5 (RT), 100 m<italic>M</italic> NaCl, 50 m<italic>M</italic> KCl, 5 m<italic>M</italic> MgCl<sub>2</sub>, 0.25 m<italic>M</italic> EDTA, 0.4% v/v Triton&#x02010;X, 1 m<italic>M</italic> TCEP, 0.5 mg/mL PI vesicles and 10 &#x003bc;M ATP. Both full length human PI4KIIIB and the truncated PI4KIIIB crystal construct with the c&#x02010;term were run at 200 nM. Fluorescence intensity was measured using a Spectramax M5 plate reader with <italic>&#x003bb;</italic>ex&#x02009;=&#x02009;590 nm and <italic>&#x003bb;</italic>em&#x02009;=&#x02009;620 nm (20&#x02010;nm bandwidth).</p></sec><sec id="pro2879-sec-0012"><title>Hydrogen deuterium exchange mass spectrometry</title><p>HDX reactions were conducted with 10 &#x003bc;L of protein in Dilution Buffer (20 m<italic>M</italic> HEPES pH 7.5, 150 m<italic>M</italic> NaCl, 2 m<italic>M</italic> TCEP), and initiated by the addition of 40 &#x003bc;L of D<sub>2</sub>O Buffer Solution (10 m<italic>M</italic> HEPES pH 7.5, 50 m<italic>M</italic> NaCl, 2 m<italic>M</italic> TCEP, 92% D<sub>2</sub>O), to give a final concentration of 74% D<sub>2</sub>O. Final protein concentrations were 1 &#x003bc;<italic>M</italic>. A fully deuterated sample was generated by incubating protein with 1<italic>M</italic> guanidine&#x02010;HCl for 30 min, followed by overnight incubation with deuterated buffer at a final concentration of 74% D<sub>2</sub>O. Hydrogen exchange was terminated by the addition of a quench buffer (final concentration 0.6 M guanidine&#x02010;HCl, 0.8% formic acid). Samples were rapidly frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C until mass analysis.</p><p>Protein samples were rapidly thawed and injected onto a UPLC system immersed in ice as previously described.<xref rid="pro2879-bib-0045" ref-type="ref">45</xref> The protein was run over an immobilized pepsin column (Applied Biosystems; porosyme, 2&#x02010;3131&#x02010;00) at 130 &#x003bc;L/min for 3 min and the peptides were collected onto a VanGuard precolumn trap (Waters). The trap was subsequently eluted in line with an Acquity 1.7 &#x003bc;m particle, 100 &#x000d7; 1 mm<sup>2</sup> C18 UPLC column (Waters), using a gradient of 5&#x02010;36% B (buffer A 0.1% formic acid, buffer B 100% acetonitrile) over 20 min. Mass spectrometry experiments were performed on both a Xevo QTOF (Waters) as well as an Impact II TOF (Bruker) acquiring over a mass range from 350 to 1500 <italic>m/z</italic> for 30 min, using an electrospray ionization source operated at a temperature of 225&#x000b0;C, and a spray voltage of 2.5 kV (Xevo) or a temperature of 200&#x000b0;C, and a spray voltage of 4.5 kV (Impact).</p><p>Peptide identification was done by running tandem MS/MS experiments using a 5&#x02013;36% B gradient over 120 min. This was supplemented with a 20 min MS/MS gradient separation to identify and correct the retention time for all samples. MS/MS was run in data dependent acquisition mode with a 1 s precursor scan from 350 to 1500 <italic>m/z</italic>, followed by three fragment scans from 50 to 2000 <italic>m/z</italic> of 2s (Xevo) or a 0.5 s precursor scan from 200&#x02010;2000 <italic>m/z</italic>, followed by 12 fragment scans from 150 to 2000 <italic>m/z</italic> of 0.25 s (Impact). The resulting MS/MS datasets were analyzed with the Mascot search within Mascot distiller (Matrix Science). The MS tolerance in mascot was set to 3 ppm with an MS/MS tolerance at 0.1 Da. All peptides with a Mascot score &#x0003e;20 were analyzed using HD&#x02010;Examiner Software (Sierra Analytics). The full list of peptides was then manually validated by searching a non&#x02010;deuterated protein sample's MS scan to test for the correct <italic>m/z</italic> state, and check for the presence of overlapping peptides. Ambiguously identified peptides were excluded from all subsequent analysis. Marker peptides identified in the 20 and 120 min samples were used to adjust the retention time of the long MS/MS gradient before analysis of deuterium exchange. Retention time adjustment was carried out using HD&#x02010;Examiner Software (Sierra Analytics). The first round of analysis and identification were performed automatically by the HD&#x02010;Examiner software, but all peptides (deuterated and non&#x02010;deuterated) were manually verified at every state and time point for the correct charge state, <italic>m/z</italic> range, presence of overlapping peptides, and any deviation from the expected retention time. Any peptide that deviated from the expected mass by greater than 5 ppm was excluded from analysis. Corrections for back exchange were generated from a fully deuterated sample. All experiments were carried out in triplicate.</p></sec><sec id="pro2879-sec-0013"><title>Crystallography</title><p>Crystals of the optimized PI4KIII&#x003b2; construct with Rab11a&#x02010;GTP&#x003b3;S or Rab11a&#x02010;GDP were obtained in vapor phase equilibration plates in sitting drops. The reservoir solution was 15% (w/v) PEG&#x02010;4000, 100 mM sodium citrate pH 5.6, 200 m<italic>M</italic> ammonium sulfate and three volumes of protein were mixed with one volume in the crystallization drops, with a final drop volume of 2.5 &#x003bc;L. Refinement plates were set by gridding PEG&#x02010;4000, ammonium sulfate, and glycerol. Optimized crystals were obtained by seeding using the Hampton Research Seed Bead Kit according to the manufacturer's instructions. The best crystals were obtained in 13&#x02013;15% (w/v) PEG&#x02010;4000, 100 m<italic>M</italic> sodium citrate pH 5.6, 250 m<italic>M</italic> ammonium sulfate, 2% glycerol with a 1/1000 or 1/10,000 seed solution dilution, a Rab11a&#x02010;GTP&#x003b3;S final concentration of 4.51 mg/mL and a PI4K final concentration of 7.38 mg/mL. Crystals were frozen in liquid nitrogen using cryo buffer [15% PEG&#x02010;4000 (w/v), 100 m<italic>M</italic> sodium citrate pH 5.6, 250 m<italic>M</italic> ammonium sulfate, 25% (v/v) glycerol] cryoprotectant.</p><p>Inhibitor soaks were performed by incubating crystals with 0.5 &#x003bc;L of 10 &#x003bc;<italic>M</italic> inhibitor stocks in cryo buffer for 30 min, followed by a 30 min incubation with 0.5 &#x003bc;L of 100 &#x003bc;<italic>M</italic> inhibitor stock in cryo buffer, and a final 30 min incubation in 1 m<italic>M</italic> inhibitor stock in cryo buffer. Before the final addition, 1 &#x003bc;L was removed from the crystal drop and 1 &#x003bc;L of the 1 m<italic>M</italic> inhibitor in cryo buffer was added.</p><p>Data were collected at 100 K at the Canadian Macromolecular Crystallography Facility (Canadian Light Source, CLS) beamline 08ID&#x02010;1. Data were integrated using iMosflm 7.1.1<xref rid="pro2879-bib-0046" ref-type="ref">46</xref> and scaled with AIMLESS.<xref rid="pro2879-bib-0047" ref-type="ref">47</xref> Phases were initially obtained by molecular replacement using Phaser,<xref rid="pro2879-bib-0048" ref-type="ref">48</xref> with the structure of PI4KIII&#x003b2; bound to PIK&#x02010;93 and Rab11 (pdb code: <ext-link ext-link-type="pdb" xlink:href="4D0L">4D0L</ext-link>) used as the search model. The final model of Apo PI4KIII&#x003b2; bound to Rab11 was built using iterative model building in COOT<xref rid="pro2879-bib-0049" ref-type="ref">49</xref> and refinement using Phenix<xref rid="pro2879-bib-0050" ref-type="ref">50</xref>, <xref rid="pro2879-bib-0051" ref-type="ref">51</xref> to <italic>R</italic>
+<sub>work</sub>&#x02009;=&#x02009;21.6 and <italic>R</italic>
+<sub>free</sub>&#x02009;=&#x02009;24.6. The final model of PI4KIII&#x003b2; bound to BQR695 in complex with GDP loaded Rab11 was refined to <italic>R</italic>
+<sub>work</sub> =25.5 and <italic>R</italic>
+<sub>free</sub>&#x02009;=&#x02009;28.6. The binding mode of BQR695 was unambiguous, and ligand geometry was generated using the elbow subset of Phenix.<xref rid="pro2879-bib-0052" ref-type="ref">52</xref> Full crystallographic statistics are shown in Table <xref rid="pro2879-tbl-0001" ref-type="table-wrap">1</xref>. Electron density corresponding to GTP&#x003b3;S and GDP in Rab11 was clear and the mode of binding was unambiguous.</p></sec><sec id="pro2879-sec-0014"><title>Inhibitor synthesis</title><p>The BQR695 compound was synthesized according to the published protocol in McNamara <italic>et al</italic>.<xref rid="pro2879-bib-0026" ref-type="ref">26</xref>
+</p></sec></sec><sec id="pro2879-sec-0015"><title>Accession Numbers</title><p>Coordinates and structure factors have been deposited in the Protein Data Bank with PDB ID: <ext-link ext-link-type="pdb" xlink:href="5C46">5C46</ext-link> and <ext-link ext-link-type="pdb" xlink:href="5C4G">5C4G</ext-link>, for PI4KIII&#x003b2;/Rab11a&#x02010;GTP&#x003b3;S and PI4KIII&#x003b2;/BQR695/Rab11a&#x02010;GDP complexes, respectively.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="PRO-25-826-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information Movie 1.</p></caption><media xlink:href="PRO-25-826-s002.mov"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pro2879-sec-0016"><title>Acknowledgments</title><p>J.E.B. is supported by a new investigator grant from CIHR, a discovery research grant from the Natural Sciences and Engineering Research Council of Canada (NSERC&#x02010;2014&#x02010;05218), as well as a small project health research grant from the British Columbia Proteomics Network (BCPN). R.L.W. is funded by the British Heart Foundation (PG11/109/29247) and the MRC (file reference U10518430). K.M.S. wishes to thank NIH support (AI109622 and AI099245). The authors thank the staff at the Canadian Light Source (CLS) CMCF&#x02010;ID beam line where diffraction data were collected. The CLS is supported by the Natural Sciences and Engineering Research Council of Canada, the National Research Council Canada, the Canadian Institutes of Health Research, the Province of Saskatchewan, Western Economic Diversification Canada, and the University of Saskatchewan.</p></ack><ref-list content-type="cited-references"><title>References</title><ref id="pro2879-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="pro2879-cit-0001">
+<string-name>
+<surname>Nogales</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Scheres</surname>
+<given-names>SHW</given-names>
+</string-name> (<year>2015</year>) <article-title>Cryo&#x02010;EM: A unique tool for the visualization of macromolecular complexity</article-title>. <source>Mol Cell</source>
+<volume>58</volume>:<fpage>677</fpage>&#x02013;<lpage>689</lpage>.
+<pub-id pub-id-type="pmid">26000851</pub-id></mixed-citation></ref><ref id="pro2879-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="pro2879-cit-0002">
+<string-name>
+<surname>Ward</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Sodhi</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>McGuffin</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Buxton</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>DT</given-names>
+</string-name> (<year>2004</year>) <article-title>Prediction and functional analysis of native disorder in proteins from the three kingdoms of life</article-title>. <source>J Mol Biol</source>
+<volume>337</volume>:<fpage>635</fpage>&#x02013;<lpage>645</lpage>.
+<pub-id pub-id-type="pmid">15019783</pub-id></mixed-citation></ref><ref id="pro2879-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="pro2879-cit-0003">
+<string-name>
+<surname>Linding</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Diella</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bork</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2003</year>) <article-title>Protein disorder prediction: implications for structural proteomics</article-title>. <source>Struct Fold Des</source>
+<volume>11</volume>:<fpage>1453</fpage>&#x02013;<lpage>1459</lpage>.
+</mixed-citation></ref><ref id="pro2879-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="pro2879-cit-0004">
+<string-name>
+<surname>Tompa</surname>
+<given-names>P</given-names>
+</string-name> (<year>2012</year>) <article-title>Intrinsically disordered proteins: a 10&#x02010;year recap</article-title>. <source>Trends Biochem Sci</source>
+<volume>37</volume>:<fpage>509</fpage>&#x02013;<lpage>516</lpage>.
+<pub-id pub-id-type="pmid">22989858</pub-id></mixed-citation></ref><ref id="pro2879-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="pro2879-cit-0005">
+<string-name>
+<surname>Sugase</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Dyson</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>PE</given-names>
+</string-name> (<year>2007</year>) <article-title>Mechanism of coupled folding and binding of an intrinsically disordered protein</article-title>. <source>Nature</source>
+<volume>447</volume>:<fpage>1021</fpage>&#x02013;<lpage>1025</lpage>.
+<pub-id pub-id-type="pmid">17522630</pub-id></mixed-citation></ref><ref id="pro2879-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="pro2879-cit-0006">
+<string-name>
+<surname>Dyson</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>PE</given-names>
+</string-name> (<year>2002</year>) <article-title>Coupling of folding and binding for unstructured proteins</article-title>. <source>Curr Opin Struct Biol</source>
+<volume>12</volume>:<fpage>54</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="pmid">11839490</pub-id></mixed-citation></ref><ref id="pro2879-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="pro2879-cit-0007">
+<string-name>
+<surname>Engen</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2009</year>) <article-title>Analysis of protein conformation and dynamics by hydrogen/deuterium exchange MS</article-title>. <source>Anal Chem</source>
+<volume>81</volume>:<fpage>7870</fpage>&#x02013;<lpage>7875</lpage>.
+<pub-id pub-id-type="pmid">19788312</pub-id></mixed-citation></ref><ref id="pro2879-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="pro2879-cit-0008">
+<string-name>
+<surname>Skinner</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;dard</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Englander</surname>
+<given-names>SW</given-names>
+</string-name> (<year>2012</year>) <article-title>Protein hydrogen exchange: testing current models</article-title>. <source>Protein Sci</source>
+<volume>21</volume>:<fpage>987</fpage>&#x02013;<lpage>995</lpage>.
+<pub-id pub-id-type="pmid">22544567</pub-id></mixed-citation></ref><ref id="pro2879-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="pro2879-cit-0009">
+<string-name>
+<surname>Skinner</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;dard</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Englander</surname>
+<given-names>SW</given-names>
+</string-name> (<year>2012</year>) <article-title>Protein dynamics viewed by hydrogen exchange</article-title>. <source>Protein Sci</source>
+<volume>21</volume>:<fpage>996</fpage>&#x02013;<lpage>1005</lpage>.
+<pub-id pub-id-type="pmid">22544544</pub-id></mixed-citation></ref><ref id="pro2879-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="pro2879-cit-0010">
+<string-name>
+<surname>Balasubramaniam</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Komives</surname>
+<given-names>EA</given-names>
+</string-name> (<year>2013</year>) <article-title>Hydrogen&#x02010;exchange mass spectrometry for the study of intrinsic disorder in proteins</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1834</volume>:<fpage>1202</fpage>&#x02013;<lpage>1209</lpage>.
+<pub-id pub-id-type="pmid">23099262</pub-id></mixed-citation></ref><ref id="pro2879-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="pro2879-cit-0011">
+<string-name>
+<surname>Spraggon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pantazatos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Klock</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name>
+<surname>Lesley</surname>
+<given-names>SA</given-names>
+</string-name> (<year>2004</year>) <article-title>On the use of DXMS to produce more crystallizable proteins: structures of the T. maritima proteins TM0160 and TM1171</article-title>. <source>Protein Sci</source>
+<volume>13</volume>:<fpage>3187</fpage>&#x02013;<lpage>3199</lpage>.
+<pub-id pub-id-type="pmid">15557262</pub-id></mixed-citation></ref><ref id="pro2879-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="pro2879-cit-0012">
+<string-name>
+<surname>Pantazatos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Klock</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Lesley</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>
+<given-names>VL</given-names>
+</string-name> (<year>2004</year>) <article-title>Rapid refinement of crystallographic protein construct definition employing enhanced hydrogen/deuterium exchange MS</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>101</volume>:<fpage>751</fpage>&#x02013;<lpage>756</lpage>.
+<pub-id pub-id-type="pmid">14715906</pub-id></mixed-citation></ref><ref id="pro2879-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="pro2879-cit-0013">
+<string-name>
+<surname>Khan</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Whidby</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Scarborough</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zatorski</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Cygan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Yost</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Bohannon</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grakoui</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marcotrigiano</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>Structure of the core ectodomain of the hepatitis C virus envelope glycoprotein 2</article-title>. <source>Nature</source>
+<volume>509</volume>:<fpage>381</fpage>&#x02013;<lpage>384</lpage>.
+<pub-id pub-id-type="pmid">24553139</pub-id></mixed-citation></ref><ref id="pro2879-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="pro2879-cit-0014">
+<string-name>
+<surname>Sharma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Ertekin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hamuro</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tejero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Acton</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>L&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Swapna</surname>
+<given-names>GVT</given-names>
+</string-name>, <string-name>
+<surname>Aramini</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Montelione</surname>
+<given-names>GT</given-names>
+</string-name> (<year>2009</year>) <article-title>Construct optimization for protein NMR structure analysis using amide hydrogen/deuterium exchange mass spectrometry</article-title>. <source>Proteins</source>
+<volume>76</volume>:<fpage>882</fpage>&#x02013;<lpage>894</lpage>.
+<pub-id pub-id-type="pmid">19306341</pub-id></mixed-citation></ref><ref id="pro2879-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="pro2879-cit-0015">
+<string-name>
+<surname>Barclay</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Wales</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Garner</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Wachter</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Guerra</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Braun</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Bird</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Gavathiotis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Engen</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Walensky</surname>
+<given-names>LD</given-names>
+</string-name> (<year>2015</year>) <article-title>Inhibition of Pro&#x02010;apoptotic BAX by a noncanonical interaction mechanism</article-title>. <source>Mol Cell</source>
+<volume>57</volume>:<fpage>873</fpage>&#x02013;<lpage>886</lpage>.
+<pub-id pub-id-type="pmid">25684204</pub-id></mixed-citation></ref><ref id="pro2879-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="pro2879-cit-0016">
+<string-name>
+<surname>Shukla</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Westfield</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Reis</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>L&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Tripathi&#x02010;Shukla</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Blanc</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Oleskie</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Dosey</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C&#x02010;R</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>L&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>
+<given-names>J&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hanna</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>XJ</given-names>
+</string-name>, <string-name>
+<surname>Klink</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Kahsai</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Sidhu</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Koide</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Penczek</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Kossiakoff</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>
+<given-names>VL</given-names>, <suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Kobilka</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Skiniotis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lefkowitz</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>2014</year>) <article-title>Visualization of arrestin recruitment by a G&#x02010;protein&#x02010;coupled receptor</article-title>. <source>Nature</source>
+<volume>512</volume>:<fpage>218</fpage>&#x02013;<lpage>222</lpage>.
+<pub-id pub-id-type="pmid">25043026</pub-id></mixed-citation></ref><ref id="pro2879-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="pro2879-cit-0017">
+<string-name>
+<surname>Konermann</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Vahidi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sowole</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2014</year>) <article-title>Mass spectrometry methods for studying structure and dynamics of biological macromolecules</article-title>. <source>Anal Chem</source>
+<volume>86</volume>:<fpage>213</fpage>&#x02013;<lpage>232</lpage>.
+<pub-id pub-id-type="pmid">24304427</pub-id></mixed-citation></ref><ref id="pro2879-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="pro2879-cit-0018">
+<string-name>
+<surname>Vadas</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Dbouk</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Shymanets</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Abi Saab</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Khalil</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Harteneck</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bresnick</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>N&#x000fc;rnberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Backer</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2013</year>) <article-title>Molecular determinants of PI3K&#x003b3;&#x02010;mediated activation downstream of G&#x02010;protein&#x02010;coupled receptors (GPCRs)</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>110</volume>:<fpage>18862</fpage>&#x02013;<lpage>18867</lpage>.
+<pub-id pub-id-type="pmid">24190998</pub-id></mixed-citation></ref><ref id="pro2879-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="pro2879-cit-0019">
+<string-name>
+<surname>Walser</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Gogvadze</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bohnacker</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hess</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;enzi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Leitges</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Laffargue</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wymann</surname>
+<given-names>MP</given-names>
+</string-name> (<year>2013</year>) <article-title>PKC&#x003b2; phosphorylates PI3K&#x003b3; to activate it and release it from GPCR control</article-title>. <source>PLoS Biol</source>
+<volume>11</volume>:<fpage>e1001587</fpage>
+<pub-id pub-id-type="pmid">23824069</pub-id></mixed-citation></ref><ref id="pro2879-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="pro2879-cit-0020">
+<string-name>
+<surname>Percy</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Rey</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Burns</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Schriemer</surname>
+<given-names>DC</given-names>
+</string-name> (<year>2012</year>) <article-title>Probing protein interactions with hydrogen/deuterium exchange and mass spectrometry&#x02010;a review</article-title>. <source>Anal Chim Acta</source>
+<volume>721</volume>:<fpage>7</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">22405295</pub-id></mixed-citation></ref><ref id="pro2879-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="pro2879-cit-0021">
+<string-name>
+<surname>Clayton</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Minogue</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Waugh</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2013</year>) <article-title>Mammalian phosphatidylinositol 4&#x02010;kinases as modulators of membrane trafficking and lipid signaling networks</article-title>. <source>Prog Lipid Res</source>
+<volume>52</volume>:<fpage>294</fpage>&#x02013;<lpage>304</lpage>.
+<pub-id pub-id-type="pmid">23608234</pub-id></mixed-citation></ref><ref id="pro2879-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="pro2879-cit-0022">
+<string-name>
+<surname>Arita</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Philipov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Galabov</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2015</year>) <article-title>Phosphatidylinositol 4&#x02010;Kinase III Beta is the target of oxoglaucine and pachypodol (Ro 09&#x02010;0179) for their anti&#x02010;poliovirus activities, and locates at upstream of the target step of brefeldin A</article-title>. <source>Microbiol Immunol</source>
+<volume>59</volume>:<fpage>338</fpage>&#x02013;<lpage>347</lpage>.
+<pub-id pub-id-type="pmid">25891300</pub-id></mixed-citation></ref><ref id="pro2879-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="pro2879-cit-0023">
+<string-name>
+<surname>van der Schaar</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Leyssen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Thibaut</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>de Palma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van der Linden</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lanke</surname>
+<given-names>KHW</given-names>
+</string-name>, <string-name>
+<surname>Lacroix</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Verbeken</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Conrath</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Macleod</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Palmer</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>van de Poel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Neyts</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van Kuppeveld</surname>
+<given-names>FJM</given-names>
+</string-name> (<year>2013</year>) <article-title>A novel, broad&#x02010;spectrum inhibitor of enterovirus replication that targets host cell factor phosphatidylinositol 4&#x02010;kinase III&#x003b2;</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>57</volume>:<fpage>4971</fpage>&#x02013;<lpage>4981</lpage>.
+<pub-id pub-id-type="pmid">23896472</pub-id></mixed-citation></ref><ref id="pro2879-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="pro2879-cit-0024">
+<string-name>
+<surname>Altan&#x02010;Bonnet</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>T</given-names>
+</string-name> (<year>2012</year>) <article-title>Phosphatidylinositol 4&#x02010;kinases: hostages harnessed to build panviral replication platforms</article-title>. <source>Trends Biochem Sci</source>
+<volume>37</volume>:<fpage>293</fpage>&#x02013;<lpage>302</lpage>.
+<pub-id pub-id-type="pmid">22633842</pub-id></mixed-citation></ref><ref id="pro2879-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="pro2879-cit-0025">
+<string-name>
+<surname>Hsu</surname>
+<given-names>N&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Ilnytska</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Belov</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Santiana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Takvorian</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Pau</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>van der Schaar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kaushik&#x02010;Basu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Ehrenfeld</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>van Kuppeveld</surname>
+<given-names>FJM</given-names>
+</string-name>, <string-name>
+<surname>Altan&#x02010;Bonnet</surname>
+<given-names>N</given-names>
+</string-name> (<year>2010</year>) <article-title>Viral reorganization of the secretory pathway generates distinct organelles for RNA replication</article-title>. <source>Cell</source>
+<volume>141</volume>:<fpage>799</fpage>&#x02013;<lpage>811</lpage>.
+<pub-id pub-id-type="pmid">20510927</pub-id></mixed-citation></ref><ref id="pro2879-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="pro2879-cit-0026">
+<string-name>
+<surname>McNamara</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>MCS</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Roland</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nagle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Yeung</surname>
+<given-names>BKS</given-names>
+</string-name>, <string-name>
+<surname>Chatterjee</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>McCormack</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Manary</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zeeman</surname>
+<given-names>A&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Dechering</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>TRS</given-names>
+</string-name>, <string-name>
+<surname>Henrich</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Gagaring</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ibanez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kuhen</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Fischli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rottmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Plouffe</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Bursulaya</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Meister</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rameh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Haasen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Timmerman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sauerwein</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Suwanarusk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Renia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nosten</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tully</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Kocken</surname>
+<given-names>CHM</given-names>
+</string-name>, <string-name>
+<surname>Glynne</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Bodenreider</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fidock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Diagana</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Winzeler</surname>
+<given-names>EA</given-names>
+</string-name> (<year>2013</year>) <article-title>Targeting Plasmodium PI(4)K to eliminate malaria</article-title>. <source>Nature</source>
+<volume>504</volume>:<fpage>248</fpage>&#x02013;<lpage>253</lpage>.
+<pub-id pub-id-type="pmid">24284631</pub-id></mixed-citation></ref><ref id="pro2879-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="pro2879-cit-0027">
+<string-name>
+<surname>McAllister</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Konermann</surname>
+<given-names>L</given-names>
+</string-name> (<year>2015</year>) <article-title>Challenges in the interpretation of protein h/d exchange data: a molecular dynamics simulation perspective</article-title>. <source>Biochemistry</source>
+<volume>54</volume>:<fpage>2683</fpage>&#x02013;<lpage>2692</lpage>.
+<pub-id pub-id-type="pmid">25860179</pub-id></mixed-citation></ref><ref id="pro2879-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="pro2879-cit-0028">
+<string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Inglis</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Masson</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>McLaughlin</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Rutaganira</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Shokat</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2014</year>) <article-title>Structures of PI4KIII&#x003b2; complexes show simultaneous recruitment of Rab11 and its effectors</article-title>. <source>Science</source>
+<volume>344</volume>:<fpage>1035</fpage>&#x02013;<lpage>1038</lpage>.
+<pub-id pub-id-type="pmid">24876499</pub-id></mixed-citation></ref><ref id="pro2879-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="pro2879-cit-0029">
+<string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Vadas</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Berndt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Finegan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2011</year>) <article-title>Dynamics of the phosphoinositide 3&#x02010;kinase p110d interaction with p85a and membranes reveals aspects of regulation distinct from p110a</article-title>. <source>Structure</source>
+<volume>19</volume>:<fpage>1127</fpage>&#x02013;<lpage>1137</lpage>.
+<pub-id pub-id-type="pmid">21827948</pub-id></mixed-citation></ref><ref id="pro2879-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="pro2879-cit-0030">
+<string-name>
+<surname>Pylypenko</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Attanda</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gauquelin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lahmani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Coulibaly</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Baron</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hoos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Titus</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>England</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Houdusse</surname>
+<given-names>AM</given-names>
+</string-name> (<year>2013</year>) <article-title>Structural basis of myosin V Rab GTPase&#x02010;dependent cargo recognition</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>110</volume>:<fpage>20443</fpage>&#x02013;<lpage>20448</lpage>.
+<pub-id pub-id-type="pmid">24248336</pub-id></mixed-citation></ref><ref id="pro2879-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="pro2879-cit-0031">
+<string-name>
+<surname>Pasqualato</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Senic&#x02010;Matuglia</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Renault</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Goud</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Salamero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cherfils</surname>
+<given-names>J</given-names>
+</string-name> (<year>2004</year>) <article-title>The structural GDP/GTP cycle of Rab11 reveals a novel interface involved in the dynamics of recycling endosomes</article-title>. <source>J Biol Chem</source>
+<volume>279</volume>:<fpage>11480</fpage>&#x02013;<lpage>11488</lpage>.
+<pub-id pub-id-type="pmid">14699104</pub-id></mixed-citation></ref><ref id="pro2879-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="pro2879-cit-0032">
+<string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zorn</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Kuriyan</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>A structural atlas of kinases inhibited by clinically approved drugs</article-title>. <source>Methods Enzymol</source>
+<volume>548</volume>:<fpage>23</fpage>&#x02013;<lpage>67</lpage>.
+<pub-id pub-id-type="pmid">25399641</pub-id></mixed-citation></ref><ref id="pro2879-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="pro2879-cit-0033">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Vadas</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hawkins</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2011</year>) <article-title>Structure of lipid kinase p110b/p85b elucidates an unusual SH2&#x02010;domain&#x02010;mediated inhibitory mechanism</article-title>. <source>Mol Cell</source>
+<volume>41</volume>:<fpage>567</fpage>&#x02013;<lpage>578</lpage>.
+<pub-id pub-id-type="pmid">21362552</pub-id></mixed-citation></ref><ref id="pro2879-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="pro2879-cit-0034">
+<string-name>
+<surname>Miller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tavshanjian</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Oleksy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Houseman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Shokat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>R</given-names>
+</string-name> (<year>2010</year>) <article-title>Shaping development of autophagy inhibitors with the structure of the lipid kinase Vps34</article-title>. <source>Science</source>
+<volume>327</volume>:<fpage>1638</fpage>&#x02013;<lpage>1642</lpage>.
+<pub-id pub-id-type="pmid">20339072</pub-id></mixed-citation></ref><ref id="pro2879-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="pro2879-cit-0035">
+<string-name>
+<surname>Apsel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nazif</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aizenstein</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shokat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Knight</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2008</year>) <article-title>Targeted polypharmacology: discovery of dual inhibitors of tyrosine and phosphoinositide kinases</article-title>. <source>Nat Chem Biol</source>
+<volume>4</volume>:<fpage>691</fpage>&#x02013;<lpage>699</lpage>.
+<pub-id pub-id-type="pmid">18849971</pub-id></mixed-citation></ref><ref id="pro2879-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="pro2879-cit-0036">
+<string-name>
+<surname>Knight</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zunder</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Goldenberg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Loewith</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stokoe</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Toth</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Shokat</surname>
+<given-names>KM</given-names>
+</string-name> (<year>2006</year>) <article-title>A pharmacological map of the PI3&#x02010;K family defines a role for p110alpha in insulin signaling</article-title>. <source>Cell</source>
+<volume>125</volume>:<fpage>733</fpage>&#x02013;<lpage>747</lpage>.
+<pub-id pub-id-type="pmid">16647110</pub-id></mixed-citation></ref><ref id="pro2879-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="pro2879-cit-0037">
+<string-name>
+<surname>Walzthoeni</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Leitner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Stengel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Aebersold</surname>
+<given-names>R</given-names>
+</string-name> (<year>2013</year>) <article-title>Mass spectrometry supported determination of protein complex structure</article-title>. <source>Curr Opin Struct Biol</source>
+<volume>23</volume>:<fpage>252</fpage>&#x02013;<lpage>260</lpage>.
+<pub-id pub-id-type="pmid">23522702</pub-id></mixed-citation></ref><ref id="pro2879-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="pro2879-cit-0038">
+<string-name>
+<surname>Garman</surname>
+<given-names>EF</given-names>
+</string-name> (<year>2014</year>) <article-title>Developments in x&#x02010;ray crystallographic structure determination of biological macromolecules</article-title>. <source>Science</source>
+<volume>343</volume>:<fpage>1102</fpage>&#x02013;<lpage>1108</lpage>.
+<pub-id pub-id-type="pmid">24604194</pub-id></mixed-citation></ref><ref id="pro2879-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="pro2879-cit-0039">
+<string-name>
+<surname>Konermann</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Sowole</surname>
+<given-names>MA</given-names>
+</string-name> (<year>2014</year>) <article-title>Type 1 and Type 2 scenarios in hydrogen exchange mass spectrometry studies on protein&#x02010;ligand complexes</article-title>. <source>Analyst</source>
+<volume>139</volume>:<fpage>6078</fpage>&#x02013;<lpage>6087</lpage>.
+<pub-id pub-id-type="pmid">25319399</pub-id></mixed-citation></ref><ref id="pro2879-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="pro2879-cit-0040">
+<string-name>
+<surname>Pirrone</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Iacob</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Engen</surname>
+<given-names>JR</given-names>
+</string-name> (<year>2015</year>) <article-title>Applications of hydrogen/deuterium exchange MS from 2012 to 2014</article-title>. <source>Anal Chem</source>
+<volume>87</volume>:<fpage>99</fpage>&#x02013;<lpage>118</lpage>.
+<pub-id pub-id-type="pmid">25398026</pub-id></mixed-citation></ref><ref id="pro2879-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="pro2879-cit-0041">
+<string-name>
+<surname>Sowole</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Konermann</surname>
+<given-names>L</given-names>
+</string-name> (<year>2014</year>) <article-title>Effects of protein&#x02010;ligand interactions on hydrogen/deuterium exchange kinetics: canonical and noncanonical scenarios</article-title>. <source>Anal Chem</source>
+<volume>86</volume>:<fpage>6715</fpage>&#x02013;<lpage>6722</lpage>.
+<pub-id pub-id-type="pmid">24904985</pub-id></mixed-citation></ref><ref id="pro2879-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="pro2879-cit-0042">
+<string-name>
+<surname>Eathiraj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mishra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Prekeris</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lambright</surname>
+<given-names>DG</given-names>
+</string-name> (<year>2006</year>) <article-title>Structural basis for Rab11&#x02010;mediated recruitment of FIP3 to recycling endosomes</article-title>. <source>J Mol Biol</source>
+<volume>364</volume>:<fpage>121</fpage>&#x02013;<lpage>135</lpage>.
+<pub-id pub-id-type="pmid">17007872</pub-id></mixed-citation></ref><ref id="pro2879-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="pro2879-cit-0043">
+<string-name>
+<surname>Vetter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stehle</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Basquin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lorentzen</surname>
+<given-names>E</given-names>
+</string-name> (<year>2015</year>) <article-title>Structure of Rab11&#x02010;FIP3&#x02010;Rabin8 reveals simultaneous binding of FIP3 and Rabin8 effectors to Rab11</article-title>. <source>Nat Struct Mol Biol</source>
+<volume>22</volume>:<fpage>695</fpage>&#x02013;<lpage>702</lpage>.
+<pub-id pub-id-type="pmid">26258637</pub-id></mixed-citation></ref><ref id="pro2879-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="pro2879-cit-0044">
+<string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2013</year>) <article-title>Dynamic steps in receptor tyrosine kinase mediated activation of class IA phosphoinositide 3&#x02010;kinases (PI3K) captured by H/D exchange (HDX&#x02010;MS)</article-title>. <source>Adv Biol Regul</source>
+<volume>53</volume>:<fpage>97</fpage>&#x02013;<lpage>110</lpage>.
+<pub-id pub-id-type="pmid">23194976</pub-id></mixed-citation></ref><ref id="pro2879-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="pro2879-cit-0045">
+<string-name>
+<surname>Burke</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Perisic</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Masson</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Vadas</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>RL</given-names>
+</string-name> (<year>2012</year>) <article-title>Oncogenic mutations mimic and enhance dynamic events in the natural activation of phosphoinositide 3&#x02010;kinase p110&#x003b1; (PIK3CA)</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>109</volume>:<fpage>15259</fpage>&#x02013;<lpage>15264</lpage>.
+<pub-id pub-id-type="pmid">22949682</pub-id></mixed-citation></ref><ref id="pro2879-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="pro2879-cit-0046">
+<string-name>
+<surname>Battye</surname>
+<given-names>TGG</given-names>
+</string-name>, <string-name>
+<surname>Kontogiannis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Leslie</surname>
+<given-names>AGW</given-names>
+</string-name> (<year>2011</year>) <article-title>iMOSFLM: a new graphical interface for diffraction&#x02010;image processing with MOSFLM</article-title>. <source>Acta Cryst D</source>
+<volume>67</volume>:<fpage>271</fpage>&#x02013;<lpage>281</lpage>.
+<pub-id pub-id-type="pmid">21460445</pub-id></mixed-citation></ref><ref id="pro2879-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="pro2879-cit-0047">
+<string-name>
+<surname>Evans</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Murshudov</surname>
+<given-names>GN</given-names>
+</string-name> (<year>2013</year>) <article-title>How good are my data and what is the resolution?</article-title>
+<source>Acta Cryst D</source>
+<volume>69</volume>:<fpage>1204</fpage>&#x02013;<lpage>1214</lpage>.
+<pub-id pub-id-type="pmid">23793146</pub-id></mixed-citation></ref><ref id="pro2879-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="pro2879-cit-0048">
+<string-name>
+<surname>McCoy</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Grosse&#x02010;Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Winn</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Storoni</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Read</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>2007</year>) <article-title>Phaser crystallographic software</article-title>. <source>J Appl Cryst</source>
+<volume>40</volume>:<fpage>658</fpage>&#x02013;<lpage>674</lpage>.
+<pub-id pub-id-type="pmid">19461840</pub-id></mixed-citation></ref><ref id="pro2879-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="pro2879-cit-0049">
+<string-name>
+<surname>Emsley</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lohkamp</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Cowtan</surname>
+<given-names>K</given-names>
+</string-name> (<year>2010</year>) <article-title>Features and development of Coot</article-title>. <source>Acta Cryst D</source>
+<volume>66</volume>:<fpage>486</fpage>&#x02013;<lpage>501</lpage>.
+<pub-id pub-id-type="pmid">20383002</pub-id></mixed-citation></ref><ref id="pro2879-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="pro2879-cit-0050">
+<string-name>
+<surname>Adams</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Bunk&#x000f3;czi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name>
+<surname>Echols</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Headd</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Hung</surname>
+<given-names>L&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kapral</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Grosse&#x02010;Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>McCoy</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Moriarity</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Oeffner</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Read</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Terwilliger</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Zwart</surname>
+<given-names>PH</given-names>
+</string-name> (<year>2011</year>) <article-title>The Phenix software for automated determination of macromolecular structures</article-title>. <source>Methods</source>
+<volume>55</volume>:<fpage>94</fpage>&#x02013;<lpage>106</lpage>.
+<pub-id pub-id-type="pmid">21821126</pub-id></mixed-citation></ref><ref id="pro2879-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="pro2879-cit-0051">
+<string-name>
+<surname>Afonine</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Grosse&#x02010;Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Echols</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Headd</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Moriarty</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Mustyakimov</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Terwilliger</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Urzhumtsev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zwart</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>PD</given-names>
+</string-name> (<year>2012</year>) <article-title>Towards automated crystallographic structure refinement with phenix.refine</article-title>. <source>Acta Cryst D</source>
+<volume>68</volume>:<fpage>352</fpage>&#x02013;<lpage>367</lpage>.
+<pub-id pub-id-type="pmid">22505256</pub-id></mixed-citation></ref><ref id="pro2879-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="pro2879-cit-0052">
+<string-name>
+<surname>Moriarty</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Grosse&#x02010;Kunstleve</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>PD</given-names>
+</string-name> (<year>2009</year>) <article-title>electronic Ligand Builder and Optimization Workbench (eLBOW): a tool for ligand coordinate and restraint generation</article-title>. <source>Acta Cryst D</source>
+<volume>65</volume>:<fpage>1074</fpage>&#x02013;<lpage>1080</lpage>.
+<pub-id pub-id-type="pmid">19770504</pub-id></mixed-citation></ref><ref id="pro2879-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="pro2879-cit-0053">
+<string-name>
+<surname>Laskowski</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Swindells</surname>
+<given-names>MB</given-names>
+</string-name> (<year>2011</year>) <article-title>LigPlot+: multiple ligand&#x02010;protein interaction diagrams for drug discovery</article-title>. <source>J Chem Inf Model</source>
+<volume>51</volume>:<fpage>2778</fpage>&#x02013;<lpage>2786</lpage>.
+<pub-id pub-id-type="pmid">21919503</pub-id></mixed-citation></ref><ref id="pro2879-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="pro2879-cit-0054">
+<string-name>
+<surname>Furet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Guagnano</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fairhurst</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Imbach&#x02010;Weese</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Knapp</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fritsch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Blasco</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Blanz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Aichholz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hamon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fabbro</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Caravatti</surname>
+<given-names>G</given-names>
+</string-name> (<year>2013</year>) <article-title>Discovery of NVP&#x02010;BYL719 a potent and selective phosphatidylinositol&#x02010;3 kinase alpha inhibitor selected for clinical evaluation</article-title>. <source>Bioorgan Med Chem Lett</source>
+<volume>23</volume>:<fpage>3741</fpage>&#x02013;<lpage>3748</lpage>.
+</mixed-citation></ref></ref-list></back></article>

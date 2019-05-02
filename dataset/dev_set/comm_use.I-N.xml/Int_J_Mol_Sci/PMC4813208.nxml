@@ -1,0 +1,732 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27005613</article-id><article-id pub-id-type="pmc">4813208</article-id><article-id pub-id-type="doi">10.3390/ijms17030347</article-id><article-id pub-id-type="publisher-id">ijms-17-00347</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Hypertension and Dementia: Epidemiological and Experimental Evidence Revealing a Detrimental Relationship</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Perrotta</surname><given-names>Marialuisa</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00347">1</xref></contrib><contrib contrib-type="author"><name><surname>Lembo</surname><given-names>Giuseppe</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00347">1</xref><xref ref-type="aff" rid="af2-ijms-17-00347">2</xref><xref rid="c1-ijms-17-00347" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Carnevale</surname><given-names>Daniela</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00347">1</xref><xref ref-type="aff" rid="af2-ijms-17-00347">2</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Kaddoumi</surname><given-names>Amal</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-17-00347"><label>1</label>Department of Angiocardioneurology and Translational Medicine, IRCCS Neuromed, 86077 Pozzilli, Italy; <email>m.perrotta1@studenti.unimol.it</email> (M.P.); <email>daniela.carnevale@neuromed.it</email> (D.C.)</aff><aff id="af2-ijms-17-00347"><label>2</label>Department of Molecular Medicine, &#x0201c;Sapienza&#x0201d; University of Rome, 00161 Rome, Italy</aff><author-notes><corresp id="c1-ijms-17-00347"><label>*</label>Correspondence: <email>lembo@neuromed.it</email>; Tel.: +39-0865-915-225; Fax: +39-0865-927-575</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2016</year></pub-date><volume>17</volume><issue>3</issue><elocation-id>347</elocation-id><history><date date-type="received"><day>21</day><month>12</month><year>2015</year></date><date date-type="accepted"><day>29</day><month>2</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Hypertension and dementia represent two major public health challenges worldwide, notably in the elderly population. Although these two conditions have classically been recognized as two distinct diseases, mounting epidemiological, clinical and experimental evidence suggest that hypertension and dementia are strictly intertwined. Here, we briefly report how hypertension profoundly affects brain homeostasis, both at the structural and functional level. Chronic high blood pressure modifies the cerebral vasculature, increasing the risk of A&#x003b2; clearance impairment. The latter, excluding genetic etiologies, is considered one of the main causes of A&#x003b2; deposition in the brain. Studies have shown that hypertension induces cerebral arterial stiffening and microvascular dysfunction, thus contributing to dementia pathophysiology. This review examines the existing and the updated literature which has attempted to explain and clarify the relationship between hypertension and dementia at the pathophysiological level.</p></abstract><kwd-group><kwd>hypertension</kwd><kwd>cerebrovascular dysfunction</kwd><kwd>vascular cognitive impairment</kwd><kwd>molecular mechanisms</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijms-17-00347"><title>1. Introduction</title><p>Hypertension is considered one of the leading causes of morbidity and mortality worldwide, despite considerable success of treatment and prevention [<xref rid="B1-ijms-17-00347" ref-type="bibr">1</xref>]. Although often neglected, the brain is one of the main target organs subjected to detrimental dysfunctions caused by high blood pressure. Indeed, hypertension is the leading risk factor for acute cerebrovascular events like stroke [<xref rid="B2-ijms-17-00347" ref-type="bibr">2</xref>], but it is also known to be the cause for chronic disorders severely affecting cognitive function, <italic>i.e.</italic>, vascular cognitive impairment (VCI) as well as dementia [<xref rid="B3-ijms-17-00347" ref-type="bibr">3</xref>]. Although the typical neuropathological features of Alzheimer&#x02019;s disease (AD)&#x02014;and more in general of dementia&#x02014;have been classically ascribed to alterations in the neuronal components of the brain [<xref rid="B4-ijms-17-00347" ref-type="bibr">4</xref>], it is now well known that late-life dementia is frequently attributable to a vascular etiology [<xref rid="B5-ijms-17-00347" ref-type="bibr">5</xref>]. On this issue, hypertension is one of the most powerful vascular risk factors increasingly associated with the development of late-life dementia.</p><p>Hypertension has deep effects on brain vessels: it alters the structure of cerebral vasculature and causes atherosclerotic plaque development, both in cerebral arteries and arterioles [<xref rid="B6-ijms-17-00347" ref-type="bibr">6</xref>]. Moreover, hypertension is also responsible for the alteration of all the functional adaptive mechanisms of brain vessels, e.g., resting cerebral blood flow (CBF), functional hyperemia and endothelium-dependent relaxation of cerebral blood vessels [<xref rid="B7-ijms-17-00347" ref-type="bibr">7</xref>,<xref rid="B8-ijms-17-00347" ref-type="bibr">8</xref>]. More importantly, it has been clearly reported how hypertension can alter cerebrovascular autoregulation mechanisms, leading to a right shift of the pressure-flow curve [<xref rid="B9-ijms-17-00347" ref-type="bibr">9</xref>]. Thus, in hypertension, higher perfusion pressures are needed to maintain constant the CBF levels.</p><p>The association between hypertension and dementia is supported by a great clinical relevance. In the last decades, there have been various basic science research reports attempting to investigate the specific molecular link between the two pathological conditions. However, the genetic mouse models of AD could not reproduce the manifold aspects of the human neuropathology that, in the vast majority of patients, contributes to late-life dementia.</p><p>In this scenario, our group has developed a murine model of hypertension-induced AD, attempting to dissect the molecular mechanisms at the basis of the relationship between chronic hypertension and dementia-like features [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>,<xref rid="B11-ijms-17-00347" ref-type="bibr">11</xref>,<xref rid="B12-ijms-17-00347" ref-type="bibr">12</xref>]. More recently, other studies have further supported this novel perspective in approaching late-life dementia [<xref rid="B13-ijms-17-00347" ref-type="bibr">13</xref>,<xref rid="B14-ijms-17-00347" ref-type="bibr">14</xref>,<xref rid="B15-ijms-17-00347" ref-type="bibr">15</xref>]. Several epidemiological data have associated, in the elderly, increased blood pressure, angina and arterial fibrillation with a more rapid decline of cognitive functions [<xref rid="B16-ijms-17-00347" ref-type="bibr">16</xref>,<xref rid="B17-ijms-17-00347" ref-type="bibr">17</xref>,<xref rid="B18-ijms-17-00347" ref-type="bibr">18</xref>,<xref rid="B19-ijms-17-00347" ref-type="bibr">19</xref>]. An epidemiological study reported that the treatment of vascular risk factors slows the cognitive decline in AD patients [<xref rid="B18-ijms-17-00347" ref-type="bibr">18</xref>]. This evidence suggests the importance of detecting and controlling increased blood pressure in midlife.</p><p>Here we will briefly review the main research describing the structural and functional alterations induced by chronic hypertension in the brain. Then, we will examine basic science papers that have attempted to unveil the pathophysiological link between hypertension and dementia.</p></sec><sec id="sec2-ijms-17-00347"><title>2. The Hypertensive Response in the Brain: Structural and Functional Alterations in Cerebral Vasculature</title><p>Hypertension, defined as a chronic elevation in blood pressure exceeding 140 mmHg systolic or 90 mmHg diastolic, can lead to target organs damage, such as brain, heart and kidneys, inducing detrimental events. Despite the large number of existing treatments to lower blood pressure, the mechanisms leading to organ damage as a consequence of blood pressure raising is still unknown [<xref rid="B20-ijms-17-00347" ref-type="bibr">20</xref>].</p><p>Hypertension primarily affects the brain [<xref rid="B21-ijms-17-00347" ref-type="bibr">21</xref>], leading to cognitive disorders and AD [<xref rid="B22-ijms-17-00347" ref-type="bibr">22</xref>]. Besides the most commonly recognized acute effects like stroke [<xref rid="B21-ijms-17-00347" ref-type="bibr">21</xref>], in the brain blood pressure increase leads to a breakdown of cerebral vasculature and, in turn, causes disruption of neurovascular units. Moreover, the lack of regulation at this level induces a degeneration of the cerebral tissues and, consequently, brain damage. Many studies have focused on how hypertension may disrupt brain homeostasis [<xref rid="B23-ijms-17-00347" ref-type="bibr">23</xref>]: indeed, the comprehension of such mechanisms could be important for the development of selective therapeutic strategies. These new findings may provide a unique opportunity for the dissection of the cerebrovascular effects of hypertension.</p><p>One of the devastating effects exerted by hypertension on the brain is the development of atherosclerotic plaques, which alter the cerebral blood vessels structure [<xref rid="B21-ijms-17-00347" ref-type="bibr">21</xref>]. Atherosclerosis plaque can release fragments causing cerebrovascular occlusions and ischemic injury [<xref rid="B24-ijms-17-00347" ref-type="bibr">24</xref>,<xref rid="B25-ijms-17-00347" ref-type="bibr">25</xref>].</p><p>On the other side, small arterioles occlusion in the subcortical regions can affect multiple cognitive domains&#x02014;such as those related to executive and cognitive functions [<xref rid="B24-ijms-17-00347" ref-type="bibr">24</xref>]&#x02014;thus increasing the risk of VCI.</p><p>Moreover, the chronic mechanical stress induced by hypertension in the brain, could generate a condition known as small vessel disease (SVD) [<xref rid="B26-ijms-17-00347" ref-type="bibr">26</xref>,<xref rid="B27-ijms-17-00347" ref-type="bibr">27</xref>]. SVD is a cerebral microvascular pathology probably caused by structural alterations in small arteries, arterioles and capillaries supplying the cortical white matter and basal ganglia [<xref rid="B14-ijms-17-00347" ref-type="bibr">14</xref>]. Hypertension is hence considered the main pathogenic factor for SVD, responsible for lacunar infarcts, white matter lesions (leukoaraiosis) and microinfarcts [<xref rid="B28-ijms-17-00347" ref-type="bibr">28</xref>,<xref rid="B29-ijms-17-00347" ref-type="bibr">29</xref>]. Currently, SVD represents a major cause of VCI, contributing up to 45% of dementia cases [<xref rid="B28-ijms-17-00347" ref-type="bibr">28</xref>,<xref rid="B29-ijms-17-00347" ref-type="bibr">29</xref>].</p><p>Hypertension triggers the adaptive remodeling of cerebral arteries leading to a modification of smooth muscle cells. On the one side, smooth muscle cells start to proliferate and to increase their size invading the lumen of cerebral arteries. This phenomenon is widely known as the hypertrophic remodeling induced by hypertensive challenges and resulting in an increased wall thickness in conjunction with a reduction of lumen vessels. On the other side, the eutrophic remodeling of cerebral arteries leads to a reduction of vessels lumen without changes in wall thickness [<xref rid="B30-ijms-17-00347" ref-type="bibr">30</xref>]. The vascular wall undergoes structural changes depending on different kinds of stimuli. In response to hypertensive stimuli, vessels wall collagen increases, promoting a process called vascular stiffening [<xref rid="B31-ijms-17-00347" ref-type="bibr">31</xref>,<xref rid="B32-ijms-17-00347" ref-type="bibr">32</xref>].</p><p>A reasonable amount of evidence shows that the reduction in peripheral resistance in the individual patient correlates with an improvement in abnormal remodeling of resistance vessel [<xref rid="B33-ijms-17-00347" ref-type="bibr">33</xref>]. Hypertension worsens vascular dysfunctions, a typical condition of ageing, and accelerates the same processes that contributed to the development of hypertension itself, such as endothelial dysfunction, vascular remodeling and arterial stiffness [<xref rid="B34-ijms-17-00347" ref-type="bibr">34</xref>]. For example, endothelial dysfunction, considered the earliest event in the onset of vascular disease, is able to reduce the resting blood flow, causing hypoperfusion in the brain [<xref rid="B35-ijms-17-00347" ref-type="bibr">35</xref>].</p><p>Besides the so far described structural modifications, hypertension is also able to alter all the functional adaptive mechanisms of brain vessels. In fact, it has been reported that hypertensive patients suffer from alterations in resting CBF, reflecting an increase in cerebrovascular resistance to counteract the increase in perfusion pressure and to keep CBF distribution in tissues constant [<xref rid="B36-ijms-17-00347" ref-type="bibr">36</xref>,<xref rid="B37-ijms-17-00347" ref-type="bibr">37</xref>]. A reduction of CBF can also affect brain activity and vascular tone, accelerating the cerebrovascular effects caused by aging [<xref rid="B38-ijms-17-00347" ref-type="bibr">38</xref>]. Increased blood pressure alters the hyperemia, which is considered a functional mechanism able to maintain homeostasis during brain activity. Indeed, a hypertensive stimulus can disrupt this balance causing functional damage in neurons and glia [<xref rid="B39-ijms-17-00347" ref-type="bibr">39</xref>]. CBF is strictly related to brain activity and results attenuated in patients with chronic hypertension [<xref rid="B26-ijms-17-00347" ref-type="bibr">26</xref>]. In experimental models of hypertension, mice with chronic angiotensin II (AngII) infusion show a marked attenuation in CBF increase induced by activation of the somatosensory cortex, which is obtained by facial whiskers stimulation [<xref rid="B7-ijms-17-00347" ref-type="bibr">7</xref>]. To Summarize, all the hypertension-induced structural alterations of cerebral blood vessels are intertwined with the functional alterations such as modifications of hyperemia, autoregulation and endothelial function. The outcome is a reduced compensatory capacity of the cerebral circulation and an increased susceptibility of the brain to vascular insufficiency, thus explaining how chronic conditions of high blood pressure levels may strongly affect cognitive functions, determining an evolution toward dementia [<xref rid="B26-ijms-17-00347" ref-type="bibr">26</xref>,<xref rid="B40-ijms-17-00347" ref-type="bibr">40</xref>].</p></sec><sec id="sec3-ijms-17-00347"><title>3. Alterations of A&#x003b2; Production and BBB Functions Leading to Cerebrovascular Dysfunction in Dementia</title><p>Vascular factors are the leading causes of cerebrovascular dysfunctions and hypertension represents the main challenge for the onset and progression of dementia [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>,<xref rid="B40-ijms-17-00347" ref-type="bibr">40</xref>]. AD is the best characterized chronic neurodegenerative disorder. Several studies have shown that hypertension-induced lesions and AD may have an additive or synergistic effect and produce a more severe cognitive impairment than either process alone [<xref rid="B41-ijms-17-00347" ref-type="bibr">41</xref>,<xref rid="B42-ijms-17-00347" ref-type="bibr">42</xref>,<xref rid="B43-ijms-17-00347" ref-type="bibr">43</xref>], as shown in <xref ref-type="fig" rid="ijms-17-00347-f001">Figure 1</xref>. AD has been classically defined by the presence of typical pathological hallmarks [<xref rid="B44-ijms-17-00347" ref-type="bibr">44</xref>]. In particular, soluble proteins&#x02019; accumulation in the perivascular space leads to the formation of insoluble complicated structures as &#x003b2;-sheets [<xref rid="B45-ijms-17-00347" ref-type="bibr">45</xref>,<xref rid="B46-ijms-17-00347" ref-type="bibr">46</xref>]. Many secreted, circulating and highly soluble proteins, such as the &#x003b2;-amyloid (A&#x003b2;) peptide, extracellularly deposited in AD patients brain as diffuse or compact neuritic plaques. In addition or at least to some degree, almost all of the brains of AD patients show cerebrovascular A&#x003b2; deposits, termed as cerebral amyloid angiopathy (CAA) [<xref rid="B47-ijms-17-00347" ref-type="bibr">47</xref>,<xref rid="B48-ijms-17-00347" ref-type="bibr">48</xref>,<xref rid="B49-ijms-17-00347" ref-type="bibr">49</xref>]. CAA contributes to cognitive decline and dementia in AD through reduced CBF [<xref rid="B50-ijms-17-00347" ref-type="bibr">50</xref>].</p><p>The formation of neurofibrillary tangles (NFTs) is considered a key pathological process in the etiology of AD, causing neurodegeneration and cognitive decline. The neuronal tau protein undergoes an abnormal phosphorylation contributing to typical dysfunctions of AD [<xref rid="B51-ijms-17-00347" ref-type="bibr">51</xref>]. It has been extensively debated whether these proteins have priority over the others in the pathogenic mechanism of AD. The fact that the production of A&#x003b2;, and consequently amyloid deposition, is increased in hereditary forms of early-onset AD, points out the importance of the amyloid [<xref rid="B52-ijms-17-00347" ref-type="bibr">52</xref>]. Furthermore, tau proteins morphology changes according to different mutations in tau genes, developing several tauopathies, among which AD is the most studied. Mutations in tau can also develop other forms of dementia, as for example frontotemporal dementia associated with Parkinsonism. In particular, in this latter pathology there is an accumulation of neurofibrillary tangles containing tau proteins, whereas there is a loss of extracellular amyloid [<xref rid="B53-ijms-17-00347" ref-type="bibr">53</xref>].</p><p>Early-onset/genetic AD represents only a small part of total AD cases and usually affects younger people, running in families. In these cases, an increased production of A&#x003b2; peptides, that mainly compose senile plaques in the brain have been reported. On the contrary, a great amount of patients are affected with the so-called late-onset/non genetic AD (or sporadic AD) with no dysregulation in A&#x003b2; production but with a probable alteration of its clearance from the Central Nervous System (CNS) [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>,<xref rid="B55-ijms-17-00347" ref-type="bibr">55</xref>]. Moreover, A&#x003b2; peptides accumulate in perivascular space becoming toxic for the neuronal tissue. Indeed, the A&#x003b2; cascade has been so far considered the most prominent hypothesis that could explain AD pathogenesis. In physiological conditions, the amyloid precursor protein (APP) is cleaved by specific secretases into A&#x003b2; peptides. In pathological conditions, A&#x003b2; peptides aggregate in A&#x003b2; plaques depositing among neurons and promoting brain toxicity [<xref rid="B56-ijms-17-00347" ref-type="bibr">56</xref>,<xref rid="B57-ijms-17-00347" ref-type="bibr">57</xref>]. The A&#x003b2; cascade hypothesis points out that deposition of A&#x003b2; peptide in the brain is a central event in the pathology of AD.</p><p>Hypertension and ischemic brain injury may be a major cause of A&#x003b2; lesions in the brain. Cholinergic dysfunction may negatively affect cerebral blood flow with consequences on the normal functioning of neurovascular units [<xref rid="B58-ijms-17-00347" ref-type="bibr">58</xref>]. Hypertension accelerates cognitive deficits, microvascular deposition of &#x003b2;-amyloid, vascular inflammation, blood-brain barrier (BBB) leakage and pericyte loss in TgSwDI mice [<xref rid="B59-ijms-17-00347" ref-type="bibr">59</xref>]. Mounting evidence suggests that the chronic cerebrovascular insufficiency induced by hypertension, could be considered the initial event in the onset of dementia and not simply a by-stander effect [<xref rid="B60-ijms-17-00347" ref-type="bibr">60</xref>]. The emerging concept is that chronic high blood pressure constantly challenges the normal function of the BBB and alters the clearance of toxic substances from the brain, like A&#x003b2; itself [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>].</p><p>The BBB represents the fine crosstalk between the vascular and nervous systems [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. The neurovascular unit defines the cellular interaction between endothelial cells of brain capillaries (forming the BBB), the astrocytic end feet, and neuronal axons. Interestingly, cholinergic terminals of neurons in the basal nucleus of Meynert directly interact with astrocytic end feet of the BBB via cholinergic receptors [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. Therefore, the cholinergic neurons are the most affected neuronal population in AD and, together with the cerebrovascular system, represent the basic neurovascular unit for the study of the cited pathology.</p><p>Brain blood vessels are lined with brain endothelial cells (BEC), like elsewhere in the body, but in this district BEC have unique features, since they are not fenestrated and are sealed by tight junctions, which allow them to form the BBB [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. Endothelial cells regulate the vascular tone releasing vasoactive factors, as for example NO and free radicals. Arteries and arterioles are enveloped by one or more layers of smooth muscle cells (myocytes), <italic>i.e.</italic>, contractile cells that regulate vascular diameter; whereas, in capillaries, myocytes are replaced by pericytes [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>].</p><p>Pericytes, which belong to the vascular smooth muscle cell (VSMCs) lineage, have a common basement membrane with endothelial cells, and encircle capillaries with their cytoplasmic processes [<xref rid="B61-ijms-17-00347" ref-type="bibr">61</xref>]. The density of pericytes processes related to capillary length suggests that they might envelope 30% to 70% of the capillary wall, with a pericyte-to-endothelia ratio in the brain of 1:3 [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. The location of pericytes on the microvessel appears to be functionally determined. Pericytes make focal contacts with BEC through specialized junctions and, through long cytoplasmic processes, encircle the endothelial tube [<xref rid="B62-ijms-17-00347" ref-type="bibr">62</xref>]. This close relationship with BEC allows pericytes to have many influences on brain microcirculation. Indeed, pericytes contribute to microvessel stability and cover a major part of the abluminal endothelial surface [<xref rid="B62-ijms-17-00347" ref-type="bibr">62</xref>].</p><p>Pericytes, besides providing mechanical stability, are also able to affect vessel stability by matrix deposition, through the release and activation of signals promoting BEC differentiation and quiescence [<xref rid="B63-ijms-17-00347" ref-type="bibr">63</xref>]. It has been reported that pericytes are contractile cells capable of regulating blood flow in brain capillaries through contraction and relaxation [<xref rid="B64-ijms-17-00347" ref-type="bibr">64</xref>] and that they may perform the same functions as those of VSMCs in arterioles and small pial arteries [<xref rid="B63-ijms-17-00347" ref-type="bibr">63</xref>]. It has also been hypothesized that, because of their fundamental functions, pericytes and VSMCs may play a key role in the development of dementia-related neuropathological consequences of hypertension [<xref rid="B61-ijms-17-00347" ref-type="bibr">61</xref>,<xref rid="B62-ijms-17-00347" ref-type="bibr">62</xref>,<xref rid="B65-ijms-17-00347" ref-type="bibr">65</xref>]. For example, it has been shown that cerebral VSMCs isolated from AD individuals have a hypercontractile phenotype, which leads to increased arterial contractility and aberrant responses to vasoactive stimuli [<xref rid="B66-ijms-17-00347" ref-type="bibr">66</xref>]. Moreover, in AD patients post mortem tissues and in transgenic mouse models of the pathology [<xref rid="B66-ijms-17-00347" ref-type="bibr">66</xref>], a clear alteration of vascular related transcription factors, serum response factor (SRF) and myocardin was found.</p><p>Finally, it has been shown that vascular cells such as endothelium and pericytes, can directly affect neuronal and synaptic functions through changes in CBF, BBB integrity and clearance of toxic molecules [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>].</p></sec><sec id="sec4-ijms-17-00347"><title>4. RAGE as a Possible Molecular Mechanism for Hypertension-Induced Vascular Dysfunction and AD</title><p>The use of animal models resembling the neuropathological features of AD by A&#x003b2; overproduction, consequently resulting in its aggregation and deposition in brain parenchyma, failed to provide a dissection of the mechanisms related to vascular risk factors in the onset of late-life dementia, where a cause ascribable to the increased production of A&#x003b2; is rarely found [<xref rid="B44-ijms-17-00347" ref-type="bibr">44</xref>,<xref rid="B45-ijms-17-00347" ref-type="bibr">45</xref>,<xref rid="B46-ijms-17-00347" ref-type="bibr">46</xref>]. Besides A&#x003b2; production, an important process regulating the accumulation of amyloid in the brain is represented by the balance between influx and efflux across the BBB [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. Hence, this poses a question about the need to study the A&#x003b2; clearance mechanism at the BBB level and how vascular related factors could contribute to its dysfunction. It has been demonstrated that hypoperfusion, increased oxidative stress and impaired clearance of A&#x003b2; in the BBB determine the accumulation of neurotoxic A&#x003b2; oligomers in the brain [<xref rid="B67-ijms-17-00347" ref-type="bibr">67</xref>]. In particular, it is well known that the exchange of A&#x003b2; between CNS, cerebrospinal fluid (CSF), and blood is an important process affecting the levels of A&#x003b2; in the brain [<xref rid="B54-ijms-17-00347" ref-type="bibr">54</xref>]. On this issue, several studies have shown the existence of a receptor-mediated bidirectional transport of A&#x003b2; across the BBB, <italic>i.e.</italic>, receptor for advanced glycation end products (RAGE). RAGE mediates the influx from circulation into the brain and is present at the luminal side of the endothelium [<xref rid="B68-ijms-17-00347" ref-type="bibr">68</xref>]. Low-density lipoprotein receptor related protein-1 (LRP-1), located at the abluminal side of the BBB, mediates instead the inverse process. Interestingly, ApoE, one of the most important risk factors associated with AD and CAA, is an LRP-1 ligand and modulates the rate of A&#x003b2; transport [<xref rid="B69-ijms-17-00347" ref-type="bibr">69</xref>].</p><p>Interestingly, RAGE has been found implicated in several pathological states, including AD, diabetic nephropathy, and immune/inflammatory reactions of the vessel walls [<xref rid="B70-ijms-17-00347" ref-type="bibr">70</xref>]. In addition, it has been reported that microvascular RAGE levels rise in correspondence with the onset of AD, and continue to increase linearly as a consequence of the pathologic severity of AD [<xref rid="B71-ijms-17-00347" ref-type="bibr">71</xref>].</p><p>RAGE is able to respond to several ligands, among which the advanced glycation end products (AGEs) have been shown to be elevated in AD brains. It has been shown that AGEs can stimulate A&#x003b2; production [<xref rid="B72-ijms-17-00347" ref-type="bibr">72</xref>] and induce tau hyperphosphorylation impairing synapse and memory [<xref rid="B73-ijms-17-00347" ref-type="bibr">73</xref>]. RAGE is also responsible for the activation of microglia and for the production of proinflammatory mediators following A&#x003b2; binding [<xref rid="B74-ijms-17-00347" ref-type="bibr">74</xref>]. Enhanced IL-1&#x003b2; and TNF-&#x003b1; production was observed in transgenic mice expressing human mutant APP (mAPP) in neurons and RAGE in microglia. At the same time, an increased infiltration of microglia and astrocytes and accumulation of A&#x003b2; were coupled with an accelerated deterioration of spatial learning/memory. Indeed, the blockade of microglial RAGE may have a beneficial effect for alterations in AD brains [<xref rid="B75-ijms-17-00347" ref-type="bibr">75</xref>].</p><p>There are also recent observations describing that RAGE activation downstream the oxidative stress. In particular, it has been demonstrated that AngII-induced activation of RAGE is impaired by using free-radicals scavenger [<xref rid="B76-ijms-17-00347" ref-type="bibr">76</xref>] and that ROS production that follows hyperglycemia provokes an increase in the expression of RAGE and its ligands [<xref rid="B77-ijms-17-00347" ref-type="bibr">77</xref>]. It is conceivable that hypertension, known to activate vascular oxidative stress [<xref rid="B78-ijms-17-00347" ref-type="bibr">78</xref>], could further recruit RAGE activation as an additional mechanism involved in hypertension-induced AD-like neuropathology. In fact, we demonstrated that chronic hypertension in mice determines an early up-regulation of RAGE in cerebral blood vessels [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>]. More importantly, we demonstrated that genetic ablation of RAGE protected mice from hypertension-induced A&#x003b2; deposition and cognitive impairment [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>]. Furthermore, AngII can up-regulate the expression of RAGE in cultured endothelial cells and increase the soluble form in the medium [<xref rid="B79-ijms-17-00347" ref-type="bibr">79</xref>]. An inhibitor of AngII type 1 receptor is able to decrease RAGE levels in the serum of patients affected with essential hypertension, therefore suggesting a possible crosstalk between RAS and RAGE expression [<xref rid="B79-ijms-17-00347" ref-type="bibr">79</xref>].</p><p>It is interesting to notice that RAGE has been pursued for long time as a strategy to counteract AD in patients [<xref rid="B80-ijms-17-00347" ref-type="bibr">80</xref>]. Different inhibitors have been generated and tested in controlled clinical trials, but results have been unsatisfactory [<xref rid="B80-ijms-17-00347" ref-type="bibr">80</xref>,<xref rid="B81-ijms-17-00347" ref-type="bibr">81</xref>]. On this issue, we also tested one of the last RAGE specific inhibitors developed in our model of hypertension-induced AD-like pathology [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>]. Interestingly, the high affinity of the tertiary amide RAGE-specific inhibitor (FPS-ZM1) [<xref rid="B82-ijms-17-00347" ref-type="bibr">82</xref>], which blocks specific A&#x003b2; binding on RAGE V-domain , was strongly effective in protecting hypertensive mice from A&#x003b2; deposition and cognitive impairment [<xref rid="B10-ijms-17-00347" ref-type="bibr">10</xref>,<xref rid="B82-ijms-17-00347" ref-type="bibr">82</xref>]. Altogether, these observations demonstrate that the RAGE pathway plays a direct role in determining A&#x003b2; levels in the brain. However, it is conceivable that, in order to test the real translational potential of findings obtained in mice and to overcome the failures reported so far, it is important to find the clinical population that could benefit the most from this strategy. More recently, it has been found that, by investigating the interaction between hypertension and AD in cerebrovascular function, the administration of AngII or deoxycorticosterone acetate (DOCA)-salt to induce hypertension further aggravates the cerebrovascular effects of A&#x003b2; in transgenic TgSwDI mice with elevated brain levels of A&#x003b2; [<xref rid="B83-ijms-17-00347" ref-type="bibr">83</xref>]. This evidence further supports the existence of mechanisms strictly entangled in the relationship between hypertension and dementia.</p></sec><sec id="sec5-ijms-17-00347"><title>5. Conclusions</title><p>Hypertension and dementia, separately, represent two of the largest health problems worldwide in the aging population. However, when present concomitantly, they seem to potentiate the effect of each other. The structural and functional alterations induced by hypertension partly explain how the two conditions may be related at the pathophysiological level. Indeed, it is becoming increasingly clear that, besides the classical view addressing the problem of A&#x003b2; production and accumulation in the brain, the process of A&#x003b2; clearance, in absence of genetic causes, is of crucial importance in experimental settings. Basic science research on novel experimental models, which better recapitulates the additive or synergistic power of hypertension and AD, helped in elucidating the pathophysiological links between these two devastating conditions. Further studies will focus on investigating the translational potential of this link. Meanwhile, in the absence of effective therapies, evidence suggests that reaching the therapeutic target in hypertension is crucial for reducing the morbidity related not only to cardiovascular diseases, but to dementia as well.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work has been supported by the Italian Ministry of Health &#x0201c;Ricerca Corrente&#x0201d;.</p></ack><notes><title>Author Contributions</title><p>Marialuisa Perrotta wrote the manuscript; Giuseppe Lembo and Daniela Carnevale revised the manuscript; Giuseppe Lembo handled funding.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijms-17-00347"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moser</surname><given-names>M.</given-names></name><name><surname>Roccella</surname><given-names>E.J.</given-names></name></person-group>
+<article-title>The treatment of hypertension: A remarkable success story</article-title>
+<source>J. Clin. Hypertens.</source>
+<year>2013</year>
+<volume>15</volume>
+<fpage>88</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="doi">10.1111/jch.12033</pub-id>
+<pub-id pub-id-type="pmid">23339725</pub-id></element-citation></ref><ref id="B2-ijms-17-00347"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lawes</surname><given-names>C.M.</given-names></name><name><surname>Bennett</surname><given-names>D.A.</given-names></name><name><surname>Feigin</surname><given-names>V.L.</given-names></name><name><surname>Rodgers</surname><given-names>A.</given-names></name></person-group>
+<article-title>Blood pressure and stroke: An overview of published reviews</article-title>
+<source>Stroke</source>
+<year>2004</year>
+<volume>35</volume>
+<fpage>1024</fpage>
+<pub-id pub-id-type="doi">10.1161/01.STR.0000116869.64771.5A</pub-id>
+<pub-id pub-id-type="pmid">15053002</pub-id></element-citation></ref><ref id="B3-ijms-17-00347"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gorelick</surname><given-names>P.B.</given-names></name><name><surname>Scuteri</surname><given-names>A.</given-names></name><name><surname>Black</surname><given-names>S.E.</given-names></name><name><surname>Decarli</surname><given-names>C.</given-names></name><name><surname>Greenberg</surname><given-names>S.M.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name><name><surname>Launer</surname><given-names>L.J.</given-names></name><name><surname>Laurent</surname><given-names>S.</given-names></name><name><surname>Lopez</surname><given-names>O.L.</given-names></name><name><surname>Nyenhuis</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Vascular contributions to cognitive impairment and dementia: A statement for healthcare professionals from the American Heart Association/American Stroke Association</article-title>
+<source>Stroke</source>
+<year>2011</year>
+<volume>42</volume>
+<fpage>2672</fpage>
+<lpage>2713</lpage>
+<pub-id pub-id-type="doi">10.1161/STR.0b013e3182299496</pub-id>
+<pub-id pub-id-type="pmid">21778438</pub-id></element-citation></ref><ref id="B4-ijms-17-00347"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skoog</surname><given-names>I.</given-names></name><name><surname>Gustafson</surname><given-names>D.</given-names></name></person-group>
+<article-title>Update on hypertension and Alzheimer&#x02019;s disease</article-title>
+<source>Neurol. Res.</source>
+<year>2006</year>
+<volume>28</volume>
+<fpage>605</fpage>
+<lpage>611</lpage>
+<pub-id pub-id-type="doi">10.1179/016164106X130506</pub-id>
+<pub-id pub-id-type="pmid">16945211</pub-id></element-citation></ref><ref id="B5-ijms-17-00347"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Viswanathan</surname><given-names>A.</given-names></name><name><surname>Greenberg</surname><given-names>S.M.</given-names></name><name><surname>Scheltens</surname><given-names>P.</given-names></name></person-group>
+<article-title>Role of vascular disease in Alzheimer-like progressive cognitive impairment</article-title>
+<source>Stroke</source>
+<year>2016</year>
+<volume>47</volume>
+<fpage>577</fpage>
+<lpage>580</lpage>
+<pub-id pub-id-type="doi">10.1161/STROKEAHA.115.009010</pub-id>
+<pub-id pub-id-type="pmid">26604252</pub-id></element-citation></ref><ref id="B6-ijms-17-00347"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pires</surname><given-names>P.W.</given-names></name><name><surname>Dams Ramos</surname><given-names>C.M.</given-names></name><name><surname>Matin</surname><given-names>N.</given-names></name><name><surname>Dorrance</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>The effects of hypertension on the cerebral circulation</article-title>
+<source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<year>2013</year>
+<volume>304</volume>
+<fpage>1598</fpage>
+<lpage>1614</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpheart.00490.2012</pub-id>
+<pub-id pub-id-type="pmid">23585139</pub-id></element-citation></ref><ref id="B7-ijms-17-00347"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kazama</surname><given-names>K.</given-names></name><name><surname>Wang</surname><given-names>G.</given-names></name><name><surname>Frys</surname><given-names>K.</given-names></name><name><surname>Anrather</surname><given-names>J.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>Angiotensin II attenuates functional hyperemia in the mouse somatosensory cortex</article-title>
+<source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<year>2003</year>
+<volume>285</volume>
+<fpage>1890</fpage>
+<lpage>1899</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpheart.00464.2003</pub-id>
+<pub-id pub-id-type="pmid">12907423</pub-id></element-citation></ref><ref id="B8-ijms-17-00347"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iddings</surname><given-names>J.A.</given-names></name><name><surname>Kim</surname><given-names>K.J.</given-names></name><name><surname>Zhou</surname><given-names>Y.</given-names></name><name><surname>Higashimori</surname><given-names>H.</given-names></name><name><surname>Filosa</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Enhanced parenchymal arteriole tone and astrocyte signaling protect neurovascular coupling mediated parenchymal arteriole vasodilation in the spontaneously hypertensive rat</article-title>
+<source>J. Cereb. Blood Flow Metab.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>1127</fpage>
+<lpage>1136</lpage>
+<pub-id pub-id-type="doi">10.1038/jcbfm.2015.31</pub-id>
+<pub-id pub-id-type="pmid">25757753</pub-id></element-citation></ref><ref id="B9-ijms-17-00347"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Immink</surname><given-names>R.V.</given-names></name><name><surname>van den Born</surname><given-names>B.J.</given-names></name><name><surname>van Montfrans</surname><given-names>G.A.</given-names></name><name><surname>Koopmans</surname><given-names>R.P.</given-names></name><name><surname>Karemaker</surname><given-names>J.M.</given-names></name><name><surname>van Lieshout</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Impaired cerebral autoregulation in patients with malignant hypertension</article-title>
+<source>Circulation</source>
+<year>2004</year>
+<volume>110</volume>
+<fpage>2241</fpage>
+<lpage>2245</lpage>
+<pub-id pub-id-type="doi">10.1161/01.CIR.0000144472.08647.40</pub-id>
+<pub-id pub-id-type="pmid">15466625</pub-id></element-citation></ref><ref id="B10-ijms-17-00347"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carnevale</surname><given-names>D.</given-names></name><name><surname>Mascio</surname><given-names>G.</given-names></name><name><surname>D&#x02019;Andrea</surname><given-names>I.</given-names></name><name><surname>Fardella</surname><given-names>V.</given-names></name><name><surname>Bell</surname><given-names>R.D.</given-names></name><name><surname>Branchi</surname><given-names>I.</given-names></name><name><surname>Pallante</surname><given-names>F.</given-names></name><name><surname>Zlokovic</surname><given-names>B.</given-names></name><name><surname>Yan</surname><given-names>S.S.</given-names></name><name><surname>Lembo</surname><given-names>G.</given-names></name></person-group>
+<article-title>Hypertension induces brain &#x003b2;-amyloid accumulation, cognitive impairment, and memory deterioration through activation of receptor for advanced glycation end products in brain vasculature</article-title>
+<source>Hypertension</source>
+<year>2012</year>
+<volume>60</volume>
+<fpage>188</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.112.195511</pub-id>
+<pub-id pub-id-type="pmid">22615109</pub-id></element-citation></ref><ref id="B11-ijms-17-00347"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carnevale</surname><given-names>D.</given-names></name><name><surname>Perrotta</surname><given-names>M.</given-names></name><name><surname>Lembo</surname><given-names>G.</given-names></name><name><surname>Trimarco</surname><given-names>B.</given-names></name></person-group>
+<article-title>Pathophysiological links among hypertension and Alzheimer&#x02019;s disease</article-title>
+<source>High Blood Press Cardiovasc. Prev.</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.1007/s40292-015-0108-1</pub-id>
+<pub-id pub-id-type="pmid">26054481</pub-id></element-citation></ref><ref id="B12-ijms-17-00347"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carnevale</surname><given-names>D.</given-names></name><name><surname>Lembo</surname><given-names>G.</given-names></name></person-group>
+<article-title>&#x0201c;Alzheimer-like&#x0201d; pathology in a murine model of arterial hypertension</article-title>
+<source>Biochem. Soc. Trans.</source>
+<year>2011</year>
+<volume>39</volume>
+<fpage>939</fpage>
+<lpage>944</lpage>
+<pub-id pub-id-type="doi">10.1042/BST0390939</pub-id>
+<pub-id pub-id-type="pmid">21787327</pub-id></element-citation></ref><ref id="B13-ijms-17-00347"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qiu</surname><given-names>C.</given-names></name><name><surname>Winblad</surname><given-names>B.</given-names></name><name><surname>Fratiglioni</surname><given-names>L.</given-names></name></person-group>
+<article-title>The age-dependent relation of blood pressure to cognitive function and dementia</article-title>
+<source>Lancet Neurol.</source>
+<year>2005</year>
+<volume>4</volume>
+<fpage>487</fpage>
+<lpage>499</lpage>
+<pub-id pub-id-type="doi">10.1016/S1474-4422(05)70141-1</pub-id>
+<pub-id pub-id-type="pmid">16033691</pub-id></element-citation></ref><ref id="B14-ijms-17-00347"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cifuentes</surname><given-names>D.</given-names></name><name><surname>Poittevin</surname><given-names>M.</given-names></name><name><surname>Dere</surname><given-names>E.</given-names></name><name><surname>Broqu&#x000e8;res-You</surname><given-names>D.</given-names></name><name><surname>Bonnin</surname><given-names>P.</given-names></name><name><surname>Benessiano</surname><given-names>J.</given-names></name><name><surname>Pocard</surname><given-names>M.</given-names></name><name><surname>Mariani</surname><given-names>J.</given-names></name><name><surname>Kubis</surname><given-names>N.</given-names></name><name><surname>Merkulova-Rainon</surname><given-names>T.</given-names></name><etal/></person-group>
+<article-title>Hypertension accelerates the progression of Alzheimer-like pathology in a mouse model of the disease</article-title>
+<source>Hypertension</source>
+<year>2015</year>
+<volume>65</volume>
+<fpage>218</fpage>
+<lpage>224</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.114.04139</pub-id>
+<pub-id pub-id-type="pmid">25331846</pub-id></element-citation></ref><ref id="B15-ijms-17-00347"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiesmann</surname><given-names>M.</given-names></name><name><surname>Capone</surname><given-names>C.</given-names></name><name><surname>Zerbi</surname><given-names>V.</given-names></name><name><surname>Mellendijk</surname><given-names>L.</given-names></name><name><surname>Heerschap</surname><given-names>A.</given-names></name><name><surname>Claassen</surname><given-names>J.A.</given-names></name><name><surname>Kiliaan</surname><given-names>A.J.</given-names></name></person-group>
+<article-title>Hypertension impairs cerebral blood flow in a mouse model for Alzheimer&#x02019;s disease</article-title>
+<source>Curr. Alzheimer Res.</source>
+<year>2015</year>
+<volume>12</volume>
+<fpage>914</fpage>
+<lpage>922</lpage>
+<pub-id pub-id-type="doi">10.2174/1567205012666151027130135</pub-id>
+<pub-id pub-id-type="pmid">26502817</pub-id></element-citation></ref><ref id="B16-ijms-17-00347"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ruitenberg</surname><given-names>A.</given-names></name><name><surname>Skoog</surname><given-names>I.</given-names></name><name><surname>Ott</surname><given-names>A.</given-names></name><name><surname>Aevarsson</surname><given-names>O.</given-names></name><name><surname>Witteman</surname><given-names>J.C.</given-names></name><name><surname>Lernfelt</surname><given-names>B.</given-names></name><name><surname>van Harskamp</surname><given-names>F.</given-names></name><name><surname>Hofman</surname><given-names>A.</given-names></name><name><surname>Breteler</surname><given-names>M.M.</given-names></name></person-group>
+<article-title>Blood pressure and risk of dementia: Results from the Rotterdam study and the Gothenburg H-70 Study</article-title>
+<source>Dement. Geriatr. Cogn. Disord.</source>
+<year>2001</year>
+<volume>12</volume>
+<fpage>33</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1159/000051233</pub-id>
+<pub-id pub-id-type="pmid">11125239</pub-id></element-citation></ref><ref id="B17-ijms-17-00347"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mielke</surname><given-names>M.M.</given-names></name><name><surname>Rosenberg</surname><given-names>P.B.</given-names></name><name><surname>Tschanz</surname><given-names>J.</given-names></name><name><surname>Cook</surname><given-names>L.</given-names></name><name><surname>Corcoran</surname><given-names>C.</given-names></name><name><surname>Hayden</surname><given-names>K.M.</given-names></name><name><surname>Norton</surname><given-names>M.</given-names></name><name><surname>Rabins</surname><given-names>P.V.</given-names></name><name><surname>Green</surname><given-names>R.C.</given-names></name><name><surname>Welsh-Bohmer</surname><given-names>K.A.</given-names></name><etal/></person-group>
+<article-title>Vascular factors predict rate of progression in Alzheimer disease</article-title>
+<source>Neurology</source>
+<year>2007</year>
+<volume>69</volume>
+<fpage>1850</fpage>
+<lpage>1858</lpage>
+<pub-id pub-id-type="doi">10.1212/01.wnl.0000279520.59792.fe</pub-id>
+<pub-id pub-id-type="pmid">17984453</pub-id></element-citation></ref><ref id="B18-ijms-17-00347"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deschaintre</surname><given-names>Y.</given-names></name><name><surname>Richard</surname><given-names>F.</given-names></name><name><surname>Leys</surname><given-names>D.</given-names></name><name><surname>Pasquier</surname><given-names>F.</given-names></name></person-group>
+<article-title>Treatment of vascular risk factors is associated with slower decline in Alzheimer disease</article-title>
+<source>Neurology</source>
+<year>2009</year>
+<volume>73</volume>
+<fpage>674</fpage>
+<lpage>680</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.0b013e3181b59bf3</pub-id>
+<pub-id pub-id-type="pmid">19720973</pub-id></element-citation></ref><ref id="B19-ijms-17-00347"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joas</surname><given-names>E.</given-names></name><name><surname>B&#x000e4;ckman</surname><given-names>K.</given-names></name><name><surname>Gustafson</surname><given-names>D.</given-names></name><name><surname>Ostling</surname><given-names>S.</given-names></name><name><surname>Waern</surname><given-names>M.</given-names></name><name><surname>Guo</surname><given-names>X.</given-names></name><name><surname>Skoog</surname><given-names>I.</given-names></name></person-group>
+<article-title>Blood pressure trajectories from midlife to late life in relation to dementia in women followed for 37 years</article-title>
+<source>Hypertension</source>
+<year>2012</year>
+<volume>59</volume>
+<fpage>796</fpage>
+<lpage>801</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.111.182204</pub-id>
+<pub-id pub-id-type="pmid">22331381</pub-id></element-citation></ref><ref id="B20-ijms-17-00347"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Messerli</surname><given-names>F.H.</given-names></name><name><surname>Williams</surname><given-names>B.</given-names></name><name><surname>Ritz</surname><given-names>E.</given-names></name></person-group>
+<article-title>Essential hypertension</article-title>
+<source>Lancet</source>
+<year>2007</year>
+<volume>370</volume>
+<fpage>591</fpage>
+<lpage>603</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(07)61299-9</pub-id>
+<pub-id pub-id-type="pmid">17707755</pub-id></element-citation></ref><ref id="B21-ijms-17-00347"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dahlof</surname><given-names>B.</given-names></name></person-group>
+<article-title>Prevention of stroke in patients with hypertension</article-title>
+<source>Am. J. Cardiol.</source>
+<year>2007</year>
+<volume>100</volume>
+<fpage>17J</fpage>
+<lpage>24J</lpage>
+<pub-id pub-id-type="doi">10.1016/j.amjcard.2007.05.010</pub-id>
+<pub-id pub-id-type="pmid">17666193</pub-id></element-citation></ref><ref id="B22-ijms-17-00347"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kelley</surname><given-names>B.J.</given-names></name><name><surname>Petersen</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Alzheimer&#x02019;s disease and mild cognitive impairment</article-title>
+<source>Neurol. Clin.</source>
+<year>2007</year>
+<volume>25</volume>
+<fpage>577</fpage>
+<lpage>609</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ncl.2007.03.008</pub-id>
+<pub-id pub-id-type="pmid">17659182</pub-id></element-citation></ref><ref id="B23-ijms-17-00347"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dunn</surname><given-names>K.M.</given-names></name><name><surname>Nelson</surname><given-names>M.T.</given-names></name></person-group>
+<article-title>Neurovascular signaling in the brain and the pathological consequences of hypertension</article-title>
+<source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<year>2014</year>
+<volume>306</volume>
+<fpage>H1</fpage>
+<lpage>H14</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpheart.00364.2013</pub-id>
+<pub-id pub-id-type="pmid">24163077</pub-id></element-citation></ref><ref id="B24-ijms-17-00347"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lammie</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Hypertensive cerebral small vessel disease and stroke</article-title>
+<source>Brain Pathol.</source>
+<year>2002</year>
+<volume>12</volume>
+<fpage>358</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="pmid">12146804</pub-id></element-citation></ref><ref id="B25-ijms-17-00347"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sakamoto</surname><given-names>H.</given-names></name><name><surname>Aikawa</surname><given-names>M.</given-names></name><name><surname>Hill</surname><given-names>C.C.</given-names></name><name><surname>Weiss</surname><given-names>D.</given-names></name><name><surname>Taylor</surname><given-names>W.R.</given-names></name><name><surname>Libby</surname><given-names>P.</given-names></name><name><surname>Lee</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Biomechanical strain induces class a scavenger receptor expression in human monocyte/macrophages and THP-1 cells: A potential mechanism of increased atherosclerosis in hypertension</article-title>
+<source>Circulation</source>
+<year>2001</year>
+<volume>104</volume>
+<fpage>109</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1161/hc2701.091070</pub-id>
+<pub-id pub-id-type="pmid">11435347</pub-id></element-citation></ref><ref id="B26-ijms-17-00347"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Faraco</surname><given-names>G.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>Hypertension: A harbinger of stroke and dementia</article-title>
+<source>Hypertension</source>
+<year>2013</year>
+<volume>62</volume>
+<fpage>810</fpage>
+<lpage>817</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.113.01063</pub-id>
+<pub-id pub-id-type="pmid">23980072</pub-id></element-citation></ref><ref id="B27-ijms-17-00347"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000f6;r&#x000f6;s</surname><given-names>P.</given-names></name><name><surname>Whitehead</surname><given-names>S.</given-names></name><name><surname>Spence</surname><given-names>J.D.</given-names></name><name><surname>Hachinski</surname><given-names>V.</given-names></name></person-group>
+<article-title>Antihypertensive treatment can prevent stroke and cognitive decline</article-title>
+<source>Nat. Rev. Neurol.</source>
+<year>2013</year>
+<volume>9</volume>
+<fpage>174</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="doi">10.1038/nrneurol.2012.255</pub-id>
+<pub-id pub-id-type="pmid">23247612</pub-id></element-citation></ref><ref id="B28-ijms-17-00347"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jokinen</surname><given-names>H.</given-names></name><name><surname>Gouw</surname><given-names>A.A.</given-names></name><name><surname>Madureira</surname><given-names>S.</given-names></name><name><surname>Ylikoski</surname><given-names>R.</given-names></name><name><surname>van Straaten</surname><given-names>E.C.</given-names></name><name><surname>van der Flier</surname><given-names>W.M.</given-names></name><name><surname>Barkhof</surname><given-names>F.</given-names></name><name><surname>Scheltens</surname><given-names>P.</given-names></name><name><surname>Fazekas</surname><given-names>F.</given-names></name><name><surname>Schmidt</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>Incident lacunes influence cognitive decline: The LADIS study</article-title>
+<source>Neurology</source>
+<year>2011</year>
+<volume>76</volume>
+<fpage>1872</fpage>
+<lpage>1878</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.0b013e31821d752f</pub-id>
+<pub-id pub-id-type="pmid">21543730</pub-id></element-citation></ref><ref id="B29-ijms-17-00347"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Westover</surname><given-names>M.B.</given-names></name><name><surname>Bianchi</surname><given-names>M.T.</given-names></name><name><surname>Yang</surname><given-names>C.</given-names></name><name><surname>Schneider</surname><given-names>J.A.</given-names></name><name><surname>Greenberg</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Estimating cerebral microinfarct burden from autopsy samples</article-title>
+<source>Neurology</source>
+<year>2013</year>
+<volume>80</volume>
+<fpage>1365</fpage>
+<lpage>1369</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.0b013e31828c2f52</pub-id>
+<pub-id pub-id-type="pmid">23486880</pub-id></element-citation></ref><ref id="B30-ijms-17-00347"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feihl</surname><given-names>F.</given-names></name><name><surname>Liaudet</surname><given-names>L.</given-names></name><name><surname>Levy</surname><given-names>B.I.</given-names></name><name><surname>Waeber</surname><given-names>B.</given-names></name></person-group>
+<article-title>Hypertension and microvascular remodelling</article-title>
+<source>Cardiovasc. Res.</source>
+<year>2008</year>
+<volume>78</volume>
+<fpage>274</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="doi">10.1093/cvr/cvn022</pub-id>
+<pub-id pub-id-type="pmid">18250145</pub-id></element-citation></ref><ref id="B31-ijms-17-00347"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>G.L.</given-names></name><name><surname>Heistad</surname><given-names>D.D.</given-names></name></person-group>
+<article-title>Cerebral circulation in chronic arterial hypertension</article-title>
+<source>Hypertension</source>
+<year>1988</year>
+<volume>12</volume>
+<fpage>89</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="pmid">3044994</pub-id></element-citation></ref><ref id="B32-ijms-17-00347"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heistad</surname><given-names>D.D.</given-names></name><name><surname>Baumbach</surname><given-names>G.L.</given-names></name></person-group>
+<article-title>Cerebral vascular changes during chronic hypertension: Good guys and bad guys</article-title>
+<source>J. Hypertens. Suppl.</source>
+<year>1992</year>
+<volume>10</volume>
+<fpage>S71</fpage>
+<lpage>S75</lpage>
+<pub-id pub-id-type="doi">10.1097/00004872-199212000-00008</pub-id>
+<pub-id pub-id-type="pmid">1291659</pub-id></element-citation></ref><ref id="B33-ijms-17-00347"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mulvany</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Small artery remodelling in hypertension</article-title>
+<source>Basic Clin. Pharmacol. Toxicol.</source>
+<year>2012</year>
+<volume>110</volume>
+<fpage>49</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1742-7843.2011.00758.x</pub-id>
+<pub-id pub-id-type="pmid">21733124</pub-id></element-citation></ref><ref id="B34-ijms-17-00347"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harvey</surname><given-names>A.</given-names></name><name><surname>Montezano</surname><given-names>A.C.</given-names></name><name><surname>Touyz</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Vascular biology of ageing-Implications in hypertension</article-title>
+<source>J. Mol. Cell. Cardiol.</source>
+<year>2015</year>
+<volume>83</volume>
+<fpage>112</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yjmcc.2015.04.011</pub-id>
+<pub-id pub-id-type="pmid">25896391</pub-id></element-citation></ref><ref id="B35-ijms-17-00347"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Faraci</surname><given-names>F.M.</given-names></name></person-group>
+<article-title>Protecting against vascular disease in brain</article-title>
+<source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<year>2011</year>
+<volume>300</volume>
+<fpage>H1566</fpage>
+<lpage>H1582</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpheart.01310.2010</pub-id>
+<pub-id pub-id-type="pmid">21335467</pub-id></element-citation></ref><ref id="B36-ijms-17-00347"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsushita</surname><given-names>K.</given-names></name><name><surname>Kuriyama</surname><given-names>Y.</given-names></name><name><surname>Nagatsuka</surname><given-names>K.</given-names></name><name><surname>Nakamura</surname><given-names>M.</given-names></name><name><surname>Sawada</surname><given-names>T.</given-names></name><name><surname>Omae</surname><given-names>T.</given-names></name></person-group>
+<article-title>Periventricular white matter lucency and cerebral blood flow autoregulation in hypertensive patients</article-title>
+<source>Hypertension</source>
+<year>1994</year>
+<volume>23</volume>
+<fpage>565</fpage>
+<lpage>568</lpage>
+<pub-id pub-id-type="doi">10.1161/01.HYP.23.5.565</pub-id>
+<pub-id pub-id-type="pmid">8175162</pub-id></element-citation></ref><ref id="B37-ijms-17-00347"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jennings</surname><given-names>J.R.</given-names></name><name><surname>Muldoon</surname><given-names>M.F.</given-names></name><name><surname>Ryan</surname><given-names>C.</given-names></name><name><surname>Price</surname><given-names>J.C.</given-names></name><name><surname>Greer</surname><given-names>P.</given-names></name><name><surname>Sutton-Tyrrell</surname><given-names>K.</given-names></name><name><surname>van der Veen</surname><given-names>F.M.</given-names></name><name><surname>Meltzer</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Reduced cerebral blood flow response and compensation among patients with untreated hypertension</article-title>
+<source>Neurology</source>
+<year>2005</year>
+<volume>64</volume>
+<fpage>1358</fpage>
+<lpage>1365</lpage>
+<pub-id pub-id-type="doi">10.1212/01.WNL.0000158283.28251.3C</pub-id>
+<pub-id pub-id-type="pmid">15851723</pub-id></element-citation></ref><ref id="B38-ijms-17-00347"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>L.</given-names></name><name><surname>Anrather</surname><given-names>J.</given-names></name><name><surname>Girouard</surname><given-names>H.</given-names></name><name><surname>Zhou</surname><given-names>P.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>Nox<sub>2</sub>-derived reactive oxygen species mediate neurovascular dysregulation in the aging mouse brain</article-title>
+<source>J. Cereb. Blood Flow Metab.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>1908</fpage>
+<lpage>1918</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.jcbfm.9600491</pub-id>
+<pub-id pub-id-type="pmid">17429347</pub-id></element-citation></ref><ref id="B39-ijms-17-00347"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>Neurovascular regulation in the normal brain and in Alzheimer&#x02019;s disease</article-title>
+<source>Nat. Rev. Neurosci.</source>
+<year>2004</year>
+<volume>5</volume>
+<fpage>347</fpage>
+<lpage>360</lpage>
+<pub-id pub-id-type="doi">10.1038/nrn1387</pub-id>
+<pub-id pub-id-type="pmid">15100718</pub-id></element-citation></ref><ref id="B40-ijms-17-00347"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>The overlap between neurodegenerative and vascular factors in the pathogenesis of dementia</article-title>
+<source>Acta Neuropathol.</source>
+<year>2010</year>
+<volume>120</volume>
+<fpage>287</fpage>
+<lpage>296</lpage>
+<pub-id pub-id-type="doi">10.1007/s00401-010-0718-6</pub-id>
+<pub-id pub-id-type="pmid">20623294</pub-id></element-citation></ref><ref id="B41-ijms-17-00347"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iadecola</surname><given-names>C.</given-names></name><name><surname>Park</surname><given-names>L.</given-names></name><name><surname>Capone</surname><given-names>C.</given-names></name></person-group>
+<article-title>Threats to the mind: Aging, amyloid, and hypertension</article-title>
+<source>Stroke</source>
+<year>2009</year>
+<volume>40</volume>
+<fpage>S40</fpage>
+<lpage>S44</lpage>
+<pub-id pub-id-type="doi">10.1161/STROKEAHA.108.533638</pub-id>
+<pub-id pub-id-type="pmid">19064785</pub-id></element-citation></ref><ref id="B42-ijms-17-00347"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Capone</surname><given-names>C.</given-names></name><name><surname>Faraco</surname><given-names>G.</given-names></name><name><surname>Park</surname><given-names>L.</given-names></name><name><surname>Cao</surname><given-names>X.</given-names></name><name><surname>Davisson</surname><given-names>R.L.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>The cerebrovascular dysfunction induced by slow pressor doses of angiotensin II precedes the development of hypertension</article-title>
+<source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<year>2011</year>
+<volume>300</volume>
+<fpage>397</fpage>
+<lpage>407</lpage>
+<pub-id pub-id-type="doi">10.1152/ajpheart.00679.2010</pub-id>
+<pub-id pub-id-type="pmid">20971763</pub-id></element-citation></ref><ref id="B43-ijms-17-00347"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Son</surname><given-names>S.J.</given-names></name><name><surname>Kim</surname><given-names>J.</given-names></name><name><surname>Lee</surname><given-names>E.</given-names></name><name><surname>Park</surname><given-names>J.Y.</given-names></name><name><surname>Namkoong</surname><given-names>K.</given-names></name><name><surname>Hong</surname><given-names>C.H.</given-names></name><name><surname>Ku</surname><given-names>J.</given-names></name><name><surname>Kim</surname><given-names>E.</given-names></name><name><surname>Oh</surname><given-names>B.H.</given-names></name></person-group>
+<article-title>Effect of hypertension on the resting-state functional connectivity in patients with Alzheimer&#x02019;s disease (AD)</article-title>
+<source>Arch. Gerontol. Geriatr.</source>
+<year>2015</year>
+<volume>60</volume>
+<fpage>210</fpage>
+<lpage>216</lpage>
+<pub-id pub-id-type="doi">10.1016/j.archger.2014.09.012</pub-id>
+<pub-id pub-id-type="pmid">25307953</pub-id></element-citation></ref><ref id="B44-ijms-17-00347"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hardy</surname><given-names>J.</given-names></name><name><surname>Selkoe</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>The amyloid hypothesis of Alzheimer&#x02019;s disease: Progress and problems on the road to therapeutics</article-title>
+<source>Science</source>
+<year>2002</year>
+<volume>297</volume>
+<fpage>353</fpage>
+<lpage>356</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1072994</pub-id>
+<pub-id pub-id-type="pmid">12130773</pub-id></element-citation></ref><ref id="B45-ijms-17-00347"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glenner</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Amyloid deposits and amyloidosis. The &#x000df;-fibrilloses (first of two parts)</article-title>
+<source>N. Engl. J. Med.</source>
+<year>1980</year>
+<volume>302</volume>
+<fpage>1283</fpage>
+<lpage>1292</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJM198006053022305</pub-id>
+<pub-id pub-id-type="pmid">6154243</pub-id></element-citation></ref><ref id="B46-ijms-17-00347"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Glenner</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Amyloid deposits and amyloidosis: The &#x000df;-fibrilloses (second of two parts)</article-title>
+<source>N. Engl. J. Med.</source>
+<year>1980</year>
+<volume>302</volume>
+<fpage>1333</fpage>
+<lpage>1343</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJM198006123022403</pub-id>
+<pub-id pub-id-type="pmid">6990257</pub-id></element-citation></ref><ref id="B47-ijms-17-00347"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mandybur</surname><given-names>T.I.</given-names></name></person-group>
+<article-title>Cerebral amyloid angiopathy: The vascular pathology and complications</article-title>
+<source>J. Neuropathol. Exp. Neurol.</source>
+<year>1986</year>
+<volume>45</volume>
+<fpage>79</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="doi">10.1097/00005072-198601000-00007</pub-id>
+<pub-id pub-id-type="pmid">3941328</pub-id></element-citation></ref><ref id="B48-ijms-17-00347"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghiso</surname><given-names>J.</given-names></name><name><surname>Frangione</surname><given-names>B.</given-names></name></person-group>
+<article-title>Cerebral amyloidosis, amyloid angiopathy, and their relationship to stroke and dementia</article-title>
+<source>J. Alzheimers. Dis.</source>
+<year>2001</year>
+<volume>3</volume>
+<fpage>65</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="pmid">12214074</pub-id></element-citation></ref><ref id="B49-ijms-17-00347"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Revesz</surname><given-names>T.</given-names></name><name><surname>Holton</surname><given-names>J.L.</given-names></name><name><surname>Lashley</surname><given-names>T.</given-names></name><name><surname>Plant</surname><given-names>G.</given-names></name><name><surname>Rostagno</surname><given-names>A.</given-names></name><name><surname>Ghiso</surname><given-names>J.</given-names></name><name><surname>Frangione</surname><given-names>B.</given-names></name></person-group>
+<article-title>Sporadic and familial cerebral amyloid angiopathies</article-title>
+<source>Brain Pathol.</source>
+<year>2002</year>
+<volume>12</volume>
+<fpage>343</fpage>
+<lpage>357</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1750-3639.2002.tb00449.x</pub-id>
+<pub-id pub-id-type="pmid">12146803</pub-id></element-citation></ref><ref id="B50-ijms-17-00347"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chow</surname><given-names>N.</given-names></name><name><surname>Bell</surname><given-names>R.D.</given-names></name><name><surname>Deane</surname><given-names>R.</given-names></name><name><surname>Streb</surname><given-names>J.W.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Brooks</surname><given-names>A.</given-names></name><name><surname>van Nostrand</surname><given-names>W.</given-names></name><name><surname>Miano</surname><given-names>J.M.</given-names></name><name><surname>Zlokovic</surname><given-names>B.V.</given-names></name></person-group>
+<article-title>Serum response factor and myocardin mediate cerebral arterial hypercontractility and blood flow dysregulation in Alzheimer&#x02019;s phenotype</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2007</year>
+<volume>104</volume>
+<fpage>823</fpage>
+<lpage>828</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0608251104</pub-id>
+<pub-id pub-id-type="pmid">17215356</pub-id></element-citation></ref><ref id="B51-ijms-17-00347"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hutton</surname><given-names>M.</given-names></name></person-group>
+<article-title>Missense and splice site mutations in tau associated with FTDP-17: Multiple pathogenic mechanisms</article-title>
+<source>Neurology</source>
+<year>2001</year>
+<volume>56</volume>
+<fpage>S21</fpage>
+<lpage>S25</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.56.suppl_4.S21</pub-id>
+<pub-id pub-id-type="pmid">11402146</pub-id></element-citation></ref><ref id="B52-ijms-17-00347"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wisniewski</surname><given-names>T.</given-names></name><name><surname>Frangione</surname><given-names>B.</given-names></name></person-group>
+<article-title>Molecular biology of Alzheimer&#x02019;s amyloid&#x02014;Dutch variant</article-title>
+<source>Mol. Neurobiol.</source>
+<year>1992</year>
+<volume>6</volume>
+<fpage>75</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02935567</pub-id>
+<pub-id pub-id-type="pmid">1463589</pub-id></element-citation></ref><ref id="B53-ijms-17-00347"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gasparini</surname><given-names>L.</given-names></name><name><surname>Terni</surname><given-names>B.</given-names></name><name><surname>Spillantini</surname><given-names>M.G.</given-names></name></person-group>
+<article-title>Frontotemporal dementia with tau pathology</article-title>
+<source>Neurodegener. Dis.</source>
+<year>2007</year>
+<volume>4</volume>
+<fpage>236</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.1159/000101848</pub-id>
+<pub-id pub-id-type="pmid">17596718</pub-id></element-citation></ref><ref id="B54-ijms-17-00347"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zlokovic</surname><given-names>B.V.</given-names></name></person-group>
+<article-title>The blood-brain barrier in health and chronic neurodegenerative disorders</article-title>
+<source>Neuron</source>
+<year>2008</year>
+<volume>57</volume>
+<fpage>178</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuron.2008.01.003</pub-id>
+<pub-id pub-id-type="pmid">18215617</pub-id></element-citation></ref><ref id="B55-ijms-17-00347"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De la Torre</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Alzheimer disease as a vascular disorder: Nosological evidence</article-title>
+<source>Stroke</source>
+<year>2003</year>
+<volume>33</volume>
+<fpage>1152</fpage>
+<lpage>1162</lpage>
+<pub-id pub-id-type="doi">10.1161/01.STR.0000014421.15948.67</pub-id>
+<pub-id pub-id-type="pmid">11935076</pub-id></element-citation></ref><ref id="B56-ijms-17-00347"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sinha</surname><given-names>S.</given-names></name><name><surname>Anderson</surname><given-names>J.P.</given-names></name><name><surname>Barbour</surname><given-names>R.</given-names></name><name><surname>Basi</surname><given-names>G.S.</given-names></name><name><surname>Caccavello</surname><given-names>R.</given-names></name><name><surname>Davis</surname><given-names>D.</given-names></name><name><surname>Doan</surname><given-names>M.</given-names></name><name><surname>Dovey</surname><given-names>H.F.</given-names></name><name><surname>Frigon</surname><given-names>N.</given-names></name><name><surname>Hong</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Purification and cloning of amyloid precursor protein &#x003b2;-secretase from human brain</article-title>
+<source>Nature</source>
+<year>1999</year>
+<volume>402</volume>
+<fpage>537</fpage>
+<lpage>540</lpage>
+<pub-id pub-id-type="doi">10.1038/990114</pub-id>
+<pub-id pub-id-type="pmid">10591214</pub-id></element-citation></ref><ref id="B57-ijms-17-00347"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vassar</surname><given-names>R.</given-names></name></person-group>
+<article-title>The &#x000df;-secretase, BACE: A prime drug target for Alzheimer&#x02019;s disease</article-title>
+<source>J. Mol. Neurosci.</source>
+<year>2001</year>
+<volume>17</volume>
+<fpage>157</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="doi">10.1385/JMN:17:2:157</pub-id>
+<pub-id pub-id-type="pmid">11816789</pub-id></element-citation></ref><ref id="B58-ijms-17-00347"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuznetsova</surname><given-names>E.</given-names></name><name><surname>Schliebs</surname><given-names>R.</given-names></name></person-group>
+<article-title>&#x003b2;-Amyloid, cholinergic transmission, and cerebrovascular system&#x02014;A developmental study in a mouse model of Alzheimer&#x02019;s disease</article-title>
+<source>Curr. Pharm. Des.</source>
+<year>2013</year>
+<volume>19</volume>
+<fpage>6749</fpage>
+<lpage>6765</lpage>
+<pub-id pub-id-type="doi">10.2174/13816128113199990711</pub-id>
+<pub-id pub-id-type="pmid">23530514</pub-id></element-citation></ref><ref id="B59-ijms-17-00347"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kruyer</surname><given-names>A.</given-names></name><name><surname>Soplop</surname><given-names>N.</given-names></name><name><surname>Strickland</surname><given-names>S.</given-names></name><name><surname>Norris</surname><given-names>E.H.</given-names></name></person-group>
+<article-title>Chronic hypertension leads to neurodegeneration in the TgSwDI mouse model of Alzheimer&#x02019;s disease</article-title>
+<source>Hypertension</source>
+<year>2015</year>
+<volume>66</volume>
+<fpage>175</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.115.05524</pub-id>
+<pub-id pub-id-type="pmid">25941345</pub-id></element-citation></ref><ref id="B60-ijms-17-00347"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De la Torre</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>How do heart disease and stroke become risk factors for Alzheimer&#x02019;s disease?</article-title>
+<source>Neurol. Res.</source>
+<year>2006</year>
+<volume>28</volume>
+<fpage>637</fpage>
+<lpage>644</lpage>
+<pub-id pub-id-type="doi">10.1179/016164106X130362</pub-id>
+<pub-id pub-id-type="pmid">16945216</pub-id></element-citation></ref><ref id="B61-ijms-17-00347"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allt</surname><given-names>G.</given-names></name><name><surname>Lawrenson</surname><given-names>J.G.</given-names></name></person-group>
+<article-title>Pericytes: Cell biology and pathology</article-title>
+<source>Cells Tissues Organs</source>
+<year>2001</year>
+<volume>169</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1159/000047855</pub-id>
+<pub-id pub-id-type="pmid">11340256</pub-id></element-citation></ref><ref id="B62-ijms-17-00347"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Von Tell</surname><given-names>D.</given-names></name><name><surname>Armulik</surname><given-names>A.</given-names></name><name><surname>Betsholtz</surname><given-names>C.</given-names></name></person-group>
+<article-title>Pericytes and vascular stability</article-title>
+<source>Exp. Cell. Res.</source>
+<year>2006</year>
+<volume>312</volume>
+<fpage>623</fpage>
+<lpage>629</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yexcr.2005.10.019</pub-id>
+<pub-id pub-id-type="pmid">16303125</pub-id></element-citation></ref><ref id="B63-ijms-17-00347"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Armulik</surname><given-names>A.</given-names></name><name><surname>Abramsson</surname><given-names>A.</given-names></name><name><surname>Betsholtz</surname><given-names>C.</given-names></name></person-group>
+<article-title>Endothelial/pericyte interactions</article-title>
+<source>Circ. Res.</source>
+<year>2005</year>
+<volume>97</volume>
+<fpage>512</fpage>
+<lpage>523</lpage>
+<pub-id pub-id-type="doi">10.1161/01.RES.0000182903.16652.d7</pub-id>
+<pub-id pub-id-type="pmid">16166562</pub-id></element-citation></ref><ref id="B64-ijms-17-00347"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peppiatt</surname><given-names>C.M.</given-names></name><name><surname>Howarth</surname><given-names>C.</given-names></name><name><surname>Mobbs</surname><given-names>P.</given-names></name><name><surname>Attwell</surname><given-names>D.</given-names></name></person-group>
+<article-title>Bidirectional control of CNS capillary diameter by pericytes</article-title>
+<source>Nature</source>
+<year>2006</year>
+<volume>443</volume>
+<fpage>700</fpage>
+<lpage>704</lpage>
+<pub-id pub-id-type="doi">10.1038/nature05193</pub-id>
+<pub-id pub-id-type="pmid">17036005</pub-id></element-citation></ref><ref id="B65-ijms-17-00347"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wyss-Coray</surname><given-names>T.</given-names></name><name><surname>Lin</surname><given-names>C.</given-names></name><name><surname>Sanan</surname><given-names>D.A.</given-names></name><name><surname>Mucke</surname><given-names>L.</given-names></name><name><surname>Masliah</surname><given-names>E.</given-names></name></person-group>
+<article-title>Chronic overproduction of transforming growth factor-beta1 by astrocytes promotes Alzheimer&#x02019;s disease-like microvascular degeneration in transgenic mice</article-title>
+<source>Am. J. Pathol.</source>
+<year>2000</year>
+<volume>156</volume>
+<fpage>139</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.1016/S0002-9440(10)64713-X</pub-id>
+<pub-id pub-id-type="pmid">10623661</pub-id></element-citation></ref><ref id="B66-ijms-17-00347"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bell</surname><given-names>R.D.</given-names></name><name><surname>Deane</surname><given-names>R.</given-names></name><name><surname>Chow</surname><given-names>N.</given-names></name><name><surname>Long</surname><given-names>X.</given-names></name><name><surname>Sagare</surname><given-names>A.</given-names></name><name><surname>Singh</surname><given-names>I.</given-names></name><name><surname>Streb</surname><given-names>J.W.</given-names></name><name><surname>Guo</surname><given-names>H.</given-names></name><name><surname>Rubio</surname><given-names>A.</given-names></name><name><surname>van Nostrand</surname><given-names>W.</given-names></name><etal/></person-group>
+<article-title>SRF and myocardin regulate LRP-mediated amyloid-beta clearance in brain vascular cells</article-title>
+<source>Nat. Cell Biol.</source>
+<year>2009</year>
+<volume>11</volume>
+<fpage>143</fpage>
+<lpage>153</lpage>
+<pub-id pub-id-type="doi">10.1038/ncb1819</pub-id>
+<pub-id pub-id-type="pmid">19098903</pub-id></element-citation></ref><ref id="B67-ijms-17-00347"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iadecola</surname><given-names>C.</given-names></name><name><surname>Davisson</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>Hypertension and cerebrovascular dysfunction</article-title>
+<source>Cell Metab.</source>
+<year>2008</year>
+<volume>7</volume>
+<fpage>476</fpage>
+<lpage>484</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cmet.2008.03.010</pub-id>
+<pub-id pub-id-type="pmid">18522829</pub-id></element-citation></ref><ref id="B68-ijms-17-00347"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deane</surname><given-names>R.</given-names></name><name><surname>Du Yan</surname><given-names>S.</given-names></name><name><surname>Submamaryan</surname><given-names>R.K.</given-names></name><name><surname>LaRue</surname><given-names>B.</given-names></name><name><surname>Jovanovic</surname><given-names>S.</given-names></name><name><surname>Hogg</surname><given-names>E.</given-names></name><name><surname>Welch</surname><given-names>D.</given-names></name><name><surname>Manness</surname><given-names>L.</given-names></name><name><surname>Lin</surname><given-names>C.</given-names></name><name><surname>Yu</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>RAGE mediates amyloid-&#x003b2; peptide transport across the bloodbrain barrier and accumulation in brain</article-title>
+<source>Nat. Med.</source>
+<year>2003</year>
+<volume>9</volume>
+<fpage>907</fpage>
+<lpage>913</lpage>
+<pub-id pub-id-type="doi">10.1038/nm890</pub-id>
+<pub-id pub-id-type="pmid">12808450</pub-id></element-citation></ref><ref id="B69-ijms-17-00347"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shibata</surname><given-names>M.</given-names></name><name><surname>Yamada</surname><given-names>S.</given-names></name><name><surname>Kumar</surname><given-names>S.R.</given-names></name><name><surname>Calero</surname><given-names>M.</given-names></name><name><surname>Bading</surname><given-names>J.</given-names></name><name><surname>Frangione</surname><given-names>B.</given-names></name><name><surname>Holtzman</surname><given-names>D.M.</given-names></name><name><surname>Miller</surname><given-names>C.A.</given-names></name><name><surname>Strickland</surname><given-names>D.K.</given-names></name><name><surname>Ghiso</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Clearance of Alzheimer&#x02019;s amyloid-&#x003b2;(1&#x02013;40) peptide from brain by LDL receptor-related protein-1 at the blood-brain barrier</article-title>
+<source>J. Clin. Investig.</source>
+<year>2000</year>
+<volume>106</volume>
+<fpage>1489</fpage>
+<lpage>1499</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI10498</pub-id>
+<pub-id pub-id-type="pmid">11120756</pub-id></element-citation></ref><ref id="B70-ijms-17-00347"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sasaki</surname><given-names>N.</given-names></name><name><surname>Toki</surname><given-names>S.</given-names></name><name><surname>Chowei</surname><given-names>H.</given-names></name><name><surname>Saito</surname><given-names>T.</given-names></name><name><surname>Nakano</surname><given-names>N.</given-names></name><name><surname>Hayashi</surname><given-names>Y.</given-names></name><name><surname>Takeuchi</surname><given-names>M.</given-names></name><name><surname>Makita</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Immunohistochemical distribution of the receptor for advanced glycation end products in neurons and astrocytes in Alzheimer&#x02019;s disease</article-title>
+<source>Brain Res.</source>
+<year>2001</year>
+<volume>888</volume>
+<fpage>256</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="pmid">11150482</pub-id></element-citation></ref><ref id="B71-ijms-17-00347"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>A.A.</given-names></name><name><surname>Drummond</surname><given-names>G.R.</given-names></name><name><surname>Schmidt</surname><given-names>H.H.</given-names></name><name><surname>Sobey</surname><given-names>C.G.</given-names></name></person-group>
+<article-title>NADPH oxidase activity and function are profoundly greater in cerebral <italic>versus</italic> systemic arteries</article-title>
+<source>Circ. Res.</source>
+<year>2005</year>
+<volume>97</volume>
+<fpage>1055</fpage>
+<lpage>1062</lpage>
+<pub-id pub-id-type="doi">10.1161/01.RES.0000189301.10217.87</pub-id>
+<pub-id pub-id-type="pmid">16210546</pub-id></element-citation></ref><ref id="B72-ijms-17-00347"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>X.H.</given-names></name><name><surname>Tu</surname><given-names>Y.</given-names></name><name><surname>Sun</surname><given-names>H.T.</given-names></name><name><surname>Liang</surname><given-names>H.Q.</given-names></name><name><surname>Cheng</surname><given-names>S.X.</given-names></name><name><surname>Zhang</surname><given-names>S.</given-names></name></person-group>
+<article-title>A&#x003b2;-AGE aggravates cognitive deficit in rats via RAGE pathway</article-title>
+<source>Neuroscience</source>
+<year>2014</year>
+<volume>257</volume>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2013.10.056</pub-id>
+<pub-id pub-id-type="pmid">24188791</pub-id></element-citation></ref><ref id="B73-ijms-17-00347"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X.H.</given-names></name><name><surname>Lv</surname><given-names>B.L.</given-names></name><name><surname>Xie</surname><given-names>J.Z.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>X.W.</given-names></name><name><surname>Wang</surname><given-names>J.Z.</given-names></name></person-group>
+<article-title>AGEs induce Alzheimer-like tau pathology and memory deficit via RAGE-mediated GSK-3 activation</article-title>
+<source>Neurobiol. Aging</source>
+<year>2012</year>
+<volume>33</volume>
+<fpage>1400</fpage>
+<lpage>1410</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2011.02.003</pub-id>
+<pub-id pub-id-type="pmid">21450369</pub-id></element-citation></ref><ref id="B74-ijms-17-00347"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>Y.</given-names></name><name><surname>Ye</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>Microglial A&#x003b2; receptors in Alzheimer&#x02019;s disease</article-title>
+<source>Cell. Mol. Neurobiol.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>71</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.1007/s10571-014-0101-6</pub-id>
+<pub-id pub-id-type="pmid">25149075</pub-id></element-citation></ref><ref id="B75-ijms-17-00347"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fang</surname><given-names>F.</given-names></name><name><surname>Lue</surname><given-names>L.F.</given-names></name><name><surname>Yan</surname><given-names>S.</given-names></name><name><surname>Xu</surname><given-names>H.</given-names></name><name><surname>Luddy</surname><given-names>J.S.</given-names></name><name><surname>Chen</surname><given-names>D.</given-names></name><name><surname>Walker</surname><given-names>D.G.</given-names></name><name><surname>Stern</surname><given-names>D.M.</given-names></name><name><surname>Yan</surname><given-names>S.</given-names></name><name><surname>Schmidt</surname><given-names>A.M.</given-names></name><etal/></person-group>
+<article-title>RAGE-dependent signaling in microglia contributes to neuroinflammation, A&#x003b2; accumulation, and impaired learning/memory in a mouse model of Alzheimer&#x02019;s disease</article-title>
+<source>FASEB J.</source>
+<year>2010</year>
+<volume>24</volume>
+<fpage>1043</fpage>
+<lpage>1055</lpage>
+<pub-id pub-id-type="doi">10.1096/fj.09-139634</pub-id>
+<pub-id pub-id-type="pmid">19906677</pub-id></element-citation></ref><ref id="B76-ijms-17-00347"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ihara</surname><given-names>Y.</given-names></name><name><surname>Egashira</surname><given-names>K.</given-names></name><name><surname>Nakano</surname><given-names>K.</given-names></name><name><surname>Ohtani</surname><given-names>K.</given-names></name><name><surname>Kubo</surname><given-names>M.</given-names></name><name><surname>Koga</surname><given-names>J.</given-names></name><name><surname>Iwai</surname><given-names>M.</given-names></name><name><surname>Horiuchi</surname><given-names>M.</given-names></name><name><surname>Gang</surname><given-names>Z.</given-names></name><name><surname>Yamagishi</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Upregulation of the ligand-RAGE pathway via the angiotensin II type I receptor is essential in the pathogenesis of diabetic atherosclerosis</article-title>
+<source>J. Mol. Cell. Cardiol.</source>
+<year>2007</year>
+<volume>43</volume>
+<fpage>455</fpage>
+<lpage>464</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yjmcc.2007.07.044</pub-id>
+<pub-id pub-id-type="pmid">17761193</pub-id></element-citation></ref><ref id="B77-ijms-17-00347"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>D.</given-names></name><name><surname>Brownlee</surname><given-names>M.</given-names></name></person-group>
+<article-title>Hyperglycemia-induced reactive oxygen species increase expression of RAGE and RAGE ligands</article-title>
+<source>Diabetes</source>
+<year>2010</year>
+<volume>59</volume>
+<fpage>249</fpage>
+<lpage>255</lpage>
+<pub-id pub-id-type="doi">10.2337/db09-0801</pub-id>
+<pub-id pub-id-type="pmid">19833897</pub-id></element-citation></ref><ref id="B78-ijms-17-00347"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Poulet</surname><given-names>R.</given-names></name><name><surname>Gentile</surname><given-names>M.T.</given-names></name><name><surname>Vecchione</surname><given-names>C.</given-names></name><name><surname>Distaso</surname><given-names>M.</given-names></name><name><surname>Aretini</surname><given-names>A.</given-names></name><name><surname>Fratta</surname><given-names>L.</given-names></name><name><surname>Russo</surname><given-names>G.</given-names></name><name><surname>Echart</surname><given-names>C.</given-names></name><name><surname>Maffei</surname><given-names>A.</given-names></name><name><surname>de Simoni</surname><given-names>M.G.</given-names></name><etal/></person-group>
+<article-title>Acute hypertension induces oxidative stress in brain tissues</article-title>
+<source>J. Cereb. Blood Flow Metab.</source>
+<year>2006</year>
+<volume>26</volume>
+<fpage>253</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.jcbfm.9600188</pub-id>
+<pub-id pub-id-type="pmid">16079792</pub-id></element-citation></ref><ref id="B79-ijms-17-00347"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>K.</given-names></name><name><surname>Yamagishi</surname><given-names>S.</given-names></name><name><surname>Nakamura</surname><given-names>Y.</given-names></name><name><surname>Takenaka</surname><given-names>K.</given-names></name><name><surname>Matsui</surname><given-names>T.</given-names></name><name><surname>Jinnouchi</surname><given-names>Y.</given-names></name><name><surname>Imaizumi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Telmisartan inhibits expression of a receptor for advanced glycation end products (RAGE) in angiotensin-II-exposed endothelial cells and decreases serum levels of soluble RAGE in patients with essential hypertension</article-title>
+<source>Microvasc. Res.</source>
+<year>2005</year>
+<volume>70</volume>
+<fpage>137</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mvr.2005.10.002</pub-id>
+<pub-id pub-id-type="pmid">16271939</pub-id></element-citation></ref><ref id="B80-ijms-17-00347"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saito</surname><given-names>S.</given-names></name><name><surname>Ihara</surname><given-names>M.</given-names></name></person-group>
+<article-title>New therapeutic approaches for Alzheimer&#x02019;s disease and cerebral amyloid angiopathy</article-title>
+<source>Front. Aging Neurosci.</source>
+<year>2014</year>
+<volume>6</volume>
+<pub-id pub-id-type="doi">10.3389/fnagi.2014.00290</pub-id>
+<pub-id pub-id-type="pmid">25368578</pub-id></element-citation></ref><ref id="B81-ijms-17-00347"><label>81.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>NIH National Institute on Aging Web Site</collab></person-group>
+<article-title>RI: RAGE inhibitor study. Alzheimer&#x02019;s disease education and referral center</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.alzheimers.org/clinicaltrials/fullrec.asp?PrimaryKey=287">http://www.alzheimers.org/clinicaltrials/fullrec.asp?PrimaryKey=287</ext-link></comment>
+<date-in-citation>(accessed on 21 December 2015)</date-in-citation>
+</element-citation></ref><ref id="B82-ijms-17-00347"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deane</surname><given-names>R.</given-names></name><name><surname>Singh</surname><given-names>I.</given-names></name><name><surname>Sagare</surname><given-names>A.P.</given-names></name><name><surname>Bell</surname><given-names>R.D.</given-names></name><name><surname>Ross</surname><given-names>N.T.</given-names></name><name><surname>LaRue</surname><given-names>B.</given-names></name><name><surname>Love</surname><given-names>R.</given-names></name><name><surname>Perry</surname><given-names>S.</given-names></name><name><surname>Paquette</surname><given-names>N.</given-names></name><name><surname>Deane</surname><given-names>R.J.</given-names></name></person-group>
+<article-title>A multimodal RAGE-specific inhibitor reduces amyloid &#x003b2;-mediated brain disorder in a mouse model of Alzheimer disease</article-title>
+<source>J. Clin. Investig.</source>
+<year>2012</year>
+<volume>122</volume>
+<fpage>1377</fpage>
+<lpage>1392</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI58642</pub-id>
+<pub-id pub-id-type="pmid">22406537</pub-id></element-citation></ref><ref id="B83-ijms-17-00347"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Faraco</surname><given-names>G.</given-names></name><name><surname>Park</surname><given-names>L.</given-names></name><name><surname>Zhou</surname><given-names>P.</given-names></name><name><surname>Luo</surname><given-names>W.</given-names></name><name><surname>Paul</surname><given-names>S.M.</given-names></name><name><surname>Anrather</surname><given-names>J.</given-names></name><name><surname>Iadecola</surname><given-names>C.</given-names></name></person-group>
+<article-title>Hypertension enhances A&#x003b2;-induced neurovascular dysfunction, promotes &#x003b2;-secretase activity, and leads to amyloidogenic processing of APP</article-title>
+<source>J. Cereb. Blood Flow Metab.</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.1038/jcbfm.2015.79</pub-id>
+<pub-id pub-id-type="pmid">25920959</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="ijms-17-00347-f001" position="float"><label>Figure 1</label><caption><p>Schematic representation of hypertension-induced alterations, leading to dementia. Hypertension negatively affects the mechanisms of A&#x003b2; clearance causing a damage of BBB (blood brain barrier) and increase of A&#x003b2; accumulation in the brain, aggravating the synaptic dysfunction and the brain toxically. All these effects contribute to the deterioration of cognitive functions.</p></caption><graphic xlink:href="ijms-17-00347-g001"/></fig></floats-group></article>

@@ -1,0 +1,433 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Hematol</journal-id><journal-id journal-id-type="iso-abbrev">Am. J. Hematol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1096-8652</journal-id><journal-id journal-id-type="publisher-id">AJH</journal-id><journal-title-group><journal-title>American Journal of Hematology</journal-title></journal-title-group><issn pub-type="ppub">0361-8609</issn><issn pub-type="epub">1096-8652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28762527</article-id><article-id pub-id-type="pmc">5656936</article-id><article-id pub-id-type="doi">10.1002/ajh.24877</article-id><article-id pub-id-type="publisher-id">AJH24877</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Outcomes after 18 months of eliglustat therapy in treatment&#x02010;na&#x000ef;ve adults with <styled-content style="fixed-case">G</styled-content>aucher disease type 1: The phase 3 ENGAGE trial</article-title><alt-title alt-title-type="left-running-head">MISTRY et al.</alt-title></title-group><contrib-group><contrib id="ajh24877-cr-0001" contrib-type="author" corresp="yes"><name><surname>Mistry</surname><given-names>Pramod K.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3447-6421</contrib-id><address><email>Pramod.mistry@yale.edu</email></address><xref ref-type="aff" rid="ajh24877-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ajh24877-cr-0002" contrib-type="author"><name><surname>Lukina</surname><given-names>Elena</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajh24877-cr-0003" contrib-type="author"><name><surname>Ben Turkia</surname><given-names>Hadhami</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ajh24877-cr-0004" contrib-type="author"><name><surname>Shankar</surname><given-names>Suma P.</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ajh24877-aff-0021">
+<sup>21</sup>
+</xref></contrib><contrib id="ajh24877-cr-0005" contrib-type="author"><name><surname>Baris</surname><given-names>Hagit</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="ajh24877-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="ajh24877-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ajh24877-cr-0006" contrib-type="author"><name><surname>Ghosn</surname><given-names>Marwan</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ajh24877-cr-0007" contrib-type="author"><name><surname>Mehta</surname><given-names>Atul</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ajh24877-cr-0008" contrib-type="author"><name><surname>Packman</surname><given-names>Seymour</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ajh24877-cr-0009" contrib-type="author"><name><surname>Pastores</surname><given-names>Gregory</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0011">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="ajh24877-aff-0022">
+<sup>22</sup>
+</xref></contrib><contrib id="ajh24877-cr-00010" contrib-type="author"><name><surname>Petakov</surname><given-names>Milan</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="ajh24877-cr-00011" contrib-type="author"><name><surname>Assouline</surname><given-names>Sarit</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="ajh24877-cr-00012" contrib-type="author"><name><surname>Balwani</surname><given-names>Manisha</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="ajh24877-cr-00013" contrib-type="author"><name><surname>Danda</surname><given-names>Sumita</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="ajh24877-cr-00014" contrib-type="author"><name><surname>Hadjiev</surname><given-names>Evgueniy</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="ajh24877-cr-00015" contrib-type="author"><name><surname>Ortega</surname><given-names>Andres</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="ajh24877-cr-00016" contrib-type="author"><name><surname>Gaemers</surname><given-names>Sebastiaan J. M.</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="ajh24877-cr-00017" contrib-type="author"><name><surname>Tayag</surname><given-names>Regina</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="ajh24877-cr-00018" contrib-type="author"><name><surname>Peterschmitt</surname><given-names>M. Judith</given-names></name><xref ref-type="aff" rid="ajh24877-aff-0020">
+<sup>20</sup>
+</xref></contrib></contrib-group><aff id="ajh24877-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine and Pediatrics</named-content>
+<institution>Yale University School of Medicine</institution>
+<named-content content-type="city">New Haven</named-content>
+<named-content content-type="country-part">CT</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Orphan Diseases</named-content>
+<institution>National Research Center for Hematology</institution>
+<named-content content-type="city">Moscow</named-content>
+<country country="RU">Russia</country>
+</aff><aff id="ajh24877-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>H&#x000f4;pital La Rabta</institution>
+<named-content content-type="city">Tunis</named-content>
+<country country="TN">Tunisia</country>
+</aff><aff id="ajh24877-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Human Genetics</named-content>
+<institution>Emory University School of Medicine</institution>
+<named-content content-type="city">Atlanta</named-content>
+<named-content content-type="country-part">GA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Raphael Recanati Genetic Institute</named-content>
+<institution>Rabin Medical Center</institution>
+<named-content content-type="city">Petach Tikvah</named-content>
+<country country="IL">Israel</country>
+</aff><aff id="ajh24877-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Sackler Faculty of Medicine</named-content>
+<institution>Tel Aviv University</institution>
+<named-content content-type="city">Tel Aviv</named-content>
+<country country="IL">Israel</country>
+</aff><aff id="ajh24877-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">The Genetics Institute, Rambam Health Care Campus and The Ruth and Bruce Rappaport Faculty of Medicine</named-content>
+<institution>Technion &#x02013; Israel Institute of Technology</institution>
+<named-content content-type="city">Haifa</named-content>
+<country country="IL">Israel</country>
+</aff><aff id="ajh24877-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Hematology&#x02010;Oncology</named-content>
+<institution>H&#x000f4;tel&#x02010;Dieu de France University Hospital</institution>
+<named-content content-type="city">Beirut</named-content>
+<country country="LB">Lebanon</country>
+</aff><aff id="ajh24877-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Haematology, The Royal Free Hospital</named-content>
+<institution>University College</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><aff id="ajh24877-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>UCSF School of Medicine</institution>
+<named-content content-type="city">San Francisco</named-content>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Department of Neurology and Pediatrics</named-content>
+<institution>New York University School of Medicine</institution>
+<named-content content-type="city">New York</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Department of Neuroendocrinology, Clinical Center of Serbia</named-content>
+<institution>Belgrade University Medical School</institution>
+<country country="RS">Serbia</country>
+</aff><aff id="ajh24877-aff-0013">
+<label><sup>13</sup></label>
+<named-content content-type="organisation-division">Department of Medicine, Division of Hematology</named-content>
+<institution>Jewish General Hospital</institution>
+<named-content content-type="city">Montreal</named-content>
+<named-content content-type="country-part">Quebec</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="ajh24877-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">Department of Genetics and Genomic Sciences</named-content>
+<institution>Icahn School of Medicine at Mt. Sinai Hospital</institution>
+<named-content content-type="city">New York</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Department of Medical Genetics</named-content>
+<institution>Christian Medical College</institution>
+<named-content content-type="city">Vellore</named-content>
+<named-content content-type="country-part">Tamil Nadu</named-content>
+<country country="IN">India</country>
+</aff><aff id="ajh24877-aff-0016">
+<label><sup>16</sup></label>
+<named-content content-type="organisation-division">Medical University &#x02010; Sofia, Faculty of Medicine, Department of Internal diseases</named-content>
+<institution>UMHAT &#x0201c;Alexandrovska&#x0201d;&#x02010; Clinic of Hematology</institution>
+<named-content content-type="city">Sofia</named-content>
+<country country="BG">Bulgaria</country>
+</aff><aff id="ajh24877-aff-0017">
+<label><sup>17</sup></label>
+<institution>OCA Hospital</institution>
+<named-content content-type="city">Monterrey</named-content>
+<country country="MX">Mexico</country>
+</aff><aff id="ajh24877-aff-0018">
+<label><sup>18</sup></label>
+<named-content content-type="organisation-division">Global Pharmacovigilance</named-content>
+<institution>Sanofi Genzyme</institution>
+<named-content content-type="city">Naarden</named-content>
+<country country="NL">The Netherlands</country>
+</aff><aff id="ajh24877-aff-0019">
+<label><sup>19</sup></label>
+<institution>Prometrika</institution>
+<named-content content-type="city">Cambridge</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0020">
+<label><sup>20</sup></label>
+<named-content content-type="organisation-division">Rare Diseases Clinical Development</named-content>
+<institution>Sanofi Genzyme</institution>
+<named-content content-type="city">Cambridge</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ajh24877-aff-0021"><label><sup>21</sup></label>Present address:
+<institution>University of California &#x02010; Davis, Sacramento, CA</institution>
+</aff><aff id="ajh24877-aff-0022"><label><sup>22</sup></label>Present address:
+<institution>National Centre for Inherited Metabolic Disorders, University College Dublin, Dublin, Ireland</institution>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Pramod K. Mistry, Yale University School of Medicine, 333 Cedar Street, LMP 1080, New Haven, CT 06520. Email: <email>Pramod.mistry@yale.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>10</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2017</year></pub-date><volume>92</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/ajh.v92.11</issue-id><fpage>1170</fpage><lpage>1176</lpage><history><date date-type="received"><day>23</day><month>5</month><year>2017</year></date><date date-type="rev-recd"><day>25</day><month>7</month><year>2017</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors American Journal of Hematology Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:AJH-92-1170.pdf"/><abstract><title>Abstract</title><p>Eliglustat, an oral substrate reduction therapy, is a first&#x02010;line treatment for adults with Gaucher disease type 1 (GD1) who are poor, intermediate, or extensive CYP2D6 metabolizers (&#x0003e;90% of patients). In the primary analysis of the Phase 3 ENGAGE trial (NCT00891202), eliglustat treatment for 9 months resulted in significant reductions in spleen and liver volumes and increases in hemoglobin concentration and platelet count compared with placebo. We report 18&#x02010;month outcomes of patients who entered the trial extension period, in which all patients received eliglustat. Of 40 trial patients, 39 entered the extension period, and 38 completed 18 months. Absolute values and percent change over time were determined for spleen and liver volume, hemoglobin concentration, platelet count, bone mineral density, bone marrow burden, and Gaucher disease biomarkers. For patients randomized to eliglustat in the double&#x02010;blind period, continuing treatment with eliglustat for 9 more months resulted in incremental improvement of all disease parameters. For patients randomized to placebo in the double&#x02010;blind period, eliglustat treatment during the 9&#x02010;month, open&#x02010;label period resulted in significant decrease of spleen and liver volumes and significant increase of hemoglobin and platelets, with a similar rate of change to patients who had received eliglustat in the double&#x02010;blind period. Eliglustat treatment was also associated with improvement in bone marrow burden score, bone mineral density, and established biomarkers of Gaucher disease, including reduction of the bioactive lipid, glucosylsphingosine. These findings underscore the efficacy of eliglustat in treatment&#x02010;na&#x000ef;ve patients. Eliglustat was well&#x02010;tolerated, and there were no new safety concerns with longer&#x02010;term exposure.</p></abstract><funding-group><award-group><funding-source>Sanofi Genzyme
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="7"/><word-count count="4432"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ajh24877</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:26.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ajh24877-cit-0001">
+<string-name>
+<surname>Mistry</surname>
+<given-names>PK</given-names>
+</string-name>, 
+<string-name>
+<surname>Lukina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Ben Turkia</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Outcomes after 18 months of eliglustat therapy in treatment&#x02010;na&#x000ef;ve adults with <styled-content style="fixed-case">G</styled-content>aucher disease type 1: The phase 3 ENGAGE trial</article-title>. <source>Am J Hematol</source>. <year>2017</year>;<volume>92</volume>:<fpage>1170</fpage>&#x02013;<lpage>1176</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ajh.24877">https://doi.org/10.1002/ajh.24877</ext-link>
+<pub-id pub-id-type="pmid">28762527</pub-id></mixed-citation>
+</p><fn-group><fn id="ajh24877-note-0003"><p>
+<bold>Funding information</bold> Sanofi Genzyme</p></fn></fn-group></notes></front><body><sec id="ajh24877-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Gaucher disease type 1 (GD1) is an autosomal recessive lysosomal storage disorder caused by <italic>GBA</italic> mutations and defective acid&#x02010;&#x003b2;&#x02010;glucosidase.<xref rid="ajh24877-bib-0001" ref-type="ref">1</xref> The metabolic defect results in progressive accumulation of glucosylceramide and glucosylsphingosine in lysosomes, most conspicuously in the cells of macrophage/monocyte lineage. The accumulating lipids trigger metabolic inflammation and immune activation that is associated with increased synthesis of glucosylceramide via induction of glucosylceramide synthase, thus amplifying the primary metabolic defect<xref rid="ajh24877-bib-0002" ref-type="ref">2</xref>, <xref rid="ajh24877-bib-0003" ref-type="ref">3</xref>; hence, the typical phenotypic features of hepatosplenomegaly, cytopenia, and disabling skeletal complications.<xref rid="ajh24877-bib-0001" ref-type="ref">1</xref> Two treatment approaches have been used to lower pathological glucosylceramide accumulation in Gaucher disease. For the past two decades, the standard of care for GD1 has been enzyme replacement therapy (ERT) with biweekly infusions of macrophage&#x02010;targeted recombinant acid &#x003b2;&#x02010;glucosidase, which supplements enzyme activity in the macrophage system.<xref rid="ajh24877-bib-0004" ref-type="ref">4</xref> Substrate reduction therapy is predicated on partial inhibition of glucosylceramide synthase to decrease synthesis of glucosylceramide to balance residual activity of mutant acid &#x003b2;&#x02010;glucosidase.<xref rid="ajh24877-bib-0004" ref-type="ref">4</xref>
+</p><p>Eliglustat (Cerdelga, Sanofi Genzyme, Cambridge, Massachusetts) is an oral substrate reduction therapy approved as a first&#x02010;line treatment for adults with GD1 whose predicted CYP2D6 metabolizer status, as detected by an FDA&#x02010;cleared test, is poor, intermediate, or extensive<xref rid="ajh24877-bib-0005" ref-type="ref">5</xref> (&#x0003e;90% of patients<xref rid="ajh24877-bib-0006" ref-type="ref">6</xref>). The Phase 3 ENGAGE trial (NCT00891202), the first placebo&#x02010;controlled trial ever conducted in Gaucher disease, demonstrated significant reductions in spleen and liver volumes and increases in hemoglobin concentration and platelet count after 9 months of treatment in eliglustat&#x02010;treated GD1 patients, while placebo&#x02010;treated patients demonstrated slight worsening of these indicators of disease activity.<xref rid="ajh24877-bib-0007" ref-type="ref">7</xref> On completing the 9&#x02010;month primary analysis period, all patients had the opportunity to continue in the open&#x02010;label ENGAGE trial extension, in which all patients received eliglustat. We report the 18&#x02010;month outcomes of the patients who entered the trial extension.</p></sec><sec id="ajh24877-sec-0002"><label>2</label><title>METHODS</title><p>Clinical assessments in the ENGAGE trial were performed as described previously.<xref rid="ajh24877-bib-0007" ref-type="ref">7</xref> For eliglustat patients continuing on eliglustat and placebo patients who switched to eliglustat, absolute values and percent change over time were determined for spleen volume, liver volume, hemoglobin concentration, platelet count, bone mineral density, and bone marrow burden score. In addition, plasma levels of the acid &#x003b2;&#x02010;glucosidase substrates, glucosylceramide and glucosylsphingosine, were measured. Biomarkers of Gaucher disease, serum chitotriosidase and plasma macrophage inflammatory protein 1&#x003b2; (MIP&#x02010;1&#x003b2;), were also monitored. Moreover, we measured plasma levels of several sphingolipids to assess whether inhibition of glucosylceramide led to diversion of substrates through alternate pathways, namely, GM3 ganglioside, sphingomyelin, and ceramide. Safety data were collected as described previously<xref rid="ajh24877-bib-0007" ref-type="ref">7</xref> and assessed with regard to treatment group at baseline and duration of eliglustat treatment. Frequency of adverse events, serious adverse events, and severe adverse events are reported for all eliglustat&#x02010;treated patients in the trial extension period and presented alongside data for the placebo&#x02010;treated patients during their time in the 9&#x02010;month primary analysis period.</p></sec><sec id="ajh24877-sec-0003"><label>3</label><title>RESULTS</title><p>Baseline patient characteristics for the ENGAGE population were reported previously.<xref rid="ajh24877-bib-0007" ref-type="ref">7</xref> Of the 40 patients who entered the trial, 2 patients in the eliglustat&#x02010;eliglustat group withdrew from the trial: one during the primary analysis period and one during the extension (Supporting Information Figure A). Neither withdrawal was due to adverse events.</p><p>Eliglustat treatment resulted in reversal of disease activity indicators in key affected organ systems. Hence, there were significant improvements in visceral (liver and spleen volume) and hematologic (hemoglobin concentration and platelet count) disease parameters (Figure <xref rid="ajh24877-fig-0001" ref-type="fig">1</xref>). These consistent improvements were seen in patients taking eliglustat but not patients taking placebo. Patients randomized to eliglustat in the double&#x02010;blind period demonstrated continued incremental responses during the open&#x02010;label extension period for the next 9 months. The placebo&#x02010;treated patients who switched to eliglustat (ie, placebo&#x02010;crossover patients) demonstrated reversal of disease with similar time course and magnitude of improvement in spleen volume, liver volume, hemoglobin concentration, and platelet count over 9 months as was seen in the original eliglustat&#x02010;treated patients during their first 9 months on eliglustat therapy (Figure <xref rid="ajh24877-fig-0001" ref-type="fig">1</xref>). Bone mineral density and bone marrow infiltration indicated by bone marrow burden scores also improved in the placebo&#x02010;crossover patients during their 9 months on eliglustat therapy with a time course and magnitude of improvement similar to the original eliglustat&#x02010;treated patients (Supporting Information Figure B). Concomitantly, there was striking reduction in plasma concentrations of the primary storage lipids, glucosylceramide and glucosylsphingosine, as well as established biomarkers of Gaucher disease, serum chitotriosidase and plasma MIP&#x02010;1&#x003b2;, all of which were elevated at baseline and decreased consistently in eliglustat&#x02010;treated patients (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref>), with similar reductions among placebo&#x02010;crossover patients. In addition, patients randomized to eliglustat in the double&#x02010;blind period showed consistent further reductions in these biomarkers during the 9&#x02010;month extension period. Plasma sphingomyelin and ceramide, which were both in the normal range at baseline, remained well within the normal range (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref>, legend). Overall, patients who were treated with eliglustat for 18 months showed continued improvements in visceral, hematologic, bone, and biochemical parameters after their first 9 months on therapy.</p><fig fig-type="Figure" xml:lang="en" id="ajh24877-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Effects of eliglustat on spleen volume (A), liver volume (B), hemoglobin concentration (C), and platelet count (D) through 18 months. Absolute mean values for patients initially randomized to placebo or eliglustat are depicted with reference to when they began eliglustat treatment rather than time in the trial. Change from baseline in the table insets is determined with respect to treatment baseline. For patients who received placebo for the first 9 months of the trial, the placebo baseline is when they entered the trial and the eliglustat baseline is when they switched to eliglustat. For patients randomized to eliglustat for the first 9 months, the treatment baseline is when they entered the trial. Abbreviations: MN, multiples of normal; SEM, standard error of the mean</p></caption><graphic id="nlm-graphic-1" xlink:href="AJH-92-1170-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="ajh24877-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Effects of eliglustat on glucosylceramide (A), glucosylsphingosine (B), chitotriosidase (C), and MIP&#x02010;1&#x003b2; (D) through 18 months. Median values for patients initially randomized to placebo or eliglustat are depicted with reference to when they began eliglustat treatment rather than time in the trial. Change from baseline in the table insets is determined with respect to treatment baseline. For patients who received placebo for the first 9 months of the trial, the placebo baseline is when they entered the trial and the eliglustat baseline is when they switched to eliglustat. For patients randomized to eliglustat for the first 9 months, the treatment baseline is when they entered the trial. Not shown: median ceramide remained in the normal range (1.8&#x02013;6.5 &#x000b5;g/mL) from baseline (3.40 mg/L) to 18 months (4.42 mg/L) and median sphingomyelin remained in the normal range (200&#x02013;703 &#x000b5;g/mL) from baseline (211.00 &#x000b5;g/mL) to 18 months (280.50 &#x000b5;g/mL)</p></caption><graphic id="nlm-graphic-3" xlink:href="AJH-92-1170-g002"/></fig><p>The adverse event profile during the first 9 months of the extension trial was consistent with that reported during the primary analysis period (Table <xref rid="ajh24877-tbl-0001" ref-type="table-wrap">1</xref>). There were no withdrawals due to adverse events and no deaths. During eliglustat treatment, 99% of adverse events were classified as mild or moderate. The two adverse events classified as severe were migraine (after 382 days on eliglustat) considered unlikely to be related to eliglustat and arthralgia (after 351 days on eliglustat) considered not related to eliglustat treatment as arthralgia is common in Gaucher disease. Adverse events reported in &#x02265;15% of patients in any 9&#x02010;month period are shown in Table <xref rid="ajh24877-tbl-0002" ref-type="table-wrap">2</xref>.</p><table-wrap id="ajh24877-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of adverse events</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" colspan="4" align="left" valign="bottom" rowspan="1">Primary analysis period (9 months)</th><th style="border-bottom:solid 1px #000000" colspan="4" align="left" valign="bottom" rowspan="1">Extension phase (9 months)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1"/></tr><tr><th align="left" rowspan="2" valign="bottom" colspan="1">Adverse event</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Eliglustat (<italic>N</italic>&#x02009;=&#x02009;20)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Placebo (<italic>N</italic>&#x02009;=&#x02009;20)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Eliglustat&#x02013;eliglustat (<italic>N</italic>&#x02009;=&#x02009;19)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Placebo&#x02013;eliglustat (<italic>N</italic>&#x02009;=&#x02009;20)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">All adverse events on eliglustat<xref ref-type="fn" rid="ajh24877-note-0004">a</xref> (<italic>N</italic>&#x02009;=&#x02009;40)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Patients (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Patients (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Patients (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Patients (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Patients (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Any AE</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">135</td><td align="left" valign="top" rowspan="1" colspan="1">18 (90)</td><td align="left" valign="top" rowspan="1" colspan="1">95</td><td align="left" valign="top" rowspan="1" colspan="1">14 (70)</td><td align="left" valign="top" rowspan="1" colspan="1">93</td><td align="left" valign="top" rowspan="1" colspan="1">15 (79)</td><td align="left" valign="top" rowspan="1" colspan="1">92</td><td align="left" valign="top" rowspan="1" colspan="1">15 (75)</td><td align="left" valign="top" rowspan="1" colspan="1">320</td><td align="left" valign="top" rowspan="1" colspan="1">34 (85)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Related</td><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">9 (45)</td><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="left" valign="top" rowspan="1" colspan="1">9 (45)</td><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="left" valign="top" rowspan="1" colspan="1">8 (42)</td><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1">9 (45)</td><td align="left" valign="top" rowspan="1" colspan="1">76</td><td align="left" valign="top" rowspan="1" colspan="1">21 (53)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Not related</td><td align="left" valign="top" rowspan="1" colspan="1">103</td><td align="left" valign="top" rowspan="1" colspan="1">18 (90)</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1">14 (70)</td><td align="left" valign="top" rowspan="1" colspan="1">68</td><td align="left" valign="top" rowspan="1" colspan="1">13 (68)</td><td align="left" valign="top" rowspan="1" colspan="1">73</td><td align="left" valign="top" rowspan="1" colspan="1">12 (60)</td><td align="left" valign="top" rowspan="1" colspan="1">244</td><td align="left" valign="top" rowspan="1" colspan="1">31 (78)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mild</td><td align="left" valign="top" rowspan="1" colspan="1">93</td><td align="left" valign="top" rowspan="1" colspan="1">16 (80)</td><td align="left" valign="top" rowspan="1" colspan="1">85</td><td align="left" valign="top" rowspan="1" colspan="1">14 (70)</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1">14 (74)</td><td align="left" valign="top" rowspan="1" colspan="1">85</td><td align="left" valign="top" rowspan="1" colspan="1">13 (65)</td><td align="left" valign="top" rowspan="1" colspan="1">245</td><td align="left" valign="top" rowspan="1" colspan="1">31 (78)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1">15 (75)</td><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">6 (30)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">10 (53)</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">5 (25)</td><td align="left" valign="top" rowspan="1" colspan="1">73</td><td align="left" valign="top" rowspan="1" colspan="1">20 (50)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">2 (5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serious</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Led to withdrawal</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Deaths</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="ajh24877-note-0004"><label>a</label><p>Represents adverse events that occurred while on eliglustat treatment in either the primary analysis and/or the extension.</p></fn></table-wrap-foot></table-wrap><table-wrap id="ajh24877-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Adverse events reported in&#x02009;&#x02265;&#x02009;15% of patients during any 9&#x02010;month period</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" colspan="4" align="left" valign="bottom" rowspan="1">Primary analysis period (9 months)</th><th style="border-bottom:solid 1px #000000" colspan="4" align="left" valign="bottom" rowspan="1">Extension phase (9 months)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" rowspan="2" valign="bottom">All eliglustat&#x02010;treated patients (9 or 18 months on eliglustat) (<italic>N</italic>&#x02009;=&#x02009;40)</th></tr><tr><th rowspan="2" align="left" valign="bottom" colspan="1">Adverse event (preferred term)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Eliglustat (<italic>N</italic>&#x02009;=&#x02009;20)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Placebo (<italic>N</italic>&#x02009;=&#x02009;20)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Eliglustat&#x02013;eliglustat (<italic>N</italic>&#x02009;=&#x02009;19)</th><th style="border-bottom:solid 1px #000000" colspan="2" align="left" valign="bottom" rowspan="1">Placebo&#x02013;eliglustat (<italic>N</italic>&#x02009;=&#x02009;20)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pt (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pt (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pt (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pt (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Events</th><th align="left" valign="bottom" rowspan="1" colspan="1">Pt (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Headache</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">8 (40)</td><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1">6 (30)</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">5 (26)</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">4 (20)</td><td align="left" valign="top" rowspan="1" colspan="1">38</td><td align="left" valign="top" rowspan="1" colspan="1">14 (35)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nasopharyngitis</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">3 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">4 (10)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diarrhea</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">3 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">4 (20)</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">5 (13)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Upper respiratory infection</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">4 (20)</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">3 (16)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">3 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">7 (18)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gastroesophageal reflux disease</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">3 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">4 (10)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Arthralgia</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">9 (45)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">2 (10)</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">2 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">4 (20)</td><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="left" valign="top" rowspan="1" colspan="1">13 (33)</td></tr></tbody></table></table-wrap><p>During eliglustat treatment, 76% of adverse events were considered unrelated to eliglustat and all related adverse events were mild or moderate. The most common related adverse events, each reported in 2&#x02013;3 patients (5.0%&#x02010;7.5%) were: headache, diarrhea, nausea, abdominal distension, flatulence, abdominal pain, atrioventricular (AV) block second degree, dizziness, dyspepsia, and dry mouth (Table <xref rid="ajh24877-tbl-0003" ref-type="table-wrap">3</xref>). Headache, diarrhea, abdominal distension, and abdominal pain were also reported as related events in 3, 4, 1, and 1 placebo&#x02010;treated patients, respectively, during the 9&#x02010;month primary analysis period.</p><table-wrap id="ajh24877-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Adverse events considered eliglustat&#x02010;related in&#x02009;&#x02265;&#x02009;2 patients during any 9&#x02010;month period</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+Related adverse event<break/>
+(preferred term)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+Eliglustat&#x02010;eliglustat patients<break/>
+(18 months on eliglustat)<break/>
+(<italic>N</italic>&#x02009;=&#x02009;20)<break/>
+Patients (events)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+Placebo&#x02010;eliglustat patients<break/>
+(9 months on eliglustat)<break/>
+(<italic>N</italic>&#x02009;=&#x02009;20)<break/>
+Patients (events)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+All eliglustat&#x02010;treated patients<break/>
+(9 or 18 months on eliglustat)<break/>
+(<italic>N</italic>&#x02009;=&#x02009;40)<break/>
+Patients (events)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Headache</td><td align="left" valign="top" rowspan="1" colspan="1">3 (6)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diarrhea</td><td align="left" valign="top" rowspan="1" colspan="1">2 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nausea</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Abdominal distension</td><td align="left" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Flatulence</td><td align="left" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Abdominal pain</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Atrioventricular block second degree</td><td align="left" valign="top" rowspan="1" colspan="1">1<xref ref-type="fn" rid="ajh24877-note-0005">a</xref> (2)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dizziness</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dyspepsia</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dry mouth</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2)</td></tr></tbody></table><table-wrap-foot><fn id="ajh24877-note-0005"><label>a</label><p>Patient experienced &#x0201c;2:1 AV block&#x0201d; which was coded to &#x0201c;Atrioventricular block&#x0201d; but in this table counted as &#x0201c;Atrioventricular block second degree.&#x0201d;</p></fn></table-wrap-foot></table-wrap><p>In 1 patient, two serious adverse events were reported (AV block and Mobitz type 1 second&#x02010;degree AV block) during the extension period in protocol&#x02010;driven Holter monitoring. These two events were observed on a single Holter recording after 421 days on eliglustat. The patient was asymptomatic but per protocol was hospitalized for evaluation, hence triggering the classification as serious. Both events resolved without treatment, did not lead to study discontinuation, and were considered probably related to eliglustat by the investigator. The patient's dosage was lowered from 150 mg twice daily to 50 mg twice daily, and increased to 100 mg twice daily 4 weeks later. The external cardiac reviewer concluded that both episodes, which occurred in the early morning hours, were normal physiologic phenomena in a young individual related to nocturnal enhancement of vagal tone.</p></sec><sec id="ajh24877-sec-0004"><label>4</label><title>DISCUSSION</title><p>The ENGAGE clinical trial was the first randomized placebo&#x02010;controlled trial in GD1 and met its primary and all secondary endpoints: clinically meaningful and statistically significant improvements in hematologic and visceral indicators of disease activity were observed in eliglustat&#x02010;treated patients compared with placebo&#x02010;treated patients during the double&#x02010;blind, primary analysis period.<xref rid="ajh24877-bib-0007" ref-type="ref">7</xref> Recently, eliglustat was approved as a first&#x02010;line therapy for treatment of adults based on predicted CYP2D6 metabolizer status. Herein, we report the efficacy and safety in the first 9 months of the ENGAGE open&#x02010;label trial extension. We found that placebo&#x02010;crossover patients, who had shown no change or slight worsening of their indicators of Gaucher disease activity, when switched to eliglustat showed reversal of disease similar to the eliglustat&#x02010;treated patients during the 9&#x02010;month primary analysis. In fact, the rate of reversal of disease parameters paralleled that of patients initially randomized to eliglustat in the double&#x02010;blind phase (Figure <xref rid="ajh24877-fig-0001" ref-type="fig">1</xref>). Moreover, visceral, hematologic, and bone indicators of Gaucher disease activity in patients who were initially randomized to eliglustat showed incremental reversal of disease during the additional 9 months of open&#x02010;label eliglustat treatment. These findings are consistent with therapeutic responses demonstrated in the Phase 2 open&#x02010;label trial of eliglustat in treatment&#x02010;na&#x000ef;ve patients.<xref rid="ajh24877-bib-0008" ref-type="ref">8</xref> After 1.5 years of eliglustat, Phase 2 patients (who had a greater disease burden at baseline than ENGAGE patients) had a 47% mean reduction in spleen volume compared to 45% in ENGAGE eliglustat&#x02010;eliglustat patients in this analysis, a 20% mean reduction in liver volume versus 11% mean reduction in ENGAGE patients (most of whom had normal liver volume at baseline), a 63% mean increase in platelet count versus 58% in ENGAGE patients, and a 1.9 g/dL mean increase in hemoglobin versus 1.0 g/dL in ENGAGE patients (who had 1 g/dL higher baseline hemoglobin values). Taken together, these results further confirm the efficacy of eliglustat in treatment&#x02010;na&#x000ef;ve patients, even those with severe disease burden at baseline.</p><p>A notable finding in the open&#x02010;label extension phase of the ENGAGE trial is the reversal of pathological glycosphingolipid accumulation. The primary sphingolipid accumulating in Gaucher disease is glucosylceramide, which leads to complement activation and metabolic inflammation. Interestingly, these effects lead to increased glucosylceramide synthase, thus increasing its synthesis and thereby amplifying the fundamental metabolic defect of Gaucher disease.<xref rid="ajh24877-bib-0002" ref-type="ref">2</xref> Accumulating glucosylceramide in Gaucher disease also triggers an alternative pathway of metabolism via acid ceramidase to generate glucosylsphingosine.<xref rid="ajh24877-bib-0009" ref-type="ref">9</xref>, <xref rid="ajh24877-bib-0010" ref-type="ref">10</xref> This minor substrate of acid &#x003b2;&#x02010;glucosidase has been recently validated as the most specific biomarker of Gaucher disease, and it has been shown to trigger an immune response, resulting in NKT&#x02010;cell&#x02010;driven metabolic inflammation, B&#x02010;cell proliferation and anti&#x02010;lipid antibodies, key features of Gaucher disease pathophysiology.<xref rid="ajh24877-bib-0011" ref-type="ref">11</xref>, <xref rid="ajh24877-bib-0012" ref-type="ref">12</xref> Glucosylsphingosine has also been shown to be an osteoblast toxin in a mouse model of Gaucher disease.<xref rid="ajh24877-bib-0003" ref-type="ref">3</xref> Eliglustat treatment led to normalization of circulating glucosylceramide and a 73% decline in plasma concentrations of glucosylsphingosine. There was also a concomitant 71% reduction in plasma MIP&#x02010;1&#x003b2; (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref>), a marker of metabolic inflammation and skeletal involvement in Gaucher disease.<xref rid="ajh24877-bib-0013" ref-type="ref">13</xref> Moreover, serum chitotriosidase, a marker of glucosylceramide&#x02010;laden Gaucher macrophages and an established biomarker of Gaucher disease in the clinic, was strikingly reduced by eliglustat treatment (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref>). Taken together, these findings suggest eliglustat reverses Gaucher disease pathophysiology involving macrophage activation and metabolic inflammation. Importantly, inhibition of glucosylceramide synthase was not apparently associated with diversion of lipid metabolic flux toward formation of ceramide or sphingomyelin, as plasma concentrations of these lipids remained within normal ranges (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref> legend). Trends in biomarker reduction further support incremental reversal of disease indicators on prolonged eliglustat therapy. Thus, patients who were initially randomized to eliglustat in the double&#x02010;blind period showed marked reduction from baseline in glucosylsphingosine (&#x02013;52%), chitotriosidase (&#x02013;41%), and MIP&#x02010;1&#x003b2; (&#x02013;56%) during their first 9 months of treatment and then further decreases in plasma concentrations of these biomarkers (&#x02013;73%, &#x02212;64%, and &#x02212;71% from baseline, respectively) during the subsequent 9 months of treatment in the open&#x02010;label period (Figure <xref rid="ajh24877-fig-0002" ref-type="fig">2</xref>).</p><p>Skeletal complications are a major source of disability in Gaucher disease. Indicators of skeletal and marrow disease were also improved with eliglustat therapy. Pathological marrow infiltration, indicated by bone marrow burden score, fell during the first 9 months of eliglustat therapy and there was further improvement during the ensuing 9 months of treatment (Supporting Information Figure B). In patients on placebo, there was no change in bone marrow burden score during 9 months of placebo treatment, but after switching to eliglustat in the open&#x02010;label period, there was progressive reduction. Similarly, osteopenia at baseline reversed in eliglustat&#x02010;treated patients during the double&#x02010;blind period and improved bone density was maintained during the succeeding 9 months in the open&#x02010;label period. It should be noted that, compared with the Phase 2 clinical trial, which included patients with more severe disease, in the ENGAGE trial, patients with moderate disease were enrolled in an attempt to minimize risks to patients randomized to placebo in the double&#x02010;blind period from developing complications while not receiving active treatment.</p><p>Eliglustat treatment for 9 to 18 months was generally well tolerated, with 95% of patients continuing on treatment. Most adverse events were non&#x02010;serious, not drug&#x02010;related and either mild or moderate in severity, and none resulted in patients discontinuing the study. The safety and tolerability data are consistent with what has been reported among both treatment&#x02010;na&#x000ef;ve<xref rid="ajh24877-bib-0008" ref-type="ref">8</xref>, <xref rid="ajh24877-bib-0014" ref-type="ref">14</xref>, <xref rid="ajh24877-bib-0015" ref-type="ref">15</xref> and ERT switch patients,<xref rid="ajh24877-bib-0016" ref-type="ref">16</xref>, <xref rid="ajh24877-bib-0017" ref-type="ref">17</xref> as well as a combined adverse event analysis that reported an overall continuation rate in clinical trials of 92% after a mean of 1.4 years on eliglustat.<xref rid="ajh24877-bib-0006" ref-type="ref">6</xref>
+</p></sec><sec id="ajh24877-sec-0005"><label>5</label><title>CONCLUSIONS</title><p>In conclusion, the open&#x02010;label extension period in the ENGAGE randomized, placebo&#x02010;controlled clinical trial affirmed the efficacy of treatment and clearly demonstrated incremental reversal of visceral, hematologic and skeletal indicators, and pathophysiology of Gaucher disease. After switching from placebo to eliglustat treatment, patients experienced progressive improvement in visceral, hematologic, bone, and biomarker indicators of disease activity over 9 months similar in rate and magnitude to those initially treated with eliglustat. For patients continuing on eliglustat for 18 months, these same disease measures continued to improve, and no new safety concerns were identified with longer&#x02010;term exposure to eliglustat. Future analysis will examine the effects of 4&#x02013;5 years of eliglustat therapy in the ENGAGE trial.</p></sec><sec id="ajh24877-sec-1000"><title>ORCID</title><p>
+<italic>Pramod K. Mistry</italic>
+<ext-link ext-link-type="uri" xlink:href="http://orcid.org/0000-0003-3447-6421">http://orcid.org/0000-0003-3447-6421</ext-link>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Additional Supporting Information may be found online in the supporting information tab for this article.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="AJH-92-1170-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="AJH-92-1170-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ajh24877-sec-0006"><title>ACKNOWLEDGMENTS</title><p>The ENGAGE trial was funded and conducted by Sanofi Genzyme and designed by M. Judith Peterschmitt, (Sanofi Genzyme, Rare Diseases Clinical Development). The authors thank the patients and healthcare professionals who participated in this trial; Laurie LaRusso, MS, ELS (Chestnut Medical Communications, Walpole, MA) for medical writing support funded by Sanofi Genzyme; Lisa Underhill (Sanofi Genzyme Global Scientific Communications) for critical review of the manuscript; and Yaoshi Wu and Riya Joshi (Sanofi Genzyme, Department of Biostatistics) for biostatistical support and critical review of the manuscript.</p></ack><ack id="ajh24877-sec-0007"><title>CONFLICT OF INTEREST</title><p>PKM is a principal investigator in the eliglustat ENGAGE and ENCORE trials and has received research grants, honoraria, and travel reimbursement from Sanofi Genzyme. PKM is supported by R01 AR 065932 from NIH NIAMS. EL is a principal investigator in the eliglustat ENGAGE, ENCORE, and EDGE trials and has received honoraria and travel reimbursement from Sanofi Genzyme and Shire. HBT is a principal investigator in the eliglustat ENGAGE trial and a coinvestigator in the HGT&#x02010;GCB068 clinical trial at Shire. SPS, MG, SA, and AO are principal investigators in the eliglustat ENGAGE trial. SPS has also been site primary investigator in clinical trials and received research support and educational grants from Sanofi Genzyme, Shire, Protalix, Actelion, and Amicus. HB, AM, MP, SD, and EH are principal investigators in the eliglustat ENGAGE trial and have received travel reimbursement, honoraria, and/or research grants from Sanofi Genzyme. SP is a principal investigator in the eliglustat ENGAGE trial; has received research and programmatic support from Sanofi Genzyme, Shire HGT Corporation, Amicus Corporation, Actelion Corporation, and BioMarin Pharmaceutical; and is a member of the speaker's bureaus of Shire and Sanofi Genzyme. GP is a principal investigator in the eliglustat ENGAGE and ENCORE trials and has received honoraria and travel reimbursement from Sanofi Genzyme. MB is a principal investigator in the eliglustat ENGAGE and ENCORE trials, a member of the North American advisory board for the International Collaborative Gaucher Group Gaucher Registry, and has received honoraria and travel reimbursement from Sanofi Genzyme. RT is a paid biostatistical consultant for Sanofi Genzyme. MJP and SJMG are employees of Sanofi Genzyme.</p></ack><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="ajh24877-bib-0001"><label>1</label><mixed-citation publication-type="book" id="ajh24877-cit-0002">
+<string-name>
+<surname>Grabowski</surname>
+<given-names>GA</given-names>
+</string-name>, 
+<string-name>
+<surname>Petsko</surname>
+<given-names>GA</given-names>
+</string-name>, 
+<string-name>
+<surname>Kolodny</surname>
+<given-names>EH.</given-names>
+</string-name>
+<chapter-title>Gaucher disease</chapter-title> In: <person-group person-group-type="editor"><name><surname>Valle</surname><given-names>D</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Beaudet</surname><given-names>AL</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Vogelstein</surname><given-names>B</given-names></name></person-group>, et al., eds. <source>OMMBID: The Online Metabolic and Molecular Bases of Inherited Disease</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>McGraw&#x02010;Hill</publisher-name>; <year>2013</year>.
+</mixed-citation></ref><ref id="ajh24877-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ajh24877-cit-0003">
+<string-name>
+<surname>Pandey</surname>
+<given-names>MK</given-names>
+</string-name>, 
+<string-name>
+<surname>Burrow</surname>
+<given-names>TA</given-names>
+</string-name>, 
+<string-name>
+<surname>Rani</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Complement drives glucosylceramide accumulation and tissue inflammation in Gaucher disease</article-title>. <source>Nature.</source>
+<year>2017</year>;<volume>543</volume>:<fpage>108</fpage>&#x02013;<lpage>112</lpage>.
+<pub-id pub-id-type="pmid">28225753</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ajh24877-cit-0004">
+<string-name>
+<surname>Mistry</surname>
+<given-names>PK</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Glucocerebrosidase gene&#x02010;deficient mouse recapitulates Gaucher disease displaying cellular and molecular dysregulation beyond the macrophage</article-title>. <source>Proc Natl Acad Sci USA.</source>
+<year>2010</year>;<volume>107</volume>:<fpage>19473</fpage>&#x02013;<lpage>19478</lpage>.
+<pub-id pub-id-type="pmid">20962279</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ajh24877-cit-0005">
+<string-name>
+<surname>Shayman</surname>
+<given-names>JA.</given-names>
+</string-name>
+<article-title>Eliglustat tartrate: glucosylceramide synthase inhibitor treatment</article-title>. <source>Drugs Future.</source>
+<year>2010</year>;<volume>35</volume>:<fpage>613</fpage>&#x02013;<lpage>620</lpage>.
+<pub-id pub-id-type="pmid">22563139</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="ajh24877-cit-0006">CERDELGA (eliglustat) [package insert]. Waterford, Ireland: Genzyme Corporation, a Sanofi Company; August <year>2014</year>.
+</mixed-citation></ref><ref id="ajh24877-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ajh24877-cit-0007">
+<string-name>
+<surname>Peterschmitt</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Cox</surname>
+<given-names>GF</given-names>
+</string-name>, 
+<string-name>
+<surname>Ibrahim</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A pooled analysis of adverse events in 393 adults with Gaucher disease type 1 from four clinical trials of oral eliglustat: evaluation of frequency, timing, and duration</article-title>. <source>Blood Cells Mol Dis.</source>
+<year>2017</year>; Jan 13, doi:<ext-link ext-link-type="doi" xlink:href="10.1016/j.bcmd.2017.01.006">10.1016/j.bcmd.2017.01.006</ext-link>, epub ahead of print.
+</mixed-citation></ref><ref id="ajh24877-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ajh24877-cit-0008">
+<string-name>
+<surname>Mistry</surname>
+<given-names>PK</given-names>
+</string-name>, 
+<string-name>
+<surname>Lukina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Ben Turkia</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Effect of oral eliglustat on splenomegaly in patients with Gaucher disease type 1: the ENGAGE randomized clinical trial</article-title>. <source>JAMA.</source>
+<year>2015</year>;<volume>313</volume>:<fpage>695</fpage>&#x02013;<lpage>706</lpage>.
+<pub-id pub-id-type="pmid">25688781</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ajh24877-cit-0009">
+<string-name>
+<surname>Lukina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Watman</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Dragosky</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Eliglustat, an investigational oral therapy for Gaucher disease type 1: phase 2 trial results after 4 years of treatment</article-title>. <source>Blood Cells Mol Dis.</source>
+<year>2014</year>;<volume>53</volume>:<fpage>274</fpage>&#x02013;<lpage>276</lpage>.
+<pub-id pub-id-type="pmid">24835462</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ajh24877-cit-0010">
+<string-name>
+<surname>Murugesan</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Chuang</surname>
+<given-names>WL</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Glucosylsphingosine is a key biomarker of Gaucher disease</article-title>. <source>Am J Hematol.</source>
+<year>2016</year>;<volume>91</volume>:<fpage>1082</fpage>&#x02013;<lpage>1089</lpage>.
+<pub-id pub-id-type="pmid">27441734</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ajh24877-cit-0011">
+<string-name>
+<surname>Dekker</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>van Dussen</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Hollak</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Elevated plasma glucosylsphingosine in Gaucher disease: relation to phenotype, storage cell markers, and therapeutic response</article-title>. <source>Blood.</source>
+<year>2011</year>;<volume>118</volume>:<fpage>e118</fpage>&#x02013;<lpage>e127</lpage>.
+<pub-id pub-id-type="pmid">21868580</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ajh24877-cit-0012">
+<string-name>
+<surname>Nair</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Boddupalli</surname>
+<given-names>CS</given-names>
+</string-name>, 
+<string-name>
+<surname>Verma</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Type II NKT&#x02010;TFH cells against Gaucher lipids regulate B&#x02010;cell immunity and inflammation</article-title>. <source>Blood.</source>
+<year>2015</year>;<volume>125</volume>:<fpage>1256</fpage>&#x02013;<lpage>1271</lpage>.
+<pub-id pub-id-type="pmid">25499455</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ajh24877-cit-0013">
+<string-name>
+<surname>Nair</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Branagan</surname>
+<given-names>AR</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Clonal immunoglobulin against lysolipids in the origin of myeloma</article-title>. <source>N Engl J Med</source> . <year>2016</year>;<volume>374</volume>:<fpage>555</fpage>&#x02013;<lpage>561</lpage>.
+<pub-id pub-id-type="pmid">26863356</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ajh24877-cit-0014">
+<string-name>
+<surname>van Breemen</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name>
+<surname>de Fost</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Voerman</surname>
+<given-names>JS</given-names>
+</string-name>, et al. <article-title>Increased plasma macrophage inflammatory protein (MIP)&#x02010;1alpha and MIP&#x02010;1beta levels in type 1 Gaucher disease</article-title>. <source>Biochim Biophys Acta.</source>
+<year>2007</year>;<volume>1772</volume>:<fpage>788</fpage>&#x02013;<lpage>796</lpage>.
+<pub-id pub-id-type="pmid">17499484</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ajh24877-cit-0015">
+<string-name>
+<surname>Lukina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Watman</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Arreguin</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>A Phase 2 study of eliglustat tartrate (Genz&#x02010;112638), an oral substrate reduction therapy for Gaucher disease type 1</article-title>. <source>Blood.</source>
+<year>2010</year>;<volume>116</volume>:<fpage>893</fpage>&#x02013;<lpage>899</lpage>.
+<pub-id pub-id-type="pmid">20439622</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ajh24877-cit-0016">
+<string-name>
+<surname>Lukina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Watman</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Arreguin</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>Improvement in hematological, visceral, and skeletal manifestations of Gaucher disease type 1 with oral eliglustat tartrate (Genz&#x02010;112638) treatment: 2&#x02010;year results of a phase 2 study</article-title>. <source>Blood.</source>
+<year>2010</year>;<volume>116</volume>:<fpage>4095</fpage>&#x02013;<lpage>4098</lpage>.
+<pub-id pub-id-type="pmid">20713962</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ajh24877-cit-0017">
+<string-name>
+<surname>Cox</surname>
+<given-names>TM</given-names>
+</string-name>, 
+<string-name>
+<surname>Drelichman</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Cravo</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Eliglustat compared with imiglucerase in patients with Gaucher's disease type 1 stabilised on enzyme replacement therapy: a phase 3, randomised, open&#x02010;label, non&#x02010;inferiority trial</article-title>. <source>Lancet.</source>
+<year>2015</year>;<volume>385</volume>:<fpage>2355</fpage>&#x02013;<lpage>2362</lpage>.
+<pub-id pub-id-type="pmid">25819691</pub-id></mixed-citation></ref><ref id="ajh24877-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ajh24877-cit-0018">
+<string-name>
+<surname>Cox</surname>
+<given-names>TM</given-names>
+</string-name>, 
+<string-name>
+<surname>Drelichman</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Cravo</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Eliglustat maintains long&#x02010;term clinical stability in patients with Gaucher disease type 1 stabilized on enzyme therapy</article-title>. <source>Blood.</source>
+<year>2017</year>;<volume>129</volume>:<fpage>2375</fpage>&#x02013;<lpage>2383</lpage>.
+<pub-id pub-id-type="pmid">28167660</pub-id></mixed-citation></ref></ref-list></back></article>

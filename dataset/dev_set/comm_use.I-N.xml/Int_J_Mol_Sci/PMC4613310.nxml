@@ -1,0 +1,898 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26389890</article-id><article-id pub-id-type="pmc">4613310</article-id><article-id pub-id-type="doi">10.3390/ijms160922319</article-id><article-id pub-id-type="publisher-id">ijms-16-22319</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Digital Microfluidics for Manipulation and Analysis of a Single Cell</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>He</surname><given-names>Jie-Long</given-names></name></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>An-Te</given-names></name></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Jyong-Huei</given-names></name></contrib><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Shih-Kang</given-names></name><xref rid="c1-ijms-16-22319" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Tseng</surname><given-names>Fan-Gang</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Santra</surname><given-names>Tuhin Subhra</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-16-22319">Department of Mechanical Engineering, National Taiwan University, Taipei 10617, Taiwan; E-Mails: <email>D93b47202@ntu.edu.tw</email> (J.-L.H.); <email>andy80103@hotmail.com</email> (A.-T.C.); <email>b00505004@ntu.edu.tw</email> (J.-H.L.)</aff><author-notes><corresp id="c1-ijms-16-22319"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>skfan@fan-tasy.org</email>; Tel.: +886-2-3366-4946; Fax: +886-2-2363-1755.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>9</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2015</year></pub-date><volume>16</volume><issue>9</issue><fpage>22319</fpage><lpage>22332</lpage><history><date date-type="received"><day>31</day><month>5</month><year>2015</year></date><date date-type="accepted"><day>18</day><month>8</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2015</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The basic structural and functional unit of a living organism is a single cell. To understand the variability and to improve the biomedical requirement of a single cell, its analysis has become a key technique in biological and biomedical research. With a physical boundary of microchannels and microstructures, single cells are efficiently captured and analyzed, whereas electric forces sort and position single cells. Various microfluidic techniques have been exploited to manipulate single cells through hydrodynamic and electric forces. Digital microfluidics (DMF), the manipulation of individual droplets holding minute reagents and cells of interest by electric forces, has received more attention recently. Because of ease of fabrication, compactness and prospective automation, DMF has become a powerful approach for biological application. We review recent developments of various microfluidic chips for analysis of a single cell and for efficient genetic screening. In addition, perspectives to develop analysis of single cells based on DMF and emerging functionality with high throughput are discussed.</p></abstract><kwd-group><kwd>microfluidic chips</kwd><kwd>digital microfluidics</kwd><kwd>single cell analysis</kwd><kwd>genetic screening</kwd><kwd>assisted reproductive technologies</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijms-16-22319"><title>1. Introduction</title><p>Multicellular organisms are composed of varied cells grouped into specialized tissues and organs, which typically comprise cells of diverse types present in widely varying abundance. The single cell is the basic structural and functional unit of a living organism. The most critical knowledge for biological and biomedical science is constructed from research on cell biology [<xref rid="B1-ijms-16-22319" ref-type="bibr">1</xref>,<xref rid="B2-ijms-16-22319" ref-type="bibr">2</xref>]; this information about cell functionality and behavior has been applied in many clinical and biomedical applications [<xref rid="B3-ijms-16-22319" ref-type="bibr">3</xref>], such as drug development, disease diagnosis, cancer research and assisted reproductive technology (ART).</p><p>Traditional cell assays to study cell differentiation, gene expression and drug response were focused mainly on a population of cells. For an average result of multiple cells, the outcome of all cells is assumed to be homogeneous, but several authors have found cellular heterogeneity or multi-modal distributions in a cell population [<xref rid="B4-ijms-16-22319" ref-type="bibr">4</xref>,<xref rid="B5-ijms-16-22319" ref-type="bibr">5</xref>,<xref rid="B6-ijms-16-22319" ref-type="bibr">6</xref>]. The heterogeneity might arise through genetic or non-genetic processes, which induce distinct cellular decision-making [<xref rid="B7-ijms-16-22319" ref-type="bibr">7</xref>]. If an average response of multiple cells is taken to be representative of a typical population, cellular heterogeneity might result in a misleading interpretation [<xref rid="B8-ijms-16-22319" ref-type="bibr">8</xref>]. Analysis of a single cell indicated that individual cells that form a cell population might have a complicated distribution. This information is ignored in a traditional cell assay, which emphasizes evaluating the mean of a cell population [<xref rid="B9-ijms-16-22319" ref-type="bibr">9</xref>]. To understand the variability from cell to cell and to improve the clinical and biomedical applicability, development of new approaches to isolate, to manipulate, to treat and to analyze single cells are required. Analysis of single cells has become a key technique in biological and biomedical research, as one can thereby analyze individual cells within a cell population [<xref rid="B1-ijms-16-22319" ref-type="bibr">1</xref>,<xref rid="B7-ijms-16-22319" ref-type="bibr">7</xref>].</p><p>Various techniques for analysis of a single cell have been developed, such as flow cytometry and microfluidic chips [<xref rid="B10-ijms-16-22319" ref-type="bibr">10</xref>]. Flow cytometry, which has been under development for many years, has become a mature technique for single-cell analysis. In particular, fluorescence-activated cell sorting (FACS), builds upon flow cytometry in order to sort single cells that are tagged with specific fluorescent markers [<xref rid="B11-ijms-16-22319" ref-type="bibr">11</xref>,<xref rid="B12-ijms-16-22319" ref-type="bibr">12</xref>]. Flow cytometry is, however, a complicated and costly system: it cannot support analysis of cells in real time in their natural environment. Furthermore, integration of an entire assay based on a single cell typically entails processes such as cell manipulation, treatment and final detection. To overcome these problems, integrating various methods of cell manipulation with microfluidic lab-on-a-chip (LOC) platforms, also known as microfluidic chips, has become a major activity in assays of single cells [<xref rid="B8-ijms-16-22319" ref-type="bibr">8</xref>,<xref rid="B11-ijms-16-22319" ref-type="bibr">11</xref>,<xref rid="B13-ijms-16-22319" ref-type="bibr">13</xref>,<xref rid="B14-ijms-16-22319" ref-type="bibr">14</xref>,<xref rid="B15-ijms-16-22319" ref-type="bibr">15</xref>]. Microfluidic chips could provide efficient genetic screening through a well-controlled microenvironment for analysis and treatment of a single cell. On these platforms, isolation of a single cell, purification of mRNA and subsequent multiplex quantitative polymerase chain reaction (qPCR) in real time must be effected on a chip [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>]. Single-cell genomics, transcriptomics, epigenomics and proteomics will allow many enduring questions in biological and biomedical sciences to be answered [<xref rid="B17-ijms-16-22319" ref-type="bibr">17</xref>,<xref rid="B18-ijms-16-22319" ref-type="bibr">18</xref>,<xref rid="B19-ijms-16-22319" ref-type="bibr">19</xref>,<xref rid="B20-ijms-16-22319" ref-type="bibr">20</xref>]. Digital microfluidics (DMF), the manipulation of individual droplets by electric forces, is one of the particularly important techniques for single cell manipulation and analysis on a microfluidic chip. In this paper, we review recent developments in DMF chips for analysis of a single cell and efficient genetic screening, which involve manipulation of a single cell, next-generation sequencing (NGS) and assisted-reproductive applications. We conclude with views on the future development of DMF chips for analysis of a single cell and discuss how this emerging efficient tool can advance biological and biomedical research.</p></sec><sec id="sec2-ijms-16-22319"><title>2. Microfluidic Chips for Analysis of a Single Cell</title><p>In an organism, a single cell is small: its volume is about 1 pL. Cells constituting a tissue or organ are complicated and diverse. An extracellular matrix (ECM) provides structural and biochemical support of the structural connection. To analyze a single cell on a chip, a microfluidic chip typically entails integration of four functions: (1) cell sorting, through microwells [<xref rid="B21-ijms-16-22319" ref-type="bibr">21</xref>,<xref rid="B22-ijms-16-22319" ref-type="bibr">22</xref>,<xref rid="B23-ijms-16-22319" ref-type="bibr">23</xref>,<xref rid="B24-ijms-16-22319" ref-type="bibr">24</xref>,<xref rid="B25-ijms-16-22319" ref-type="bibr">25</xref>], traps [<xref rid="B26-ijms-16-22319" ref-type="bibr">26</xref>,<xref rid="B27-ijms-16-22319" ref-type="bibr">27</xref>,<xref rid="B28-ijms-16-22319" ref-type="bibr">28</xref>,<xref rid="B29-ijms-16-22319" ref-type="bibr">29</xref>], optical tweezers [<xref rid="B30-ijms-16-22319" ref-type="bibr">30</xref>,<xref rid="B31-ijms-16-22319" ref-type="bibr">31</xref>,<xref rid="B32-ijms-16-22319" ref-type="bibr">32</xref>,<xref rid="B33-ijms-16-22319" ref-type="bibr">33</xref>] or dielectrophoresis (DEP) [<xref rid="B34-ijms-16-22319" ref-type="bibr">34</xref>,<xref rid="B35-ijms-16-22319" ref-type="bibr">35</xref>,<xref rid="B36-ijms-16-22319" ref-type="bibr">36</xref>,<xref rid="B37-ijms-16-22319" ref-type="bibr">37</xref>] to isolate a single cell; (2) cell manipulation, through a traditional syringe pump [<xref rid="B38-ijms-16-22319" ref-type="bibr">38</xref>] or an electrowetting-on-dielectric (EWOD) technique [<xref rid="B39-ijms-16-22319" ref-type="bibr">39</xref>]; (3) cell lysis, through a mechanical [<xref rid="B40-ijms-16-22319" ref-type="bibr">40</xref>], chemical [<xref rid="B24-ijms-16-22319" ref-type="bibr">24</xref>] or electrical [<xref rid="B23-ijms-16-22319" ref-type="bibr">23</xref>,<xref rid="B41-ijms-16-22319" ref-type="bibr">41</xref>,<xref rid="B42-ijms-16-22319" ref-type="bibr">42</xref>] process; and (4) analysis of an individual cell, such as with PCR [<xref rid="B21-ijms-16-22319" ref-type="bibr">21</xref>,<xref rid="B43-ijms-16-22319" ref-type="bibr">43</xref>] or NGS [<xref rid="B44-ijms-16-22319" ref-type="bibr">44</xref>].</p><p>Microfluidic chips have been applied in biological and biomedical research, including culturing, sorting, patterning and genetic screening of single cells for clinical diagnostics [<xref rid="B45-ijms-16-22319" ref-type="bibr">45</xref>,<xref rid="B46-ijms-16-22319" ref-type="bibr">46</xref>,<xref rid="B47-ijms-16-22319" ref-type="bibr">47</xref>,<xref rid="B48-ijms-16-22319" ref-type="bibr">48</xref>,<xref rid="B49-ijms-16-22319" ref-type="bibr">49</xref>]. These platforms have become a promising tool for efficient genetic screening through analysis of single cells, because these microfluidic chips can provide rapid, real-time and automated analysis. Gossett <italic>et al.</italic> [<xref rid="B50-ijms-16-22319" ref-type="bibr">50</xref>] demonstrated an automated microfluidic technique capable of probing single cells. A rapid assay of the deformability of native populations of leukocytes and malignant cells in pleural effusions has been enabled on this chip. Guan <italic>et al.</italic> [<xref rid="B51-ijms-16-22319" ref-type="bibr">51</xref>] introduced a new microfluidic chip with real-time feedback control to evaluate single-cell deformability, which was used to discriminate different kinds of cells for cancer diagnosis [<xref rid="B30-ijms-16-22319" ref-type="bibr">30</xref>]. Guo <italic>et al.</italic> [<xref rid="B52-ijms-16-22319" ref-type="bibr">52</xref>] produced a microfluidic chip to distinguish red blood cells containing parasitic <italic>Plasmodium falciparum</italic> from uninfected cells. Several microfluidic chips have been generated to capture single cells and to measure the impedance of the cells, such as human cervical epithelioid carcinoma (HeLa) cells [<xref rid="B53-ijms-16-22319" ref-type="bibr">53</xref>,<xref rid="B54-ijms-16-22319" ref-type="bibr">54</xref>] or circulating tumor cells (CTCs) from blood [<xref rid="B55-ijms-16-22319" ref-type="bibr">55</xref>,<xref rid="B56-ijms-16-22319" ref-type="bibr">56</xref>]. Kurz <italic>et al.</italic> [<xref rid="B57-ijms-16-22319" ref-type="bibr">57</xref>] reported a microfluidic chip to trap single cells and to measure the impedance for the monitoring of sub-toxic effects on cell membranes.</p><p>The method most frequently used to isolate a single cell is physical separation. At designed physical boundaries, an individual cell is isolated, captured and sorted with mechanical structures on a chip. Capturing an individual cell with microwells is an attractive strategy, because it is simple and easily operated. Jen <italic>et al.</italic> [<xref rid="B23-ijms-16-22319" ref-type="bibr">23</xref>,<xref rid="B24-ijms-16-22319" ref-type="bibr">24</xref>] reported microfluidic chips with arrays of microwells that isolated individual cells and provided chemical and electric lysis of a single cell with high throughput (<xref ref-type="fig" rid="ijms-16-22319-f001">Figure 1</xref>a). Lindstrom <italic>et al.</italic> [<xref rid="B21-ijms-16-22319" ref-type="bibr">21</xref>,<xref rid="B22-ijms-16-22319" ref-type="bibr">22</xref>,<xref rid="B58-ijms-16-22319" ref-type="bibr">58</xref>,<xref rid="B59-ijms-16-22319" ref-type="bibr">59</xref>] developed a novel microplate with microwells for efficient analyses of single cells. This platform allowed each single cell to be cultivated and analyzed individually for reprogramming factor evaluation on stem cells [<xref rid="B22-ijms-16-22319" ref-type="bibr">22</xref>], PCR amplification and genetic analysis [<xref rid="B21-ijms-16-22319" ref-type="bibr">21</xref>] (<xref ref-type="fig" rid="ijms-16-22319-f001">Figure 1</xref>b).</p><p>Microfluidic hydrodynamic traps combine dynamic cell isolation with prospective high throughput on a chip [<xref rid="B60-ijms-16-22319" ref-type="bibr">60</xref>,<xref rid="B61-ijms-16-22319" ref-type="bibr">61</xref>]. Di Carlo <italic>et al.</italic> [<xref rid="B26-ijms-16-22319" ref-type="bibr">26</xref>,<xref rid="B62-ijms-16-22319" ref-type="bibr">62</xref>] produced a dynamic platform that allows culture of a single cell with a consistent environment and dynamic control of individual cells (<xref ref-type="fig" rid="ijms-16-22319-f002">Figure 2</xref>a). Kobel <italic>et al.</italic> [<xref rid="B60-ijms-16-22319" ref-type="bibr">60</xref>] reported a microfluidic chip with efficiency of trapping a single cell enhanced up to 97% (<xref ref-type="fig" rid="ijms-16-22319-f002">Figure 2</xref>b).</p><fig id="ijms-16-22319-f001" position="float"><label>Figure 1</label><caption><p>Individual cells isolated on a chip with microwells described in: (<bold>a</bold>) Jen <italic>et al.</italic>, 2012 [<xref rid="B24-ijms-16-22319" ref-type="bibr">24</xref>]; (<bold>b</bold>) Lindstrom <italic>et al.</italic>, 2009 [<xref rid="B21-ijms-16-22319" ref-type="bibr">21</xref>]. Reproduction of the figures has been made with permission from Multidisciplinary Digital Publishing Institute and The Royal Society of Chemistry.</p></caption><graphic xlink:href="ijms-16-22319-g001"/></fig><p>Compared with use of mechanical structures, isolating a cell with an optical or electric force is a contact-free method that eliminates deformation and damage of cells [<xref rid="B63-ijms-16-22319" ref-type="bibr">63</xref>,<xref rid="B64-ijms-16-22319" ref-type="bibr">64</xref>]. Here we focus more on the electric forces, including DEP and EWOD. The DEP force generated with a non-uniform electric field interacting with polarized, suspended particles [<xref rid="B65-ijms-16-22319" ref-type="bibr">65</xref>,<xref rid="B66-ijms-16-22319" ref-type="bibr">66</xref>,<xref rid="B67-ijms-16-22319" ref-type="bibr">67</xref>] has been widely used to manipulate cells [<xref rid="B39-ijms-16-22319" ref-type="bibr">39</xref>,<xref rid="B63-ijms-16-22319" ref-type="bibr">63</xref>,<xref rid="B68-ijms-16-22319" ref-type="bibr">68</xref>,<xref rid="B69-ijms-16-22319" ref-type="bibr">69</xref>]. The DEP force is classified as positive DEP (pDEP) and negative DEP (nDEP) based on the polarizability of the particles or cells and the liquid. Fan <italic>et al.</italic> [<xref rid="B39-ijms-16-22319" ref-type="bibr">39</xref>] used DEP forces to concentrate suspended particles in a liquid droplet with dielectric-coated electrodes patterned on a plate (<xref ref-type="fig" rid="ijms-16-22319-f003">Figure 3</xref>a). Creating two droplets with mammalian cells and polystyrene beads at distinct concentrations was achieved with DEP and EWOD (<xref ref-type="fig" rid="ijms-16-22319-f003">Figure 3</xref>b).</p><fig id="ijms-16-22319-f002" position="float"><label>Figure 2</label><caption><p>Individual cell isolated on a chip with microfluidic hydrodynamic traps described in: (<bold>a</bold>) Di Carlo <italic>et al.</italic>, 2006 [<xref rid="B26-ijms-16-22319" ref-type="bibr">26</xref>]: (<bold>A</bold>) A photograph of the cell trapping device; (<bold>B</bold>) A diagram of the device and mechanism of trapping; (<bold>C</bold>) A high resolution micrograph of the trapping device; (<bold>b</bold>) Kobel <italic>et al.</italic>, 2010 [<xref rid="B60-ijms-16-22319" ref-type="bibr">60</xref>]: (<bold>A</bold>) Schematic illustration of the single cell trap; (<bold>B</bold>) A three-dimensional reconstruction image of the cell trap; (<bold>C</bold>) An array of the single cell traps; (<bold>D</bold>) An orthogonal view of a fluorescently labeled single cell. Reproduction of the figures has been made with permission from The Royal Society of Chemistry.</p></caption><graphic xlink:href="ijms-16-22319-g002"/></fig></sec><sec id="sec3-ijms-16-22319"><title>3. Digital Microfluidic Chips and Biological Application</title><p>Digital microfluidics (DMF), according to which tiny droplets are manipulated with electric forces, including EWOD and DEP, have been confirmed to be a powerful platform for reagent addition, droplet transmission, solution mixing, splitting and dispensing for biological application [<xref rid="B70-ijms-16-22319" ref-type="bibr">70</xref>,<xref rid="B71-ijms-16-22319" ref-type="bibr">71</xref>,<xref rid="B72-ijms-16-22319" ref-type="bibr">72</xref>,<xref rid="B73-ijms-16-22319" ref-type="bibr">73</xref>,<xref rid="B74-ijms-16-22319" ref-type="bibr">74</xref>,<xref rid="B75-ijms-16-22319" ref-type="bibr">75</xref>,<xref rid="B76-ijms-16-22319" ref-type="bibr">76</xref>,<xref rid="B77-ijms-16-22319" ref-type="bibr">77</xref>,<xref rid="B78-ijms-16-22319" ref-type="bibr">78</xref>,<xref rid="B79-ijms-16-22319" ref-type="bibr">79</xref>,<xref rid="B80-ijms-16-22319" ref-type="bibr">80</xref>]. For a simple configuration of device and easy modular interfaces, portable and wearable DMF systems with assembled modules for continuous actuation of droplets were demonstrated [<xref rid="B70-ijms-16-22319" ref-type="bibr">70</xref>] (<xref ref-type="fig" rid="ijms-16-22319-f003">Figure 3</xref>c).</p><p>A DMF chip with arrays of electrodes is typically fabricated on indium tin oxide (ITO) glass plates using photolithography and wet etching. The patterned ITO electrodes are then covered with a dielectric and a hydrophobic layer [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>,<xref rid="B39-ijms-16-22319" ref-type="bibr">39</xref>,<xref rid="B73-ijms-16-22319" ref-type="bibr">73</xref>,<xref rid="B81-ijms-16-22319" ref-type="bibr">81</xref>]. The advantages of DMF include ease of fabrication, simple device structure, small consumption of reagents, easy integration with analytical instruments and prospective automation. Thus, DMF has become highly suitable for biological application. Barbulovic-Nad <italic>et al.</italic> [<xref rid="B80-ijms-16-22319" ref-type="bibr">80</xref>] introduced a DMF chip to implement cell-based assays; the platform was demonstrated to be advantageous for cell-based assays because of potential for automated manipulation of multiple reagents. Vergauwe <italic>et al.</italic> [<xref rid="B78-ijms-16-22319" ref-type="bibr">78</xref>] reported a DMF chip for homogeneous and heterogeneous bio-assays with great analytical performance capable of medical applications. Kumar <italic>et al.</italic> [<xref rid="B75-ijms-16-22319" ref-type="bibr">75</xref>] demonstrated the first use of a DMF technique for individual protoplasts from <italic>Arabidopsis thaliana</italic> plants. Shih <italic>et al.</italic> developed the first DMF chip capable of cell impedance sensing [<xref rid="B76-ijms-16-22319" ref-type="bibr">76</xref>]; they also integrated droplet-in-channel microfluidics with DMF to develop a novel chip to perform complicated assays [<xref rid="B81-ijms-16-22319" ref-type="bibr">81</xref>].</p><fig id="ijms-16-22319-f003" position="float"><label>Figure 3</label><caption><p>Dielectrophoresis (DEP) forces exerting on the suspended particles described by Fan <italic>et al.</italic>, 2008 [<xref rid="B39-ijms-16-22319" ref-type="bibr">39</xref>]. (<bold>a</bold>) A parallel-plate device with square and strip electrodes to manipulate droplets and a particle; (<bold>b</bold>) DEP forces exerted on suspended particles including mammalian cells (Neuro-2a); (<bold>c</bold>,<bold>d</bold>) Prototype of EWOD-based, continuously microfluidic module for a portable system reported by Fan <italic>et al.</italic>, 2011 [<xref rid="B70-ijms-16-22319" ref-type="bibr">70</xref>]. Reproduction of the figures has been made with permission from The Royal Society of Chemistry.</p></caption><graphic xlink:href="ijms-16-22319-g003"/></fig><p>This work demonstrates that DMF chips would be a generic and powerful platform for the biological assays, including drug screening, immunoassays, analysis of single cells and digital PCR. This promising new technique might allow the efficient genetic screening based on a single cell to become a reality.</p></sec><sec id="sec4-ijms-16-22319"><title>4. Digital Microfluidic Chips for Genetic Screening</title><p>Investigating gene expression and developing genetic screening at a level of a single cell provides an important capability to resolve the problem of disease etiology, cancer pathology and other biomedical applications [<xref rid="B82-ijms-16-22319" ref-type="bibr">82</xref>]. Traditional methods of genetic screening require a large amount of sample for an analysis, which typically decreases the sensitivity and accuracy on analysis of only a single cell [<xref rid="B83-ijms-16-22319" ref-type="bibr">83</xref>,<xref rid="B84-ijms-16-22319" ref-type="bibr">84</xref>]. Various microfluidic techniques have been developed to address this problem. Digital polymerase chain reaction (digital PCR) platforms have measured DNA or cDNA of a single cell [<xref rid="B85-ijms-16-22319" ref-type="bibr">85</xref>,<xref rid="B86-ijms-16-22319" ref-type="bibr">86</xref>], but challenges persist in treating the integration of varied programs for genetic analyses of a single cell on a device, including cell sorting, manipulation, lysis, PCR and genetic screening. Within the past decade, microfluidic chips have become one of the most powerful platforms to achieve efficient genetic screening at the level of a single cell [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>,<xref rid="B87-ijms-16-22319" ref-type="bibr">87</xref>]. Toriello <italic>et al.</italic> [<xref rid="B88-ijms-16-22319" ref-type="bibr">88</xref>] and Bontoux <italic>et al.</italic> [<xref rid="B89-ijms-16-22319" ref-type="bibr">89</xref>] reported a polydimethylsiloxane (PDMS) device to analyze the gene expression of single cells, and Marcus <italic>et al.</italic> [<xref rid="B90-ijms-16-22319" ref-type="bibr">90</xref>] developed a microfluidic chip with integrated flow that conducted cell capture, lysis, mRNA purification, cDNA synthesis and purification but with a complicated auxiliary system for control.</p><p>As mentioned above, the DMF chip has advantages of ease of fabrication, simple supporting instrumentation and prospective automation. Rival <italic>et al.</italic> [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>] described an integrated and automated EWOD system to perform a complete workflow from the isolation of a single cell to a genetic analysis (<xref ref-type="fig" rid="ijms-16-22319-f004">Figure 4</xref>). DMF is becoming a powerful approach for biological applications, even enabling sample preparation for PCR to develop an efficient genetic screening platform based on a single cell [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>,<xref rid="B91-ijms-16-22319" ref-type="bibr">91</xref>,<xref rid="B92-ijms-16-22319" ref-type="bibr">92</xref>].</p><fig id="ijms-16-22319-f004" position="float"><label>Figure 4</label><caption><p>An integrated EWOD system for genetic analysis based on a single cell described by Rival <italic>et al.</italic>, 2014 [<xref rid="B16-ijms-16-22319" ref-type="bibr">16</xref>]. The lysis and mRNA capture steps: (1) A droplet containing a few cells is dispensed; (2) A droplet of lysis buffer and magnetic beads is dispensed; (3) A droplet with the cells and a droplet with the beads are merged for cell lysis; (4) This merged droplet is moved to the &#x0201c;sample preparation&#x0201d; electrodes for operating magnetic beads; (5) The droplet is moved back and forth to enable bead mixing and mRNA capture; (6) The droplet is moved towards the magnet, the beads are concentrated to result in bead extraction; (7) An empty droplet is moved towards the waist. Reproduction of the figures has been made with permission from The Royal Society of Chemistry.</p></caption><graphic xlink:href="ijms-16-22319-g004"/></fig></sec><sec id="sec5-ijms-16-22319"><title>5. Efficient Genetic Screening for Assisted Reproductive Techniques</title><p>The early development of a mammalian embryo is a complicated process involving an upheaval of a transcriptional architecture [<xref rid="B93-ijms-16-22319" ref-type="bibr">93</xref>,<xref rid="B94-ijms-16-22319" ref-type="bibr">94</xref>,<xref rid="B95-ijms-16-22319" ref-type="bibr">95</xref>]. In applications, human <italic>in vitro</italic> fertilization (IVF) is an important scientific achievement in the twentieth century, but until recently there has been little knowledge of regulatory mechanisms in genes of early mammalian embryos. The early embryo undergoes cleavage divisions in a series from two cell, four cells, eight cells, morula, even to blastocyst. A platform for genetic screening based on a single cell could provide critical knowledge to clarify regulatory mechanisms of genes in early mammalian embryos [<xref rid="B93-ijms-16-22319" ref-type="bibr">93</xref>]. This emerging efficient technique would benefit a biomedical approach, such as assisted reproductive technology (ART).</p><p>The microfluidic ART platforms under development are focused on simulation of the Fallopian tube to optimize the IVF, especially the early embryo culture <italic>in vitro</italic> [<xref rid="B96-ijms-16-22319" ref-type="bibr">96</xref>,<xref rid="B97-ijms-16-22319" ref-type="bibr">97</xref>,<xref rid="B98-ijms-16-22319" ref-type="bibr">98</xref>]. Pre-implantation genetic diagnosis (PGD) has been recently developed to detect genetic diseases [<xref rid="B99-ijms-16-22319" ref-type="bibr">99</xref>,<xref rid="B100-ijms-16-22319" ref-type="bibr">100</xref>]. The current methods of sorting single cells include taking trophectoderm cells from blastocyst, blastomeres from embryos at a cleavage stage and polar bodies from the oocyte or zygote [<xref rid="B101-ijms-16-22319" ref-type="bibr">101</xref>]. The advantages of a DMF chip include simple accompanying instrumentation and prospective automation for sorting single cells from an early embryo. Huang <italic>et al.</italic> [<xref rid="B98-ijms-16-22319" ref-type="bibr">98</xref>] demonstrated a EWOD-based microfluidic device for culture of early mammalian embryos <italic>in vitro</italic>, presaging future clinical application. Although a DMF chip applied in efficient genetic diagnosis is still at an initial stage, we believe that this powerful platform will have a major impact on the ART field.</p></sec><sec id="sec6-ijms-16-22319"><title>6. Conclusions</title><p>Recent developments of microfluidic chips for single cell analysis were reviewed; microfluidic techniques provide numerous advantages for biological and biomedical research, including ease for modularity, small sample requirement, potential of automation, and high-throughput. Perspectives on DMF in analysis of a single cell and efficient genetic screening were particularly focused on and described. We expect that these novel single-cell techniques on microfluidic chips will be important in biomedical areas.</p></sec></body><back><ack><title>Acknowledgments</title><p>Jie-Long He thanks the Ministry of Science and Technology, Taiwan for providing a post-doctoral fellowship.</p></ack><notes><title>Author Contributions</title><p>Jie-Long He and Shih-Kang Fan wrote the manuscript. An-Te Chen and Jyong-Huei Lee assisted in collecting and integrating the references.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijms-16-22319"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Svahn</surname><given-names>H.A.</given-names></name><name><surname>van den Berg</surname><given-names>A.</given-names></name></person-group>
+<article-title>Single cells or large populations?</article-title>
+<source>Lab Chip</source>
+<year>2007</year>
+<volume>7</volume>
+<fpage>544</fpage>
+<lpage>546</lpage>
+<pub-id pub-id-type="pmid">17476370</pub-id></element-citation></ref><ref id="B2-ijms-16-22319"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bahcall</surname><given-names>O.G.</given-names></name></person-group>
+<article-title>Single cell resolution in regulation of gene expression</article-title>
+<source>Mol. Syst. Biol.</source>
+<year>2005</year>
+<volume>1</volume>
+<fpage>2005.0015</fpage>
+<pub-id pub-id-type="doi">10.1038/msb4100020</pub-id>
+<pub-id pub-id-type="pmid">16729050</pub-id></element-citation></ref><ref id="B3-ijms-16-22319"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dittrich</surname><given-names>P.S.</given-names></name><name><surname>Tachikawa</surname><given-names>K.</given-names></name><name><surname>Manz</surname><given-names>A.</given-names></name></person-group>
+<article-title>Micro total analysis systems. Latest advancements and trends</article-title>
+<source>Anal. Chem.</source>
+<year>2006</year>
+<volume>78</volume>
+<fpage>3887</fpage>
+<lpage>3908</lpage>
+<pub-id pub-id-type="doi">10.1021/ac0605602</pub-id>
+<pub-id pub-id-type="pmid">16771530</pub-id></element-citation></ref><ref id="B4-ijms-16-22319"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Graf</surname><given-names>T.</given-names></name><name><surname>Stadtfeld</surname><given-names>M.</given-names></name></person-group>
+<article-title>Heterogeneity of embryonic and adult stem cells</article-title>
+<source>Cell Stem Cell</source>
+<year>2008</year>
+<volume>3</volume>
+<fpage>480</fpage>
+<lpage>483</lpage>
+<pub-id pub-id-type="doi">10.1016/j.stem.2008.10.007</pub-id>
+<pub-id pub-id-type="pmid">18983963</pub-id></element-citation></ref><ref id="B5-ijms-16-22319"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>L.</given-names></name><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Jiang</surname><given-names>L.</given-names></name><name><surname>Yin</surname><given-names>D.</given-names></name><name><surname>Guo</surname><given-names>J.</given-names></name><name><surname>Zheng</surname><given-names>H.</given-names></name><name><surname>Sun</surname><given-names>H.</given-names></name><name><surname>Wu</surname><given-names>R.</given-names></name><name><surname>Guo</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Systems mapping for hematopoietic progenitor cell heterogeneity</article-title>
+<source>PLoS ONE</source>
+<year>2015</year>
+<volume>10</volume>
+<fpage>e0126937</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0126937</pub-id>
+<pub-id pub-id-type="pmid">25970338</pub-id></element-citation></ref><ref id="B6-ijms-16-22319"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Donati</surname><given-names>G.</given-names></name><name><surname>Watt</surname><given-names>F.M.</given-names></name></person-group>
+<article-title>Stem cell heterogeneity and plasticity in epithelia</article-title>
+<source>Cell Stem Cell</source>
+<year>2015</year>
+<volume>16</volume>
+<fpage>465</fpage>
+<lpage>476</lpage>
+<pub-id pub-id-type="doi">10.1016/j.stem.2015.04.014</pub-id>
+<pub-id pub-id-type="pmid">25957902</pub-id></element-citation></ref><ref id="B7-ijms-16-22319"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perkins</surname><given-names>T.J.</given-names></name><name><surname>Swain</surname><given-names>P.S.</given-names></name></person-group>
+<article-title>Strategies for cellular decision-making</article-title>
+<source>Mol. Syst. Biol.</source>
+<year>2009</year>
+<volume>5</volume>
+<fpage>326</fpage>
+<pub-id pub-id-type="doi">10.1038/msb.2009.83</pub-id>
+<pub-id pub-id-type="pmid">19920811</pub-id></element-citation></ref><ref id="B8-ijms-16-22319"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yin</surname><given-names>H.</given-names></name><name><surname>Marshall</surname><given-names>D.</given-names></name></person-group>
+<article-title>Microfluidics for single cell analysis</article-title>
+<source>Curr. Opin. Biotechnol.</source>
+<year>2012</year>
+<volume>23</volume>
+<fpage>110</fpage>
+<lpage>119</lpage>
+<pub-id pub-id-type="doi">10.1016/j.copbio.2011.11.002</pub-id>
+<pub-id pub-id-type="pmid">22133547</pub-id></element-citation></ref><ref id="B9-ijms-16-22319"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>D.</given-names></name><name><surname>Bodovitz</surname><given-names>S.</given-names></name></person-group>
+<article-title>Single cell analysis: The new frontier in &#x0201c;omics&#x0201d;</article-title>
+<source>Trends Biotechnol.</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>281</fpage>
+<lpage>290</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tibtech.2010.03.002</pub-id>
+<pub-id pub-id-type="pmid">20434785</pub-id></element-citation></ref><ref id="B10-ijms-16-22319"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shah</surname><given-names>P.</given-names></name><name><surname>Zhu</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>C.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>C.Z.</given-names></name></person-group>
+<article-title>Lab-on-chip device for single cell trapping and analysis</article-title>
+<source>Biomed. Microdevices</source>
+<year>2014</year>
+<volume>16</volume>
+<fpage>35</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="doi">10.1007/s10544-013-9803-7</pub-id>
+<pub-id pub-id-type="pmid">23948962</pub-id></element-citation></ref><ref id="B11-ijms-16-22319"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheung</surname><given-names>K.C.</given-names></name><name><surname>di Berardino</surname><given-names>M.</given-names></name><name><surname>Schade-Kampmann</surname><given-names>G.</given-names></name><name><surname>Hebeisen</surname><given-names>M.</given-names></name><name><surname>Pierzchalski</surname><given-names>A.</given-names></name><name><surname>Bocsi</surname><given-names>J.</given-names></name><name><surname>Mittag</surname><given-names>A.</given-names></name><name><surname>Tarnok</surname><given-names>A.</given-names></name></person-group>
+<article-title>Microfluidic impedance-based flow cytometry</article-title>
+<source>Cytom. Part A J. Int. Soc. Anal. Cytol.</source>
+<year>2010</year>
+<volume>77</volume>
+<fpage>648</fpage>
+<lpage>666</lpage>
+<pub-id pub-id-type="doi">10.1002/cyto.a.20910</pub-id>
+<pub-id pub-id-type="pmid">20583276</pub-id></element-citation></ref><ref id="B12-ijms-16-22319"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ning</surname><given-names>B.</given-names></name><name><surname>Yihong</surname><given-names>Z.</given-names></name><name><surname>Chang</surname><given-names>L.</given-names></name></person-group>
+<article-title>Microfluidic electroporative flow cytometry for studying single-cell biomechanics</article-title>
+<source>Anal. Chem.</source>
+<year>2008</year>
+<volume>80</volume>
+<fpage>7714</fpage>
+<lpage>7719</lpage>
+<pub-id pub-id-type="pmid">18798650</pub-id></element-citation></ref><ref id="B13-ijms-16-22319"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shah</surname><given-names>P.</given-names></name><name><surname>Kaushik</surname><given-names>A.</given-names></name><name><surname>Zhu</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>C.Z.</given-names></name></person-group>
+<article-title>Chip based single cell analysis for nanotoxicity assessment</article-title>
+<source>Analyst</source>
+<year>2014</year>
+<volume>139</volume>
+<fpage>2088</fpage>
+<lpage>2098</lpage>
+<pub-id pub-id-type="doi">10.1039/c3an02280c</pub-id>
+<pub-id pub-id-type="pmid">24567949</pub-id></element-citation></ref><ref id="B14-ijms-16-22319"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>S.</given-names></name><name><surname>Andersson-Svahn</surname><given-names>H.</given-names></name></person-group>
+<article-title>Miniaturization of biological assays&#x02014;Overview on microwell devices for single-cell analyses</article-title>
+<source>Biochim. Biophys. Acta</source>
+<year>2011</year>
+<volume>1810</volume>
+<fpage>308</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbagen.2010.04.009</pub-id>
+<pub-id pub-id-type="pmid">20451582</pub-id></element-citation></ref><ref id="B15-ijms-16-22319"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Le Gac</surname><given-names>S.</given-names></name><name><surname>van den Berg</surname><given-names>A.</given-names></name></person-group>
+<article-title>Single cells as experimentation units in lab-on-a-chip devices</article-title>
+<source>Trends Biotechnol.</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>55</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tibtech.2009.10.005</pub-id>
+<pub-id pub-id-type="pmid">19914725</pub-id></element-citation></ref><ref id="B16-ijms-16-22319"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rival</surname><given-names>A.</given-names></name><name><surname>Jary</surname><given-names>D.</given-names></name><name><surname>Delattre</surname><given-names>C.</given-names></name><name><surname>Fouillet</surname><given-names>Y.</given-names></name><name><surname>Castellan</surname><given-names>G.</given-names></name><name><surname>Bellemin-Comte</surname><given-names>A.</given-names></name><name><surname>Gidrol</surname><given-names>X.</given-names></name></person-group>
+<article-title>An EWOD-based microfluidic chip for single-cell isolation, mRNA purification and subsequent multiplex qPCR</article-title>
+<source>Lab Chip</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>3739</fpage>
+<lpage>3749</lpage>
+<pub-id pub-id-type="doi">10.1039/C4LC00592A</pub-id>
+<pub-id pub-id-type="pmid">25080028</pub-id></element-citation></ref><ref id="B17-ijms-16-22319"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shapiro</surname><given-names>E.</given-names></name><name><surname>Biezuner</surname><given-names>T.</given-names></name><name><surname>Linnarsson</surname><given-names>S.</given-names></name></person-group>
+<article-title>Single-cell sequencing-based technologies will revolutionize whole-organism science</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2013</year>
+<volume>14</volume>
+<fpage>618</fpage>
+<lpage>630</lpage>
+<pub-id pub-id-type="doi">10.1038/nrg3542</pub-id>
+<pub-id pub-id-type="pmid">23897237</pub-id></element-citation></ref><ref id="B18-ijms-16-22319"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ullal</surname><given-names>A.V.</given-names></name><name><surname>Peterson</surname><given-names>V.</given-names></name><name><surname>Agasti</surname><given-names>S.S.</given-names></name><name><surname>Tuang</surname><given-names>S.</given-names></name><name><surname>Juric</surname><given-names>D.</given-names></name><name><surname>Castro</surname><given-names>C.M.</given-names></name><name><surname>Weissleder</surname><given-names>R.</given-names></name></person-group>
+<article-title>Cancer cell profiling by barcoding allows multiplexed protein analysis in fine-needle aspirates</article-title>
+<source>Sci. Transl. Med.</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>219ra219</fpage>
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3007361</pub-id>
+</element-citation></ref><ref id="B19-ijms-16-22319"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salehi-Reyhani</surname><given-names>A.</given-names></name><name><surname>Burgin</surname><given-names>E.</given-names></name><name><surname>Ces</surname><given-names>O.</given-names></name><name><surname>Willison</surname><given-names>K.R.</given-names></name><name><surname>Klug</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Addressable droplet microarrays for single cell protein analysis</article-title>
+<source>Analyst</source>
+<year>2014</year>
+<volume>139</volume>
+<fpage>5367</fpage>
+<lpage>5374</lpage>
+<pub-id pub-id-type="doi">10.1039/C4AN01208A</pub-id>
+<pub-id pub-id-type="pmid">25262574</pub-id></element-citation></ref><ref id="B20-ijms-16-22319"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kalisky</surname><given-names>T.</given-names></name><name><surname>Quake</surname><given-names>S.R.</given-names></name></person-group>
+<article-title>Single-cell genomics</article-title>
+<source>Nat. Methods</source>
+<year>2011</year>
+<volume>8</volume>
+<fpage>311</fpage>
+<lpage>314</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth0411-311</pub-id>
+<pub-id pub-id-type="pmid">21451520</pub-id></element-citation></ref><ref id="B21-ijms-16-22319"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>S.</given-names></name><name><surname>Hammond</surname><given-names>M.</given-names></name><name><surname>Brismar</surname><given-names>H.</given-names></name><name><surname>Andersson-Svahn</surname><given-names>H.</given-names></name><name><surname>Ahmadian</surname><given-names>A.</given-names></name></person-group>
+<article-title>PCR amplification and genetic analysis in a microwell cell culturing chip</article-title>
+<source>Lab Chip</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>3465</fpage>
+<lpage>3471</lpage>
+<pub-id pub-id-type="doi">10.1039/b912596e</pub-id>
+<pub-id pub-id-type="pmid">20024024</pub-id></element-citation></ref><ref id="B22-ijms-16-22319"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>S.</given-names></name><name><surname>Eriksson</surname><given-names>M.</given-names></name><name><surname>Vazin</surname><given-names>T.</given-names></name><name><surname>Sandberg</surname><given-names>J.</given-names></name><name><surname>Lundeberg</surname><given-names>J.</given-names></name><name><surname>Frisen</surname><given-names>J.</given-names></name><name><surname>Andersson-Svahn</surname><given-names>H.</given-names></name></person-group>
+<article-title>High-density microwell chip for culture and analysis of stem cells</article-title>
+<source>PLoS ONE</source>
+<year>2009</year>
+<volume>4</volume>
+<fpage>e6997</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0006997</pub-id>
+<pub-id pub-id-type="pmid">19750008</pub-id></element-citation></ref><ref id="B23-ijms-16-22319"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jen</surname><given-names>C.P.</given-names></name><name><surname>Amstislavskaya</surname><given-names>T.G.</given-names></name><name><surname>Liu</surname><given-names>Y.H.</given-names></name><name><surname>Hsiao</surname><given-names>J.H.</given-names></name><name><surname>Chen</surname><given-names>Y.H.</given-names></name></person-group>
+<article-title>Single-cell electric lysis on an electroosmotic-driven microfluidic chip with arrays of microwells</article-title>
+<source>Sensors (Basel)</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>6967</fpage>
+<lpage>6977</lpage>
+<pub-id pub-id-type="doi">10.3390/s120606967</pub-id>
+<pub-id pub-id-type="pmid">22969331</pub-id></element-citation></ref><ref id="B24-ijms-16-22319"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jen</surname><given-names>C.P.</given-names></name><name><surname>Hsiao</surname><given-names>J.H.</given-names></name><name><surname>Maslov</surname><given-names>N.A.</given-names></name></person-group>
+<article-title>Single-cell chemical lysis on microfluidic chips with arrays of microwells</article-title>
+<source>Sensors (Basel)</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>347</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="doi">10.3390/s120100347</pub-id>
+<pub-id pub-id-type="pmid">22368473</pub-id></element-citation></ref><ref id="B25-ijms-16-22319"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Osada</surname><given-names>K.</given-names></name><name><surname>Hosokawa</surname><given-names>M.</given-names></name><name><surname>Yoshino</surname><given-names>T.</given-names></name><name><surname>Tanaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Monitoring of cellular behaviors by microcavity array-based single-cell patterning</article-title>
+<source>Analyst</source>
+<year>2014</year>
+<volume>139</volume>
+<fpage>425</fpage>
+<lpage>430</lpage>
+<pub-id pub-id-type="doi">10.1039/C3AN01698F</pub-id>
+<pub-id pub-id-type="pmid">24287613</pub-id></element-citation></ref><ref id="B26-ijms-16-22319"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Carlo</surname><given-names>D.</given-names></name><name><surname>Wu</surname><given-names>L.Y.</given-names></name><name><surname>Lee</surname><given-names>L.P.</given-names></name></person-group>
+<article-title>Dynamic single cell culture array</article-title>
+<source>Lab Chip</source>
+<year>2006</year>
+<volume>6</volume>
+<fpage>1445</fpage>
+<lpage>1449</lpage>
+<pub-id pub-id-type="doi">10.1039/b605937f</pub-id>
+<pub-id pub-id-type="pmid">17066168</pub-id></element-citation></ref><ref id="B27-ijms-16-22319"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skelley</surname><given-names>A.M.</given-names></name><name><surname>Kirak</surname><given-names>O.</given-names></name><name><surname>Suh</surname><given-names>H.</given-names></name><name><surname>Jaenisch</surname><given-names>R.</given-names></name><name><surname>Voldman</surname><given-names>J.</given-names></name></person-group>
+<article-title>Microfluidic control of cell pairing and fusion</article-title>
+<source>Nat. Methods</source>
+<year>2009</year>
+<volume>6</volume>
+<fpage>147</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth.1290</pub-id>
+<pub-id pub-id-type="pmid">19122668</pub-id></element-citation></ref><ref id="B28-ijms-16-22319"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>S.-W.</given-names></name><name><surname>Kang</surname><given-names>J.Y.</given-names></name><name><surname>Lee</surname><given-names>I.-H.</given-names></name><name><surname>Ryu</surname><given-names>S.-S.</given-names></name><name><surname>Kwak</surname><given-names>S.-M.</given-names></name><name><surname>Shin</surname><given-names>K.-S.</given-names></name><name><surname>Kim</surname><given-names>C.</given-names></name><name><surname>Jung</surname><given-names>H.-I.</given-names></name><name><surname>Kim</surname><given-names>T.-S.</given-names></name></person-group>
+<article-title>Single-cell assay on CD-like lab chip using centrifugal massive single-cell trap</article-title>
+<source>Sens. Actuators A Phys.</source>
+<year>2008</year>
+<volume>143</volume>
+<fpage>64</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1016/j.sna.2007.06.043</pub-id>
+</element-citation></ref><ref id="B29-ijms-16-22319"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Dechev</surname><given-names>N.</given-names></name><name><surname>Foulds</surname><given-names>I.G.</given-names></name><name><surname>Burke</surname><given-names>R.</given-names></name><name><surname>Parameswaran</surname><given-names>A.</given-names></name><name><surname>Park</surname><given-names>E.J.</given-names></name></person-group>
+<article-title>A novel permalloy based magnetic single cell micro array</article-title>
+<source>Lab Chip</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>2381</fpage>
+<lpage>2390</lpage>
+<pub-id pub-id-type="doi">10.1039/b821044f</pub-id>
+<pub-id pub-id-type="pmid">19636470</pub-id></element-citation></ref><ref id="B30-ijms-16-22319"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Remmerbach</surname><given-names>T.W.</given-names></name><name><surname>Wottawah</surname><given-names>F.</given-names></name><name><surname>Dietrich</surname><given-names>J.</given-names></name><name><surname>Lincoln</surname><given-names>B.</given-names></name><name><surname>Wittekind</surname><given-names>C.</given-names></name><name><surname>Guck</surname><given-names>J.</given-names></name></person-group>
+<article-title>Oral cancer diagnosis by mechanical phenotyping</article-title>
+<source>Cancer Res.</source>
+<year>2009</year>
+<volume>69</volume>
+<fpage>1728</fpage>
+<lpage>1732</lpage>
+<pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-4073</pub-id>
+<pub-id pub-id-type="pmid">19223529</pub-id></element-citation></ref><ref id="B31-ijms-16-22319"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guck</surname><given-names>J.</given-names></name><name><surname>Schinkinger</surname><given-names>S.</given-names></name><name><surname>Lincoln</surname><given-names>B.</given-names></name><name><surname>Wottawah</surname><given-names>F.</given-names></name><name><surname>Ebert</surname><given-names>S.</given-names></name><name><surname>Romeyke</surname><given-names>M.</given-names></name><name><surname>Lenz</surname><given-names>D.</given-names></name><name><surname>Erickson</surname><given-names>H.M.</given-names></name><name><surname>Ananthakrishnan</surname><given-names>R.</given-names></name><name><surname>Mitchell</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Optical deformability as an inherent cell marker for testing malignant transformation and metastatic competence</article-title>
+<source>Biophys. J.</source>
+<year>2005</year>
+<volume>88</volume>
+<fpage>3689</fpage>
+<lpage>3698</lpage>
+<pub-id pub-id-type="doi">10.1529/biophysj.104.045476</pub-id>
+<pub-id pub-id-type="pmid">15722433</pub-id></element-citation></ref><ref id="B32-ijms-16-22319"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>M.M.</given-names></name><name><surname>Tu</surname><given-names>E.</given-names></name><name><surname>Raymond</surname><given-names>D.E.</given-names></name><name><surname>Yang</surname><given-names>J.M.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name><name><surname>Hagen</surname><given-names>N.</given-names></name><name><surname>Dees</surname><given-names>B.</given-names></name><name><surname>Mercer</surname><given-names>E.M.</given-names></name><name><surname>Forster</surname><given-names>A.H.</given-names></name><name><surname>Kariv</surname><given-names>I.</given-names></name><etal/></person-group>
+<article-title>Microfluidic sorting of mammalian cells by optical force switching</article-title>
+<source>Nat. Biotechnol.</source>
+<year>2005</year>
+<volume>23</volume>
+<fpage>83</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="doi">10.1038/nbt1050</pub-id>
+<pub-id pub-id-type="pmid">15608628</pub-id></element-citation></ref><ref id="B33-ijms-16-22319"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>T.</given-names></name><name><surname>Paie</surname><given-names>P.</given-names></name><name><surname>Nava</surname><given-names>G.</given-names></name><name><surname>Bragheri</surname><given-names>F.</given-names></name><name><surname>Martinez Vazquez</surname><given-names>R.</given-names></name><name><surname>Minzioni</surname><given-names>P.</given-names></name><name><surname>Veglione</surname><given-names>M.</given-names></name><name><surname>di Tano</surname><given-names>M.</given-names></name><name><surname>Mondello</surname><given-names>C.</given-names></name><name><surname>Osellame</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>An integrated optofluidic device for single-cell sorting driven by mechanical properties</article-title>
+<source>Lab Chip</source>
+<year>2015</year>
+<volume>15</volume>
+<fpage>1262</fpage>
+<lpage>1266</lpage>
+<pub-id pub-id-type="doi">10.1039/C4LC01496K</pub-id>
+<pub-id pub-id-type="pmid">25622755</pub-id></element-citation></ref><ref id="B34-ijms-16-22319"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taff</surname><given-names>B.M.</given-names></name><name><surname>Voldman</surname><given-names>J.</given-names></name></person-group>
+<article-title>A scalable addressable positive-dielectrophoretic cell-sorting array</article-title>
+<source>Anal. Chem.</source>
+<year>2005</year>
+<volume>77</volume>
+<fpage>7976</fpage>
+<lpage>7983</lpage>
+<pub-id pub-id-type="doi">10.1021/ac0513616</pub-id>
+<pub-id pub-id-type="pmid">16351145</pub-id></element-citation></ref><ref id="B35-ijms-16-22319"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>X.</given-names></name><name><surname>Bessette</surname><given-names>P.H.</given-names></name><name><surname>Qian</surname><given-names>J.</given-names></name><name><surname>Meinhart</surname><given-names>C.D.</given-names></name><name><surname>Daugherty</surname><given-names>P.S.</given-names></name><name><surname>Soh</surname><given-names>H.T.</given-names></name></person-group>
+<article-title>Marker-specific sorting of rare cells using dielectrophoresis</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2005</year>
+<volume>102</volume>
+<fpage>15757</fpage>
+<lpage>15761</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0507719102</pub-id>
+<pub-id pub-id-type="pmid">16236724</pub-id></element-citation></ref><ref id="B36-ijms-16-22319"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shah</surname><given-names>G.J.</given-names></name><name><surname>Ohta</surname><given-names>A.T.</given-names></name><name><surname>Chiou</surname><given-names>E.P.</given-names></name><name><surname>Wu</surname><given-names>M.C.</given-names></name><name><surname>Kim</surname><given-names>C.J.</given-names></name></person-group>
+<article-title>EWOD-driven droplet microfluidic device integrated with optoelectronic tweezers as an automated platform for cellular isolation and analysis</article-title>
+<source>Lab Chip</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>1732</fpage>
+<lpage>1739</lpage>
+<pub-id pub-id-type="doi">10.1039/b821508a</pub-id>
+<pub-id pub-id-type="pmid">19495457</pub-id></element-citation></ref><ref id="B37-ijms-16-22319"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>S.</given-names></name><name><surname>Wijethunga</surname><given-names>P.A.</given-names></name><name><surname>Moon</surname><given-names>H.</given-names></name><name><surname>Han</surname><given-names>B.</given-names></name></person-group>
+<article-title>On-chip characterization of cryoprotective agent mixtures using an EWOD-based digital microfluidic device</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>2212</fpage>
+<lpage>2221</lpage>
+<pub-id pub-id-type="doi">10.1039/c1lc20111e</pub-id>
+<pub-id pub-id-type="pmid">21603697</pub-id></element-citation></ref><ref id="B38-ijms-16-22319"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rosenbluth</surname><given-names>M.J.</given-names></name><name><surname>Lam</surname><given-names>W.A.</given-names></name><name><surname>Fletcher</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Analyzing cell mechanics in hematologic diseases with microfluidic biophysical flow cytometry</article-title>
+<source>Lab Chip</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>1062</fpage>
+<lpage>1070</lpage>
+<pub-id pub-id-type="doi">10.1039/b802931h</pub-id>
+<pub-id pub-id-type="pmid">18584080</pub-id></element-citation></ref><ref id="B39-ijms-16-22319"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Huang</surname><given-names>P.W.</given-names></name><name><surname>Wang</surname><given-names>T.T.</given-names></name><name><surname>Peng</surname><given-names>Y.H.</given-names></name></person-group>
+<article-title>Cross-scale electric manipulations of cells and droplets by frequency-modulated dielectrophoresis and electrowetting</article-title>
+<source>Lab Chip</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>1325</fpage>
+<lpage>1331</lpage>
+<pub-id pub-id-type="doi">10.1039/b803204a</pub-id>
+<pub-id pub-id-type="pmid">18651075</pub-id></element-citation></ref><ref id="B40-ijms-16-22319"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Carlo</surname><given-names>D.</given-names></name><name><surname>Jeong</surname><given-names>K.H.</given-names></name><name><surname>Lee</surname><given-names>L.P.</given-names></name></person-group>
+<article-title>Reagentless mechanical cell lysis by nanoscale barbs in microchannels for sample preparation</article-title>
+<source>Lab Chip</source>
+<year>2003</year>
+<volume>3</volume>
+<fpage>287</fpage>
+<lpage>291</lpage>
+<pub-id pub-id-type="doi">10.1039/b305162e</pub-id>
+<pub-id pub-id-type="pmid">15007460</pub-id></element-citation></ref><ref id="B41-ijms-16-22319"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zheng</surname><given-names>S.</given-names></name><name><surname>Lin</surname><given-names>H.</given-names></name><name><surname>Liu</surname><given-names>J.Q.</given-names></name><name><surname>Balic</surname><given-names>M.</given-names></name><name><surname>Datar</surname><given-names>R.</given-names></name><name><surname>Cote</surname><given-names>R.J.</given-names></name><name><surname>Tai</surname><given-names>Y.C.</given-names></name></person-group>
+<article-title>Membrane microfilter device for selective capture, electrolysis and genomic analysis of human circulating tumor cells</article-title>
+<source>J. Chromatogr. A</source>
+<year>2007</year>
+<volume>1162</volume>
+<fpage>154</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chroma.2007.05.064</pub-id>
+<pub-id pub-id-type="pmid">17561026</pub-id></element-citation></ref><ref id="B42-ijms-16-22319"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bao</surname><given-names>N.</given-names></name><name><surname>Kodippili</surname><given-names>G.C.</given-names></name><name><surname>Giger</surname><given-names>K.M.</given-names></name><name><surname>Fowler</surname><given-names>V.M.</given-names></name><name><surname>Low</surname><given-names>P.S.</given-names></name><name><surname>Lu</surname><given-names>C.</given-names></name></person-group>
+<article-title>Single-cell electrical lysis of erythrocytes detects deficiencies in the cytoskeletal protein network</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>3053</fpage>
+<lpage>3056</lpage>
+<pub-id pub-id-type="doi">10.1039/c1lc20365g</pub-id>
+<pub-id pub-id-type="pmid">21785802</pub-id></element-citation></ref><ref id="B43-ijms-16-22319"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ginsberg</surname><given-names>S.D.</given-names></name></person-group>
+<article-title>RNA amplification strategies for small sample populations</article-title>
+<source>Methods</source>
+<year>2005</year>
+<volume>37</volume>
+<fpage>229</fpage>
+<lpage>237</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ymeth.2005.09.003</pub-id>
+<pub-id pub-id-type="pmid">16308152</pub-id></element-citation></ref><ref id="B44-ijms-16-22319"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feng</surname><given-names>X.</given-names></name><name><surname>Du</surname><given-names>W.</given-names></name><name><surname>Luo</surname><given-names>Q.</given-names></name><name><surname>Liu</surname><given-names>B.F.</given-names></name></person-group>
+<article-title>Microfluidic chip: Next-generation platform for systems biology</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2009</year>
+<volume>650</volume>
+<fpage>83</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2009.04.051</pub-id>
+<pub-id pub-id-type="pmid">19720178</pub-id></element-citation></ref><ref id="B45-ijms-16-22319"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koster</surname><given-names>S.</given-names></name><name><surname>Angile</surname><given-names>F.E.</given-names></name><name><surname>Duan</surname><given-names>H.</given-names></name><name><surname>Agresti</surname><given-names>J.J.</given-names></name><name><surname>Wintner</surname><given-names>A.</given-names></name><name><surname>Schmitz</surname><given-names>C.</given-names></name><name><surname>Rowat</surname><given-names>A.C.</given-names></name><name><surname>Merten</surname><given-names>C.A.</given-names></name><name><surname>Pisignano</surname><given-names>D.</given-names></name><name><surname>Griffiths</surname><given-names>A.D.</given-names></name><etal/></person-group>
+<article-title>Drop-based microfluidic devices for encapsulation of single cells</article-title>
+<source>Lab Chip</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>1110</fpage>
+<lpage>1115</lpage>
+<pub-id pub-id-type="doi">10.1039/b802941e</pub-id>
+<pub-id pub-id-type="pmid">18584086</pub-id></element-citation></ref><ref id="B46-ijms-16-22319"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clausell-Tormos</surname><given-names>J.</given-names></name><name><surname>Lieber</surname><given-names>D.</given-names></name><name><surname>Baret</surname><given-names>J.C.</given-names></name><name><surname>El-Harrak</surname><given-names>A.</given-names></name><name><surname>Miller</surname><given-names>O.J.</given-names></name><name><surname>Frenz</surname><given-names>L.</given-names></name><name><surname>Blouwolff</surname><given-names>J.</given-names></name><name><surname>Humphry</surname><given-names>K.J.</given-names></name><name><surname>Koster</surname><given-names>S.</given-names></name><name><surname>Duan</surname><given-names>H.</given-names></name><etal/></person-group>
+<article-title>Droplet-based microfluidic platforms for the encapsulation and screening of mammalian cells and multicellular organisms</article-title>
+<source>Chem. Biol.</source>
+<year>2008</year>
+<volume>15</volume>
+<fpage>427</fpage>
+<lpage>437</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chembiol.2008.04.004</pub-id>
+<pub-id pub-id-type="pmid">18482695</pub-id></element-citation></ref><ref id="B47-ijms-16-22319"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brouzes</surname><given-names>E.</given-names></name><name><surname>Medkova</surname><given-names>M.</given-names></name><name><surname>Savenelli</surname><given-names>N.</given-names></name><name><surname>Marran</surname><given-names>D.</given-names></name><name><surname>Twardowski</surname><given-names>M.</given-names></name><name><surname>Hutchison</surname><given-names>J.B.</given-names></name><name><surname>Rothberg</surname><given-names>J.M.</given-names></name><name><surname>Link</surname><given-names>D.R.</given-names></name><name><surname>Perrimon</surname><given-names>N.</given-names></name><name><surname>Samuels</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Droplet microfluidic technology for single-cell high-throughput screening</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2009</year>
+<volume>106</volume>
+<fpage>14195</fpage>
+<lpage>14200</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0903542106</pub-id>
+<pub-id pub-id-type="pmid">19617544</pub-id></element-citation></ref><ref id="B48-ijms-16-22319"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>L.</given-names></name><name><surname>Chen</surname><given-names>M.C.</given-names></name><name><surname>Cheung</surname><given-names>K.C.</given-names></name></person-group>
+<article-title>Droplet-based microfluidic system for multicellular tumor spheroid formation and anticancer drug testing</article-title>
+<source>Lab Chip</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>2424</fpage>
+<lpage>2432</lpage>
+<pub-id pub-id-type="doi">10.1039/c004590j</pub-id>
+<pub-id pub-id-type="pmid">20694216</pub-id></element-citation></ref><ref id="B49-ijms-16-22319"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pekin</surname><given-names>D.</given-names></name><name><surname>Skhiri</surname><given-names>Y.</given-names></name><name><surname>Baret</surname><given-names>J.C.</given-names></name><name><surname>le Corre</surname><given-names>D.</given-names></name><name><surname>Mazutis</surname><given-names>L.</given-names></name><name><surname>Salem</surname><given-names>C.B.</given-names></name><name><surname>Millot</surname><given-names>F.</given-names></name><name><surname>El Harrak</surname><given-names>A.</given-names></name><name><surname>Hutchison</surname><given-names>J.B.</given-names></name><name><surname>Larson</surname><given-names>J.W.</given-names></name><etal/></person-group>
+<article-title>Quantitative and sensitive detection of rare mutations using droplet-based microfluidics</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>2156</fpage>
+<lpage>2166</lpage>
+<pub-id pub-id-type="doi">10.1039/c1lc20128j</pub-id>
+<pub-id pub-id-type="pmid">21594292</pub-id></element-citation></ref><ref id="B50-ijms-16-22319"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gossett</surname><given-names>D.R.</given-names></name><name><surname>Tse</surname><given-names>H.T.</given-names></name><name><surname>Lee</surname><given-names>S.A.</given-names></name><name><surname>Ying</surname><given-names>Y.</given-names></name><name><surname>Lindgren</surname><given-names>A.G.</given-names></name><name><surname>Yang</surname><given-names>O.O.</given-names></name><name><surname>Rao</surname><given-names>J.</given-names></name><name><surname>Clark</surname><given-names>A.T.</given-names></name><name><surname>di Carlo</surname><given-names>D.</given-names></name></person-group>
+<article-title>Hydrodynamic stretching of single cells for large population mechanical phenotyping</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>7630</fpage>
+<lpage>7635</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1200107109</pub-id>
+<pub-id pub-id-type="pmid">22547795</pub-id></element-citation></ref><ref id="B51-ijms-16-22319"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guan</surname><given-names>G.</given-names></name><name><surname>Chen</surname><given-names>P.C.Y.</given-names></name><name><surname>Peng</surname><given-names>W.K.</given-names></name><name><surname>Bhagat</surname><given-names>A.A.</given-names></name><name><surname>Ong</surname><given-names>C.J.</given-names></name><name><surname>Han</surname><given-names>J.</given-names></name></person-group>
+<article-title>Real-time control of a microfluidic channel for size-independent deformability cytometry</article-title>
+<source>J. Micromech. Microeng.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>105037</fpage>
+<pub-id pub-id-type="doi">10.1088/0960-1317/22/10/105037</pub-id>
+</element-citation></ref><ref id="B52-ijms-16-22319"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Q.</given-names></name><name><surname>Reiling</surname><given-names>S.J.</given-names></name><name><surname>Rohrbach</surname><given-names>P.</given-names></name><name><surname>Ma</surname><given-names>H.</given-names></name></person-group>
+<article-title>Microfluidic biomechanical assay for red blood cells parasitized by <italic>Plasmodium falciparum</italic></article-title>
+<source>Lab Chip</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>1143</fpage>
+<lpage>1150</lpage>
+<pub-id pub-id-type="doi">10.1039/c2lc20857a</pub-id>
+<pub-id pub-id-type="pmid">22318405</pub-id></element-citation></ref><ref id="B53-ijms-16-22319"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jang</surname><given-names>L.S.</given-names></name><name><surname>Wang</surname><given-names>M.H.</given-names></name></person-group>
+<article-title>Microfluidic device for cell capture and impedance measurement</article-title>
+<source>Biomed. Microdevices</source>
+<year>2007</year>
+<volume>9</volume>
+<fpage>737</fpage>
+<lpage>743</lpage>
+<pub-id pub-id-type="doi">10.1007/s10544-007-9084-0</pub-id>
+<pub-id pub-id-type="pmid">17508285</pub-id></element-citation></ref><ref id="B54-ijms-16-22319"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malleo</surname><given-names>D.</given-names></name><name><surname>Nevill</surname><given-names>J.T.</given-names></name><name><surname>Lee</surname><given-names>L.P.</given-names></name><name><surname>Morgan</surname><given-names>H.</given-names></name></person-group>
+<article-title>Continuous differential impedance spectroscopy of single cells</article-title>
+<source>Microfluid. Nanofluid.</source>
+<year>2010</year>
+<volume>9</volume>
+<fpage>191</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="doi">10.1007/s10404-009-0534-2</pub-id>
+<pub-id pub-id-type="pmid">20927185</pub-id></element-citation></ref><ref id="B55-ijms-16-22319"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Han</surname><given-names>K.H.</given-names></name><name><surname>Han</surname><given-names>A.</given-names></name><name><surname>Frazier</surname><given-names>A.B.</given-names></name></person-group>
+<article-title>Microsystems for isolation and electrophysiological analysis of breast cancer cells from blood</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2006</year>
+<volume>21</volume>
+<fpage>1907</fpage>
+<lpage>1914</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2006.01.024</pub-id>
+<pub-id pub-id-type="pmid">16529922</pub-id></element-citation></ref><ref id="B56-ijms-16-22319"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chung</surname><given-names>J.</given-names></name><name><surname>Issadore</surname><given-names>D.</given-names></name><name><surname>Ullal</surname><given-names>A.</given-names></name><name><surname>Lee</surname><given-names>K.</given-names></name><name><surname>Weissleder</surname><given-names>R.</given-names></name><name><surname>Lee</surname><given-names>H.</given-names></name></person-group>
+<article-title>Rare cell isolation and profiling on a hybrid magnetic/size-sorting chip</article-title>
+<source>Biomicrofluidics</source>
+<year>2013</year>
+<volume>7</volume>
+<fpage>54107</fpage>
+<pub-id pub-id-type="doi">10.1063/1.4821923</pub-id>
+<pub-id pub-id-type="pmid">24404070</pub-id></element-citation></ref><ref id="B57-ijms-16-22319"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurz</surname><given-names>C.M.</given-names></name><name><surname>Buth</surname><given-names>H.</given-names></name><name><surname>Sossalla</surname><given-names>A.</given-names></name><name><surname>Vermeersch</surname><given-names>V.</given-names></name><name><surname>Toncheva</surname><given-names>V.</given-names></name><name><surname>Dubruel</surname><given-names>P.</given-names></name><name><surname>Schacht</surname><given-names>E.</given-names></name><name><surname>Thielecke</surname><given-names>H.</given-names></name></person-group>
+<article-title>Chip-based impedance measurement on single cells for monitoring sub-toxic effects on cell membranes</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>3405</fpage>
+<lpage>3412</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2011.01.012</pub-id>
+<pub-id pub-id-type="pmid">21316211</pub-id></element-citation></ref><ref id="B58-ijms-16-22319"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>S.</given-names></name><name><surname>Mori</surname><given-names>K.</given-names></name><name><surname>Ohashi</surname><given-names>T.</given-names></name><name><surname>Andersson-Svahn</surname><given-names>H.</given-names></name></person-group>
+<article-title>A microwell array device with integrated microfluidic components for enhanced single-cell analysis</article-title>
+<source>Electrophoresis</source>
+<year>2009</year>
+<volume>30</volume>
+<fpage>4166</fpage>
+<lpage>4171</lpage>
+<pub-id pub-id-type="doi">10.1002/elps.200900572</pub-id>
+<pub-id pub-id-type="pmid">19938185</pub-id></element-citation></ref><ref id="B59-ijms-16-22319"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>S.</given-names></name><name><surname>Larsson</surname><given-names>R.</given-names></name><name><surname>Svahn</surname><given-names>H.A.</given-names></name></person-group>
+<article-title>Towards high-throughput single cell/clone cultivation and analysis</article-title>
+<source>Electrophoresis</source>
+<year>2008</year>
+<volume>29</volume>
+<fpage>1219</fpage>
+<lpage>1227</lpage>
+<pub-id pub-id-type="doi">10.1002/elps.200700536</pub-id>
+<pub-id pub-id-type="pmid">18288779</pub-id></element-citation></ref><ref id="B60-ijms-16-22319"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobel</surname><given-names>S.</given-names></name><name><surname>Valero</surname><given-names>A.</given-names></name><name><surname>Latt</surname><given-names>J.</given-names></name><name><surname>Renaud</surname><given-names>P.</given-names></name><name><surname>Lutolf</surname><given-names>M.</given-names></name></person-group>
+<article-title>Optimization of microfluidic single cell trapping for long-term on-chip culture</article-title>
+<source>Lab Chip</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>857</fpage>
+<lpage>863</lpage>
+<pub-id pub-id-type="doi">10.1039/b918055a</pub-id>
+<pub-id pub-id-type="pmid">20300672</pub-id></element-citation></ref><ref id="B61-ijms-16-22319"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bow</surname><given-names>H.</given-names></name><name><surname>Pivkin</surname><given-names>I.V.</given-names></name><name><surname>Diez-Silva</surname><given-names>M.</given-names></name><name><surname>Goldfless</surname><given-names>S.J.</given-names></name><name><surname>Dao</surname><given-names>M.</given-names></name><name><surname>Niles</surname><given-names>J.C.</given-names></name><name><surname>Suresh</surname><given-names>S.</given-names></name><name><surname>Han</surname><given-names>J.</given-names></name></person-group>
+<article-title>A microfabricated deformability-based flow cytometer with application to malaria</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>1065</fpage>
+<lpage>1073</lpage>
+<pub-id pub-id-type="doi">10.1039/c0lc00472c</pub-id>
+<pub-id pub-id-type="pmid">21293801</pub-id></element-citation></ref><ref id="B62-ijms-16-22319"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Carlo</surname><given-names>D.</given-names></name><name><surname>Lee</surname><given-names>L.P.</given-names></name></person-group>
+<article-title>Dynamic single-cell analysis for quantitative biology</article-title>
+<source>Anal. Chem.</source>
+<year>2006</year>
+<volume>78</volume>
+<fpage>7918</fpage>
+<lpage>7925</lpage>
+<pub-id pub-id-type="doi">10.1021/ac069490p</pub-id>
+<pub-id pub-id-type="pmid">17186633</pub-id></element-citation></ref><ref id="B63-ijms-16-22319"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lan</surname><given-names>K.C.</given-names></name><name><surname>Jang</surname><given-names>L.S.</given-names></name></person-group>
+<article-title>Integration of single-cell trapping and impedance measurement utilizing microwell electrodes</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>2025</fpage>
+<lpage>2031</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2010.08.080</pub-id>
+<pub-id pub-id-type="pmid">20970315</pub-id></element-citation></ref><ref id="B64-ijms-16-22319"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>N.T.</given-names></name><name><surname>Zhang</surname><given-names>H.L.</given-names></name><name><surname>Chung</surname><given-names>M.T.</given-names></name><name><surname>Seo</surname><given-names>J.H.</given-names></name><name><surname>Kurabayashi</surname><given-names>K.</given-names></name></person-group>
+<article-title>Recent advancements in optofluidics-based single-cell analysis: Optical on-chip cellular manipulation, treatment, and property detection</article-title>
+<source>Lab Chip</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>1230</fpage>
+<lpage>1245</lpage>
+<pub-id pub-id-type="doi">10.1039/c3lc51211h</pub-id>
+<pub-id pub-id-type="pmid">24525555</pub-id></element-citation></ref><ref id="B65-ijms-16-22319"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rahman</surname><given-names>A.R.A.</given-names></name><name><surname>Price</surname><given-names>D.T.</given-names></name><name><surname>Bhansali</surname><given-names>S.</given-names></name></person-group>
+<article-title>Effect of electrode geometry on the impedance evaluation of tissue and cell culture</article-title>
+<source>Sens. Actuators B Chem.</source>
+<year>2007</year>
+<volume>127</volume>
+<fpage>89</fpage>
+<lpage>96</lpage>
+</element-citation></ref><ref id="B66-ijms-16-22319"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Chiu</surname><given-names>C.P.</given-names></name><name><surname>Hsu</surname><given-names>C.H.</given-names></name><name><surname>Chen</surname><given-names>S.C.</given-names></name><name><surname>Huang</surname><given-names>L.L.</given-names></name><name><surname>Lin</surname><given-names>Y.H.</given-names></name><name><surname>Fang</surname><given-names>W.F.</given-names></name><name><surname>Chen</surname><given-names>J.K.</given-names></name><name><surname>Yang</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>Particle chain display&#x02014;An optofluidic electronic paper</article-title>
+<source>Lab Chip</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>4870</fpage>
+<lpage>4876</lpage>
+<pub-id pub-id-type="doi">10.1039/c2lc40480j</pub-id>
+<pub-id pub-id-type="pmid">23026879</pub-id></element-citation></ref><ref id="B67-ijms-16-22319"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Chiu</surname><given-names>C.P.</given-names></name><name><surname>Huang</surname><given-names>P.W.</given-names></name></person-group>
+<article-title>Transmittance tuning by particle chain polarization in electrowetting-driven droplets</article-title>
+<source>Biomicrofluidics</source>
+<year>2010</year>
+<volume>4</volume>
+<fpage>43011</fpage>
+<pub-id pub-id-type="doi">10.1063/1.3516656</pub-id>
+<pub-id pub-id-type="pmid">21267088</pub-id></element-citation></ref><ref id="B68-ijms-16-22319"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choi</surname><given-names>H.</given-names></name><name><surname>Kim</surname><given-names>K.B.</given-names></name><name><surname>Jeon</surname><given-names>C.S.</given-names></name><name><surname>Hwang</surname><given-names>I.</given-names></name><name><surname>Lee</surname><given-names>S.</given-names></name><name><surname>Kim</surname><given-names>H.K.</given-names></name><name><surname>Kim</surname><given-names>H.C.</given-names></name><name><surname>Chung</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>A label-free DC impedance-based microcytometer for circulating rare cancer cell counting</article-title>
+<source>Lab Chip</source>
+<year>2013</year>
+<volume>13</volume>
+<fpage>970</fpage>
+<lpage>977</lpage>
+<pub-id pub-id-type="doi">10.1039/c2lc41376k</pub-id>
+<pub-id pub-id-type="pmid">23340965</pub-id></element-citation></ref><ref id="B69-ijms-16-22319"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mernier</surname><given-names>G.</given-names></name><name><surname>Duqi</surname><given-names>E.</given-names></name><name><surname>Renaud</surname><given-names>P.</given-names></name></person-group>
+<article-title>Characterization of a novel impedance cytometer design and its integration with lateral focusing by dielectrophoresis</article-title>
+<source>Lab Chip</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>4344</fpage>
+<lpage>4349</lpage>
+<pub-id pub-id-type="doi">10.1039/c2lc40551b</pub-id>
+<pub-id pub-id-type="pmid">22899298</pub-id></element-citation></ref><ref id="B70-ijms-16-22319"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Hsu</surname><given-names>W.</given-names></name></person-group>
+<article-title>Droplet-on-a-wristband: Chip-to-chip digital microfluidic interfaces between replaceable and flexible electrowetting modules</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>343</fpage>
+<lpage>347</lpage>
+<pub-id pub-id-type="doi">10.1039/C0LC00178C</pub-id>
+<pub-id pub-id-type="pmid">20957291</pub-id></element-citation></ref><ref id="B71-ijms-16-22319"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Hsieh</surname><given-names>T.H.</given-names></name><name><surname>Lin</surname><given-names>D.Y.</given-names></name></person-group>
+<article-title>General digital microfluidic platform manipulating dielectric and conductive droplets by dielectrophoresis and electrowetting</article-title>
+<source>Lab Chip</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>1236</fpage>
+<lpage>1242</lpage>
+<pub-id pub-id-type="doi">10.1039/b816535a</pub-id>
+<pub-id pub-id-type="pmid">19370242</pub-id></element-citation></ref><ref id="B72-ijms-16-22319"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Chen</surname><given-names>W.J.</given-names></name><name><surname>Lin</surname><given-names>T.H.</given-names></name><name><surname>Wang</surname><given-names>T.T.</given-names></name><name><surname>Lin</surname><given-names>Y.C.</given-names></name></person-group>
+<article-title>Reconfigurable liquid pumping in electric-field-defined virtual microchannels by dielectrophoresis</article-title>
+<source>Lab Chip</source>
+<year>2009</year>
+<volume>9</volume>
+<fpage>1590</fpage>
+<lpage>1595</lpage>
+<pub-id pub-id-type="doi">10.1039/b900790c</pub-id>
+<pub-id pub-id-type="pmid">19458867</pub-id></element-citation></ref><ref id="B73-ijms-16-22319"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>T.T.</given-names></name><name><surname>Hsu</surname><given-names>W.</given-names></name></person-group>
+<article-title>Asymmetric electrowetting&#x02014;Moving droplets by a square wave</article-title>
+<source>Lab Chip</source>
+<year>2007</year>
+<volume>7</volume>
+<fpage>1330</fpage>
+<lpage>1335</lpage>
+<pub-id pub-id-type="doi">10.1039/b704084a</pub-id>
+<pub-id pub-id-type="pmid">17896018</pub-id></element-citation></ref><ref id="B74-ijms-16-22319"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choi</surname><given-names>K.</given-names></name><name><surname>Ng</surname><given-names>A.H.</given-names></name><name><surname>Fobel</surname><given-names>R.</given-names></name><name><surname>Wheeler</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Digital microfluidics</article-title>
+<source>Annu. Rev. Anal. Chem.</source>
+<year>2012</year>
+<volume>5</volume>
+<fpage>413</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-anchem-062011-143028</pub-id>
+<pub-id pub-id-type="pmid">22524226</pub-id></element-citation></ref><ref id="B75-ijms-16-22319"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>P.T.</given-names></name><name><surname>Toffalini</surname><given-names>F.</given-names></name><name><surname>Witters</surname><given-names>D.</given-names></name><name><surname>Vermeir</surname><given-names>S.</given-names></name><name><surname>Rolland</surname><given-names>F.</given-names></name><name><surname>Hertog</surname><given-names>M.L.A.T.M.</given-names></name><name><surname>Nicolai</surname><given-names>B.M.</given-names></name><name><surname>Puers</surname><given-names>R.</given-names></name><name><surname>Geeraerd</surname><given-names>A.</given-names></name><name><surname>Lammertyn</surname><given-names>J.</given-names></name></person-group>
+<article-title>Digital microfluidic chip technology for water permeability measurements on single isolated plant protoplasts</article-title>
+<source>Sens. Actuators B Chem.</source>
+<year>2014</year>
+<volume>199</volume>
+<fpage>479</fpage>
+<lpage>487</lpage>
+<pub-id pub-id-type="doi">10.1016/j.snb.2014.04.018</pub-id>
+</element-citation></ref><ref id="B76-ijms-16-22319"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shih</surname><given-names>S.C.</given-names></name><name><surname>Barbulovic-Nad</surname><given-names>I.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name><name><surname>Fobel</surname><given-names>R.</given-names></name><name><surname>Wheeler</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Digital microfluidics with impedance sensing for integrated cell culture and analysis</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2013</year>
+<volume>42</volume>
+<fpage>314</fpage>
+<lpage>320</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2012.10.035</pub-id>
+<pub-id pub-id-type="pmid">23208104</pub-id></element-citation></ref><ref id="B77-ijms-16-22319"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Witters</surname><given-names>D.</given-names></name><name><surname>Vergauwe</surname><given-names>N.</given-names></name><name><surname>Vermeir</surname><given-names>S.</given-names></name><name><surname>Ceyssens</surname><given-names>F.</given-names></name><name><surname>Liekens</surname><given-names>S.</given-names></name><name><surname>Puers</surname><given-names>R.</given-names></name><name><surname>Lammertyn</surname><given-names>J.</given-names></name></person-group>
+<article-title>Biofunctionalization of electrowetting-on-dielectric digital microfluidic chips for miniaturized cell-based applications</article-title>
+<source>Lab Chip</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>2790</fpage>
+<lpage>2794</lpage>
+<pub-id pub-id-type="doi">10.1039/c1lc20340a</pub-id>
+<pub-id pub-id-type="pmid">21720645</pub-id></element-citation></ref><ref id="B78-ijms-16-22319"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vergauwe</surname><given-names>N.</given-names></name><name><surname>Witters</surname><given-names>D.</given-names></name><name><surname>Ceyssens</surname><given-names>F.</given-names></name><name><surname>Vermeir</surname><given-names>S.</given-names></name><name><surname>Verbruggen</surname><given-names>B.</given-names></name><name><surname>Puers</surname><given-names>R.</given-names></name><name><surname>Lammertyn</surname><given-names>J.</given-names></name></person-group>
+<article-title>A versatile electrowetting-based digital microfluidic platform for quantitative homogeneous and heterogeneous bio-assays</article-title>
+<source>J. Micromech. Microeng.</source>
+<year>2011</year>
+<volume>21</volume>
+<fpage>054026</fpage>
+<pub-id pub-id-type="doi">10.1088/0960-1317/21/5/054026</pub-id>
+</element-citation></ref><ref id="B79-ijms-16-22319"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vergauwe</surname><given-names>N.</given-names></name><name><surname>Witters</surname><given-names>D.</given-names></name><name><surname>Atalay</surname><given-names>Y.T.</given-names></name><name><surname>Verbruggen</surname><given-names>B.</given-names></name><name><surname>Vermeir</surname><given-names>S.</given-names></name><name><surname>Ceyssens</surname><given-names>F.</given-names></name><name><surname>Puers</surname><given-names>R.</given-names></name><name><surname>Lammertyn</surname><given-names>J.</given-names></name></person-group>
+<article-title>Controlling droplet size variability of a digital lab-on-a-chip for improved bio-assay performance</article-title>
+<source>Microfluid. Nanofluid.</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>25</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="doi">10.1007/s10404-011-0769-6</pub-id>
+</element-citation></ref><ref id="B80-ijms-16-22319"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barbulovic-Nad</surname><given-names>I.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Park</surname><given-names>P.S.</given-names></name><name><surname>Wheeler</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Digital microfluidics for cell-based assays</article-title>
+<source>Lab Chip</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>519</fpage>
+<lpage>526</lpage>
+<pub-id pub-id-type="doi">10.1039/b717759c</pub-id>
+<pub-id pub-id-type="pmid">18369505</pub-id></element-citation></ref><ref id="B81-ijms-16-22319"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shih</surname><given-names>S.C.</given-names></name><name><surname>Gach</surname><given-names>P.C.</given-names></name><name><surname>Sustarich</surname><given-names>J.</given-names></name><name><surname>Simmons</surname><given-names>B.A.</given-names></name><name><surname>Adams</surname><given-names>P.D.</given-names></name><name><surname>Singh</surname><given-names>S.</given-names></name><name><surname>Singh</surname><given-names>A.K.</given-names></name></person-group>
+<article-title>A droplet-to-digital (D2D) microfluidic device for single cell assays</article-title>
+<source>Lab Chip</source>
+<year>2015</year>
+<volume>15</volume>
+<fpage>225</fpage>
+<lpage>236</lpage>
+<pub-id pub-id-type="doi">10.1039/C4LC00794H</pub-id>
+<pub-id pub-id-type="pmid">25354549</pub-id></element-citation></ref><ref id="B82-ijms-16-22319"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>A.M.</given-names></name><name><surname>Gansen</surname><given-names>A.</given-names></name><name><surname>Paguirigan</surname><given-names>A.L.</given-names></name><name><surname>Kreutz</surname><given-names>J.E.</given-names></name><name><surname>Radich</surname><given-names>J.P.</given-names></name><name><surname>Chiu</surname><given-names>D.T.</given-names></name></person-group>
+<article-title>Self-digitization microfluidic chip for absolute quantification of mRNA in single cells</article-title>
+<source>Anal. Chem.</source>
+<year>2014</year>
+<volume>86</volume>
+<fpage>12308</fpage>
+<lpage>12314</lpage>
+<pub-id pub-id-type="doi">10.1021/ac5035924</pub-id>
+<pub-id pub-id-type="pmid">25390242</pub-id></element-citation></ref><ref id="B83-ijms-16-22319"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>A.M.</given-names></name><name><surname>Paguirigan</surname><given-names>A.L.</given-names></name><name><surname>Kreutz</surname><given-names>J.E.</given-names></name><name><surname>Radich</surname><given-names>J.P.</given-names></name><name><surname>Chiu</surname><given-names>D.T.</given-names></name></person-group>
+<article-title>Microfluidics for single-cell genetic analysis</article-title>
+<source>Lab Chip</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>3135</fpage>
+<lpage>3142</lpage>
+<pub-id pub-id-type="doi">10.1039/C4LC00175C</pub-id>
+<pub-id pub-id-type="pmid">24789374</pub-id></element-citation></ref><ref id="B84-ijms-16-22319"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>T.M.</given-names></name><name><surname>Hsing</surname><given-names>I.M.</given-names></name></person-group>
+<article-title>DNA-based bioanalytical microsystems for handheld device applications</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2006</year>
+<volume>556</volume>
+<fpage>26</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2005.05.075</pub-id>
+<pub-id pub-id-type="pmid">17723328</pub-id></element-citation></ref><ref id="B85-ijms-16-22319"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanders</surname><given-names>R.</given-names></name><name><surname>Huggett</surname><given-names>J.F.</given-names></name><name><surname>Bushell</surname><given-names>C.A.</given-names></name><name><surname>Cowen</surname><given-names>S.</given-names></name><name><surname>Scott</surname><given-names>D.J.</given-names></name><name><surname>Foy</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Evaluation of digital PCR for absolute DNA quantification</article-title>
+<source>Anal. Chem.</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>6474</fpage>
+<lpage>6484</lpage>
+<pub-id pub-id-type="doi">10.1021/ac103230c</pub-id>
+<pub-id pub-id-type="pmid">21446772</pub-id></element-citation></ref><ref id="B86-ijms-16-22319"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>R.A.</given-names><suffix>3rd</suffix></name><name><surname>Quake</surname><given-names>S.R.</given-names></name><name><surname>Curr</surname><given-names>K.</given-names></name></person-group>
+<article-title>Digital PCR provides absolute quantitation of viral load for an occult RNA virus</article-title>
+<source>J. Virol. Methods</source>
+<year>2012</year>
+<volume>179</volume>
+<fpage>45</fpage>
+<lpage>50</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jviromet.2011.09.017</pub-id>
+<pub-id pub-id-type="pmid">21983150</pub-id></element-citation></ref><ref id="B87-ijms-16-22319"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bennett</surname><given-names>M.R.</given-names></name><name><surname>Hasty</surname><given-names>J.</given-names></name></person-group>
+<article-title>Microfluidic devices for measuring gene network dynamics in single cells</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>628</fpage>
+<lpage>638</lpage>
+<pub-id pub-id-type="doi">10.1038/nrg2625</pub-id>
+<pub-id pub-id-type="pmid">19668248</pub-id></element-citation></ref><ref id="B88-ijms-16-22319"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Toriello</surname><given-names>N.M.</given-names></name><name><surname>Douglas</surname><given-names>E.S.</given-names></name><name><surname>Thaitrong</surname><given-names>N.</given-names></name><name><surname>Hsiao</surname><given-names>S.C.</given-names></name><name><surname>Francis</surname><given-names>M.B.</given-names></name><name><surname>Bertozzi</surname><given-names>C.R.</given-names></name><name><surname>Mathies</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Integrated microfluidic bioprocessor for single-cell gene expression analysis</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2008</year>
+<volume>105</volume>
+<fpage>20173</fpage>
+<lpage>20178</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0806355106</pub-id>
+<pub-id pub-id-type="pmid">19075237</pub-id></element-citation></ref><ref id="B89-ijms-16-22319"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bontoux</surname><given-names>N.</given-names></name><name><surname>Dauphinot</surname><given-names>L.</given-names></name><name><surname>Vitalis</surname><given-names>T.</given-names></name><name><surname>Studer</surname><given-names>V.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Rossier</surname><given-names>J.</given-names></name><name><surname>Potier</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>Integrating whole transcriptome assays on a lab-on-a-chip for single cell gene profiling</article-title>
+<source>Lab Chip</source>
+<year>2008</year>
+<volume>8</volume>
+<fpage>443</fpage>
+<lpage>450</lpage>
+<pub-id pub-id-type="doi">10.1039/b716543a</pub-id>
+<pub-id pub-id-type="pmid">18305863</pub-id></element-citation></ref><ref id="B90-ijms-16-22319"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marcus</surname><given-names>J.S.</given-names></name><name><surname>Anderson</surname><given-names>W.F.</given-names></name><name><surname>Quake</surname><given-names>S.R.</given-names></name></person-group>
+<article-title>Microfluidic single-cell mRNA isolation and analysis</article-title>
+<source>Anal. Chem.</source>
+<year>2006</year>
+<volume>78</volume>
+<fpage>3084</fpage>
+<lpage>3089</lpage>
+<pub-id pub-id-type="doi">10.1021/ac0519460</pub-id>
+<pub-id pub-id-type="pmid">16642997</pub-id></element-citation></ref><ref id="B91-ijms-16-22319"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schell</surname><given-names>W.A.</given-names></name><name><surname>Benton</surname><given-names>J.L.</given-names></name><name><surname>Smith</surname><given-names>P.B.</given-names></name><name><surname>Poore</surname><given-names>M.</given-names></name><name><surname>Rouse</surname><given-names>J.L.</given-names></name><name><surname>Boles</surname><given-names>D.J.</given-names></name><name><surname>Johnson</surname><given-names>M.D.</given-names></name><name><surname>Alexander</surname><given-names>B.D.</given-names></name><name><surname>Pamula</surname><given-names>V.K.</given-names></name><name><surname>Eckhardt</surname><given-names>A.E.</given-names></name><etal/></person-group>
+<article-title>Evaluation of a digital microfluidic real-time PCR platform to detect DNA of <italic>Candida albicans</italic> in blood</article-title>
+<source>Eur. J. Clin. Microbiol. Infect. Dis.</source>
+<year>2012</year>
+<volume>31</volume>
+<fpage>2237</fpage>
+<lpage>2245</lpage>
+<pub-id pub-id-type="doi">10.1007/s10096-012-1561-6</pub-id>
+<pub-id pub-id-type="pmid">22327343</pub-id></element-citation></ref><ref id="B92-ijms-16-22319"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hua</surname><given-names>Z.</given-names></name><name><surname>Rouse</surname><given-names>J.L.</given-names></name><name><surname>Eckhardt</surname><given-names>A.E.</given-names></name><name><surname>Srinivasan</surname><given-names>V.</given-names></name><name><surname>Pamula</surname><given-names>V.K.</given-names></name><name><surname>Schell</surname><given-names>W.A.</given-names></name><name><surname>Benton</surname><given-names>J.L.</given-names></name><name><surname>Mitchell</surname><given-names>T.G.</given-names></name><name><surname>Pollack</surname><given-names>M.G.</given-names></name></person-group>
+<article-title>Multiplexed real-time polymerase chain reaction on a digital microfluidic platform</article-title>
+<source>Anal. Chem.</source>
+<year>2010</year>
+<volume>82</volume>
+<fpage>2310</fpage>
+<lpage>2316</lpage>
+<pub-id pub-id-type="doi">10.1021/ac902510u</pub-id>
+<pub-id pub-id-type="pmid">20151681</pub-id></element-citation></ref><ref id="B93-ijms-16-22319"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xue</surname><given-names>Z.</given-names></name><name><surname>Huang</surname><given-names>K.</given-names></name><name><surname>Cai</surname><given-names>C.</given-names></name><name><surname>Cai</surname><given-names>L.</given-names></name><name><surname>Jiang</surname><given-names>C.Y.</given-names></name><name><surname>Feng</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>Z.</given-names></name><name><surname>Zeng</surname><given-names>Q.</given-names></name><name><surname>Cheng</surname><given-names>L.</given-names></name><name><surname>Sun</surname><given-names>Y.E.</given-names></name><etal/></person-group>
+<article-title>Genetic programs in human and mouse early embryos revealed by single-cell RNA sequencing</article-title>
+<source>Nature</source>
+<year>2013</year>
+<volume>500</volume>
+<fpage>593</fpage>
+<lpage>597</lpage>
+<pub-id pub-id-type="doi">10.1038/nature12364</pub-id>
+<pub-id pub-id-type="pmid">23892778</pub-id></element-citation></ref><ref id="B94-ijms-16-22319"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niakan</surname><given-names>K.K.</given-names></name><name><surname>Han</surname><given-names>J.</given-names></name><name><surname>Pedersen</surname><given-names>R.A.</given-names></name><name><surname>Simon</surname><given-names>C.</given-names></name><name><surname>Pera</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Human pre-implantation embryo development</article-title>
+<source>Development</source>
+<year>2012</year>
+<volume>139</volume>
+<fpage>829</fpage>
+<lpage>841</lpage>
+<pub-id pub-id-type="doi">10.1242/dev.060426</pub-id>
+<pub-id pub-id-type="pmid">22318624</pub-id></element-citation></ref><ref id="B95-ijms-16-22319"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>F.</given-names></name><name><surname>Baldwin</surname><given-names>D.A.</given-names></name><name><surname>Schultz</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Transcript profiling during preimplantation mouse development</article-title>
+<source>Dev. Biol.</source>
+<year>2004</year>
+<volume>272</volume>
+<fpage>483</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ydbio.2004.05.018</pub-id>
+<pub-id pub-id-type="pmid">15282163</pub-id></element-citation></ref><ref id="B96-ijms-16-22319"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swain</surname><given-names>J.E.</given-names></name><name><surname>Smith</surname><given-names>G.D.</given-names></name></person-group>
+<article-title>Advances in embryo culture platforms: Novel approaches to improve preimplantation embryo development through modifications of the microenvironment</article-title>
+<source>Hum. Reprod. Update</source>
+<year>2011</year>
+<volume>17</volume>
+<fpage>541</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="doi">10.1093/humupd/dmr006</pub-id>
+<pub-id pub-id-type="pmid">21454356</pub-id></element-citation></ref><ref id="B97-ijms-16-22319"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>G.D.</given-names></name><name><surname>Swain</surname><given-names>J.E.</given-names></name><name><surname>Bormann</surname><given-names>C.L.</given-names></name></person-group>
+<article-title>Microfluidics for gametes, embryos, and embryonic stem cells</article-title>
+<source>Semin. Reprod. Med.</source>
+<year>2011</year>
+<volume>29</volume>
+<fpage>5</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1055/s-0030-1268699</pub-id>
+<pub-id pub-id-type="pmid">21207330</pub-id></element-citation></ref><ref id="B98-ijms-16-22319"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>H.Y.</given-names></name><name><surname>Shen</surname><given-names>H.H.</given-names></name><name><surname>Tien</surname><given-names>C.H.</given-names></name><name><surname>Li</surname><given-names>C.J.</given-names></name><name><surname>Fan</surname><given-names>S.K.</given-names></name><name><surname>Liu</surname><given-names>C.H.</given-names></name><name><surname>Hsu</surname><given-names>W.S.</given-names></name><name><surname>Yao</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Digital microfluidic dynamic culture of mammalian embryos on an electrowetting on dielectric (EWOD) chip</article-title>
+<source>PLoS ONE</source>
+<year>2015</year>
+<volume>10</volume>
+<fpage>e0124196</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0124196</pub-id>
+<pub-id pub-id-type="pmid">25933003</pub-id></element-citation></ref><ref id="B99-ijms-16-22319"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egozcue</surname><given-names>J.</given-names></name><name><surname>Santalo</surname><given-names>J.</given-names></name><name><surname>Gimenez</surname><given-names>C.</given-names></name><name><surname>Durban</surname><given-names>M.</given-names></name><name><surname>Benet</surname><given-names>J.</given-names></name><name><surname>Navarro</surname><given-names>J.</given-names></name><name><surname>Vidal</surname><given-names>F.</given-names></name></person-group>
+<article-title>Preimplantation genetic screening and human implantation</article-title>
+<source>J. Reprod. Immunol.</source>
+<year>2002</year>
+<volume>55</volume>
+<fpage>65</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.1016/S0165-0378(01)00137-1</pub-id>
+<pub-id pub-id-type="pmid">12062822</pub-id></element-citation></ref><ref id="B100-ijms-16-22319"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yan</surname><given-names>L.</given-names></name><name><surname>Wei</surname><given-names>Y.</given-names></name><name><surname>Huang</surname><given-names>J.</given-names></name><name><surname>Zhu</surname><given-names>X.</given-names></name><name><surname>Shi</surname><given-names>X.</given-names></name><name><surname>Xia</surname><given-names>X.</given-names></name><name><surname>Yan</surname><given-names>J.</given-names></name><name><surname>Lu</surname><given-names>C.</given-names></name><name><surname>Lian</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>R.</given-names></name><etal/></person-group>
+<article-title>Advances in preimplantation genetic diagnosis/screening</article-title>
+<source>Sci. China Life Sci.</source>
+<year>2014</year>
+<volume>57</volume>
+<fpage>665</fpage>
+<lpage>671</lpage>
+<pub-id pub-id-type="doi">10.1007/s11427-014-4683-5</pub-id>
+<pub-id pub-id-type="pmid">24907939</pub-id></element-citation></ref><ref id="B101-ijms-16-22319"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harper</surname><given-names>J.C.</given-names></name><name><surname>Harton</surname><given-names>G.</given-names></name></person-group>
+<article-title>The use of arrays in preimplantation genetic diagnosis and screening</article-title>
+<source>Fertil. Steril.</source>
+<year>2010</year>
+<volume>94</volume>
+<fpage>1173</fpage>
+<lpage>1177</lpage>
+<pub-id pub-id-type="doi">10.1016/j.fertnstert.2010.04.064</pub-id>
+<pub-id pub-id-type="pmid">20579641</pub-id></element-citation></ref></ref-list></back></article>

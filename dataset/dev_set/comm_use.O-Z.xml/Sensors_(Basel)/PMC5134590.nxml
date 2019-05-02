@@ -1,0 +1,1060 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sensors (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Sensors (Basel)</journal-id><journal-id journal-id-type="publisher-id">sensors</journal-id><journal-title-group><journal-title>Sensors (Basel, Switzerland)</journal-title></journal-title-group><issn pub-type="epub">1424-8220</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27869658</article-id><article-id pub-id-type="pmc">5134590</article-id><article-id pub-id-type="doi">10.3390/s16111931</article-id><article-id pub-id-type="publisher-id">sensors-16-01931</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Nano-Engineered Biomimetic Optical Sensors for Glucose Monitoring in Diabetes</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rauf</surname><given-names>Sajid</given-names></name><xref ref-type="aff" rid="af1-sensors-16-01931">1</xref></contrib><contrib contrib-type="author"><name><surname>Hayat Nawaz</surname><given-names>Muhammad Azhar</given-names></name><xref ref-type="aff" rid="af1-sensors-16-01931">1</xref></contrib><contrib contrib-type="author"><name><surname>Badea</surname><given-names>Mihaela</given-names></name><xref ref-type="aff" rid="af2-sensors-16-01931">2</xref></contrib><contrib contrib-type="author"><name><surname>Marty</surname><given-names>Jean Louis</given-names></name><xref ref-type="aff" rid="af3-sensors-16-01931">3</xref><xref rid="c1-sensors-16-01931" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Hayat</surname><given-names>Akhtar</given-names></name><xref ref-type="aff" rid="af1-sensors-16-01931">1</xref><xref ref-type="aff" rid="af3-sensors-16-01931">3</xref><xref rid="c1-sensors-16-01931" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Ju</surname><given-names>Huangxian</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-sensors-16-01931"><label>1</label>Interdisciplinary Research Centre in Biomedical Materials (IRCBM), COMSATS Institute of Information Technology, 54000 Lahore, Pakistan; <email>sajidrauf@ciitlahore.edu.pk</email> (S.R.); <email>azharhayat@ciitlahore.edu.pk</email> (M.A.H.N.)</aff><aff id="af2-sensors-16-01931"><label>2</label>Faculty of Medicine, Transilvania University of Brasov, 500019 Brasov, Romania; <email>mihaela.badea@unitbv.ro</email></aff><aff id="af3-sensors-16-01931"><label>3</label>BAE Laboratory, Universite de Perpignan Via Domitia, 66860 Perpignan, France</aff><author-notes><corresp id="c1-sensors-16-01931"><label>*</label>Correspondence: <email>jlmarty@univ-perp.fr</email> (J.L.M.); <email>akhtarhayat@ciitlahore.edu.pk</email> (A.H.); Tel.: +33-468-66-1756 (J.L.M.); +92-42-111-001-007 (A.H.)</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2016</year></pub-date><volume>16</volume><issue>11</issue><elocation-id>1931</elocation-id><history><date date-type="received"><day>09</day><month>9</month><year>2016</year></date><date date-type="accepted"><day>02</day><month>11</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Diabetes is a rapidly growing disease that can be monitored at an individual level by controlling the blood glucose level, hence minimizing the negative impact of the disease. Significant research efforts have been focused on the design of novel and improved technologies to overcome the limitations of existing glucose analysis methods. In this context, nanotechnology has enabled the diagnosis at the single cell and molecular level with the possibility of incorporation in advanced molecular diagnostic biochips. Recent years have witnessed the exploration and synthesis of various types of nanomaterials with enzyme-like properties, with their subsequent integration into the design of biomimetic optical sensors for glucose monitoring. This review paper will provide insights on the type, nature and synthesis of different biomimetic nanomaterials. Moreover, recent developments in the integration of these nanomaterials for optical glucose biosensing will be highlighted, with a final discussion on the challenges that must be addressed for successful implementation of these nano-devices in the clinical applications is presented.</p></abstract><kwd-group><kwd>nanotechnology</kwd><kwd>biomimetic nanomaterials</kwd><kwd>optical sensors</kwd><kwd>glucose monitoring</kwd><kwd>diabetes</kwd></kwd-group></article-meta></front><body><sec id="sec1-sensors-16-01931"><title>1. Introduction</title><p>Diabetes mellitus (DM) is a chronic metabolic disorder that has emerged as a great socioeconomic burden for the developing countries. Currently, DM affects more than 240 million people around the world and this figure is expected to increase substantially to 380 million by 2025, with 80% of burden occurring in low- and middle-income countries. The important factors of DM diseases are a family history of DM, age, obesity, impaired glucose tolerance, gestational diabetes, and chronic hypo-glycaemia and hyper-glycaemia with disturbances in the metabolism of carbohydrates, fats and proteins resulting from defects in insulin secretion, insulin action or both [<xref rid="B1-sensors-16-01931" ref-type="bibr">1</xref>,<xref rid="B2-sensors-16-01931" ref-type="bibr">2</xref>]. DM can lead to complications such as coronary heart disease (CHD), retinopathy, nephropathy, stroke, kidney disease, blindness, dental disease and lower-limb amputations. This can also results into life threatening conditions including but are not limited to risks of cardiac, nervous, renal, ocular, cerebral and peripheral diseases [<xref rid="B3-sensors-16-01931" ref-type="bibr">3</xref>,<xref rid="B4-sensors-16-01931" ref-type="bibr">4</xref>]. Glucose plays an important function in the human body, where it serves as the primary energy source for the brain and is also as a source of energy for cells throughout the body. This energy helps the cells carry out nerve cell conduction, muscle cell contraction, active transport and the production of chemical substances [<xref rid="B5-sensors-16-01931" ref-type="bibr">5</xref>]. </p><p>Considering the burden, it adds to the frail health and economic systems of a developing country, there is a dire need to conduct research and develop comprehensive and cost-effective methodologies to address this disease. In this context, glucose sensors for continuous monitoring of glucose are considered a highly attractive area of scientific research to ensure public health safety [<xref rid="B6-sensors-16-01931" ref-type="bibr">6</xref>]. The optical detection of glucose is mainly based on the conversion of glucose into gluconic acid and hydrogen peroxide in the presence of glucose oxidase. The peroxidase-catalyzed oxidation of the generated H<sub>2</sub>O<sub>2</sub> in the presence of 3,3',5,5',-tetramethylbenzdine/2,2'-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid) (TMB/ABTS) results in the formation of a colored product that can be monitored for colorimetric detection of glucose. Over the past decade, as an alternative to the natural enzyme peroxidase, a major fraction of the research has been devoted to the exploration of enzyme mimetics. With the advent of nanotechnology, various types of nanomaterials have been investigated in the literature towards construction of optical glucose sensors based on their oxidase- or peroxidase-like properties [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>]. The mechanism of colorimetric detection of glucose using nanomaterial-based artificial enzymes is given below (see Equations (1) and (2)):
+<disp-formula id="FD1"><label>(1)</label><mml:math id="mm1"><mml:mrow><mml:mtext>Glucose</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x000a0;</mml:mo><mml:munder><mml:mtext>Glucose Oxidase</mml:mtext><mml:mo stretchy="true">&#x02192;</mml:mo></mml:munder><mml:mo>&#x000a0;</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mtext>Gluconic Acid</mml:mtext></mml:mrow></mml:math></disp-formula>
+<disp-formula id="FD2"><label>(2)</label><mml:math id="mm2"><mml:mrow><mml:mtext>TMB</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x000a0;</mml:mo><mml:munder><mml:mtext>Nanozymes</mml:mtext><mml:mo stretchy="true">&#x02192;</mml:mo></mml:munder><mml:mo>&#x000a0;</mml:mo><mml:mtext>Oxidized TMB</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:math></disp-formula>
+</p><p>The next section will focus on the advantages and disadvantages of enzymatic glucose sensors in order to help the reader compare the performance of non-enzymatic sensors with enzyme-based methodologies. </p></sec><sec id="sec2-sensors-16-01931"><title>2. Enzymatic Glucose Sensors: Advantages and Disadvantages</title><p>Generally, all the natural enzymes are proteins except for some catalytic RNA molecules, and are therefore prone to several intrinsic drawbacks. For example, they can undergo digestion by proteases, and they can degrade upon exposure to variable environmental conditions. Other disadvantages include time consuming preparation and purification processes, relatively high cost and the need for specific storage conditions. When considering enzymatic glucose sensors, there must be a balance between their advantages and disadvantages. Despite their huge industrial demand, enzymatic glucose sensors are not completely commercially viable and have a number of critical flaws. For example, first generation glucose sensors rely on the presence of oxygen, and are therefore hard to implement as reliable analytical tools for practical use. Moreover, they can be very easily exposed to interfering electroactive species. Alternatively, second generation glucose sensors based on the use of mediators were proposed to overcome the problem of oxygen dependency, and to offer lower amperometric potential to avoid the interference problems to some extent, but such sensor designs are elaborate, involve complicated fabrication methodologies and are unsuitable for mass production, limiting their commercial viability. In the same context, third generation glucose sensors are in the early phases of development, and there still is a lot to do to achieve the desirable analytical figures of merits [<xref rid="B6-sensors-16-01931" ref-type="bibr">6</xref>]. However, despite of all these problems, enzymatic glucose sensors remain unchallengeable from a commercial point of view. </p><p>Recently, nanomaterials mimicking traditional biological catalysts have attracted significant interest for their potential applications as artificial enzymes [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>,<xref rid="B8-sensors-16-01931" ref-type="bibr">8</xref>]. The high surface to volume ratio, high catalytic activity and abundance of reactive groups on their surface make these materials powerful candidates as alternatives to biological catalysts. Several types of engineered nanoparticles (NPs) have shown &#x02018;enzyme-like&#x02019; activity, mostly as oxidase, peroxidase and catalase mimetics and some have been used as active materials in bioassays, biotechnology and in the biomedical field [<xref rid="B9-sensors-16-01931" ref-type="bibr">9</xref>,<xref rid="B10-sensors-16-01931" ref-type="bibr">10</xref>]. NP-based enzyme mimetics offer advantages in terms of cost, high stability, ease of production and tenability of catalytic activity. Keeping in view the important role of nanomaterials in (bio)sensor design, this review paper will focus on the analytical potential of biomimetic nanomaterials for the colorimetric detection of glucose in diabetes monitoring. We will discuss different types of nanomaterials employed in non-enzymatic assays according to their intrinsic nature and detection methodologies.</p></sec><sec id="sec3-sensors-16-01931"><title>3. Types of Nanomaterials </title><p>Over the past two decades, peroxidase-like nanomaterial-based artificial enzymes (nanozymes) coupled with glucose oxidase (GOx) have been frequently employed in the construction of glucose biosensors [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>]. In such reactions peroxides, like hydrogen peroxidase and lipid peroxidase, are reduced and a redox substrate is oxidized by electron donation (Equation (3)):
+<disp-formula id="FD3"><label>(3)</label><mml:math id="mm3"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mrow><mml:mn>2</mml:mn><mml:mtext>AH</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x000a0;</mml:mo><mml:munder><mml:mtext>Peroxidase</mml:mtext><mml:mo stretchy="true">&#x02192;</mml:mo></mml:munder><mml:mo>&#x000a0;</mml:mo><mml:mn>2</mml:mn><mml:mi mathvariant="normal">A</mml:mi><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mn>2</mml:mn><mml:mi mathvariant="normal">A</mml:mi><mml:mo>+</mml:mo><mml:mtext>ROOH</mml:mtext><mml:mo>&#x000a0;</mml:mo><mml:munder><mml:mtext>Peroxidase</mml:mtext><mml:mo stretchy="true">&#x02192;</mml:mo></mml:munder><mml:mo>&#x000a0;</mml:mo><mml:mn>2</mml:mn><mml:mi mathvariant="normal">A</mml:mi><mml:mo>+</mml:mo><mml:mtext>ROH</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+</p><p>Horseradish peroxidase (HRP) is the most common example of the peroxidases enzyme family which is used as a peroxidase standard for peroxidation reactions due to its low substrate specificity [<xref rid="B11-sensors-16-01931" ref-type="bibr">11</xref>]. The colorimetric detection of glucose, based on a redox reaction between HRP and colorimetric substrates such as TMB and ABTS has many advantages like high sensitivity, selectivity and simplicity. Colorimetric detection can be achieved even by the naked eye through the color changes of colorimetric substrates. Previously widely used electrochemical biosensors have drawbacks, especially in in vivo glucose sensing where endogenous electroactive species cause interferences. Sometimes cells surrounding the electrode are also damaged due to the use of electrochemical electrodes which results in a limited sensitivity [<xref rid="B12-sensors-16-01931" ref-type="bibr">12</xref>,<xref rid="B13-sensors-16-01931" ref-type="bibr">13</xref>].</p><p>A large number of nanozymes have been reported which mimic HRP for different applications. Herein, we focus on nanomaterials with peroxidase-like activity to develop optical detection system for glucose monitoring. <xref ref-type="fig" rid="sensors-16-01931-f001">Figure 1</xref> provides a generic overview on different types of nanozymes that are potentially used to replace the natural enzyme in optical sensing methodologies for glucose monitoring.</p><sec id="sec3dot1-sensors-16-01931"><title>3.1. Carbon-Based Nanozymes</title><p>Carbon-based nanomaterials such as graphene, carbon nanotubes, fullerene and their derivatives are fascinating nanomaterials that possess various applications in almost all domains of sciences [<xref rid="B14-sensors-16-01931" ref-type="bibr">14</xref>]. Carbon-based nanomaterials have been extensively studied by researchers working in the field of nanozymes because of their exceptional catalytic properties. Lots of reports have been presented to show the enzyme-mimicking properties of carbon nanomaterials [<xref rid="B15-sensors-16-01931" ref-type="bibr">15</xref>,<xref rid="B16-sensors-16-01931" ref-type="bibr">16</xref>,<xref rid="B17-sensors-16-01931" ref-type="bibr">17</xref>,<xref rid="B18-sensors-16-01931" ref-type="bibr">18</xref>]. Among all the carbon-based nanomaterials, fullerene and its derivatives were the first nanomaterials examined for their enzyme-like properties [<xref rid="B19-sensors-16-01931" ref-type="bibr">19</xref>,<xref rid="B20-sensors-16-01931" ref-type="bibr">20</xref>]. C<sub>60</sub>[C(COOH)<sub>2</sub>]<sub>2</sub> is an example of such a type of fullerene which catalyzes TMB in the presence of H<sub>2</sub>O<sub>2</sub> [<xref rid="B21-sensors-16-01931" ref-type="bibr">21</xref>]. The peroxidase-like activity of graphene and its derivatives has also been largely exploited, indicating its great potential in mimicking peroxidase. Qu et al. were the first to explore the intrinsic peroxidase-mimicking activity of graphene oxide [<xref rid="B16-sensors-16-01931" ref-type="bibr">16</xref>]. High surface area values and affinity towards organic substrates make graphene oxide even more efficient than natural HRP towards TMB. Carbon nanotubes are also widely exploited for their enzyme-like properties. Metal catalysts are usually used for the synthesis of single-walled carbon nanotubes (SWNTs) and sometimes traces amounts remain in the product, so the enzymatic activity of SWNTs could be due to these metal residues. To address this concern, these trace amounts of metal were removed from SWNTs by sonication in concentrated sulfuric and nitric acids, and the treated SWNTs still retained their enzyme-like activities, which confirmed that the catalytic activity was due to SWNTs rather than trace amounts of metal catalyst [<xref rid="B17-sensors-16-01931" ref-type="bibr">17</xref>]. </p></sec><sec id="sec3dot2-sensors-16-01931"><title>3.2. Metal-Based Nanozymes</title><p>After the first report of the intrinsic enzyme-like activity of Au nanoparticles in 2004, metal nanomaterials have been extensively studied as potential candidates for enzyme mimics [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>,<xref rid="B22-sensors-16-01931" ref-type="bibr">22</xref>]. Metal nanomaterials (such as Au, Pd, Pt, Ag, Bi, etc.) with intrinsic enzyme mimicking activities have some special features, such as their multi-enzyme mimicking activities being pH and temperature dependent, the fact their activities could be enhanced by the plasmonic properties of noble metal nanomaterials, and their enzyme-mimicking activities being tuned when they form alloys with other metals, e.g., in bimetallic nanostructures [<xref rid="B23-sensors-16-01931" ref-type="bibr">23</xref>,<xref rid="B24-sensors-16-01931" ref-type="bibr">24</xref>]. </p><p>Peroxidase-like activity of gold nanoparticles was observed by Chen and co-workers. Through their extensive study and by comparison of the peroxidase-like activity of unmodified, amino-modified, and citrate-capped gold nanoparticles, it was revealed and confirmed that peroxidase-like activity was indeed contributed by the gold content of the nanoparticles [<xref rid="B25-sensors-16-01931" ref-type="bibr">25</xref>]. Gold nanoparticles with different surface charges (positive or negative) have been shown to exhibit peroxidase-mimicking activity [<xref rid="B26-sensors-16-01931" ref-type="bibr">26</xref>]. The enzyme like activities of gold nanoparticles are microenvironment dependent, and they can be changed or tuned by changing the pH or surface modification resulting in changed affinities between nanozymes and substrate. Li et al. have demonstrated pH-switchable peroxidase and catalase mimic activities of Au, Ag, Pt and Pd nanozymes on the basis of computational studies. Nanozymes exhibited peroxidase-like activities at acidic pH and catalase-like activities at basic pH [<xref rid="B26-sensors-16-01931" ref-type="bibr">26</xref>]. Wang et al. reported peroxidase-like activities of bovine serum albumin (BSA)-encapsulated fluorescent gold nanoclusters [<xref rid="B27-sensors-16-01931" ref-type="bibr">27</xref>]. Platinum nanoparticles (1&#x02013;2 nm) were prepared which exhibited dual enzyme mimic behaviors (catalase and peroxidase) in different microenvironments (depending on pH and temperature) with high stability [<xref rid="B28-sensors-16-01931" ref-type="bibr">28</xref>]. Peroxidase-mimicking capability of 10 nm Pt nanocubes stabilized by cetyltrimethylammonium bromide (CTAB) was also demonstrated [<xref rid="B29-sensors-16-01931" ref-type="bibr">29</xref>]. There are many reports on the enzyme-like properties of bimetallic nanomaterials. Peroxidase-like activity of bismuth&#x02014;gold nanoparticles was demonstrated by Lien et al. [<xref rid="B30-sensors-16-01931" ref-type="bibr">30</xref>]. Bimetal nanoparticles like Au@Pt nanorods were examined by He et al., who demonstrated that Au@Pt nanorods had multiple enzyme-mimetic capabilities [<xref rid="B31-sensors-16-01931" ref-type="bibr">31</xref>]. Silver alloys with Au, Pd and Pt also possesses intrinsic peroxidase-mimic properties and can oxidize colorimetric substrates to the corresponding products with H<sub>2</sub>O<sub>2</sub> [<xref rid="B32-sensors-16-01931" ref-type="bibr">32</xref>].</p></sec><sec id="sec3dot3-sensors-16-01931"><title>3.3. Metal Oxide-Based Nanozymes</title><p>Metal oxide-based nanozymes with peroxidase-like activity have been extensively investigated by researchers because of the ease of fabricating colorimetric detection systems which generate the corresponding colorimetric signal in the presence of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>). Yan et al. reported for the first time the intrinsic peroxidase-like activity of Fe<sub>3</sub>O<sub>4</sub> MNPs of three different sizes (30, 50 and 300 nm). Nanozymes with smaller sized particles provide more exposed surface area for catalysis, so they exhibit higher activity, a large surface area for surface chemistry, stability at a wide range of temperatures, workability in a wide pH range, robustness, cost effectiveness and large scale production [<xref rid="B33-sensors-16-01931" ref-type="bibr">33</xref>]. After this pioneering report Wei and Wang developed novel sensing platforms with Fe<sub>3</sub>O<sub>4</sub> MNPs as peroxidase mimics [<xref rid="B34-sensors-16-01931" ref-type="bibr">34</xref>]. Some doped ferrites like bismuth and europium-doped FeO<sub>3</sub> and cobalt, manganese and zinc doped Fe<sub>2</sub>O<sub>4</sub> have also been explored as peroxidase mimics [<xref rid="B35-sensors-16-01931" ref-type="bibr">35</xref>,<xref rid="B36-sensors-16-01931" ref-type="bibr">36</xref>,<xref rid="B37-sensors-16-01931" ref-type="bibr">37</xref>,<xref rid="B38-sensors-16-01931" ref-type="bibr">38</xref>,<xref rid="B39-sensors-16-01931" ref-type="bibr">39</xref>,<xref rid="B40-sensors-16-01931" ref-type="bibr">40</xref>,<xref rid="B41-sensors-16-01931" ref-type="bibr">41</xref>,<xref rid="B42-sensors-16-01931" ref-type="bibr">42</xref>].</p><p>Cerium oxide nanomaterials or nanoceria also have been widely explored for mimicking natural enzymes [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>,<xref rid="B43-sensors-16-01931" ref-type="bibr">43</xref>,<xref rid="B44-sensors-16-01931" ref-type="bibr">44</xref>]. The variable valence states of Ce<sup>3+</sup> and Ce<sup>4+</sup> and the mobile lattice oxygen in nanoceria make it highly efficient for catalytic applications [<xref rid="B45-sensors-16-01931" ref-type="bibr">45</xref>]. Intrinsic peroxidase-mimicking activities of nanoceria have been disclosed in various reports [<xref rid="B44-sensors-16-01931" ref-type="bibr">44</xref>,<xref rid="B46-sensors-16-01931" ref-type="bibr">46</xref>,<xref rid="B47-sensors-16-01931" ref-type="bibr">47</xref>]. Nanoceria has high efficacy to catalyze peroxidase&#x02019;s substrates in the presence of H<sub>2</sub>O<sub>2</sub> [<xref rid="B44-sensors-16-01931" ref-type="bibr">44</xref>,<xref rid="B48-sensors-16-01931" ref-type="bibr">48</xref>]. Vanadium oxide-based nanomaterials have also got a lot of attention from researchers in recent years. Enzyme-like activities were observed for vanadium oxide nanomaterials and further exploited for biosensing, antibiofouling, and cytoprotection applications [<xref rid="B35-sensors-16-01931" ref-type="bibr">35</xref>,<xref rid="B36-sensors-16-01931" ref-type="bibr">36</xref>,<xref rid="B37-sensors-16-01931" ref-type="bibr">37</xref>,<xref rid="B38-sensors-16-01931" ref-type="bibr">38</xref>]. Tremel et al. demonstrated that V<sub>2</sub>O<sub>5</sub> nanowires possess intrinsic peroxidase like activity and can mimic natural vanadium haloperoxidase [<xref rid="B35-sensors-16-01931" ref-type="bibr">35</xref>,<xref rid="B36-sensors-16-01931" ref-type="bibr">36</xref>]. Cobalt oxide nanomaterials have been also reported as nanozymes to mimic natural enzymes like peroxidase, catalase, SOD, etc. Co<sub>3</sub>O<sub>4</sub> is one of the very efficient nanozymes among cobalt oxide- based nanozymes which exhibited higher enzyme-mimicking activities when compared to Fe<sub>3</sub>O<sub>4</sub> nanoparticles showing enzyme-like properties. In its enzyme-like activity phenomena, Co<sub>3</sub>O<sub>4</sub> undergoes a Co<sup>2+</sup>&#x02192;Co<sup>3+</sup>&#x02192;Co<sup>2+</sup> regeneration mechanism [<xref rid="B39-sensors-16-01931" ref-type="bibr">39</xref>,<xref rid="B40-sensors-16-01931" ref-type="bibr">40</xref>].</p><p>Enzyme-mimicking activities of copper oxide nanomaterials are also reported for different sensing applications. Chen et al. observed peroxidase-like activity in CuO nanoparticles [<xref rid="B49-sensors-16-01931" ref-type="bibr">49</xref>,<xref rid="B50-sensors-16-01931" ref-type="bibr">50</xref>]. A comparative study of the enzyme kinetics of a CuO-based nanozyme with natural HRP and other artificial nanozymes (e.g., Fe<sub>3</sub>O<sub>4</sub>- and FeS-based peroxidase mimics) revealed that the CuO nanozyme had higher catalytic activity toward TMB [<xref rid="B51-sensors-16-01931" ref-type="bibr">51</xref>]. Hu et al. reported cupric oxide nanoparticles (CuO) as peroxidase mimics [<xref rid="B52-sensors-16-01931" ref-type="bibr">52</xref>]. TiO<sub>2</sub> nanotube arrays mimicking peroxidase activity were fabricated by Dong et al. In the same fashion, ZnO, MnO<sub>2</sub> nanowires, and NiO NPs, have also been reported for their peroxidase mimicry [<xref rid="B53-sensors-16-01931" ref-type="bibr">53</xref>,<xref rid="B54-sensors-16-01931" ref-type="bibr">54</xref>,<xref rid="B55-sensors-16-01931" ref-type="bibr">55</xref>]. </p></sec><sec id="sec3dot4-sensors-16-01931"><title>3.4. Other Nanomaterial for Nanozymes</title><p>Some other nanomaterials have also been explored for mimicking natural enzymes beyond carbon-based nanomaterials, metal-based nanomaterials and metal oxide-based nanomaterials. Metal-organic frameworks (MOFs) and MOFs loaded with other catalysts have been reported to exhibit enzyme-like properties [<xref rid="B56-sensors-16-01931" ref-type="bibr">56</xref>,<xref rid="B57-sensors-16-01931" ref-type="bibr">57</xref>,<xref rid="B58-sensors-16-01931" ref-type="bibr">58</xref>,<xref rid="B59-sensors-16-01931" ref-type="bibr">59</xref>]. Liu et al. reported a nanosized porous metal&#x02013;organic framework, Fe-MIL-88NH<sub>2</sub> exhibiting intrinsic peroxidase-like activity and used it for colorimetric detection of glucose [<xref rid="B59-sensors-16-01931" ref-type="bibr">59</xref>]. Qin et al. demonstrated a hemin@metal-organic framework mimicking peroxidase and applied it for glucose detection. Prussian Blue, [Fe(III)Fe(II)(CN)<sub>6</sub>]<sup>&#x02212;</sup>, has been also explored to mimic peroxidases. In their earlier study Gu et al. showed that a Prussian Blue coating could tune the peroxidase-mimicking activity of &#x003b3;-Fe<sub>2</sub>O<sub>3</sub> nanoparticles, but later they also found enzyme-like activities of Prussian Blue nanoparticles [<xref rid="B58-sensors-16-01931" ref-type="bibr">58</xref>,<xref rid="B59-sensors-16-01931" ref-type="bibr">59</xref>]. They also demonstrated that the enzyme-mimicking properties of Prussian Blue nanoparticles were dependent on the microenvironment. For instance, nanoparticles exhibited peroxidase-mimicking activity at acidic pH and catalase-mimicking activity at a basic pH.</p><p>Metal hydroxides have gained much attention in recent years as artificial enzymes. In most of the demonstrations metal hydroxides showed peroxidase-like activities [<xref rid="B60-sensors-16-01931" ref-type="bibr">60</xref>,<xref rid="B61-sensors-16-01931" ref-type="bibr">61</xref>,<xref rid="B62-sensors-16-01931" ref-type="bibr">62</xref>,<xref rid="B63-sensors-16-01931" ref-type="bibr">63</xref>]. Peroxidase-like activity of CoFe-layered double hydroxides was reported by Sun et al., who further used CoFe hydroxides for colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B64-sensors-16-01931" ref-type="bibr">64</xref>]. Recently Tan et al. reported a very efficient peroxidase-mimic system based on nanocages of Cu(OH)<sub>2</sub>, which showed more peroxidase-like activity than natural enzymes [<xref rid="B65-sensors-16-01931" ref-type="bibr">65</xref>]. Metal chalcogenides are another class of nanomaterials which has been explored for their enzyme-like activities. Some examples include CuS, MnSe and FeSe which mimic peroxidase. </p></sec></sec><sec id="sec4-sensors-16-01931"><title>4. Application of Nanozymes in Colorimetric Sensing of Glucose</title><p>Nanozymes can be applied as a single component or multicomponent systems towards colorimetric detection of glucose. Single component systems are based on a single nanozyme material, while multicomponent systems include nanocomposites, doped and functionalized nanomaterials to synergize the oxidase-like activity.</p><sec id="sec4dot1-sensors-16-01931"><title>4.1. One Component System</title><p>With the discovery of ferromagnetic nanoparticles, single component nanomaterials such as noble metal NPs, metal oxides, ceria nanoparticles, and carbon-based nanostructures etc. have been explored for their intrinsic oxidase/peroxidase-like properties [<xref rid="B18-sensors-16-01931" ref-type="bibr">18</xref>,<xref rid="B23-sensors-16-01931" ref-type="bibr">23</xref>,<xref rid="B31-sensors-16-01931" ref-type="bibr">31</xref>,<xref rid="B33-sensors-16-01931" ref-type="bibr">33</xref>,<xref rid="B50-sensors-16-01931" ref-type="bibr">50</xref>,<xref rid="B66-sensors-16-01931" ref-type="bibr">66</xref>,<xref rid="B67-sensors-16-01931" ref-type="bibr">67</xref>]. All those single component materials possessing peroxidase-like catalytic activities were utilized for the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose.</p><p>In this context, Wang and co-workers used the novel properties of Fe<sub>3</sub>O<sub>4</sub> MNPs as a peroxidase mimetic for the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B34-sensors-16-01931" ref-type="bibr">34</xref>]. The working principle of this assay is demonstrated in <xref ref-type="fig" rid="sensors-16-01931-f002">Figure 2</xref>. The obtained limit of detection (LOD) for glucose was as low as 30 &#x000b5;M with a linear range of 50&#x02013;1 &#x000d7; 10<sup>3</sup> &#x000b5;M. This colorimetric method for glucose detection showed good selectivity over different glucose analogues (e.g., fructose, maltose, and lactose). </p><p>This work led to the exploration of other nanozymes for glucose monitoring. Li and co-workers synthesized positively charged AuNPs. The positively charged AuNPs catalyzed the oxidation of the peroxidase substrate TMB in the presence of H<sub>2</sub>O<sub>2</sub> to produce a blue color [<xref rid="B67-sensors-16-01931" ref-type="bibr">67</xref>]. Additionally, AuNPs were observed to enhance the activities of glucose oxidase (GOD) and horseradish peroxidase [<xref rid="B68-sensors-16-01931" ref-type="bibr">68</xref>,<xref rid="B69-sensors-16-01931" ref-type="bibr">69</xref>]. The mechanism of catalytic activity of AuNPs was based on the fact that H<sub>2</sub>O<sub>2</sub> was absorbed on the surface of AuNPs and the O-O bond in H<sub>2</sub>O<sub>2</sub> were broken up into double <sup>&#x02022;</sup>OH radicals. By a partial electron exchange interaction, the generated <sup>&#x02022;</sup>OH radicals were stabilized by AuNPs. This mechanism contributed to the catalytic ability of AuNPs. The LOD of this proposed assay for glucose was 4 &#x000b5;M, which was lower than that obtained using Fe<sub>3</sub>O<sub>4</sub> magnetic nanoparticles as peroxidase mimetic [<xref rid="B34-sensors-16-01931" ref-type="bibr">34</xref>]. </p><p>Considering the cost effectiveness of paper-based platforms, glucose detection was also performed on a common and cheap Whatman filter paper (no 1) by integrating nanozymes. In this regard, Andreescu et al. used nanoceria as a colorimetric probe in a bioanalysis for the detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B70-sensors-16-01931" ref-type="bibr">70</xref>]. Glucose oxidase (GOx)-biofunctionalized ceria paper was employed for quantitative detection of glucose. The working principle of the ceria bioassay was based on the production of H<sub>2</sub>O<sub>2</sub> by glucose oxidase in the presence of glucose, followed by a change in the surface chemistry of the nanoceria nanoparticles due to H<sub>2</sub>O<sub>2</sub> causing conversion of Ce<sup>3+</sup> to Ce<sup>4+</sup> [<xref rid="B71-sensors-16-01931" ref-type="bibr">71</xref>], accompanied by a color change from white-yellow to dark orange. As a demonstration, the working principle of the assay is shown in <xref ref-type="fig" rid="sensors-16-01931-f003">Figure 3</xref>. The analytical performance of the assay was dependent on the nanoceria concentration. The designed sensor was based on the co-immobilization of the nanoceria and GOx onto the filter paper. The achieved LOD for glucose sensing was 500 &#x000b5;M, with a linear range from 5 &#x000d7; 10<sup>2</sup>&#x02013;1 &#x000d7; 10<sup>5</sup> &#x000b5;M. This method was also applied in serum samples to determine the glucose concentration. Lv and co-workers synthesized some well-redispersed ceria nanoparticles [<xref rid="B72-sensors-16-01931" ref-type="bibr">72</xref>]. The synthesized CeO<sub>2</sub> NPs were characterized by good dispersion properties and excellent peroxidase-like activity. However, ceria nanoparticles have wide size distributions, a tendency to agglomerate, and poor dispersivity in aqueous media, which may limit their practical applications [<xref rid="B73-sensors-16-01931" ref-type="bibr">73</xref>,<xref rid="B74-sensors-16-01931" ref-type="bibr">74</xref>]. The synthesized ceria nanoparticles have also been used for the detection of glucose in aqueous medium [<xref rid="B72-sensors-16-01931" ref-type="bibr">72</xref>]. The designed assay permitted a LOD of 3 &#x000b5;M, with a linear glucose detection range from 6.6&#x02013;130 &#x000b5;M. This sensitive and highly selective colorimetric assay was applied for glucose determination in human serum. The achieved analytical figures of merits in term of LOD and linear range were better than those obtained with the paper-based platform, however, the nanoceria paper-based assay offers the advantages of portability, stability and suitability for onsite analysis.</p><p>Graphitic structural materials like carbons dots (CDs) have been widely investigated in the last two decades [<xref rid="B75-sensors-16-01931" ref-type="bibr">75</xref>,<xref rid="B76-sensors-16-01931" ref-type="bibr">76</xref>]. C-dots have biocompatibility, small size, and low toxicity, and remain stable for more than one year at 4 &#x000b0;C [<xref rid="B77-sensors-16-01931" ref-type="bibr">77</xref>,<xref rid="B78-sensors-16-01931" ref-type="bibr">78</xref>,<xref rid="B79-sensors-16-01931" ref-type="bibr">79</xref>]. CDs possess the ability to behave as either excellent electron acceptors or electron donors. C-dot quantum confined fluorescent carbon materials have been widely employed as biosensor agents [<xref rid="B80-sensors-16-01931" ref-type="bibr">80</xref>]. Subsequently, the intrinsic peroxidase-like activity of C-dots was used for the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B81-sensors-16-01931" ref-type="bibr">81</xref>]. A LOD of 0.4 &#x000b5;M with a linear range from 1&#x02013;5 &#x000d7; 10<sup>2</sup> &#x000b5;M was achieved with this method. Based on the designed working principle of this colorimetric assay, glucose was detected in serum samples. </p><p>Cupric oxide nanoparticles are more stable and possess unchanged catalytic activity over a wide range of pH and temperature values, although the aggregation and settlement of the commercial CuO NPs in aqueous media will affect certain applications [<xref rid="B82-sensors-16-01931" ref-type="bibr">82</xref>]. The colorimetric detection of glucose was performed in a one-step method based on the enzyme-like properties of water soluble cupric oxide [<xref rid="B49-sensors-16-01931" ref-type="bibr">49</xref>]. The linear range for glucose detection was from 1 &#x000d7; 10<sup>2</sup>&#x02013;8 &#x000d7; 10<sup>3</sup> &#x000b5;M. Metal nanoclusters possessing low toxicity and ultrafine size have been used as a promising candidate with fascinating catalytic characteristics in the field of molecular imaging, biosensors, and catalysis [<xref rid="B83-sensors-16-01931" ref-type="bibr">83</xref>,<xref rid="B84-sensors-16-01931" ref-type="bibr">84</xref>,<xref rid="B85-sensors-16-01931" ref-type="bibr">85</xref>,<xref rid="B86-sensors-16-01931" ref-type="bibr">86</xref>,<xref rid="B87-sensors-16-01931" ref-type="bibr">87</xref>,<xref rid="B88-sensors-16-01931" ref-type="bibr">88</xref>,<xref rid="B89-sensors-16-01931" ref-type="bibr">89</xref>,<xref rid="B90-sensors-16-01931" ref-type="bibr">90</xref>]. In this context, copper nanoclusters (Cu NCs) were used as a one-component nanomaterial for the colorimetric detection of glucose [<xref rid="B91-sensors-16-01931" ref-type="bibr">91</xref>]. The working principle of the method is shown in <xref ref-type="fig" rid="sensors-16-01931-f004">Figure 4</xref>. This assay was characterized with a LOD of 100 &#x000b5;M, while presenting a linear range of 1 &#x000d7; 10<sup>2</sup>&#x02013;2 &#x000d7; 10<sup>3</sup> &#x000b5;M.</p><p>Xia and their co-workers investigated a homogeneous system of silver nanoprisms with GOx for the simple, sensitive and low-cost colorimetric sensing of glucose to control diabetes mellitus [<xref rid="B92-sensors-16-01931" ref-type="bibr">92</xref>]. The silver nanoprisms possess highly reactive edges/tips, strong tip sharpness and aspect ratio-dependent surface plasmon resonance absorption which enhances the detection limit. </p><p>This method enabled the visual detection of glucose (using a blue to mauve color change) with the naked eye in the range from 0.2&#x02013;1 &#x000d7; 10<sup>2</sup> &#x000b5;M with a LOD of 0.2 &#x000b5;M, lower than that obtained with hybrid (metal-NP)-GOx systems [<xref rid="B93-sensors-16-01931" ref-type="bibr">93</xref>,<xref rid="B94-sensors-16-01931" ref-type="bibr">94</xref>,<xref rid="B95-sensors-16-01931" ref-type="bibr">95</xref>]. The sensitivity of the system could be attributed to the highly reactive edges/tips and strong tip sharpness and aspect ratio of the Ag nanoprisms used. This proposed sensing platform was also applied in serum samples to detect glucose concentration. Liu et al. designed a sensing platform for glucose based on the GOx-catalysed growth of small sized AuNPs in the presence of glucose [<xref rid="B96-sensors-16-01931" ref-type="bibr">96</xref>]. The size of AuNPs played an important role in the colorimetric detection of glucose. The LOD was 49 &#x000b5;M with a linear range from 1&#x000d7;10<sup>2</sup>&#x02013;1&#x000d7;10<sup>3</sup> &#x000b5;M of this method. This colorimetric assay was successfully applied to measure glucose in serum glucose. An analytical performance comparison of the single component nanozyme methods for the detection of glucose is summarized in <xref ref-type="table" rid="sensors-16-01931-t001">Table 1</xref>.</p></sec><sec id="sec4dot2-sensors-16-01931"><title>4.2. Multi- Component System</title><p>In the area of nanomaterials, much progress has been accomplished due to incredible achievements in nano-research and the intrinsic characteristics of nanomaterials [<xref rid="B9-sensors-16-01931" ref-type="bibr">9</xref>,<xref rid="B97-sensors-16-01931" ref-type="bibr">97</xref>,<xref rid="B98-sensors-16-01931" ref-type="bibr">98</xref>,<xref rid="B99-sensors-16-01931" ref-type="bibr">99</xref>,<xref rid="B100-sensors-16-01931" ref-type="bibr">100</xref>,<xref rid="B101-sensors-16-01931" ref-type="bibr">101</xref>]. In the last decade, the trend is shifting towards the multi-component nanozymes because most of the single component artificial nanozyme enzyme mimetics are characterized with low catalytic activity, poor dispersion and precipitation under typical complex physiological conditions [<xref rid="B102-sensors-16-01931" ref-type="bibr">102</xref>,<xref rid="B103-sensors-16-01931" ref-type="bibr">103</xref>,<xref rid="B104-sensors-16-01931" ref-type="bibr">104</xref>]. Furthermore, the catalytic properties of these nanozymes are highly dependent on the size, shape and geometry of the nanostructures [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>]. Researchers have therefore endeavored to design multi component systems by integrating multiple functionalities into a single nanozyme system [<xref rid="B105-sensors-16-01931" ref-type="bibr">105</xref>]. </p><p>Carboxyl functionalization is reported to synergize the oxidase-like properties of nanozymes in the construction of colorimetric assays. For example, the carboxyl-modified graphene oxide (GO-COOH) has been shown to be a peroxidase mimetic for the colorimetric detection of glucose [<xref rid="B16-sensors-16-01931" ref-type="bibr">16</xref>]. The low-cost, good stability, resistance to denaturation, high surface-to-volume ratios as well as the high affinity for organic substrates through &#x003c0;-&#x003c0; and hydrophobic interactions of GO-COOH makes them a superior candidate as compared to natural HRP and Fe<sub>3</sub>O<sub>4</sub> nanozyme. The achieved LOD for glucose was 1 &#x000b5;M, with a linear range from 1&#x02013;20 &#x000b5;M. The designed method was applied to determine glucose in blood serum. In parallel, Shu and co-workers synthesized C<sub>60</sub>-carboxyfullerene C<sub>60</sub>[C(COOH)<sub>2</sub>]<sub>2</sub> and designed a sensitive and selective colorimetric assay for glucose detection by exploring the oxidase-like properties of this novel functionalized material [<xref rid="B15-sensors-16-01931" ref-type="bibr">15</xref>]. The facile modification of fullerene-C<sub>60</sub> with carboxyl groups improved its solubility in water [<xref rid="B106-sensors-16-01931" ref-type="bibr">106</xref>]. The obtained LOD with this assay was 0.5 &#x000b5;M. The practicability of this assay was explored by the detection of glucose in human serum. In the same context, Wang and co-workers reported that a silver nanoparticles on graphene quantum dots (GQDs/AgNPs) hybrid exhibits a superior absorbance fading response for the reduction of H<sub>2</sub>O<sub>2</sub> [<xref rid="B107-sensors-16-01931" ref-type="bibr">107</xref>]. The GQDs acts as an excellent stabilizer in the GQDs/AgNPs hybrid, with a nanohybrid stability period of one week. Sensitive and selective colorimetric detection of glucose was performed based on the color fading of the GQDs/AgNPs hybrid in combination with the generated H<sub>2</sub>O<sub>2</sub>. The LOD of this assay was 0.17 &#x000b5;M, while the linear range was from 0.5&#x02013;400 &#x000b5;M. In another study, chitosan-stabilized nanoparticles (Ch Ag NPs) were successfully synthesized by Huang and co-workers and used for the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B66-sensors-16-01931" ref-type="bibr">66</xref>]. The Ch-Ag NPs have high surface area, stability and the matrix material prevents the aggregation of the nanoparticles. The linear range was from 5&#x02013;200 &#x000b5;M and the obtained LOD was 0.1 &#x000b5;M. The obtained LOD was lower than that obtained with various other nanoparticles used as peroxidase mimetics. Using this method, the glucose level was detected in blood serum. Similarly, Tseng et al. synthesized poly(diallyldimethylammonium chloride)-coated Fe<sub>3</sub>O<sub>4</sub> NPs and found that PDDA-Fe<sub>3</sub>O<sub>4</sub> not only has peroxidase-like activity but also has the ability to adsorb GOx through electrostatic attraction [<xref rid="B108-sensors-16-01931" ref-type="bibr">108</xref>]. The synthesized GOx-Fe<sub>3</sub>O<sub>4</sub> composite was used for seven repeated cycles with a 1.1-fold decrease in absorbance output signal in the optical detection of glucose. The LOD was 30 &#x000b5;M, while a linear range from 30&#x02013;1 &#x000d7; 10<sup>3</sup> &#x000b5;M was achieved with this method. </p><p>In a subsequent study, Chen and co-workers explored the intrinsic peroxidase-like activity of ZnFe<sub>2</sub>O<sub>4</sub> magnetic nanoparticles (MNPs) [<xref rid="B41-sensors-16-01931" ref-type="bibr">41</xref>]. ZnFe<sub>2</sub>O<sub>4</sub> MNPs exhibited good catalytic properties, stability, dispersibility, and rapid separation compared to other peroxidase nanomimetics and HRP. The linear range was from 1.25&#x02013;18.75 &#x000b5;M, and the obtained LOD was 0.3 &#x000b5;M with this assay. This colorimetric assay was also applied to detect glucose in urine sample of patients with diabetes. In the same context, Adhikary et al. synthesized a Prussian Blue-modified iron oxide (PB-Fe<sub>2</sub>O<sub>3</sub>) nano-composite and utilized it for the colorimetric detection of glucose [<xref rid="B109-sensors-16-01931" ref-type="bibr">109</xref>]. The peroxidase-like activity of Fe<sub>2</sub>O<sub>3</sub> has been enhanced by impregnating Fe<sub>2</sub>O<sub>3</sub> with Prussian Blue, which shows high catalytic activity towards peroxidase substrates. The achieved LOD of this assay was 0.16 &#x000b5;M, with a linear range from 1 to 80 &#x000b5;M. The glucose concentration was determined in blood serum applying this assay. In addition, Kemin and co-workers synthesized a new type of magnetic mesoporous silica nanoparticles (Fe<sub>3</sub>O<sub>4</sub>@MSN) with Fe<sub>3</sub>O<sub>4</sub> as the core and a mesoporous silica shell [<xref rid="B110-sensors-16-01931" ref-type="bibr">110</xref>]. The synthesized magnetic mesoporous silica nanoparticles were shown to exhibit peroxidase mimic activity. A LOD of 4 &#x000b5;M with a linear range from 10&#x02013;500 &#x000b5;M was achieved with this assay.</p><p>Zhang and their co-workers have synthesized CF nano-cubes having hierarchical nanostructures [<xref rid="B111-sensors-16-01931" ref-type="bibr">111</xref>]. Hierarchical materials possess a high surface to bulk ratio, and also provide more active sites useful for catalysis. The obtained LOD with this assay was 2.47 &#x000b5;M, with a linear range from 8 to 90 &#x000b5;M. This colorimetric method was applied in serum samples to detect glucose. In the same manner, Guo&#x02019;s group revealed that apoferritin paired gold clusters (Au-Ft) possess intrinsic peroxidase-like catalytic activity [<xref rid="B112-sensors-16-01931" ref-type="bibr">112</xref>]. The apoferritin paired gold clusters (Au-Ft) can provide an enzyme active center, thereby facilitating the ability of substrate molecular binding and also stabilize the enzyme-substrate complex. The linear range was from 2 &#x000d7; 10<sup>3</sup>&#x02013;1 &#x000d7; 10<sup>4</sup> &#x000b5;M. Xu and co-workers demonstrated the optical detection of glucose through a homogenous system containing DNA-embedded core-shell Au@Ag NPs [<xref rid="B113-sensors-16-01931" ref-type="bibr">113</xref>]. This assay permitted a LOD of 0.01 &#x000b5;M, with a linear range from 0&#x02013;2 &#x000d7; 10<sup>2</sup> &#x000b5;M. Glucose was determined in fetal bovine serum by utilizing this optical biosensor. Ai and co-workers synthesized FeSe-Pt@SiO<sub>2</sub> nanospheres and explored the peroxidase-like catalytic activity [<xref rid="B114-sensors-16-01931" ref-type="bibr">114</xref>]. The achieved LOD for glucose sensing was 1.136 nM. Similarly, Ying and his co-workers synthesized a symmetric hematite-silica hybrid of Janus &#x003b3;-Fe<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub> nanoparticles (JFSNs) and used it for the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose [<xref rid="B115-sensors-16-01931" ref-type="bibr">115</xref>]. JFSNs exhibit intrinsic peroxidase-like activity, which is a higher and more stable over a wide range of pH and temperature values compared with the natural enzyme HRP. Furthermore, the JFSNs offer a multiple functions platform for biosensing, due to their unique asymmetric structure. The LOD for this proposed assay was 3.2 &#x000b5;M. This method was also used for the determination of glucose in serum samples. Liu et al synthesized a V<sub>2</sub>O<sub>3</sub>-ordered mesoporous carbon composite (V<sub>2</sub>O<sub>3</sub>-OMC). A facile analytical method was developed to detect glucose by using V<sub>2</sub>O<sub>3</sub>-OMC and glucose oxidase [<xref rid="B116-sensors-16-01931" ref-type="bibr">116</xref>]. The linear range was from 10&#x02013;4 &#x000d7; 10<sup>3</sup> &#x000b5;M and the LOD for glucose sensing was 3.3 &#x000b5;M. This developed assay showed good sensitivity and high selectivity and enough reliability in real samples. </p><p>Liu and co-workers synthesized NiO NPs modified with 5,10,15,20-tetrakis (4-carboxyphenyl)-porphyrin (H<sub>2</sub>TCPP) [H<sub>2</sub>TCPP-NiO nanocomposites] [<xref rid="B53-sensors-16-01931" ref-type="bibr">53</xref>]. The obtained LOD of proposed assay was 20 &#x000b5;M, with a linear range from 50&#x02013;5 &#x000d7; 10<sup>2</sup> &#x000b5;M.Doped nanozymes are also considered a class of multi-component system. For example, Chen et al. synthesized nitrogen-doped graphene quantum dots (N-GQDs) and explored how the produced N-GQDs has high intrinsic peroxidase-like catalytic activity [<xref rid="B117-sensors-16-01931" ref-type="bibr">117</xref>]. The N-GQDs have a large surface area ratio and more active sites along with the additional characteristics of low cost, excellent dispersibility in water, stability against harsh conditions, and tunable catalytic activities. The LOD was 16 &#x000b5;M and a linear range from 25&#x02013;375 &#x000b5;M was achieved with this assay. This assay was successfully applied in the detection of glucose in blood serum. Subsequently, Ying and co-workers synthesized platinum NPs with sizes from 1&#x02013;3 nm and uniformly grew them on a molybdenum trioxide (MoO<sub>3</sub>) nanosheet surface. It was observed that Pt-MoO<sub>3</sub> have a peroxidase mimic activity [<xref rid="B118-sensors-16-01931" ref-type="bibr">118</xref>]. The working principle of the assay performed is shown in <xref ref-type="fig" rid="sensors-16-01931-f005">Figure 5</xref>. The LOD of this assay was 0.1874 &#x000b5;M, while the linear range was from 5&#x02013;500 &#x000b5;M. The colorimetric assay was successfully applied to determine the glucose concentration in serum samples. <xref ref-type="table" rid="sensors-16-01931-t002">Table 2</xref> summaries the analytical characteristics of the multicomponent nanozyme systems for the detection of glucose.</p></sec></sec><sec id="sec5-sensors-16-01931"><title>5. Conclusions and Perspectives</title><p>Nano-receptor-based methodologies offer a novel and attractive paradigm in terms of new and augmented functionality for the optical detection of glucose. These nano-receptors are characterized by various advantages which include, but are not limited to, low cost, facile preparation, large scale synthesis, high stability and sustained catalytic activities. Optical glucose biosensors based on nanozymes are characterized by high sensitivity that may be attributed to the large surface area per volume of the nanomaterials. Natural oxidase/peroxidase enzymes are proteinic in nature and their analytical figures of merits are highly dependent on the characteristics of the medium such as pH and temperature, while nanozyme-based sensors are independent of such characteristics. The selectivity of the nanozyme-based optical sensors can be considered less as compared to that of natural enzymes. The highly reactive surface of the nanomaterial such as ceria nanoparticles and nonspecific adsorption of interfering molecules on the particle surface such as that of gold/silver nanoparticles may result in false positive or negative results. However, these selectivity issues are limited, as glucose oxide enzyme is very selective enzyme towards conversion of glucose into hydrogen peroxide.</p><p>This review provided a brief survey of the different types of nanomaterials which are employed as potential receptor elements to replace natural enzymes in the field of biosensors, and have found widespread applications for optical detection of glucose. These nanosystems were initially explored as single component systems, and were successfully employed to design colorimetric sensors. Generally, most of the single component artificial nanozyme mimetics are characterized by low catalytic activity, poor dispersion and precipitation under complex physiological conditions [<xref rid="B102-sensors-16-01931" ref-type="bibr">102</xref>,<xref rid="B103-sensors-16-01931" ref-type="bibr">103</xref>,<xref rid="B104-sensors-16-01931" ref-type="bibr">104</xref>]. </p><p>Furthermore, the catalytic properties of these nanozymes are highly dependent on the size, shape and geometry of the nanostructures [<xref rid="B7-sensors-16-01931" ref-type="bibr">7</xref>]. With further advancements in the field of nanotechnology, researchers have therefore endeavored to design multi-component systems by integrating multiple functionalities into a single nanozyme system [<xref rid="B105-sensors-16-01931" ref-type="bibr">105</xref>]. However, controllable synthesis of the multi-component systems presents tremendous challenges and problems in their enzyme-mimicking colorimetric sensing applications. The major limitations associated with multi- component systems include, but not limited to, restrictions in the partial properties of each component by interface interactions, decreased catalytic properties of the core component and unfavorable structural and chemical arrangement of functional components. It is widely accepted that the preparation of multi-component nanosystems requires tedious and time consuming synthesis process involving highly toxic solvents. </p><p>Moreover, nano-receptor materials do not have real enzyme-like properties and it is not possible to regenerate the nanomaterial surface in most of the cases for subsequent measurement, limiting their applications in amperometric biosensors or for repeated assays. Some attempts were made to regenerate the nano-receptor surface for repeated cycles, but a decrease in the catalytic efficiency was observed after eight cycles [<xref rid="B108-sensors-16-01931" ref-type="bibr">108</xref>]. Moreover, controlling the reactivity of nanomaterials against certain interfering molecules is a very difficult task which may result in the generation of nonspecific signals, thus affecting the assay selectivity and specificity. The reactivity of nanomaterials is mainly related to the functional groups of the analytes, and closely related interfering molecules share a very similar structure to the analyte of interest and have possibility to react with the nanomaterials. This reactivity may result in generation of signals even in the absence of analyte and produce false positive results. </p><p>To replace enzymes for biosensing applications, it is highly desirable to design selective and specific nanomaterials to overcome the matrix interferences. Moreover, future research may focus on the methods to regenerate the nano-surface to increase the reusability of the nano-sensors. </p></sec></body><back><ack><title>Acknowledgments</title><p>This work was carried out under the HEC (Higher Education Commission of Pakistan) PERIDOT (France) Research Program Phase 2 (2016); No. 2-3/HEC/R&#x00026;D/PERIDOT/2016 (Research grant of Jean Louis Marty and Akhtar Hayat), and HEC (Higher Education Commission of Pakistan)-NRPU project; No. 20-4286/R&#x00026;D/HEC/2014 of Akhtar Hayat. </p></ack><notes><title>Author Contributions</title><p>Sajid Rauf wrote <xref ref-type="sec" rid="sec4-sensors-16-01931">Section 4</xref>; Muhammad Azhar Hayat Nawaz wrote <xref ref-type="sec" rid="sec3-sensors-16-01931">Section 3</xref> and Mihaela Badea wrote <xref ref-type="sec" rid="sec2-sensors-16-01931">Section 2</xref>. Akhtar Hayat along with Jean Louis Marty worked on the introduction, conclusion and perspectives part. Both corresponding authors have planed the contents of this review paper.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-sensors-16-01931"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petit</surname><given-names>J.-M.</given-names></name><name><surname>Bour</surname><given-names>J.-B.</given-names></name><name><surname>Galland-Jos</surname><given-names>C.</given-names></name><name><surname>Minello</surname><given-names>A.</given-names></name><name><surname>Verges</surname><given-names>B.</given-names></name><name><surname>Guiguet</surname><given-names>M.</given-names></name></person-group>
+<article-title>Risk factors for diabetes mellitus and early insulin resistance in chronic hepatitis C</article-title>
+<source>J. Hepatol.</source>
+<year>2001</year>
+<volume>35</volume>
+<fpage>279</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="doi">10.1016/S0168-8278(01)00143-X</pub-id>
+<pub-id pub-id-type="pmid">11580152</pub-id></element-citation></ref><ref id="B2-sensors-16-01931"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alberti</surname><given-names>K.G.M.M.</given-names></name><name><surname>Zimmet</surname><given-names>P.Z.</given-names></name></person-group>
+<article-title>Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: Diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation</article-title>
+<source>Diabet. Med.</source>
+<year>1998</year>
+<volume>15</volume>
+<fpage>539</fpage>
+<lpage>553</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1096-9136(199807)15:7&#x0003c;539::AID-DIA668&#x0003e;3.0.CO;2-S</pub-id>
+<pub-id pub-id-type="pmid">9686693</pub-id></element-citation></ref><ref id="B3-sensors-16-01931"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amos</surname><given-names>A.F.</given-names></name><name><surname>McCarty</surname><given-names>D.</given-names></name><name><surname>Zimmet</surname><given-names>P.</given-names></name></person-group>
+<article-title>The rising global burden of diabetes and its complications: Estimates and projections to the year 2010</article-title>
+<source>Diabet. Med.</source>
+<year>1997</year>
+<volume>14</volume>
+<fpage>S7</fpage>
+<lpage>S85</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1096-9136(199712)14:5+&#x0003c;S7::AID-DIA522&#x0003e;3.3.CO;2-I</pub-id>
+</element-citation></ref><ref id="B4-sensors-16-01931"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wild</surname><given-names>S.</given-names></name><name><surname>Roglic</surname><given-names>G.</given-names></name><name><surname>Green</surname><given-names>A.</given-names></name><name><surname>Sicree</surname><given-names>R.</given-names></name><name><surname>King</surname><given-names>H.</given-names></name></person-group>
+<article-title>Global prevalence of diabetes: estimates for the year 2000 and projections for 2030</article-title>
+<source>Diabetes Care</source>
+<year>2004</year>
+<volume>27</volume>
+<fpage>1047</fpage>
+<lpage>1053</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.27.5.1047</pub-id>
+<pub-id pub-id-type="pmid">15111519</pub-id></element-citation></ref><ref id="B5-sensors-16-01931"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charles</surname><given-names>M.A.</given-names></name><name><surname>Balkau</surname><given-names>B.</given-names></name><name><surname>Vauzelle-Kervr&#x000f6;edan</surname><given-names>F.</given-names></name><name><surname>Thibult</surname><given-names>N.</given-names></name><name><surname>Eschwege</surname><given-names>E.</given-names></name></person-group>
+<article-title>Revision of diagnostic criteria for diabetes</article-title>
+<source>Lancet</source>
+<year>1996</year>
+<volume>348</volume>
+<fpage>1657</fpage>
+<lpage>1658</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(05)65719-4</pub-id>
+</element-citation></ref><ref id="B6-sensors-16-01931"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Toghill</surname><given-names>K.E.</given-names></name><name><surname>Compton</surname><given-names>R.G.</given-names></name></person-group>
+<article-title>Electrochemical non-enzymatic glucose sensors: A perspective and an evaluation</article-title>
+<source>Int. J. Electrochem. Sci.</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>1246</fpage>
+<lpage>1301</lpage>
+</element-citation></ref><ref id="B7-sensors-16-01931"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wei</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>E.</given-names></name></person-group>
+<article-title>Nanomaterials with enzyme-like characteristics (nanozymes): Next-generation artificial enzymes</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2013</year>
+<volume>42</volume>
+<fpage>6060</fpage>
+<lpage>6093</lpage>
+<pub-id pub-id-type="doi">10.1039/c3cs35486e</pub-id>
+<pub-id pub-id-type="pmid">23740388</pub-id></element-citation></ref><ref id="B8-sensors-16-01931"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hayat</surname><given-names>A.</given-names></name><name><surname>Haider</surname><given-names>W.</given-names></name><name><surname>Raza</surname><given-names>Y.</given-names></name><name><surname>Marty</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Colorimetric cholesterol sensor based on peroxidase like activity of zinc oxide nanoparticles incorporated carbon nanotubes</article-title>
+<source>Talanta</source>
+<year>2015</year>
+<volume>143</volume>
+<fpage>157</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="doi">10.1016/j.talanta.2015.05.051</pub-id>
+<pub-id pub-id-type="pmid">26078143</pub-id></element-citation></ref><ref id="B9-sensors-16-01931"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>X.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Hou</surname><given-names>S.</given-names></name><name><surname>Wen</surname><given-names>T.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>K.</given-names></name></person-group>
+<article-title>Research progress of nanoparticles as enzyme mimetics</article-title>
+<source>Sci. China Phys. Mech. Astron.</source>
+<year>2011</year>
+<volume>54</volume>
+<fpage>1749</fpage>
+<lpage>1756</lpage>
+<pub-id pub-id-type="doi">10.1007/s11433-011-4480-0</pub-id>
+</element-citation></ref><ref id="B10-sensors-16-01931"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hayat</surname><given-names>A.</given-names></name><name><surname>Cunningham</surname><given-names>J.</given-names></name><name><surname>Bulbul</surname><given-names>G.</given-names></name><name><surname>Andreescu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Evaluation of the oxidase like activity of nanoceria and its application in colorimetric assays</article-title>
+<source>Anal. Chim. Acta.</source>
+<year>2015</year>
+<volume>885</volume>
+<fpage>140</fpage>
+<lpage>147</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2015.04.052</pub-id>
+<pub-id pub-id-type="pmid">26231899</pub-id></element-citation></ref><ref id="B11-sensors-16-01931"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>W.</given-names></name><name><surname>Wamer</surname><given-names>W.</given-names></name><name><surname>Xia</surname><given-names>Q.</given-names></name><name><surname>Yin</surname><given-names>J.-J.</given-names></name><name><surname>Fu</surname><given-names>P.P.</given-names></name></person-group>
+<article-title>Enzyme-like activity of nanomaterials</article-title>
+<source>J. Environ. Sci. Health Part C</source>
+<year>2014</year>
+<volume>32</volume>
+<fpage>186</fpage>
+<lpage>211</lpage>
+<pub-id pub-id-type="doi">10.1080/10590501.2014.907462</pub-id>
+<pub-id pub-id-type="pmid">24875443</pub-id></element-citation></ref><ref id="B12-sensors-16-01931"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McLamore</surname><given-names>E.S.</given-names></name><name><surname>Taguchi</surname><given-names>M.</given-names></name><name><surname>Ptitsyn</surname><given-names>A.</given-names></name><name><surname>Claussen</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Nanomaterial-mediated biosensors for monitoring glucose</article-title>
+<source>J. Diabetes Sci. Technol.</source>
+<year>2014</year>
+<volume>8</volume>
+<fpage>403</fpage>
+<lpage>411</lpage>
+<pub-id pub-id-type="pmid">24876594</pub-id></element-citation></ref><ref id="B13-sensors-16-01931"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name></person-group>
+<article-title>Electrochemical glucose biosensors</article-title>
+<source>Chem. Rev.</source>
+<year>2008</year>
+<volume>108</volume>
+<fpage>814</fpage>
+<lpage>825</lpage>
+<pub-id pub-id-type="doi">10.1021/cr068123a</pub-id>
+<pub-id pub-id-type="pmid">18154363</pub-id></element-citation></ref><ref id="B14-sensors-16-01931"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>S.</given-names></name><name><surname>Dong</surname><given-names>S.</given-names></name></person-group>
+<article-title>Graphene nanosheet: synthesis, molecular engineering, thin film, hybrids, and energy and analytical applications</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2011</year>
+<volume>40</volume>
+<fpage>2644</fpage>
+<lpage>2672</lpage>
+<pub-id pub-id-type="doi">10.1039/c0cs00079e</pub-id>
+<pub-id pub-id-type="pmid">21283849</pub-id></element-citation></ref><ref id="B15-sensors-16-01931"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>M.</given-names></name><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Yu</surname><given-names>H.</given-names></name><name><surname>Quan</surname><given-names>X.</given-names></name></person-group>
+<article-title>Interface engineering catalytic graphene for smart colorimetric biosensing</article-title>
+<source>Acs Nano</source>
+<year>2012</year>
+<volume>6</volume>
+<fpage>3142</fpage>
+<lpage>3151</lpage>
+<pub-id pub-id-type="doi">10.1021/nn3010922</pub-id>
+<pub-id pub-id-type="pmid">22443302</pub-id></element-citation></ref><ref id="B16-sensors-16-01931"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>Y.</given-names></name><name><surname>Qu</surname><given-names>K.</given-names></name><name><surname>Zhao</surname><given-names>C.</given-names></name><name><surname>Ren</surname><given-names>J.</given-names></name><name><surname>Qu</surname><given-names>X.</given-names></name></person-group>
+<article-title>Graphene oxide: Intrinsic peroxidase catalytic activity and its application to glucose detection</article-title>
+<source>Adv. Mater.</source>
+<year>2010</year>
+<volume>22</volume>
+<fpage>2206</fpage>
+<lpage>2210</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.200903783</pub-id>
+<pub-id pub-id-type="pmid">20564257</pub-id></element-citation></ref><ref id="B17-sensors-16-01931"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Zhao</surname><given-names>C.</given-names></name><name><surname>Qu</surname><given-names>K.</given-names></name><name><surname>Ren</surname><given-names>J.</given-names></name><name><surname>Qu</surname><given-names>X.</given-names></name></person-group>
+<article-title>Label-Free Colorimetric Detection of Single Nucleotide Polymorphism by Using Single-Walled Carbon Nanotube Intrinsic Peroxidase-Like Activity</article-title>
+<source>Chem. Eur. J.</source>
+<year>2010</year>
+<volume>16</volume>
+<fpage>3617</fpage>
+<lpage>3621</lpage>
+<pub-id pub-id-type="doi">10.1002/chem.200902643</pub-id>
+<pub-id pub-id-type="pmid">20191629</pub-id></element-citation></ref><ref id="B18-sensors-16-01931"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>R.</given-names></name><name><surname>Han</surname><given-names>Z.</given-names></name><name><surname>Zhu</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Helical carbon nanotubes: intrinsic peroxidase catalytic activity and its application for biocatalysis and biosensing</article-title>
+<source>Chem. Eur. J.</source>
+<year>2011</year>
+<volume>17</volume>
+<fpage>9377</fpage>
+<lpage>9384</lpage>
+<pub-id pub-id-type="doi">10.1002/chem.201100478</pub-id>
+<pub-id pub-id-type="pmid">21769953</pub-id></element-citation></ref><ref id="B19-sensors-16-01931"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tokuyama</surname><given-names>H.</given-names></name><name><surname>Yamago</surname><given-names>S.</given-names></name><name><surname>Nakamura</surname><given-names>E.</given-names></name><name><surname>Shiraki</surname><given-names>T.</given-names></name><name><surname>Sugiura</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Photoinduced biochemical activity of fullerene carboxylic acid</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>1993</year>
+<volume>115</volume>
+<fpage>7918</fpage>
+<lpage>7919</lpage>
+<pub-id pub-id-type="doi">10.1021/ja00070a064</pub-id>
+</element-citation></ref><ref id="B20-sensors-16-01931"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>E.</given-names></name><name><surname>Isobe</surname><given-names>H.</given-names></name></person-group>
+<article-title>Functionalized fullerenes in water. The first 10 years of their chemistry, biology, and nanoscience</article-title>
+<source>Acc. Chem. Res.</source>
+<year>2003</year>
+<volume>36</volume>
+<fpage>807</fpage>
+<lpage>815</lpage>
+<pub-id pub-id-type="doi">10.1021/ar030027y</pub-id>
+<pub-id pub-id-type="pmid">14622027</pub-id></element-citation></ref><ref id="B21-sensors-16-01931"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>R.</given-names></name><name><surname>Zhen</surname><given-names>M.</given-names></name><name><surname>Guan</surname><given-names>M.</given-names></name><name><surname>Chen</surname><given-names>D.</given-names></name><name><surname>Zhang</surname><given-names>G.</given-names></name><name><surname>Ge</surname><given-names>J.</given-names></name></person-group>
+<article-title>A novel glucose colorimetric sensor based on intrinsic peroxidase-like activity of C<sub>60</sub>-carboxyfullerenes</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2013</year>
+<volume>47</volume>
+<fpage>502</fpage>
+<lpage>507</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2013.03.057</pub-id>
+<pub-id pub-id-type="pmid">23628844</pub-id></element-citation></ref><ref id="B22-sensors-16-01931"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Comotti</surname><given-names>M.</given-names></name><name><surname>Della</surname><given-names>P.C.</given-names></name><name><surname>Matarrese</surname><given-names>R.</given-names></name><name><surname>Rossi</surname><given-names>M.</given-names></name></person-group>
+<article-title>The catalytic activity of &#x0201c;naked&#x0201d; gold particles</article-title>
+<source>Angew. Chem. Int. Ed.</source>
+<year>2004</year>
+<volume>43</volume>
+<fpage>5812</fpage>
+<lpage>5815</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.200460446</pub-id>
+<pub-id pub-id-type="pmid">15523721</pub-id></element-citation></ref><ref id="B23-sensors-16-01931"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>W.</given-names></name><name><surname>Zhou</surname><given-names>Y.-T.</given-names></name><name><surname>Wamer</surname><given-names>W.G.</given-names></name><name><surname>Hu</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Zheng</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Intrinsic catalytic activity of Au nanoparticles with respect to hydrogen peroxide decomposition and superoxide scavenging</article-title>
+<source>Biomaterials</source>
+<year>2013</year>
+<volume>34</volume>
+<fpage>765</fpage>
+<lpage>773</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2012.10.010</pub-id>
+<pub-id pub-id-type="pmid">23103160</pub-id></element-citation></ref><ref id="B24-sensors-16-01931"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shen</surname><given-names>X.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Gao</surname><given-names>X.</given-names></name><name><surname>Lu</surname><given-names>Z.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Gao</surname><given-names>X.</given-names></name></person-group>
+<article-title>Mechanisms of oxidase and superoxide dismutation-like activities of gold, silver, platinum, and palladium, and their alloys: A general way to the activation of molecular oxygen</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2015</year>
+<volume>137</volume>
+<fpage>15882</fpage>
+<lpage>15891</lpage>
+<pub-id pub-id-type="doi">10.1021/jacs.5b10346</pub-id>
+<pub-id pub-id-type="pmid">26642084</pub-id></element-citation></ref><ref id="B25-sensors-16-01931"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>S.</given-names></name><name><surname>Chen</surname><given-names>W.</given-names></name><name><surname>Liu</surname><given-names>A.L.</given-names></name><name><surname>Hong</surname><given-names>L.</given-names></name><name><surname>Deng</surname><given-names>H.H.</given-names></name><name><surname>Lin</surname><given-names>X.H.</given-names></name></person-group>
+<article-title>Comparison of the Peroxidase-Like Activity of Unmodified, Amino-Modified, and Citrate-Capped Gold Nanoparticles</article-title>
+<source>ChemPhysChem</source>
+<year>2012</year>
+<volume>13</volume>
+<fpage>1199</fpage>
+<lpage>1204</lpage>
+<pub-id pub-id-type="doi">10.1002/cphc.201100906</pub-id>
+<pub-id pub-id-type="pmid">22383315</pub-id></element-citation></ref><ref id="B26-sensors-16-01931"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Gao</surname><given-names>X.</given-names></name></person-group>
+<article-title>Mechanism of pH-switchable peroxidase and catalase-like activities of gold, silver, platinum and palladium</article-title>
+<source>Biomaterials</source>
+<year>2015</year>
+<volume>48</volume>
+<fpage>37</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2015.01.012</pub-id>
+<pub-id pub-id-type="pmid">25701030</pub-id></element-citation></ref><ref id="B27-sensors-16-01931"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.-X.</given-names></name><name><surname>Wu</surname><given-names>Q.</given-names></name><name><surname>Shan</surname><given-names>Z.</given-names></name><name><surname>Huang</surname><given-names>Q.-M.</given-names></name></person-group>
+<article-title>BSA-stabilized Au clusters as peroxidase mimetics for use in xanthine detection</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>3614</fpage>
+<lpage>3619</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2011.02.014</pub-id>
+<pub-id pub-id-type="pmid">21382705</pub-id></element-citation></ref><ref id="B28-sensors-16-01931"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>J.</given-names></name><name><surname>Yin</surname><given-names>J.-J.</given-names></name><name><surname>Ning</surname><given-names>B.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Ferrari</surname><given-names>M.</given-names></name></person-group>
+<article-title>Direct evidence for catalase and peroxidase activities of ferritin&#x02013;platinum nanoparticles</article-title>
+<source>Biomaterials</source>
+<year>2011</year>
+<volume>32</volume>
+<fpage>1611</fpage>
+<lpage>1618</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2010.11.004</pub-id>
+<pub-id pub-id-type="pmid">21112084</pub-id></element-citation></ref><ref id="B29-sensors-16-01931"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma</surname><given-names>M.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Gu</surname><given-names>N.</given-names></name></person-group>
+<article-title>Peroxidase-like catalytic activity of cubic Pt nanocrystals</article-title>
+<source>Colloids Surf. A</source>
+<year>2011</year>
+<volume>373</volume>
+<fpage>6</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1016/j.colsurfa.2010.08.007</pub-id>
+</element-citation></ref><ref id="B30-sensors-16-01931"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lien</surname><given-names>C.-W.</given-names></name><name><surname>Huang</surname><given-names>C.-C.</given-names></name><name><surname>Chang</surname><given-names>H.-T.</given-names></name></person-group>
+<article-title>Peroxidase-mimic bismuth&#x02013;gold nanoparticles for determining the activity of thrombin and drug screening</article-title>
+<source>Chem. Commun.</source>
+<year>2012</year>
+<volume>48</volume>
+<fpage>7952</fpage>
+<lpage>7954</lpage>
+<pub-id pub-id-type="doi">10.1039/c2cc32833j</pub-id>
+<pub-id pub-id-type="pmid">22760735</pub-id></element-citation></ref><ref id="B31-sensors-16-01931"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>W.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Yuan</surname><given-names>J.</given-names></name><name><surname>Yin</surname><given-names>J.-J.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Hu</surname><given-names>X.</given-names></name></person-group>
+<article-title>Au@ Pt nanostructures as oxidase and peroxidase mimetics for use in immunoassays</article-title>
+<source>Biomaterials</source>
+<year>2011</year>
+<volume>32</volume>
+<fpage>1139</fpage>
+<lpage>1147</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2010.09.040</pub-id>
+<pub-id pub-id-type="pmid">21071085</pub-id></element-citation></ref><ref id="B32-sensors-16-01931"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>W.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Hu</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>K.</given-names></name><name><surname>Hou</surname><given-names>S.</given-names></name></person-group>
+<article-title>Design of AgM bimetallic alloy nanostructures (M = Au, Pd, Pt) with tunable morphology and peroxidase-like activity</article-title>
+<source>Chem. Mater.</source>
+<year>2010</year>
+<volume>22</volume>
+<fpage>2988</fpage>
+<lpage>2994</lpage>
+<pub-id pub-id-type="doi">10.1021/cm100393v</pub-id>
+</element-citation></ref><ref id="B33-sensors-16-01931"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>L.</given-names></name><name><surname>Zhuang</surname><given-names>J.</given-names></name><name><surname>Nie</surname><given-names>L.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Gu</surname><given-names>N.</given-names></name></person-group>
+<article-title>Intrinsic peroxidase-like activity of ferromagnetic nanoparticles</article-title>
+<source>Nat. Nanotechnol.</source>
+<year>2007</year>
+<volume>2</volume>
+<fpage>577</fpage>
+<lpage>583</lpage>
+<pub-id pub-id-type="doi">10.1038/nnano.2007.260</pub-id>
+<pub-id pub-id-type="pmid">18654371</pub-id></element-citation></ref><ref id="B34-sensors-16-01931"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wei</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>E.</given-names></name></person-group>
+<article-title>Fe<sub>3</sub>O<sub>4</sub> magnetic nanoparticles as peroxidase mimetics and their applications in H<sub>2</sub>O<sub>2</sub> and glucose detection</article-title>
+<source>Anal. Chem.</source>
+<year>2008</year>
+<volume>80</volume>
+<fpage>2250</fpage>
+<lpage>2254</lpage>
+<pub-id pub-id-type="doi">10.1021/ac702203f</pub-id>
+<pub-id pub-id-type="pmid">18290671</pub-id></element-citation></ref><ref id="B35-sensors-16-01931"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fan</surname><given-names>Y.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>The effective peroxidase-like activity of chitosan-functionalized CoFe<sub>2</sub>O<sub>4</sub> nanoparticles for chemiluminescence sensing of hydrogen peroxide and glucose</article-title>
+<source>Analyst</source>
+<year>2012</year>
+<volume>137</volume>
+<fpage>1225</fpage>
+<lpage>1231</lpage>
+<pub-id pub-id-type="doi">10.1039/c2an16105b</pub-id>
+<pub-id pub-id-type="pmid">22258160</pub-id></element-citation></ref><ref id="B36-sensors-16-01931"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shi</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Luminol&#x02013;silver nitrate chemiluminescence enhancement induced by cobalt ferrite nanoparticles</article-title>
+<source>Luminescence</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>547</fpage>
+<lpage>552</lpage>
+<pub-id pub-id-type="doi">10.1002/bio.1268</pub-id>
+<pub-id pub-id-type="pmid">21400653</pub-id></element-citation></ref><ref id="B37-sensors-16-01931"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bhattacharya</surname><given-names>D.</given-names></name><name><surname>Baksi</surname><given-names>A.</given-names></name><name><surname>Banerjee</surname><given-names>I.</given-names></name><name><surname>Ananthakrishnan</surname><given-names>R.</given-names></name><name><surname>Maiti</surname><given-names>T.K.</given-names></name><name><surname>Pramanik</surname><given-names>P.</given-names></name></person-group>
+<article-title>Development of phosphonate modified Fe<sub>(1&#x02212;x)</sub>Mn<sub>x</sub>Fe<sub>2</sub>O<sub>4</sub>mixed ferrite nanoparticles: novel peroxidase mimetics in enzyme linked immunosorbent assay</article-title>
+<source>Talanta</source>
+<year>2011</year>
+<volume>86</volume>
+<fpage>337</fpage>
+<lpage>348</lpage>
+<pub-id pub-id-type="doi">10.1016/j.talanta.2011.09.026</pub-id>
+<pub-id pub-id-type="pmid">22063549</pub-id></element-citation></ref><ref id="B38-sensors-16-01931"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luo</surname><given-names>W.</given-names></name><name><surname>Li</surname><given-names>Y.-S.</given-names></name><name><surname>Yuan</surname><given-names>J.</given-names></name><name><surname>Zhu</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>Z.</given-names></name><name><surname>Tang</surname><given-names>H.</given-names></name></person-group>
+<article-title>Ultrasensitive fluorometric determination of hydrogen peroxide and glucose by using multiferroic BiFeO<sub>3</sub> nanoparticles as a catalyst</article-title>
+<source>Talanta</source>
+<year>2010</year>
+<volume>81</volume>
+<fpage>901</fpage>
+<lpage>907</lpage>
+<pub-id pub-id-type="doi">10.1016/j.talanta.2010.01.035</pub-id>
+<pub-id pub-id-type="pmid">20298871</pub-id></element-citation></ref><ref id="B39-sensors-16-01931"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ju</surname><given-names>L.</given-names></name><name><surname>Chen</surname><given-names>Z.</given-names></name><name><surname>Fang</surname><given-names>L.</given-names></name><name><surname>Dong</surname><given-names>W.</given-names></name><name><surname>Zheng</surname><given-names>F.</given-names></name><name><surname>Shen</surname><given-names>M.</given-names></name></person-group>
+<article-title>Sol&#x02013;Gel Synthesis and Photo-Fenton-Like Catalytic Activity of EuFeO<sub>3</sub> Nanoparticles</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2011</year>
+<volume>94</volume>
+<fpage>3418</fpage>
+<lpage>3424</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2011.04522.x</pub-id>
+</element-citation></ref><ref id="B40-sensors-16-01931"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shi</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>He</surname><given-names>S.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>CoFe<sub>2</sub>O<sub>4</sub> magnetic nanoparticles as a peroxidase mimic mediated chemiluminescence for hydrogen peroxide and glucose</article-title>
+<source>Chem. Commun.</source>
+<year>2011</year>
+<volume>47</volume>
+<fpage>10785</fpage>
+<lpage>10787</lpage>
+<pub-id pub-id-type="doi">10.1039/c1cc14300j</pub-id>
+<pub-id pub-id-type="pmid">21892508</pub-id></element-citation></ref><ref id="B41-sensors-16-01931"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Su</surname><given-names>L.</given-names></name><name><surname>Feng</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>X.</given-names></name><name><surname>Ren</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name></person-group>
+<article-title>Colorimetric detection of urine glucose based ZnFe<sub>2</sub>O<sub>4</sub> magnetic nanoparticles</article-title>
+<source>Anal. Chem.</source>
+<year>2012</year>
+<volume>84</volume>
+<fpage>5753</fpage>
+<lpage>5758</lpage>
+<pub-id pub-id-type="doi">10.1021/ac300939z</pub-id>
+<pub-id pub-id-type="pmid">22702236</pub-id></element-citation></ref><ref id="B42-sensors-16-01931"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Figueroa-Espi</surname><given-names>V.</given-names></name><name><surname>Alvarez-Paneque</surname><given-names>A.</given-names></name><name><surname>Torrens</surname><given-names>M.</given-names></name><name><surname>Otero-Gonz&#x000e1;lez</surname><given-names>A.</given-names></name><name><surname>Reguera</surname><given-names>E.</given-names></name></person-group>
+<article-title>Conjugation of manganese ferrite nanoparticles to an anti Sticholysin monoclonal antibody and conjugate applications</article-title>
+<source>Colloids Surf. A</source>
+<year>2011</year>
+<volume>387</volume>
+<fpage>118</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.1016/j.colsurfa.2011.08.008</pub-id>
+</element-citation></ref><ref id="B43-sensors-16-01931"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>C.</given-names></name><name><surname>Qu</surname><given-names>X.</given-names></name></person-group>
+<article-title>Cerium oxide nanoparticle: A remarkably versatile rare earth nanomaterial for biological applications</article-title>
+<source>NPG Asia Mater.</source>
+<year>2014</year>
+<volume>6</volume>
+<elocation-id>e90</elocation-id>
+<pub-id pub-id-type="doi">10.1038/am.2013.88</pub-id>
+</element-citation></ref><ref id="B44-sensors-16-01931"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Dong</surname><given-names>Y.</given-names></name><name><surname>Jiang</surname><given-names>P.</given-names></name><name><surname>Wang</surname><given-names>G.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name></person-group>
+<article-title>Highly Dispersed CeO<sub>2</sub> on TiO<sub>2</sub> Nanotube: A Synergistic Nanocomposite with Superior Peroxidase-Like Activity</article-title>
+<source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>
+<volume>7</volume>
+<fpage>6451</fpage>
+<lpage>6461</lpage>
+<pub-id pub-id-type="doi">10.1021/acsami.5b00023</pub-id>
+<pub-id pub-id-type="pmid">25774435</pub-id></element-citation></ref><ref id="B45-sensors-16-01931"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Esch</surname><given-names>F.</given-names></name><name><surname>Fabris</surname><given-names>S.</given-names></name><name><surname>Zhou</surname><given-names>L.</given-names></name><name><surname>Montini</surname><given-names>T.</given-names></name><name><surname>Africh</surname><given-names>C.</given-names></name><name><surname>Fornasiero</surname><given-names>P.</given-names></name></person-group>
+<article-title>Electron localization determines defect formation on ceria substrates</article-title>
+<source>Science</source>
+<year>2005</year>
+<volume>309</volume>
+<fpage>752</fpage>
+<lpage>755</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1111568</pub-id>
+<pub-id pub-id-type="pmid">16051791</pub-id></element-citation></ref><ref id="B46-sensors-16-01931"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tian</surname><given-names>Z.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Gao</surname><given-names>W.</given-names></name><name><surname>Zhou</surname><given-names>X.</given-names></name><name><surname>Qu</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Highly sensitive and robust peroxidase-like activity of porous nanorods of ceria and their application for breast cancer detection</article-title>
+<source>Biomaterials</source>
+<year>2015</year>
+<volume>59</volume>
+<fpage>116</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2015.04.039</pub-id>
+<pub-id pub-id-type="pmid">25968461</pub-id></element-citation></ref><ref id="B47-sensors-16-01931"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Artiglia</surname><given-names>L.</given-names></name><name><surname>Agnoli</surname><given-names>S.</given-names></name><name><surname>Paganini</surname><given-names>M.C.</given-names></name><name><surname>Cattelan</surname><given-names>M.</given-names></name><name><surname>Granozzi</surname><given-names>G.</given-names></name></person-group>
+<article-title>TiO<sub>2</sub>@ CeO x Core&#x02013;Shell Nanoparticles as Artificial Enzymes with Peroxidase-Like Activity</article-title>
+<source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>20130</fpage>
+<lpage>20136</lpage>
+<pub-id pub-id-type="doi">10.1021/am5057129</pub-id>
+<pub-id pub-id-type="pmid">25321080</pub-id></element-citation></ref><ref id="B48-sensors-16-01931"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>R.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Yu</surname><given-names>S.</given-names></name><name><surname>Zhu</surname><given-names>W.</given-names></name><name><surname>Zheng</surname><given-names>F.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name></person-group>
+<article-title>Dual role of hydrogen peroxide on the oxidase-like activity of nanoceria and its application for colorimetric hydrogen peroxide and glucose sensing</article-title>
+<source>RSC Adv.</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>59939</fpage>
+<lpage>59945</lpage>
+<pub-id pub-id-type="doi">10.1039/C6RA09217A</pub-id>
+</element-citation></ref><ref id="B49-sensors-16-01931"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>W.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Feng</surname><given-names>Y.-B.</given-names></name><name><surname>Hong</surname><given-names>L.</given-names></name><name><surname>Chen</surname><given-names>Q.-Y.</given-names></name><name><surname>Wu</surname><given-names>L.-F.</given-names></name></person-group>
+<article-title>Peroxidase-like activity of water-soluble cupric oxide nanoparticles and its analytical application for detection of hydrogen peroxide and glucose</article-title>
+<source>Analyst</source>
+<year>2012</year>
+<volume>137</volume>
+<fpage>1706</fpage>
+<lpage>1712</lpage>
+<pub-id pub-id-type="doi">10.1039/c2an35072f</pub-id>
+<pub-id pub-id-type="pmid">22349179</pub-id></element-citation></ref><ref id="B50-sensors-16-01931"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>W.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>A.L.</given-names></name><name><surname>Wang</surname><given-names>L.M.</given-names></name><name><surname>Li</surname><given-names>G.W.</given-names></name><name><surname>Lin</surname><given-names>X.H.</given-names></name></person-group>
+<article-title>Peroxidase-like activity of cupric oxide nanoparticle</article-title>
+<source>ChemCatChem</source>
+<year>2011</year>
+<volume>3</volume>
+<fpage>1151</fpage>
+<lpage>1154</lpage>
+<pub-id pub-id-type="doi">10.1002/cctc.201100064</pub-id>
+</element-citation></ref><ref id="B51-sensors-16-01931"><label>51.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Guo</surname><given-names>W.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Wei</surname><given-names>H.</given-names></name></person-group>
+<source>Nanozymes: Next Wave of Artificial Enzymes</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2016</year>
+</element-citation></ref><ref id="B52-sensors-16-01931"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>A.-L.</given-names></name><name><surname>Liu</surname><given-names>Y.-H.</given-names></name><name><surname>Deng</surname><given-names>H.-H.</given-names></name><name><surname>Hong</surname><given-names>G.-L.</given-names></name><name><surname>Liu</surname><given-names>A.-L.</given-names></name><name><surname>Lin</surname><given-names>X.-H.</given-names></name></person-group>
+<article-title>Fluorescent hydrogen peroxide sensor based on cupric oxide nanoparticles and its application for glucose and l-lactate detection</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2014</year>
+<volume>61</volume>
+<fpage>374</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2014.05.048</pub-id>
+<pub-id pub-id-type="pmid">24912038</pub-id></element-citation></ref><ref id="B53-sensors-16-01931"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Q.</given-names></name><name><surname>Yang</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Zhu</surname><given-names>R.</given-names></name><name><surname>Shao</surname><given-names>Q.</given-names></name><name><surname>Yang</surname><given-names>S.</given-names></name></person-group>
+<article-title>NiO nanoparticles modified with 5, 10, 15, 20-tetrakis (4-carboxyl pheyl)-porphyrin: Promising peroxidase mimetics for H<sub>2</sub>O<sub>2</sub> and glucose detection</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2015</year>
+<volume>64</volume>
+<fpage>147</fpage>
+<lpage>153</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2014.08.062</pub-id>
+<pub-id pub-id-type="pmid">25212068</pub-id></element-citation></ref><ref id="B54-sensors-16-01931"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tarlani</surname><given-names>A.</given-names></name><name><surname>Fallah</surname><given-names>M.</given-names></name><name><surname>Lotfi</surname><given-names>B.</given-names></name><name><surname>Khazraei</surname><given-names>A.</given-names></name><name><surname>Golsanamlou</surname><given-names>S.</given-names></name><name><surname>Muzart</surname><given-names>J.</given-names></name></person-group>
+<article-title>New ZnO nanostructures as non-enzymatic glucose biosensors</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2015</year>
+<volume>67</volume>
+<fpage>601</fpage>
+<lpage>607</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2014.09.063</pub-id>
+<pub-id pub-id-type="pmid">25305803</pub-id></element-citation></ref><ref id="B55-sensors-16-01931"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wan</surname><given-names>Y.</given-names></name><name><surname>Qi</surname><given-names>P.</given-names></name><name><surname>Zhang</surname><given-names>D.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Manganese oxide nanowire-mediated enzyme-linked immunosorbent assay</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2012</year>
+<volume>33</volume>
+<fpage>69</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2011.12.033</pub-id>
+<pub-id pub-id-type="pmid">22326701</pub-id></element-citation></ref><ref id="B56-sensors-16-01931"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>S.E.</given-names></name><name><surname>Teplensky</surname><given-names>M.H.</given-names></name><name><surname>Moghadam</surname><given-names>P.Z.</given-names></name><name><surname>Fairen-Jimenez</surname><given-names>D.</given-names></name></person-group>
+<article-title>Metal-organic frameworks as biosensors for luminescence-based detection and imaging</article-title>
+<source>Interface Focus</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>20160027</fpage>
+<pub-id pub-id-type="doi">10.1098/rsfs.2016.0027</pub-id>
+<pub-id pub-id-type="pmid">27499847</pub-id></element-citation></ref><ref id="B57-sensors-16-01931"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ai</surname><given-names>L.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Fu</surname><given-names>J.</given-names></name><name><surname>Jiang</surname><given-names>J.</given-names></name></person-group>
+<article-title>MIL-53 (Fe): A Metal&#x02013;Organic Framework with Intrinsic Peroxidase-Like Catalytic Activity for Colorimetric Biosensing</article-title>
+<source>Chem. A Eur. J.</source>
+<year>2013</year>
+<volume>19</volume>
+<fpage>15105</fpage>
+<lpage>15108</lpage>
+<pub-id pub-id-type="doi">10.1002/chem.201303051</pub-id>
+<pub-id pub-id-type="pmid">24150880</pub-id></element-citation></ref><ref id="B58-sensors-16-01931"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qin</surname><given-names>F.-X.</given-names></name><name><surname>Jia</surname><given-names>S.-Y.</given-names></name><name><surname>Wang</surname><given-names>F.-F.</given-names></name><name><surname>Wu</surname><given-names>S.-H.</given-names></name><name><surname>Song</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Hemin@metal&#x02013;organic framework with peroxidase-like activity and its application to glucose detection</article-title>
+<source>Catal. Sci. Technol.</source>
+<year>2013</year>
+<volume>3</volume>
+<fpage>2761</fpage>
+<lpage>2768</lpage>
+<pub-id pub-id-type="doi">10.1039/c3cy00268c</pub-id>
+</element-citation></ref><ref id="B59-sensors-16-01931"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.L.</given-names></name><name><surname>Zhao</surname><given-names>X.J.</given-names></name><name><surname>Yang</surname><given-names>X.X.</given-names></name><name><surname>Li</surname><given-names>Y.F.</given-names></name></person-group>
+<article-title>A nanosized metal&#x02013;organic framework of Fe-MIL-88NH<sub>2</sub> as a novel peroxidase mimic used for colorimetric detection of glucose</article-title>
+<source>Analyst</source>
+<year>2013</year>
+<volume>138</volume>
+<fpage>4526</fpage>
+<lpage>4531</lpage>
+<pub-id pub-id-type="doi">10.1039/c3an00560g</pub-id>
+<pub-id pub-id-type="pmid">23775015</pub-id></element-citation></ref><ref id="B60-sensors-16-01931"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X.-Q.</given-names></name><name><surname>Gong</surname><given-names>S.-W.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Yang</surname><given-names>T.</given-names></name><name><surname>Wang</surname><given-names>C.-Y.</given-names></name><name><surname>Gu</surname><given-names>N.</given-names></name></person-group>
+<article-title>Prussian blue modified iron oxide magnetic nanoparticles and their high peroxidase-like activity</article-title>
+<source>J. Mater. Chem.</source>
+<year>2010</year>
+<volume>20</volume>
+<fpage>5110</fpage>
+<lpage>5116</lpage>
+<pub-id pub-id-type="doi">10.1039/c0jm00174k</pub-id>
+</element-citation></ref><ref id="B61-sensors-16-01931"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>W.</given-names></name><name><surname>Hu</surname><given-names>S.</given-names></name><name><surname>Yin</surname><given-names>J.-J.</given-names></name><name><surname>He</surname><given-names>W.</given-names></name><name><surname>Lu</surname><given-names>W.</given-names></name><name><surname>Ma</surname><given-names>M.</given-names></name></person-group>
+<article-title>Prussian Blue Nanoparticles as Multienzyme Mimetics and Reactive Oxygen Species Scavengers</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2016</year>
+<volume>138</volume>
+<fpage>5860</fpage>
+<lpage>5865</lpage>
+<pub-id pub-id-type="doi">10.1021/jacs.5b12070</pub-id>
+<pub-id pub-id-type="pmid">26918394</pub-id></element-citation></ref><ref id="B62-sensors-16-01931"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Ni</surname><given-names>F.</given-names></name><name><surname>Gao</surname><given-names>F.</given-names></name><name><surname>Li</surname><given-names>M.</given-names></name></person-group>
+<article-title>Peroxidase-Like Layered Double Hydroxide Nanoflakes for Electrocatalytic Reduction of H<sub>2</sub>O<sub>2</sub></article-title>
+<source>Electroanalysis</source>
+<year>2009</year>
+<volume>21</volume>
+<fpage>2125</fpage>
+<lpage>2132</lpage>
+<pub-id pub-id-type="doi">10.1002/elan.200904644</pub-id>
+</element-citation></ref><ref id="B63-sensors-16-01931"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>L.</given-names></name><name><surname>Yin</surname><given-names>H.</given-names></name><name><surname>Dong</surname><given-names>J.</given-names></name><name><surname>Fan</surname><given-names>H.</given-names></name><name><surname>Liu</surname><given-names>T.</given-names></name><name><surname>Ju</surname><given-names>P.</given-names></name></person-group>
+<article-title>A mimic peroxidase biosensor based on calcined layered double hydroxide for detection of H<sub>2</sub>O<sub>2</sub></article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>3278</fpage>
+<lpage>3283</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2010.12.043</pub-id>
+<pub-id pub-id-type="pmid">21247748</pub-id></element-citation></ref><ref id="B64-sensors-16-01931"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Tian</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Qin</surname><given-names>X.</given-names></name><name><surname>Lu</surname><given-names>W.</given-names></name></person-group>
+<article-title>Novel application of CoFe layered double hydroxide nanoplates for colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose</article-title>
+<source>Analyst</source>
+<year>2012</year>
+<volume>37</volume>
+<fpage>1325</fpage>
+<lpage>1328</lpage>
+<pub-id pub-id-type="doi">10.1039/c2an00035k</pub-id>
+<pub-id pub-id-type="pmid">22290215</pub-id></element-citation></ref><ref id="B65-sensors-16-01931"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cai</surname><given-names>R.</given-names></name><name><surname>Yang</surname><given-names>D.</given-names></name><name><surname>Peng</surname><given-names>S.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Single nanoparticle to 3D supercage: framing for an artificial enzyme system</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2015</year>
+<volume>137</volume>
+<fpage>13957</fpage>
+<lpage>13963</lpage>
+<pub-id pub-id-type="doi">10.1021/jacs.5b09337</pub-id>
+<pub-id pub-id-type="pmid">26464081</pub-id></element-citation></ref><ref id="B66-sensors-16-01931"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jiang</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>Z.</given-names></name><name><surname>Cao</surname><given-names>H.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Peroxidase-like activity of chitosan stabilized silver nanoparticles for visual and colorimetric detection of glucose</article-title>
+<source>Analyst</source>
+<year>2012</year>
+<volume>137</volume>
+<fpage>5560</fpage>
+<lpage>5564</lpage>
+<pub-id pub-id-type="doi">10.1039/c2an35911a</pub-id>
+<pub-id pub-id-type="pmid">23042152</pub-id></element-citation></ref><ref id="B67-sensors-16-01931"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jv</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>B.</given-names></name><name><surname>Cao</surname><given-names>R.</given-names></name></person-group>
+<article-title>Positively-charged gold nanoparticles as peroxidiase mimic and their application in hydrogen peroxide and glucose detection</article-title>
+<source>Chem. Commun.</source>
+<year>2010</year>
+<volume>46</volume>
+<fpage>8017</fpage>
+<lpage>8019</lpage>
+<pub-id pub-id-type="doi">10.1039/c0cc02698k</pub-id>
+<pub-id pub-id-type="pmid">20871928</pub-id></element-citation></ref><ref id="B68-sensors-16-01931"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nam</surname><given-names>J.-M.</given-names></name><name><surname>Stoeva</surname><given-names>S.I.</given-names></name><name><surname>Mirkin</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Bio-bar-code-based DNA detection with PCR-like sensitivity</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2004</year>
+<volume>126</volume>
+<fpage>5932</fpage>
+<lpage>5933</lpage>
+<pub-id pub-id-type="doi">10.1021/ja049384+</pub-id>
+<pub-id pub-id-type="pmid">15137735</pub-id></element-citation></ref><ref id="B69-sensors-16-01931"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>H.</given-names></name><name><surname>Zhang</surname><given-names>Z.-F.</given-names></name><name><surname>Shi</surname><given-names>M.-J.</given-names></name><name><surname>Xu</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>Y.-L.</given-names></name></person-group>
+<article-title>Light emission of gold nanoparticles induced by the reaction of bis (2, 4, 6-trichlorophenyl) oxalate and hydrogen peroxide</article-title>
+<source>Anal. Chem.</source>
+<year>2005</year>
+<volume>77</volume>
+<fpage>6402</fpage>
+<lpage>6406</lpage>
+<pub-id pub-id-type="doi">10.1021/ac050882q</pub-id>
+<pub-id pub-id-type="pmid">16194106</pub-id></element-citation></ref><ref id="B70-sensors-16-01931"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ornatska</surname><given-names>M.</given-names></name><name><surname>Sharpe</surname><given-names>E.</given-names></name><name><surname>Andreescu</surname><given-names>D.</given-names></name><name><surname>Andreescu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Paper bioassay based on ceria nanoparticles as colorimetric probes</article-title>
+<source>Anal. Chem.</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>4273</fpage>
+<lpage>4280</lpage>
+<pub-id pub-id-type="doi">10.1021/ac200697y</pub-id>
+<pub-id pub-id-type="pmid">21524141</pub-id></element-citation></ref><ref id="B71-sensors-16-01931"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>P.</given-names></name><name><surname>Hayes</surname><given-names>S.A.</given-names></name><name><surname>O&#x02019;Keefe</surname><given-names>T.J.</given-names></name><name><surname>O&#x02019;Keefe</surname><given-names>M.J.</given-names></name><name><surname>Stoffer</surname><given-names>J.O.</given-names></name></person-group>
+<article-title>The Phase Stability of Cerium Species in Aqueous Systems II. The Systems. Equilibrium Considerations and Pourbaix Diagram Calculations</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2006</year>
+<volume>153</volume>
+<fpage>C74</fpage>
+<lpage>C79</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2130572</pub-id>
+</element-citation></ref><ref id="B72-sensors-16-01931"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jiao</surname><given-names>X.</given-names></name><name><surname>Song</surname><given-names>H.</given-names></name><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Bai</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Lv</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Well-redispersed ceria nanoparticles: Promising peroxidase mimetics for H<sub>2</sub>O<sub>2</sub> and glucose detection</article-title>
+<source>Anal. Methods</source>
+<year>2012</year>
+<volume>4</volume>
+<fpage>3261</fpage>
+<lpage>3267</lpage>
+<pub-id pub-id-type="doi">10.1039/c2ay25511a</pub-id>
+</element-citation></ref><ref id="B73-sensors-16-01931"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Sun</surname><given-names>D.-C.</given-names></name></person-group>
+<article-title>Preparation and characterization of nanometer-scale powders ceria by electrochemical deposition method</article-title>
+<source>Mater. Res. Bull.</source>
+<year>2008</year>
+<volume>43</volume>
+<fpage>1754</fpage>
+<lpage>1760</lpage>
+<pub-id pub-id-type="doi">10.1016/j.materresbull.2007.07.008</pub-id>
+</element-citation></ref><ref id="B74-sensors-16-01931"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orge</surname><given-names>C.A.</given-names></name><name><surname>&#x000d3;rf&#x000e3;o</surname><given-names>J.J.</given-names></name><name><surname>Pereira</surname><given-names>M.F.</given-names></name><name><surname>de Farias</surname><given-names>A.M.D.</given-names></name><name><surname>Neto</surname><given-names>R.C.R.</given-names></name><name><surname>Fraga</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Ozonation of model organic compounds catalysed by nanostructured cerium oxides</article-title>
+<source>Appl. Catal. B</source>
+<year>2011</year>
+<volume>103</volume>
+<fpage>190</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="doi">10.1016/j.apcatb.2011.01.026</pub-id>
+</element-citation></ref><ref id="B75-sensors-16-01931"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Qiu</surname><given-names>J.</given-names></name></person-group>
+<article-title>A review of carbon dots in biological applications</article-title>
+<source>J. Mater. Sci.</source>
+<year>2016</year>
+<volume>51</volume>
+<fpage>4728</fpage>
+<lpage>4738</lpage>
+<pub-id pub-id-type="doi">10.1007/s10853-016-9797-7</pub-id>
+</element-citation></ref><ref id="B76-sensors-16-01931"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hola</surname><given-names>K.</given-names></name><name><surname>Bourlinos</surname><given-names>A.B.</given-names></name><name><surname>Kozak</surname><given-names>O.</given-names></name><name><surname>Berka</surname><given-names>K.</given-names></name><name><surname>Siskova</surname><given-names>K.M.</given-names></name><name><surname>Havrdova</surname><given-names>M.</given-names></name></person-group>
+<article-title>Photoluminescence effects of graphitic core size and surface functional groups in carbon dots: COO&#x02212; induced red-shift emission</article-title>
+<source>Carbon</source>
+<year>2014</year>
+<volume>70</volume>
+<fpage>279</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="doi">10.1016/j.carbon.2014.01.008</pub-id>
+</element-citation></ref><ref id="B77-sensors-16-01931"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ray</surname><given-names>S.C.</given-names></name><name><surname>Saha</surname><given-names>A.</given-names></name><name><surname>Jana</surname><given-names>N.R.</given-names></name><name><surname>Sarkar</surname><given-names>R.</given-names></name></person-group>
+<article-title>Fluorescent carbon nanoparticles: Synthesis, characterization, and bioimaging application</article-title>
+<source>J. Phys. Chem.</source>
+<year>2009</year>
+<volume>113</volume>
+<fpage>18546</fpage>
+<lpage>18551</lpage>
+<pub-id pub-id-type="doi">10.1021/jp905912n</pub-id>
+</element-citation></ref><ref id="B78-sensors-16-01931"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>S.N.</given-names></name><name><surname>Baker</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Luminescent carbon nanodots: Emergent nanolights</article-title>
+<source>Angew. Chem. Int. Ed.</source>
+<year>2010</year>
+<volume>49</volume>
+<fpage>6726</fpage>
+<lpage>6744</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.200906623</pub-id>
+<pub-id pub-id-type="pmid">20687055</pub-id></element-citation></ref><ref id="B79-sensors-16-01931"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Badawy</surname><given-names>A.M.E.</given-names></name><name><surname>Luxton</surname><given-names>T.P.</given-names></name><name><surname>Silva</surname><given-names>R.G.</given-names></name><name><surname>Scheckel</surname><given-names>K.G.</given-names></name><name><surname>Suidan</surname><given-names>M.T.</given-names></name><name><surname>Tolaymat</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Impact of environmental conditions (pH, ionic strength, and electrolyte type) on the surface charge and aggregation of silver nanoparticles suspensions</article-title>
+<source>Environ. Sci. Technol.</source>
+<year>2010</year>
+<volume>44</volume>
+<fpage>1260</fpage>
+<lpage>1266</lpage>
+<pub-id pub-id-type="doi">10.1021/es902240k</pub-id>
+<pub-id pub-id-type="pmid">20099802</pub-id></element-citation></ref><ref id="B80-sensors-16-01931"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Qiu</surname><given-names>J.</given-names></name></person-group>
+<article-title>A review of organic nanomaterials in photothermal cancer therapy</article-title>
+<source>Cancer Res. Front.</source>
+<year>2016</year>
+<volume>2</volume>
+<fpage>67</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.17980/2016.67</pub-id>
+</element-citation></ref><ref id="B81-sensors-16-01931"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shi</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>Q.</given-names></name><name><surname>Long</surname><given-names>Y.</given-names></name><name><surname>Cheng</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Zheng</surname><given-names>H.</given-names></name></person-group>
+<article-title>Carbon nanodots as peroxidase mimetics and their applications to glucose detection</article-title>
+<source>Chem. Commun.</source>
+<year>2011</year>
+<volume>47</volume>
+<fpage>6695</fpage>
+<lpage>6697</lpage>
+<pub-id pub-id-type="doi">10.1039/c1cc11943e</pub-id>
+<pub-id pub-id-type="pmid">21562663</pub-id></element-citation></ref><ref id="B82-sensors-16-01931"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.C.</given-names></name><name><surname>Tang</surname><given-names>J.Y.</given-names></name><name><surname>Wang</surname><given-names>G.L.</given-names></name><name><surname>Zhang</surname><given-names>M.</given-names></name><name><surname>Hu</surname><given-names>X.Y.</given-names></name></person-group>
+<article-title>Facile synthesis of submicron Cu<sub>2</sub>O and CuO crystallites from a solid metallorganic molecular precursor</article-title>
+<source>J. Cryst. Growth</source>
+<year>2006</year>
+<volume>294</volume>
+<fpage>278</fpage>
+<lpage>282</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jcrysgro.2006.06.038</pub-id>
+</element-citation></ref><ref id="B83-sensors-16-01931"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xie</surname><given-names>J.</given-names></name><name><surname>Zheng</surname><given-names>Y.</given-names></name><name><surname>Ying</surname><given-names>J.Y.</given-names></name></person-group>
+<article-title>Protein-directed synthesis of highly fluorescent gold nanoclusters</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2009</year>
+<volume>131</volume>
+<fpage>888</fpage>
+<lpage>889</lpage>
+<pub-id pub-id-type="doi">10.1021/ja806804u</pub-id>
+<pub-id pub-id-type="pmid">19123810</pub-id></element-citation></ref><ref id="B84-sensors-16-01931"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>C.</given-names></name><name><surname>Irudayaraj</surname><given-names>J.</given-names></name></person-group>
+<article-title>Fluorescent Ag clusters via a protein-directed approach as a Hg (II) ion sensor</article-title>
+<source>Anal. Chem.</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>2883</fpage>
+<lpage>2889</lpage>
+<pub-id pub-id-type="doi">10.1021/ac1032403</pub-id>
+<pub-id pub-id-type="pmid">21425773</pub-id></element-citation></ref><ref id="B85-sensors-16-01931"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>W.</given-names></name><name><surname>Yuan</surname><given-names>J.</given-names></name><name><surname>Dong</surname><given-names>Q.</given-names></name><name><surname>Wang</surname><given-names>E.</given-names></name></person-group>
+<article-title>Highly sequence-dependent formation of fluorescent silver nanoclusters in hybridized DNA duplexes for single nucleotide mutation identification</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2009</year>
+<volume>132</volume>
+<fpage>932</fpage>
+<lpage>934</lpage>
+<pub-id pub-id-type="doi">10.1021/ja907075s</pub-id>
+<pub-id pub-id-type="pmid">20038102</pub-id></element-citation></ref><ref id="B86-sensors-16-01931"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lan</surname><given-names>G.-Y.</given-names></name><name><surname>Huang</surname><given-names>C.-C.</given-names></name><name><surname>Chang</surname><given-names>H.-T.</given-names></name></person-group>
+<article-title>Silver nanoclusters as fluorescent probes for selective and sensitive detection of copper ions</article-title>
+<source>Chem. Commun.</source>
+<year>2010</year>
+<volume>46</volume>
+<fpage>1257</fpage>
+<lpage>1259</lpage>
+<pub-id pub-id-type="doi">10.1039/b920783j</pub-id>
+<pub-id pub-id-type="pmid">20449269</pub-id></element-citation></ref><ref id="B87-sensors-16-01931"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duan</surname><given-names>H.</given-names></name><name><surname>Nie</surname><given-names>S.</given-names></name></person-group>
+<article-title>Etching colloidal gold nanocrystals with hyperbranched and multivalent polymers: A new route to fluorescent and water-soluble atomic clusters</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2007</year>
+<volume>129</volume>
+<fpage>2412</fpage>
+<lpage>2413</lpage>
+<pub-id pub-id-type="doi">10.1021/ja067727t</pub-id>
+<pub-id pub-id-type="pmid">17295485</pub-id></element-citation></ref><ref id="B88-sensors-16-01931"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharma</surname><given-names>J.</given-names></name><name><surname>Yeh</surname><given-names>H.-C.</given-names></name><name><surname>Yoo</surname><given-names>H.</given-names></name><name><surname>Werner</surname><given-names>J.H.</given-names></name><name><surname>Martinez</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Silver nanocluster aptamers: In situ generation of intrinsically fluorescent recognition ligands for protein detection</article-title>
+<source>Chem. Commun.</source>
+<year>2011</year>
+<volume>47</volume>
+<fpage>2294</fpage>
+<lpage>2296</lpage>
+<pub-id pub-id-type="doi">10.1039/C0CC03711G</pub-id>
+<pub-id pub-id-type="pmid">21152540</pub-id></element-citation></ref><ref id="B89-sensors-16-01931"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>L.</given-names></name><name><surname>Han</surname><given-names>S.</given-names></name><name><surname>Parveen</surname><given-names>S.</given-names></name><name><surname>Yuan</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Xu</surname><given-names>G.</given-names></name></person-group>
+<article-title>Highly sensitive fluorescent detection of trypsin based on BSA-stabilized gold nanoclusters</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>297</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2011.12.007</pub-id>
+<pub-id pub-id-type="pmid">22209331</pub-id></element-citation></ref><ref id="B90-sensors-16-01931"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goswami</surname><given-names>N.</given-names></name><name><surname>Giri</surname><given-names>A.</given-names></name><name><surname>Bootharaju</surname><given-names>M.</given-names></name><name><surname>Xavier</surname><given-names>P.L.</given-names></name><name><surname>Pradeep</surname><given-names>T.</given-names></name><name><surname>Pal</surname><given-names>S.K.</given-names></name></person-group>
+<article-title>Copper quantum clusters in protein matrix: potential sensor of Pb<sup>2+</sup> ion</article-title>
+<source>Anal. Chem.</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>9676</fpage>
+<lpage>9680</lpage>
+<pub-id pub-id-type="doi">10.1021/ac202610e</pub-id>
+<pub-id pub-id-type="pmid">22050123</pub-id></element-citation></ref><ref id="B91-sensors-16-01931"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>L.</given-names></name><name><surname>Yuan</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Zhao</surname><given-names>J.</given-names></name><name><surname>Majeed</surname><given-names>S.</given-names></name><name><surname>Xu</surname><given-names>G.</given-names></name></person-group>
+<article-title>Copper nanoclusters as peroxidase mimetics and their applications to H<sub>2</sub>O<sub>2</sub> and glucose detection</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2013</year>
+<volume>762</volume>
+<fpage>83</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2012.11.056</pub-id>
+<pub-id pub-id-type="pmid">23327949</pub-id></element-citation></ref><ref id="B92-sensors-16-01931"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>Y.</given-names></name><name><surname>Ye</surname><given-names>J.</given-names></name><name><surname>Tan</surname><given-names>K.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>G.</given-names></name></person-group>
+<article-title>Colorimetric visualization of glucose at the submicromole level in serum by a homogenous silver nanoprism&#x02013;glucose oxidase system</article-title>
+<source>Anal.Chem.</source>
+<year>2013</year>
+<volume>85</volume>
+<fpage>6241</fpage>
+<lpage>6247</lpage>
+<pub-id pub-id-type="doi">10.1021/ac303591n</pub-id>
+<pub-id pub-id-type="pmid">23706061</pub-id></element-citation></ref><ref id="B93-sensors-16-01931"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radhakumary</surname><given-names>C.</given-names></name><name><surname>Sreenivasan</surname><given-names>K.</given-names></name></person-group>
+<article-title>Naked eye detection of glucose in urine using glucose oxidase immobilized gold nanoparticles</article-title>
+<source>Anal. Chem.</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>2829</fpage>
+<lpage>2833</lpage>
+<pub-id pub-id-type="doi">10.1021/ac1032879</pub-id>
+<pub-id pub-id-type="pmid">21391552</pub-id></element-citation></ref><ref id="B94-sensors-16-01931"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>H.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name><name><surname>Jin</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Enzymatic plasmonic engineering of Ag/Au bimetallic nanoshells and their use for sensitive optical glucose sensing</article-title>
+<source>Adv. Mater.</source>
+<year>2012</year>
+<volume>24</volume>
+<fpage>1736</fpage>
+<lpage>1740</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.201104678</pub-id>
+<pub-id pub-id-type="pmid">22388952</pub-id></element-citation></ref><ref id="B95-sensors-16-01931"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>H.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name><name><surname>Zhai</surname><given-names>Y.</given-names></name><name><surname>Jin</surname><given-names>Y.</given-names></name></person-group>
+<article-title>In situ nanoplasmonic probing of enzymatic activity of monolayer-confined glucose oxidase on colloidal nanoparticles</article-title>
+<source>Anal. Chem.</source>
+<year>2013</year>
+<volume>85</volume>
+<fpage>4546</fpage>
+<lpage>4553</lpage>
+<pub-id pub-id-type="doi">10.1021/ac4001805</pub-id>
+<pub-id pub-id-type="pmid">23531235</pub-id></element-citation></ref><ref id="B96-sensors-16-01931"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiong</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Rong</surname><given-names>P.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>W.</given-names></name><name><surname>Liu</surname><given-names>D.</given-names></name></person-group>
+<article-title>A high-throughput colorimetric assay for glucose detection based on glucose oxidase-catalyzed enlargement of gold nanoparticles</article-title>
+<source>Nanoscale</source>
+<year>2015</year>
+<volume>7</volume>
+<fpage>15584</fpage>
+<lpage>15588</lpage>
+<pub-id pub-id-type="doi">10.1039/C5NR03758A</pub-id>
+<pub-id pub-id-type="pmid">26360908</pub-id></element-citation></ref><ref id="B97-sensors-16-01931"><label>97.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Ju</surname><given-names>H.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name></person-group>
+<article-title>Nanostructured mimic enzymes for biocatalysis and biosensing</article-title>
+<source>NanoBiosensing</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2011</year>
+<fpage>85</fpage>
+<lpage>109</lpage>
+</element-citation></ref><ref id="B98-sensors-16-01931"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karakoti</surname><given-names>A.</given-names></name><name><surname>Singh</surname><given-names>S.</given-names></name><name><surname>Dowding</surname><given-names>J.M.</given-names></name><name><surname>Seal</surname><given-names>S.</given-names></name><name><surname>Self</surname><given-names>W.T.</given-names></name></person-group>
+<article-title>Redox-active radical scavenging nanomaterials</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2010</year>
+<volume>39</volume>
+<fpage>4422</fpage>
+<lpage>4432</lpage>
+<pub-id pub-id-type="doi">10.1039/b919677n</pub-id>
+<pub-id pub-id-type="pmid">20717560</pub-id></element-citation></ref><ref id="B99-sensors-16-01931"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xie</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Zheng</surname><given-names>H.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Analytical and environmental applications of nanoparticles as enzyme mimetics</article-title>
+<source>TrAC Trends Anal. Chem.</source>
+<year>2012</year>
+<volume>39</volume>
+<fpage>114</fpage>
+<lpage>129</lpage>
+<pub-id pub-id-type="doi">10.1016/j.trac.2012.03.021</pub-id>
+</element-citation></ref><ref id="B100-sensors-16-01931"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Celardo</surname><given-names>I.</given-names></name><name><surname>Pedersen</surname><given-names>J.Z.</given-names></name><name><surname>Traversa</surname><given-names>E.</given-names></name><name><surname>Ghibelli</surname><given-names>L.</given-names></name></person-group>
+<article-title>Pharmacological potential of cerium oxide nanoparticles</article-title>
+<source>Nanoscale</source>
+<year>2011</year>
+<volume>3</volume>
+<fpage>1411</fpage>
+<lpage>1420</lpage>
+<pub-id pub-id-type="doi">10.1039/c0nr00875c</pub-id>
+<pub-id pub-id-type="pmid">21369578</pub-id></element-citation></ref><ref id="B101-sensors-16-01931"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haider</surname><given-names>W.</given-names></name><name><surname>Hayat</surname><given-names>A.</given-names></name><name><surname>Raza</surname><given-names>Y.</given-names></name><name><surname>Anwar</surname><given-names>C.A.</given-names></name><name><surname>Rehman</surname><given-names>I.-U.</given-names></name><name><surname>Marty</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Gold nanoparticle decorated single walled carbon nanotube nanocomposite with synergistic peroxidase like activity for d-alanine detection</article-title>
+<source>RSC Adv.</source>
+<year>2015</year>
+<volume>5</volume>
+<fpage>24853</fpage>
+<lpage>24858</lpage>
+<pub-id pub-id-type="doi">10.1039/C5RA01258A</pub-id>
+</element-citation></ref><ref id="B102-sensors-16-01931"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Premkumar</surname><given-names>T.</given-names></name><name><surname>Mezzenga</surname><given-names>R.</given-names></name><name><surname>Geckeler</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Carbon nanotubes in the liquid phase: addressing the issue of dispersion</article-title>
+<source>Small</source>
+<year>2012</year>
+<volume>8</volume>
+<fpage>1299</fpage>
+<lpage>1313</lpage>
+<pub-id pub-id-type="doi">10.1002/smll.201101786</pub-id>
+<pub-id pub-id-type="pmid">22431156</pub-id></element-citation></ref><ref id="B103-sensors-16-01931"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>Y.S.</given-names></name><name><surname>Youn</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Influence of dispersion states of carbon nanotubes on physical properties of epoxy nanocomposites</article-title>
+<source>Carbon</source>
+<year>2005</year>
+<volume>43</volume>
+<fpage>1378</fpage>
+<lpage>1385</lpage>
+<pub-id pub-id-type="doi">10.1016/j.carbon.2005.01.007</pub-id>
+</element-citation></ref><ref id="B104-sensors-16-01931"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weng</surname><given-names>D.</given-names></name><name><surname>Lee</surname><given-names>H.</given-names></name><name><surname>Levon</surname><given-names>K.</given-names></name><name><surname>Mao</surname><given-names>J.</given-names></name><name><surname>Scrivens</surname><given-names>W.</given-names></name><name><surname>Stephens</surname><given-names>E.</given-names></name></person-group>
+<article-title>The influence of Buckminsterfullerenes and their derivatives on polymer properties</article-title>
+<source>Eur. Polym. J.</source>
+<year>1999</year>
+<volume>35</volume>
+<fpage>867</fpage>
+<lpage>878</lpage>
+<pub-id pub-id-type="doi">10.1016/S0014-3057(98)00055-X</pub-id>
+</element-citation></ref><ref id="B105-sensors-16-01931"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>She</surname><given-names>Z.W.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name><name><surname>Low</surname><given-names>M.</given-names></name><name><surname>Zhang</surname><given-names>S.Y.</given-names></name><name><surname>Liu</surname><given-names>Z.</given-names></name><name><surname>Mlayah</surname><given-names>A.</given-names></name></person-group>
+<article-title>Janus Au-TiO<sub>2</sub> Photocatalysts with Strong Localization of Plasmonic Near-Fields for Efficient Visible-Light Hydrogen Generation</article-title>
+<source>Adv. Mater.</source>
+<year>2012</year>
+<volume>24</volume>
+<fpage>2310</fpage>
+<lpage>2314</lpage>
+<pub-id pub-id-type="pmid">22467121</pub-id></element-citation></ref><ref id="B106-sensors-16-01931"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kokubo</surname><given-names>K.</given-names></name><name><surname>Shirakawa</surname><given-names>S.</given-names></name><name><surname>Kobayashi</surname><given-names>N.</given-names></name><name><surname>Aoshima</surname><given-names>H.</given-names></name><name><surname>Oshima</surname><given-names>T.</given-names></name></person-group>
+<article-title>Facile and scalable synthesis of a highly hydroxylated water-soluble fullerenol as a single nanoparticle</article-title>
+<source>Nano Res.</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>204</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1007/s12274-010-0071-z</pub-id>
+</element-citation></ref><ref id="B107-sensors-16-01931"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Hai</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>X.-W.</given-names></name><name><surname>Wang</surname><given-names>J.-H.</given-names></name></person-group>
+<article-title>In situ growth of silver nanoparticles on graphene quantum dots for ultrasensitive colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose</article-title>
+<source>Anal. Chem.</source>
+<year>2014</year>
+<volume>86</volume>
+<fpage>6689</fpage>
+<lpage>6694</lpage>
+<pub-id pub-id-type="doi">10.1021/ac501497d</pub-id>
+<pub-id pub-id-type="pmid">24862345</pub-id></element-citation></ref><ref id="B108-sensors-16-01931"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>C.-J.</given-names></name><name><surname>Lin</surname><given-names>C.-Y.</given-names></name><name><surname>Liu</surname><given-names>C.-H.</given-names></name><name><surname>Cheng</surname><given-names>T.-L.</given-names></name><name><surname>Tseng</surname><given-names>W.-L.</given-names></name></person-group>
+<article-title>Synthesis of poly (diallyldimethylammonium chloride)-coated Fe<sub>3</sub>O<sub>4</sub> nanoparticles for colorimetric sensing of glucose and selective extraction of thiol</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2010</year>
+<volume>26</volume>
+<fpage>913</fpage>
+<lpage>917</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2010.06.069</pub-id>
+<pub-id pub-id-type="pmid">20656467</pub-id></element-citation></ref><ref id="B109-sensors-16-01931"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dutta</surname><given-names>A.K.</given-names></name><name><surname>Maji</surname><given-names>S.K.</given-names></name><name><surname>Biswas</surname><given-names>P.</given-names></name><name><surname>Adhikary</surname><given-names>B.</given-names></name></person-group>
+<article-title>New peroxidase-substrate 3,5-di-tert-butylcatechol for colorimetric determination of blood glucose in presence of Prussian Blue-modified iron oxide nanoparticles</article-title>
+<source>Sens. Actuators B</source>
+<year>2013</year>
+<volume>177</volume>
+<fpage>676</fpage>
+<lpage>683</lpage>
+<pub-id pub-id-type="doi">10.1016/j.snb.2012.11.074</pub-id>
+</element-citation></ref><ref id="B110-sensors-16-01931"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>B.</given-names></name><name><surname>Wu</surname><given-names>S.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>He</surname><given-names>X.</given-names></name></person-group>
+<article-title>Colorimetric detection of hydrogen peroxide and glucose using the magnetic mesoporous silica nanoparticles</article-title>
+<source>Talanta</source>
+<year>2015</year>
+<volume>134</volume>
+<fpage>712</fpage>
+<lpage>717</lpage>
+<pub-id pub-id-type="doi">10.1016/j.talanta.2014.12.013</pub-id>
+<pub-id pub-id-type="pmid">25618726</pub-id></element-citation></ref><ref id="B111-sensors-16-01931"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>W.</given-names></name><name><surname>Hao</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Lu</surname><given-names>B.</given-names></name><name><surname>Zhang</surname><given-names>B.</given-names></name><name><surname>Tang</surname><given-names>J.</given-names></name></person-group>
+<article-title>Co<sub>x</sub>Fe<sub>3&#x02212;x</sub>O<sub>4</sub> hierarchical nanocubes as peroxidase mimetics and their applications in H<sub>2</sub>O<sub>2</sub> and glucose detection</article-title>
+<source>Rsc Adv.</source>
+<year>2014</year>
+<volume>4</volume>
+<fpage>35500</fpage>
+<lpage>35504</lpage>
+<pub-id pub-id-type="doi">10.1039/C4RA03859B</pub-id>
+</element-citation></ref><ref id="B112-sensors-16-01931"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jiang</surname><given-names>X.</given-names></name><name><surname>Sun</surname><given-names>C.</given-names></name><name><surname>Guo</surname><given-names>Y.</given-names></name><name><surname>Nie</surname><given-names>G.</given-names></name><name><surname>Xu</surname><given-names>L.</given-names></name></person-group>
+<article-title>Peroxidase-like activity of apoferritin paired gold clusters for glucose detection</article-title>
+<source>Biosens. Bioelectron.</source>
+<year>2015</year>
+<volume>64</volume>
+<fpage>165</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bios.2014.08.078</pub-id>
+<pub-id pub-id-type="pmid">25218100</pub-id></element-citation></ref><ref id="B113-sensors-16-01931"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>F.</given-names></name><name><surname>Hou</surname><given-names>X.</given-names></name><name><surname>Xu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Highly sensitive colorimetric detection of glucose in a serum based on DNA-embeded Au@Ag core&#x02013;shell nanoparticles</article-title>
+<source>Nanotechnology</source>
+<year>2015</year>
+<volume>26</volume>
+<fpage>405707</fpage>
+<pub-id pub-id-type="doi">10.1088/0957-4484/26/40/405707</pub-id>
+<pub-id pub-id-type="pmid">26376788</pub-id></element-citation></ref><ref id="B114-sensors-16-01931"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qiao</surname><given-names>F.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Xu</surname><given-names>K.</given-names></name><name><surname>Ai</surname><given-names>S.</given-names></name></person-group>
+<article-title>Double enzymatic cascade reactions within FeSe&#x02013;Pt@SiO<sub>2</sub> nanospheres: synthesis and application toward colorimetric biosensing of H<sub>2</sub>O<sub>2</sub> and glucose</article-title>
+<source>Analyst</source>
+<year>2015</year>
+<volume>140</volume>
+<fpage>6684</fpage>
+<lpage>6691</lpage>
+<pub-id pub-id-type="doi">10.1039/C5AN01268F</pub-id>
+<pub-id pub-id-type="pmid">26328477</pub-id></element-citation></ref><ref id="B115-sensors-16-01931"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>C.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Yu</surname><given-names>F.</given-names></name><name><surname>Tang</surname><given-names>L.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Multifunctional janus hematite&#x02013;silica nanoparticles: mimicking peroxidase-like activity and sensitive colorimetric detection of glucose</article-title>
+<source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>
+<volume>7</volume>
+<fpage>15395</fpage>
+<lpage>15402</lpage>
+<pub-id pub-id-type="doi">10.1021/acsami.5b03423</pub-id>
+<pub-id pub-id-type="pmid">26110779</pub-id></element-citation></ref><ref id="B116-sensors-16-01931"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Han</surname><given-names>L.</given-names></name><name><surname>Zeng</surname><given-names>L.</given-names></name><name><surname>Wei</surname><given-names>M.</given-names></name><name><surname>Li</surname><given-names>C.M.</given-names></name><name><surname>Liu</surname><given-names>A.</given-names></name></person-group>
+<article-title>AV<sub>2</sub>O<sub>3</sub>-ordered mesoporous carbon composite with novel peroxidase-like activity towards the glucose colorimetric assay</article-title>
+<source>Nanoscale</source>
+<year>2015</year>
+<volume>7</volume>
+<fpage>11678</fpage>
+<lpage>11685</lpage>
+<pub-id pub-id-type="doi">10.1039/C5NR02694F</pub-id>
+<pub-id pub-id-type="pmid">26099042</pub-id></element-citation></ref><ref id="B117-sensors-16-01931"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>L.</given-names></name><name><surname>Song</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Rong</surname><given-names>M.</given-names></name><name><surname>Zhao</surname><given-names>T.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Intrinsic peroxidase-like catalytic activity of nitrogen-doped graphene quantum dots and their application in the colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2015</year>
+<volume>869</volume>
+<fpage>89</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2015.02.024</pub-id>
+<pub-id pub-id-type="pmid">25818144</pub-id></element-citation></ref><ref id="B118-sensors-16-01931"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Luo</surname><given-names>Z.</given-names></name><name><surname>Huang</surname><given-names>X.</given-names></name><name><surname>Tan</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name></person-group>
+<article-title>Liquid-phase growth of platinum nanoparticles on molybdenum trioxide nanosheets: An enhanced catalyst with intrinsic peroxidase-like catalytic activity</article-title>
+<source>Nanoscale</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>12340</fpage>
+<lpage>12344</lpage>
+<pub-id pub-id-type="doi">10.1039/C4NR04115A</pub-id>
+<pub-id pub-id-type="pmid">25188584</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="sensors-16-01931-f001" position="float"><label>Figure 1</label><caption><p>Classification of nanomaterial-based artificial enzymes (nanozymes).</p></caption><graphic xlink:href="sensors-16-01931-g001"/></fig><fig id="sensors-16-01931-f002" position="float"><label>Figure 2</label><caption><p>Colorimetric detection of H<sub>2</sub>O<sub>2</sub> and glucose based on Fe<sub>3</sub>O<sub>4</sub> nanozyme as peroxidase mimic.</p></caption><graphic xlink:href="sensors-16-01931-g002"/></fig><fig id="sensors-16-01931-f003" position="float"><label>Figure 3</label><caption><p>Ceria Paper based, colorimetric glucose sensor, color change of nanoceria-based filter paper from white (1)-yellow (2) to dark orange (3) [<xref rid="B70-sensors-16-01931" ref-type="bibr">70</xref>].</p></caption><graphic xlink:href="sensors-16-01931-g003"/></fig><fig id="sensors-16-01931-f004" position="float"><label>Figure 4</label><caption><p>Colorimetric detection of glucose by using glucose oxidase (GOx) and a Cu NCs-catalyzed color reaction [<xref rid="B91-sensors-16-01931" ref-type="bibr">91</xref>].</p></caption><graphic xlink:href="sensors-16-01931-g004"/></fig><fig id="sensors-16-01931-f005" position="float"><label>Figure 5</label><caption><p>Colorimetric detection of glucose by using GOx catalyzed reaction (<bold>A</bold>) and Pt-MoO<sub>3</sub> hybrid nanomaterials as catalysts (<bold>B</bold>) [<xref rid="B118-sensors-16-01931" ref-type="bibr">118</xref>].</p></caption><graphic xlink:href="sensors-16-01931-g005"/></fig><table-wrap id="sensors-16-01931-t001" position="float"><object-id pub-id-type="pii">sensors-16-01931-t001_Table 1</object-id><label>Table 1</label><caption><p>Analytical performance comparison of the single component nanozyme methods for the detection of glucose.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Nanozymes</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Limit of Detection (LOD)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Linear Range</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Real Sample Test</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Fe<sub>3</sub>O<sub>4</sub> MNPs</td><td align="center" valign="middle" rowspan="1" colspan="1">30 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">50&#x02013;1 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B34-sensors-16-01931" ref-type="bibr">34</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Positively-charged AuNPs</td><td align="center" valign="middle" rowspan="1" colspan="1">4 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">18&#x02013;1100 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B67-sensors-16-01931" ref-type="bibr">67</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Nanoceria</td><td align="center" valign="middle" rowspan="1" colspan="1">500 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">5 &#x000d7; 10<sup>2</sup>&#x02013;1 &#x000d7; 10<sup>5</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B70-sensors-16-01931" ref-type="bibr">70</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">C-dots</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1&#x02013;5 &#x000d7; 10<sup>2</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B81-sensors-16-01931" ref-type="bibr">81</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Water soluble CuO NPs</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">1 &#x000d7; 10<sup>2</sup>&#x02013;8 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B49-sensors-16-01931" ref-type="bibr">49</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Re-dispersed CeO<sub>2</sub> NPs</td><td align="center" valign="middle" rowspan="1" colspan="1">3 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">6.6&#x02013;130 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B72-sensors-16-01931" ref-type="bibr">72</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Copper nanoclusters</td><td align="center" valign="middle" rowspan="1" colspan="1">100 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1 &#x000d7; 10<sup>2</sup>&#x02013;2 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B91-sensors-16-01931" ref-type="bibr">91</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Ag nanoplates</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">0.2&#x02013;1 &#x000d7; 10<sup>2</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B92-sensors-16-01931" ref-type="bibr">92</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">AuNPs</td><td align="center" valign="middle" rowspan="1" colspan="1">49 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1 &#x000d7; 10<sup>2</sup>&#x02013;1 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B96-sensors-16-01931" ref-type="bibr">96</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MPs</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.74 &#x000b5;M</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B32-sensors-16-01931" ref-type="bibr">32</xref>]</td></tr></tbody></table></table-wrap><table-wrap id="sensors-16-01931-t002" position="float"><object-id pub-id-type="pii">sensors-16-01931-t002_Table 2</object-id><label>Table 2</label><caption><p>Analytical performance comparison of the multi component nanozyme methods for the detection of glucose.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Nanozymes</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Limit of Detection (LOD)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Linear Range</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Real Sample Test</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">GO-COOH</td><td align="center" valign="middle" rowspan="1" colspan="1">1 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1&#x02013;20 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum, juices</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B16-sensors-16-01931" ref-type="bibr">16</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Ch-Ag NPs</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">5&#x02013;200 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B66-sensors-16-01931" ref-type="bibr">66</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">PDDA-Fe<sub>2</sub>O<sub>3</sub></td><td align="center" valign="middle" rowspan="1" colspan="1">30 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">30&#x02013;1 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B108-sensors-16-01931" ref-type="bibr">108</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">ZnFe<sub>2</sub>O<sub>4</sub> MNPs</td><td align="center" valign="middle" rowspan="1" colspan="1">0.3 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1.25&#x02013;18.75 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Urine sample</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B41-sensors-16-01931" ref-type="bibr">41</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">C<sub>60</sub>[C(COOH)<sub>2</sub>]<sub>2</sub></td><td align="center" valign="middle" rowspan="1" colspan="1">0.5 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B21-sensors-16-01931" ref-type="bibr">21</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">PB-Fe<sub>2</sub>O<sub>3</sub></td><td align="center" valign="middle" rowspan="1" colspan="1">0.16 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">1&#x02013;80 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B109-sensors-16-01931" ref-type="bibr">109</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Fe<sub>3</sub>O<sub>4</sub>@MSN</td><td align="center" valign="middle" rowspan="1" colspan="1">4 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">10&#x02013;500 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B110-sensors-16-01931" ref-type="bibr">110</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">GQDs/AgNPs</td><td align="center" valign="middle" rowspan="1" colspan="1">0.17 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">0.5&#x02013;400 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B107-sensors-16-01931" ref-type="bibr">107</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">CF nano-cubes</td><td align="center" valign="middle" rowspan="1" colspan="1">2.47 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">8&#x02013;90 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B111-sensors-16-01931" ref-type="bibr">111</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Apoferritin paired gold clusters (Au-Ft)</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">2 &#x000d7; 10<sup>3</sup>&#x02013;1 &#x000d7; 10<sup>4</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B112-sensors-16-01931" ref-type="bibr">112</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">DNA-embedded core-shell Au@Ag NPs</td><td align="center" valign="middle" rowspan="1" colspan="1">0.01 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">0&#x02013;2 &#x000d7; 10<sup>2</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Fetal bovine serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B113-sensors-16-01931" ref-type="bibr">113</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">FeSe-Pt@SiO<sub>2</sub> nanospheres</td><td align="center" valign="middle" rowspan="1" colspan="1">1.136 nM</td><td align="center" valign="middle" rowspan="1" colspan="1">0.01136&#x02013;227 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B114-sensors-16-01931" ref-type="bibr">114</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">V<sub>2</sub>O<sub>3</sub>-OMC</td><td align="center" valign="middle" rowspan="1" colspan="1">3.3 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">10&#x02013;4 &#x000d7; 10<sup>3</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B116-sensors-16-01931" ref-type="bibr">116</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Janus &#x003b3;-Fe<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub> NPs</td><td align="center" valign="middle" rowspan="1" colspan="1">3.2 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">0&#x02013;20 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Human Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B115-sensors-16-01931" ref-type="bibr">115</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">H<sub>2</sub>TCPP-NiO nanocomposites</td><td align="center" valign="middle" rowspan="1" colspan="1">20 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">50&#x02013;5 &#x000d7; 10<sup>2</sup> &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B53-sensors-16-01931" ref-type="bibr">53</xref>]</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Nitrogen-doped graphene quantum dots</td><td align="center" valign="middle" rowspan="1" colspan="1">16 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">25&#x02013;375 &#x000b5;M</td><td align="center" valign="middle" rowspan="1" colspan="1">Serum</td><td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B117-sensors-16-01931" ref-type="bibr">117</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pt-MoO<sub>3</sub> hybrid nanomaterials</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1874 &#x000b5;M</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5&#x02013;500 &#x000b5;M</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Serum</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B118-sensors-16-01931" ref-type="bibr">118</xref>]</td></tr></tbody></table></table-wrap></floats-group></article>

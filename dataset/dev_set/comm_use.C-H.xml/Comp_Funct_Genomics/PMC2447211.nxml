@@ -1,0 +1,35 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Comp Funct Genomics</journal-id><journal-title>Comparative and Functional Genomics</journal-title><issn pub-type="ppub">1531-6912</issn><issn pub-type="epub">1532-6268</issn><publisher><publisher-name>Hindawi Publishing Corporation</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">18628914</article-id><article-id pub-id-type="pmc">2447211</article-id>
+        <article-id pub-id-type="pii">S153169120100033X</article-id>
+        <article-id pub-id-type="doi">10.1002/cfg.93</article-id>
+    <article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>SAND, a New Protein Family: From Nucleic Acid to Protein Structure and Function Prediction</article-title></title-group><contrib-group>
+        <contrib contrib-type="author"><name><surname>Cottage</surname><given-names>Amanda</given-names></name></contrib>
+        <contrib contrib-type="author"><name><surname>Edwards</surname><given-names>Yvonne J. K.</given-names></name></contrib>
+                    <contrib contrib-type="author" corresp="yes"><name><surname>Elgar</surname><given-names>Greg</given-names></name><address><email>gelgar@hgmp.mrc.ac.uk</email></address></contrib>
+                    </contrib-group>
+            <aff id="aff"><label/>
+                <addr-line>UK Human Genome mapping Project Resource Centre</addr-line>
+                <addr-line>Wellcome Trust Genome Campus</addr-line>
+                <addr-line>Hinxton, Cambridge</addr-line>
+                <addr-line>CB10 1SB</addr-line>
+                <country>UK</country>
+            </aff>
+            <pub-date pub-type="ppub"><month>8</month><year>2001</year></pub-date><volume>2</volume><issue>4</issue><fpage>226</fpage><lpage>235</lpage><history><date date-type="received"><day>1</day><month>5</month><year>2001</year></date><date date-type="accepted"><day>21</day><month>6</month><year>2001</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2001 Hindawi Publishing Corporation.</copyright-statement><copyright-year>2001</copyright-year><copyright-holder>Hindawi Publishing Corporation</copyright-holder><license license-type="open-access" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by/"><p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p></license></permissions><abstract>
+            <p>As a result of genome, EST and cDNA sequencing projects, there are huge numbers of
+predicted and/or partially characterised protein sequences compared with a relatively small
+number of proteins with experimentally determined function and structure. Thus, there is a
+considerable attention focused on the accurate prediction of gene function and structure
+from sequence by using bioinformatics. In the course of our analysis of genomic sequence
+from <italic>Fugu rubripes</italic>, we identified a novel gene, <italic>SAND</italic>, with significant sequence identity to
+hypothetical proteins predicted in <italic>Saccharomyces cerevisiae, Schizosaccharomyces pombe,
+Caenorhabditis elegans</italic>, a <italic>Drosophila melanogaster</italic> gene, and mouse and human cDNAs.
+Here we identify a further <italic>SAND</italic> homologue in human and <italic>Arabidopsis thaliana</italic> by use of
+standard computational tools. We describe the genomic organisation of <italic>SAND</italic> in these
+evolutionarily divergent species and identify sequence homologues from EST database
+searches confirming the expression of SAND in over 20 different eukaryotes. We confirm
+the expression of two different SAND paralogues in mammals and determine expression of
+one SAND in other vertebrates and eukaryotes. Furthermore, we predict structural
+properties of SAND, and characterise conserved sequence motifs in this protein family.</p>
+        </abstract></article-meta></front></article>
+
+

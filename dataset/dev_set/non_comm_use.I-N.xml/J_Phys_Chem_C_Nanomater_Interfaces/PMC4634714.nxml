@@ -1,0 +1,716 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem C Nanomater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem C Nanomater Interfaces</journal-id><journal-id journal-id-type="publisher-id">jy</journal-id><journal-id journal-id-type="coden">jpccck</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry. C, Nanomaterials and Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1932-7447</issn><issn pub-type="epub">1932-7455</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26568779</article-id><article-id pub-id-type="pmc">4634714</article-id><article-id pub-id-type="doi">10.1021/jp511838q</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Feasibility of Valence-to-Core X-ray Emission
+Spectroscopy for Tracking Transient Species</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>March</surname><given-names>Anne Marie</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Assefa</surname><given-names>Tadesse
+A.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Bressler</surname><given-names>Christian</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Doumy</surname><given-names>Gilles</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Galler</surname><given-names>Andreas</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Gawelda</surname><given-names>Wojciech</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Kanter</surname><given-names>Elliot
+P.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>N&#x000e9;meth</surname><given-names>Zolt&#x000e1;n</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>P&#x000e1;pai</surname><given-names>M&#x000e1;ty&#x000e1;s</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Southworth</surname><given-names>Stephen
+H.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Young</surname><given-names>Linda</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><name><surname>Vank&#x000f3;</surname><given-names>Gy&#x000f6;rgy</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>X-ray Science Division, <institution>Argonne National Laboratory</institution>, Argonne, Illinois 60439, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label><institution>European XFEL</institution>, Albert-Einstein-Ring 19, 22761 Hamburg, <country>Germany</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>The Hamburg Centre for Ultrafast Imaging</institution>, Luruper Chaussee 149, 22761 Hamburg, <country>Germany</country></aff><aff id="aff4"><label>&#x02225;</label>Wigner Research Centre for Physics, <institution>Hungarian
+Academy Sciences</institution>, H-1525 Budapest, <country>Hungary</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>amarch@anl.gov</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>vanko.gyorgy@wigner.mta.hu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>02</month><year>2015</year></pub-date><pub-date pub-type="ppub"><day>02</day><month>07</month><year>2015</year></pub-date><volume>119</volume><issue>26</issue><issue-title>Steven J.
+Sibener Festschrift</issue-title><fpage>14571</fpage><lpage>14578</lpage><history><date date-type="received"><day>26</day><month>11</month><year>2014</year></date><date date-type="rev-recd"><day>22</day><month>01</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015 American Chemical
+Society</copyright-statement><copyright-year>2015</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-11838q_0005" id="ab-tgr1"/></p><p>X-ray spectroscopies, when combined
+in laser-pump, X-ray-probe measurement schemes, can be powerful tools
+for tracking the electronic and geometric structural changes that
+occur during the course of a photoinitiated chemical reaction. X-ray
+absorption spectroscopy (XAS) is considered an established technique
+for such measurements, and X-ray emission spectroscopy (XES) of the
+strongest core-to-core emission lines (K&#x003b1; and K&#x003b2;) is now
+being utilized. Flux demanding valence-to-core XES promises to be
+an important addition to the time-resolved spectroscopic toolkit.
+In this paper we present measurements and density functional theory
+calculations on laser-excited, solution-phase ferrocyanide that demonstrate
+the feasibility of valence-to-core XES for time-resolved experiments.
+We discuss technical improvements that will make valence-to-core XES
+a practical pump&#x02013;probe technique.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jp511838q</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jp-2014-11838q</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Hard X-ray spectroscopies are powerful
+tools for probing the electronic and geometric structure of molecules
+in complex or disordered systems<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> and have
+been particularly useful for studying molecules in the solution phase.
+Unlike UV, VIS, or IR spectroscopic techniques they are element specific,
+sensitive to the electronic structure and the local arrangements of
+surrounding atoms of the element being selectively probed. Additionally,
+in contrast to soft X-ray techniques, they readily penetrate matter
+and do not require ultrahigh vacuum conditions making <italic>in situ</italic> or <italic>operando</italic> measurements feasible.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> When combined in a pump&#x02013;probe scheme with ultrafast lasers,
+X-ray spectroscopies can be used to track the evolution of structural
+changes that occur after photoexcitation.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup></p><p>X-ray absorption spectroscopy (XAS) has been employed for
+laser pump&#x02013;X-ray probe studies.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> Here the incident
+X-ray energy is tuned across an inner shell of an element of interest
+within a molecule, and the transmission, or for dilute samples total
+fluorescence yield, is measured. Close to the edge energy, in the
+X-ray absorption near edge structure (XANES) region, the formal valence
+state and coordination geometry contribute to the spectral shape,
+and when compared with theoretical models or spectra of reference
+compounds XANES can provide insight into the chemical environment
+of the absorbing atom.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Below the core
+ionization threshold, in the pre-edge XANES region, resonances due
+to transitions from inner shell orbitals to unoccupied valence orbitals
+reveal important insights about the electronic structure of the absorbing
+atom. Above the edge, in the extended X-ray absorption fine structure
+(EXAFS) region, scattering of the outgoing photoelectron on neighboring
+atoms leads to modulations of the absorption which can be analyzed
+to yield information on the number, type, and distances of coordinating
+atoms.</p><p>X-ray emission spectroscopy (XES) has only recently been
+used in pump&#x02013;probe experiments. In nonresonant XES the incident
+X-ray energy is tuned above an inner shell edge, and the fluorescence
+emitted as an electron decays from an occupied higher-lying orbital
+to the core hole is spectrally resolved. The shapes of the different
+emission lines can yield information about the occupied orbitals,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> complementing information gained from XAS about
+unoccupied orbitals. The need for a wavelength-dispersive spectrometer
+and a smaller detected signal makes XES more challenging than XAS
+to incorporate into a pump&#x02013;probe experiment, and consequently
+it has been implemented only in the past few years. Laser-pump, X-ray-probe
+XES experiments have so far focused on studies of transition metal
+coordination complexes, measuring the core-to-core emission lines
+K&#x003b1; due to 2p &#x02192; 1s transitions and the K&#x003b2;<sub>1,3</sub> and its satellite, K&#x003b2;&#x02032;, due to 3p &#x02192; 1s transitions.
+These spectra are sensitive to the unpaired electrons in the metal
+3d orbitals, those that determine spin state, through means of the
+intra-atomic exchange interaction between the unpaired electron in
+the 2p (for K&#x003b1;) or 3p (for K&#x003b2;) core-hole final state and
+the unpaired metal 3d valence electrons.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Other details
+of the metal ion&#x02019;s chemical environment often do not have an
+appreciable impact on the core-to-core XES lineshapes, which makes
+K&#x003b1; and K&#x003b2; spectroscopy a very powerful probe of spin state.
+In most cases a quantitative value for the total spin momentum of
+the transition metal ion can be obtained from core-to-core XES spectra.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> Exceptions are where strong covalency or charge transfer additionally
+modify the line shape.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> The first laser-pump, X-ray-probe
+XES experiment<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> measured the iron K&#x003b1;<sub>1</sub> core-to-core emission line to study laser-induced spin-state
+switching in the [Fe(bpy)<sub>3</sub>]<sup>2+</sup> molecule in an
+aqueous solution. The laser excitation induced a spin transition of
+the central iron ion, from low spin (singlet) to high spin (quintet),
+that was detected as a broadening of the Fe K&#x003b1; line shape, in
+agreement with static reference spectra and theoretical simulations.
+Subsequent experiments improved dramatically on the data quality by
+using a high-repetition-rate pump&#x02013;probe scheme that used more
+of the available synchrotron X-ray flux.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> In this way the weaker iron K&#x003b2;<sub>1,3</sub> spectrum, which
+shows more conspicuous sensitivity to spin state,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> was also obtained with good signal-to-noise<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> as well as 1s2p resonant X-ray emission (RXES)
+spectra.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The [Fe(bpy)<sub>3</sub>]<sup>2+</sup> molecule was investigated with finer time resolution at
+the Linac Coherent Light Source (LCLS)<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> where by comparison of the transient core-to-core K&#x003b2; spectra
+with those from statically measured reference samples it was found
+that the complex passed through a triplet state before reaching the
+quintet. Core-to-core K&#x003b2; measurements have also been carried
+out at the LCLS to follow changes in the valence electron pairing
+of manganese in photosystem II, which in this case correspond to oxidation
+state changes.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><p>On the high energy
+tail of the transition metal core-to-core K&#x003b2;<sub>1,3</sub> line
+lies the valence-to-core (vtc) region which contains the K&#x003b2;<sub>2,5</sub> and K&#x003b2;&#x02033; lines. This region has not yet been
+utilized in a pump&#x02013;probe experiment although it has potential
+to reveal a great deal of additional information about molecular structure,
+complementing that obtained from XAS and core-to-core XES. The intensity
+of the features are several tens of times weaker than those of the
+core-to-core K&#x003b2; lines, making this region a challenge to measure.
+The valence-to-core region has recently sparked a good amount of interest,<sup><xref ref-type="bibr" rid="ref22">22</xref>&#x02212;<xref ref-type="bibr" rid="ref24">24</xref></sup> reflecting an awareness of the potential utility of this region
+and progress in the availability of theoretical calculations. The
+vtc XES features of transition metal complexes have been shown to
+be dominated by dipole transitions to the metal 1s orbital from valence
+molecular orbitals that are predominantly ligand s or p in character
+but that contain sufficient metal p mixing to make the cross section
+appreciable. In this way vtc XES probes directly valence molecular
+orbitals, those that undergo photoinitiated dynamics. This is in contrast
+to core-to-core XES which probes the changes that take place in valence
+orbitals indirectly. Vtc XES has been shown to overcome a limitation
+that is present in EXAFS spectroscopy, specifically discrimination
+of ligands containing the light atoms C, N, or O,<sup><xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref29">29</xref></sup> which is of importance in areas such as catalysis.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Additionally vtc XES has sensitivity to detect
+chemical changes in the ligands (e.g., protonation).<sup><xref ref-type="bibr" rid="ref30">30</xref>&#x02212;<xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>A tremendous strength of vtc XES is that the spectral features
+can be sufficiently modeled considering only one-electron transitions
+within ground-state density functional theory (DFT), without the need
+for the inclusion of multiplet structure, core hole, or multielectron
+excitations that are necessary to model core-to-core XES or L- and
+M-edge XANES spectra.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> This has aided experimentalists in extracting useful
+information about molecular orbitals from measured spectra, especially
+since it has been implemented in a user-friendly quantum chemistry
+software package, ORCA.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Additionally,
+this relative ease of modeling has particular utility for time-resolved
+measurements as it could help to identify transient species formed
+after photoexcitation. The transient spectrum measured in a laser-pump,
+X-ray-probe experiment is a mixture of the spectra from the ground-state
+molecule and one or more photoproducts. In order to extract structural
+information about the transient photoproducts the signal from each
+component needs to be separated. The &#x0201c;fingerprinting&#x0201d;
+or linear combination fitting (LCF)<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> approach
+in XANES spectroscopy, where linear combinations of reference spectra
+are fit to an unknown spectrum to determine the fraction of each species
+present, has long been used to determine the composition of mixed
+samples. Yet a challenge for studying laser-initiated chemical reactions
+is the lack of knowledge about the spectral shapes of the often short-lived
+photoproducts that are generated as the reaction proceeds. Reference
+samples are often not available. Calculated XANES spectra can be used
+in place of measured reference spectra, but the complexity of the
+XANES edge shape, being dependent on a combination of electronic and
+geometric factors which may not be precisely known, can lead to ambiguity.
+In the pre-edge region, the spectral features reflect 3d electronic
+structure and can be an important means to identify particular products;
+yet, often resonances can be quite small when due predominantly to
+quadrupolar transitions, and they fall within the tail of the K-edge
+making them somewhat difficult to precisely resolve experimentally,
+particularly when masked by the signals of other species. Calculated
+vtc spectra, which have been shown to exhibit substantial spectral
+variation for different species, like XANES, compared with experimental
+spectra could provide additional feedback that when used in conjunction
+with XANES and core-to-core XES could produce the desired species
+identification and perhaps even the fractions of each species.</p><p>To our knowledge no laser pump, X-ray probe vtc XES studies have
+been reported. A major hurdle is the fact that vtc emission lines
+are hundreds of time weaker than the strongest XES lines, the K&#x003b1;s.
+However, MHz pump&#x02013;probe methods developed now at several synchrotrons
+are enabling flux demanding techniques by utilizing a larger fraction
+of the available X-rays.<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref44">44</xref></sup> In this paper, we demonstrate the feasibility of vtc XES using synchrotron
+X-rays, presenting measurements of a well-known, symmetric, and very
+stable transition metal complex in a water solution after laser excitation.
+The molecule chosen was ferrocyanide, [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>, which is known to undergo two common photoinitiated
+reactions: photooxidation and photoaquation.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> At the laser excitation used, 266 nm, the dominant reaction is photooxidation.
+Here a photon promotes an electron into a charge-transfer-to-solvent
+(CTTS) manifold that yields an ejected electron along with the oxidized
+parent ion, ferricyanide [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>. In the photoaquation reaction the light excites the iron ion to
+the lowest singlet ligand field state, <sup>1</sup>T<sub>1g</sub>,
+which eventually leads to detachment of a CN<sup>&#x02013;</sup> ligand
+and substitution by H<sub>2</sub>O producing [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup>. Previous X-ray measurements
+of ferrocyanide have used XAS to study its ground-state structure<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup>and in laser-pump, X-ray-probe studies to understand its photoexcited
+dynamics.<sup><xref ref-type="bibr" rid="ref49">49</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup></p><p>In this paper we present laser-pump,
+X-ray-probe XES measurements. Time-resolved core-to-core XES spectra
+of laser-excited [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> are presented and compared to a statically measured spectrum of
+[Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>, the photooxidation
+photoproduct which is expected to be the primary photoproduct contributing
+to the time-resolved spectra. Calculated valence-to-core spectra of
+ground-state [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and of [Fe(CN)<sub>5</sub>NO]<sup>2&#x02013;</sup> are compared to
+statically measured spectra demonstrating the ability of theory to
+capture experimental details and to highlight the potential use as
+fingerprints to aid identification of and quantify amounts of transient
+species present after photoexcitation, even when such species differ
+only by one ligand. Measured vtc XES spectra of [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> are presented along with our first measurement
+of time-resolved vtc XES of laser-excited [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>. Finally we discuss technical developments
+that will enable full utilization of this technique.</p></sec><sec id="sec2"><title>Experimental
+and Theoretical Methods</title><p>Measurements were carried out at
+beamline 7ID-D at the Advanced Photon Source.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> The setup includes a high-repetition-rate laser and X-ray microprobe
+and is similar to that used in previous experiments.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> X-rays and laser are spatially
+overlapped at a fast-flowing liquid jet. The jet is 100 &#x003bc;m thick,
+&#x0223c;6 mm wide, and produced by circulating fluid with a gear pump
+through a sapphire nozzle. The flow speed is 6.5 m/s. The X-ray spot
+size (7 &#x003bc;m fwhm &#x000d7; 4 &#x003bc;m fwhm) was smaller than the
+laser spot size (30 &#x003bc;m fwhm &#x000d7; 25 &#x003bc;m fwhm) in order
+to probe only the volume with the highest excitation fraction. The
+hybrid singlet storage ring mode was used, where a single electron
+bunch with 16 mA circulates the ring at 271.6 kHz, separated by 1.594 &#x003bc;s
+on each side from a train of close-spaced bunches containing 86 mA.
+Only the singlet pulse was used for the pump&#x02013;probe experiments.
+The signal from the detector was electronically gated to isolate the
+singlet pulse signal from that due to the other bunches. The singlet
+provided 3 &#x000d7; 10<sup>11</sup> photons/s at 7.5 keV, the X-ray
+energy used, and its pulse duration of 120 ps fwhm determined the
+temporal resolution of the measurement. For the static measurements,
+all bunches were used corresponding to a flux of 2 &#x000d7; 10<sup>12</sup> photons/s. The laser repetition rate was 135.8 kHz so that the laser
+pulses overlapped every other X-ray singlet pulse. Counts from the
+laser-overlapped X-ray pulses (&#x0201c;laser-on&#x0201d;) and nonoverlapped
+X-ray pulses (&#x0201c;laser-off&#x0201d;) were tallied independently
+but simultaneously in the same experimental scan. The detected signals
+were normalized to a measure of the incident X-ray flux. The laser
+wavelength was 266 nm, and the pulse duration was 10 ps. The incident
+power on the sample was 275 mW corresponding to a laser pulse energy
+of 2 &#x003bc;J and fluence of &#x02248;130 mJ/cm<sup>2</sup>. The flow
+speed of the jet was set so that an area defined by the laser fwhm
+was cleared in the 3.7 &#x003bc;s between X-ray pulses. This ensured
+that the &#x0201c;laser-off&#x0201d; counts were due to a fresh ground-state
+sample rather than contaminated by longer lived photoproducts.</p><p>The emission spectrometer consisted of a spherically bent Si(531)
+analyzer crystal, positioned relative to the sample on a 1 m Rowland
+circle. The analyzer focused Bragg-reflected radiation onto an APD
+detector. A 1 mm slit in front of the APD reduced the background.
+The analyzer crystal was rotated, while the detector was translated
+to record an emission spectrum at a fixed incident X-ray energy. The
+energy resolution was determined by scanning the elastic scattering
+at 7060 and 7108 eV. At both energies an overall bandwidth slightly
+less than 1 eV was found.</p><p>Aqueous solutions were prepared by
+dissolving high purity K<sub>4</sub>[Fe(CN)<sub>6</sub>]&#x000b7;3H<sub>2</sub>O and K<sub>3</sub>[Fe(CN)<sub>6</sub>], purchased from Sigma-Aldrich,
+in distilled water. The concentration was 0.05 M for all time-resolved
+measurements and 0.4 M for the static measurements. A volume of 750
+mL was circulated through the liquid jet and was replaced with a fresh
+volume periodically to prevent contamination of the signal from irreversible
+photoproducts.</p><p>The static measurement on Na<sub>2</sub>[Fe(CN)<sub>5</sub>NO]&#x000b7;2H<sub>2</sub>O was obtained with a similar Rowland-circle
+spectrometer at the Inelastic Scattering (ID16) beamline of the European
+Synchrotron Radiation Facility. As the sample degraded in the X-ray
+beam, sets of consecutive X-ray absorption spectra were taken to determine
+the time scale of the decay. For the emission scans the flat pellet
+sample was moved along its face, orthogonal to the beam during the
+data collection at a speed sufficient to avoid effects of decay in
+the spectra.</p><p>The calculations of the vtc XES spectra were carried
+out with the ORCA 3.0.0 quantum chemistry program package.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> The structures of the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>, [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>, [Fe<sup>II</sup>(CN)<sub>5</sub>(NO)]<sup>2&#x02013;</sup>, and [Fe<sup>II</sup>(CN)<sub>5</sub>(H<sub>2</sub>O)]<sup>3&#x02013;</sup> complexes were optimized using the standard B3LYP<sup><xref ref-type="bibr" rid="ref53">53</xref>&#x02212;<xref ref-type="bibr" rid="ref55">55</xref></sup>/TZVP<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> DFT method. Modifications of the electronic
+structure due to the solvent were approximated with the conductor-like
+screening model (COSMO)<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> which treats
+the solvent as a dielectric continuum that surrounds a molecular cavity
+containing the solute. In the present case with water being the solvent
+the relative permittivity used was &#x003f5;<sub>r</sub> = 80.4. The
+vtc X-ray emission spectra were computed in a quasi-one-electron approach;<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> this includes the calculation of transition
+energies as the differences of core and valence orbital energies (&#x00394;<italic>E</italic> = &#x003b5;<sub>val</sub> &#x02013; &#x003b5;<sub>core</sub>) as well as the determination of the emission oscillator strengths, <italic>f</italic>, of the electric dipole transitions utilizing the formula<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-11838q_m001" position="anchor"/><label>1</label></disp-formula></p><p>Here &#x003c8;<sub>I</sub> and
+&#x003c8;<sub>F</sub> are the initial and final electronic states involved
+in the emission process, respectively, and <italic>&#x00044;&#x00302;</italic> is the electric dipole moment operator.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Spin&#x02013;orbit coupling was included in these computations by
+the application of the spin&#x02013;orbit mean field (SOMF) operator.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> The numerical integration accuracy was set to
+7.0 for the Fe atom in order to achieve a more accurate description.
+A pseudo-Voigt profile broadening was applied to account for the Lorentzian
+core-hole lifetime broadening and the Gaussian experimental broadening.
+The widths, 1.4 eV for the Lorentzian and 1.5 eV for the Gaussian,
+were chosen to best match the experimental spectrum.</p></sec><sec id="sec3"><title>Results and Discussion</title><p>Measurements of iron core-to-core (3p &#x02192; 1s) K&#x003b2; emission
+spectra of aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> are shown in Figure <xref rid="fig1" ref-type="fig">1</xref>. The spectra consist
+of a main peak, K&#x003b2;<sub>1,3</sub>, and a small and broad shoulder
+to lower energy, K&#x003b2;&#x02032;. If unpaired 3d electrons are present
+in the ion, the intra-atomic exchange interaction between the unpaired
+3p core electron in the XES final state and the unpaired 3d valence
+electrons transfers intensity into the K&#x003b2;&#x02032; region.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> A higher spin state, and therefore stronger exchange
+interaction, produces more intensity in the K&#x003b2;&#x02032; shoulder
+and a shift of the K&#x003b2;<sub>1,3</sub> peak to higher energy.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup> This higher energy shift can
+be seen in the spectra of the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> reference samples in Figure <xref rid="fig1" ref-type="fig">1</xref>(a). The [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> K&#x003b2;<sub>1,3</sub> main-line peak at &#x0223c;7057 eV shifts to &#x0223c;7058 eV in the
+[Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> spectrum, reflecting
+the change of spin state from <italic>S</italic> = 0 to <italic>S</italic> = 1/2. Additionally, a subtle increase in the K&#x003b2;&#x02032; shoulder
+is observed. Being highly covalent compounds, the K&#x003b2; lineshapes
+of [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> are somewhat more
+complex than described here.<sup><xref ref-type="bibr" rid="ref60">60</xref>,<xref ref-type="bibr" rid="ref61">61</xref></sup> However, details such
+as the effects of back-bonding on the core-to-core lines are beyond
+the scope of this paper.</p><p>Our time-resolved K&#x003b2; measurement
+of ferrocyanide is shown in Figure <xref rid="fig1" ref-type="fig">1</xref>(b). The
+laser-on curve is collected at a delay of 120 ps after excitation
+with 266 nm light. 120 ps is the delay between laser pump and X-ray
+probe where maximum changes between the laser-on and laser-off spectra
+were observed. This time delay corresponds to the pulse duration of
+the X-ray singlet pulses in the hybrid singlet operating mode and
+indicates the limit of our temporal resolution. On this time scale
+excitation to the ligand field states and subsequent CN<sup>&#x02013;</sup> dissociation or hydrated electron formation are too fast to be resolved.
+Our measured transient signals are due to the presence of the photoproducts
+that result from these initial dynamics. The difference between laser-on
+and laser-off is small but clearly observed given the small statistical
+uncertainties. We compare the transient difference to the difference
+between the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and
+[Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> reference samples
+and find the agreement is consistent with our expectation that [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> would be the dominant
+photoproduct formed. However, such an observation does not exclude
+the possibility that other photoproducts are contributing to the transient
+signal. The core-to-core K&#x003b2;&#x02019;s insensitivity to details
+of the absorbing ion&#x02019;s chemical environment except for the
+number of unpaired electrons makes it a powerful probe of spin state
+but also means that the spectra of different chemical species with
+the same or close spin momentum on the transition metal ion will look
+very similar. In the present case photoaquation is known to occur
+alongside the photo-oxidation reaction although with a much smaller
+quantum yield.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> The photoaquated product [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup>, while
+not expected to undergo a spin change, could contribute to the difference
+signal to some extent due to changes in the metal&#x02013;ligand covalency.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Additionally, the presence of an intermediate
+species such as [Fe<sup>II</sup>(CN)<sub>5</sub>]<sup>3&#x02013;</sup> which may have a different spin state from [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> could also contribute to the difference
+signal but is not distinguishable. Separating contributions from multiple
+photoproducts in core-to-core K&#x003b2; emission spectra is a challenge
+and makes obtaining useful spin-state information for products involved
+in photoinduced chemical reactions difficult.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Measured iron core-to-core
+(3p &#x02192; 1s) K&#x003b2; emission spectra. Static measurements on
+0.4 M aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> (blue) and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> (red) reference samples are shown in the top panel along with the
+difference between these spectra. The time-resolved spectrum on 0.05
+M aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> pumped
+with 266 nm light, measured 120 ps after laser excitation is shown
+in the bottom panel. The difference between laser-on and laser-off
+is compared to the scaled difference between the reference samples
+in the top panel.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-11838q_0002" id="gr1" position="float"/></fig><p>Roughly 50 eV to higher
+energy, on the tail of the core-to-core K&#x003b2;<sub>1,3</sub> spectrum,
+is the vtc region which exhibits more sensitivity to the chemical
+environment of the absorbing metal ion and hence more spectral variation
+for different chemical species than core-to-core K&#x003b2;. Measured
+and calculated vtc spectra of aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> are shown in the top panel of Figure <xref rid="fig2" ref-type="fig">2</xref>. The intensity is considerably weaker than that
+for the core-to-core K&#x003b2;<sub>1,3</sub> fluorescence, with a peak
+count rate of 130 counts per second as compared to 4200 counts per
+second. The features of the K&#x003b2;<sub>2,5</sub> spectrum are due
+to dipole transitions to the Fe 1s core from molecular orbitals that
+are primarily ligand 2p in character but mixed with some Fe 4p and,
+for molecules lacking inversion symmetry, Fe 3d.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The intensity of the spectral features is related to the
+amount of Fe <italic>n</italic>p mixing with the ligand valence orbitals.
+A greater amount of Fe <italic>n</italic>p character leads to stronger
+lines.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The calculated spectrum reproduces
+the experimental features well. The energy and intensity of the main
+transitions contributing along with representations of the molecular
+orbitals involved are shown. The calculated spectrum was shifted by
+150 eV to match the experimental spectrum. It can be seen that the
+molecular orbitals that are probed are those concentrated on the ligands
+and that have dominantly p character.</p><p>For comparison, and to
+demonstrate this region&#x02019;s sensitivity to ligand environment,
+measured and calculated vtc spectra of sodium nitroprusside are shown
+in the bottom panel of Figure <xref rid="fig2" ref-type="fig">2</xref>. [Fe(CN)<sub>5</sub>(NO)]<sup>2&#x02013;</sup> is very similar to [Fe(CN)<sub>6</sub>]<sup>4&#x02013;</sup>, being low spin and having an iron oxidation
+state of +2, but differs in that it has a NO<sup>+</sup> ligand in
+place of a CN<sup>&#x02013;</sup> ligand. This difference can be seen
+to have a dramatic impact on the vtc spectrum. In particular, a distinct
+peak at 7098 eV is present. K&#x003b2;&#x02033; satellite peaks, such
+as this, have been shown to be due to transitions from ligand 2s orbitals.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> This can be seen to be the case here from the calculation which
+indicates that the peak involves a molecular orbital concentrated
+on the N donor atom of the ligand with s character. The energy of
+the satellite peak depends on the ligand&#x02019;s 2s binding energy
+and can be used to identify the type of ligand. Since the intensity
+of this feature is correlated with the metal&#x02013;ligand distance,
+this peak is large in the [Fe(CN)<sub>5</sub>(NO)]<sup>2&#x02013;</sup> because of the short Fe&#x02013;N bond length (1.66 &#x000c5;). The
+spectrum of [Fe(CN)<sub>6</sub>]<sup>4&#x02013;</sup> has a K&#x003b2;&#x02033;
+satellite peak as well, but it is very small and broad, therefore
+not as apparent above the background in our data. The [Fe(CN)<sub>5</sub>(NO)]<sup>2&#x02013;</sup> K&#x003b2;<sub>2,5</sub> region is
+shifted to higher energy relative to the [Fe(CN)<sub>6</sub>]<sup>4&#x02013;</sup> spectrum. As demonstrated in ref (<xref ref-type="bibr" rid="ref23">23</xref>) the vtc spectrum is sensitive
+to the effective nuclear charge on the metal, decreasing in energy
+upon reduction. Here the negatively charged CN ligand has been replaced
+by a positively charged NO ligand leading to an effective charge difference
+of +2 and a corresponding shift of the vtc spectrum to higher energy.</p><p>Our first measurement of time-resolved vtc XES is shown in the
+top panel of Figure <xref rid="fig3" ref-type="fig">3</xref>. These four data points
+are the difference between laser-on and laser-off 120 ps after 266
+nm excitation of 50 mM aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>. Each data point results from a total of 2 h integration.
+The emission spectrometer was cycled through the four emission energies
+sitting at each for 2 min at a time. These points are compared to
+the difference between static measurements of 0.4 M aqueous [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>. As the dominant photoproduct
+is expected to be [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> it is encouraging that the time-resolved points lie close to this
+difference signal. However, the photoaquated product [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> is also expected
+to be present. This complex is unstable and difficult to measure alone
+in a static measurement, so to determine its vtc spectrum we turn
+to calculations. The lower panel of Figure <xref rid="fig3" ref-type="fig">3</xref> shows calculated spectra for [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>, [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>, and [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup>. The [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> spectra are in excellent
+agreement with the experimental spectra. The [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> spectrum is shifted to higher energy
+with respect to the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> spectrum due here also to the change in the effective nuclear charge
+on the metal. The calculated [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> spectrum is very similar to the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> spectrum, exhibiting
+only a loss of signal amplitude. This stems from the fact that the
+Fe&#x02013;O distance is rather large in the [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> complex (2.19 &#x000c5; as
+opposed to 1.92 &#x000c5; for the Fe&#x02013;C distance in the Fe&#x02013;CN
+bonds), leading to little overlap of the O 2s and 2p orbitals with
+the Fe center and therefore negligible contribution to the signal.
+In effect the spectrum is due to five CN ligands as opposed to six,
+and therefore the intensity of the signal is less. The symmetry of
+[Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> is distorted relative to [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>, and this difference in geometrical arrangement of the CN ligands
+around the Fe center does not appear to influence the shape of the
+spectra, similar to findings in ref (<xref ref-type="bibr" rid="ref23">23</xref>).</p><p>The difference spectra shown in the lower
+panel of Figure <xref rid="fig3" ref-type="fig">3</xref> are the difference between
+[Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup>, to be compared to
+the measured difference signal in the top panel, and the differences
+assuming both [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> and [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> are present. For the latter the relative amounts of [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> and [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup> are taken to be 3:1. This
+has been estimated from literature values for the quantum yields for
+the two reactions: &#x003d5; = 0.52 for the photoaquation reaction at
+266 nm as reported by Shirom and Stein<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> and &#x003d5;
+&#x02248; 0.19 for the photoaquation reaction which is our estimated
+extrapolation from the quantum yield reported at 254 nm.<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> Detection of the presence of the [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02212;</sup> product based
+on this valence-to-core measurement alone is difficult due to the
+similarity of its spectral shape to that of the ground state molecule.
+However, combined with XANES valuable information can be obtained.
+The XANES spectra of [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02212;</sup>, [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02212;</sup>, and [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02212;</sup> will
+differ due to their different geometries, valence states, and 3d electronic
+structure. Because the spectral shape is known from static measurements,
+the fraction of [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02212;</sup> present can be directly determined from the XANES measurement. Given
+this fraction, the contribution of [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02212;</sup> to the measured valence-to-core difference
+signal can be removed and the remaining signal amplitude will yield
+the fraction of [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02212;</sup>. The fractions obtained from these techniques can
+then be used as valuable input for EXAFS or X-ray diffuse scattering
+analysis.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>To be able to extract
+meaningful information more time-resolved data points are obviously
+needed. We estimate that a factor of 5 to 25 times more points (with
+improved statistics) could constitute a definitive time-resolved vtc
+spectrum. This would be 20 to 100 points which in the present case
+would correspond to 1&#x02013;0.2 eV per point, the latter being more
+than enough resolution to distinguish features similar to those of
+Figure <xref rid="fig2" ref-type="fig">2</xref>. Straightforward improvements to increase
+the fluorescence detection efficiency along with the incident X-ray
+flux will make collection of such time-resolved vtc spectra possible.
+The spectrometer used for our measurements consists of one 10 cm diameter
+crystal analyzer. The reflective portion is 8.6 cm in diameter which
+subtends a small solid angle of 0.006 sr, or 0.05% of 4&#x003c0;. Detection
+efficiency can be improved simply by adding crystal analyzers. Such
+multicrystal spectrometers have been implemented at, for example,
+the ESRF,<sup><xref ref-type="bibr" rid="ref63">63</xref>,<xref ref-type="bibr" rid="ref64">64</xref></sup> the Swiss Light Source,<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> the APS,<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> the Stanford Synchrotron
+Radiation Lightsource,<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> and the LCLS.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> However, as the number of analyzers increases,
+so does the complexity and size of the setup, and care must be taken
+to not add too much to an already technically challenging experiment.</p><p>More substantial gain can be made by increasing the incident X-ray
+flux. Our measurements were carried out with a monochromatic beam,
+with 0.005% bandwidth (corresponding to &#x0223c;0.35 eV centered at
+7 keV) and &#x0223c;10<sup>6</sup> photons/pulse, but monochromaticity
+is not necessary for emission spectroscopy. The X-ray photon energy
+only need be a few hundred electronvolts above the absorption edge
+which makes vtc XES compatible with pink beam. Such broad bandwidth
+beams, with bandwidths on the order of 1%, are provided by many synchrotron
+beamlines, including Sector 7 at the APS, as well as by the self-amplified
+spontaneous emission (SASE) radiation from X-ray free electron lasers
+(XFELs). At Sector 7 pink beam operation could provide approximately
+2 orders of magnitude more photons/pulse at a MHz repetition rate.
+Comparably, at the LCLS, 10<sup>12</sup> photons/pulse in a 70 eV
+bandwidth at 7 keV is available, but at a lower repetition rate of
+120 Hz, leading to a similar number of photons per second. As the
+fluorescence scales directly with incident flux, incorporating pink
+beam at Sector 7 could lead to a 100 times increase in signal.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Measured iron
+valence-to-1s core XES compared with DFT-simulated spectrum. (top)
+Measured vtc XES of 0.4 M aqueous [Fe(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and the calculated spectrum for the same ion. (bottom) Spectrum
+of sodium nitroprusside, in solid form, and calculations for the [Fe(CN)<sub>5</sub>(NO)]<sup>2&#x02013;</sup> ion. Representations of the main
+contributing molecular orbitals are shown.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-11838q_0003" id="gr2" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Valence-to-core emission spectra of [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> (blue) and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> (red). Measured spectra of the compounds in
+aqueous solution are shown in the top panel. DFT calculated spectra
+are shown in the bottom panel along with a third possible species,
+the photoaquated product [Fe<sup>II</sup>(CN)<sub>5</sub>H<sub>2</sub>O]<sup>3&#x02013;</sup>. The differences between the [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup> and [Fe<sup>III</sup>(CN)<sub>6</sub>]<sup>3&#x02013;</sup> spectra are shown in green. The red
+data points are the difference between laser-on and laser-off, 120
+ps after 266 nm laser excitation of [Fe<sup>II</sup>(CN)<sub>6</sub>]<sup>4&#x02013;</sup>. The amplitude of the points has been scaled
+to show the agreement with the reference difference signal.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jp-2014-11838q_0004" id="gr3" position="float"/></fig><p>Lastly, an increase in flux can
+be achieved by increasing the repetition rate of the pump&#x02013;probe
+measurement to use more of the available X-ray flux. The 135.8 kHz
+repetition rate used in this work was dictated by the hybrid singlet
+operating mode and the need to have a fresh sample for each laser-pump,
+X-ray-probe cycle. The laser-on and laser-off data collected at this
+rate are a result of only 15% of the available X-ray flux. The maximum
+rate to ensure sample refresh is dependent on our laser and X-ray
+spot sizes as well as the flow speed of the liquid jet. In 24 bunch
+mode given our jet parameters and spot sizes, our maximum pump&#x02013;probe
+repetition rate is approximately 300 kHz. Our laser system is already
+capable of matching the repetition rate of the APS X-rays so it is
+this rate that limits the efficient use of X-ray flux. However, developments
+in faster flowing, stable, liquid jets could enable higher repetition
+rate experiments. A factor of 5 in flow speed already brings measurements
+into the MHz regime. Jets capable of 30 m/s flow speeds are presently
+in use for soft X-ray experiments.<sup><xref ref-type="bibr" rid="ref69">69</xref>&#x02212;<xref ref-type="bibr" rid="ref71">71</xref></sup></p><p>In total, it can
+be seen that the increase in signal needed to make time-resolved valence-to-core
+spectroscopy feasible is well within reach with technical improvements
+that are already available.</p></sec><sec id="sec4"><title>Conclusion</title><p>Valence-to-core XES promises
+to be a powerful addition to the X-ray toolbox for understanding the
+geometrical and electronic structures of intermediates produced as
+a solution-phase chemical reaction occurs. The decreased signal strength
+compared to XAS or core-to-core XES makes it challenging, but we argue
+that the technical capabilities to make it a practical time-resolved
+technique are available. The information that can be supplied by valence-to-core
+XES with the use of straightforward theoretical models is complementary
+to that of XANES, EXAFS, and core-to-core XES and can, for instance,
+help identify the presence of photoproducts and quantify their amounts,
+disentangle the contributions to the XANES spectra, and provide the
+photoproduct fraction needed for EXAFS analysis.</p></sec></body><back><notes id="NOTES-d1056e1536-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no competing
+financial interest.</p></notes><ack><title>Acknowledgments</title><p>This project was supported by the European Research Council
+via contract ERC-StG-259709, the &#x02019;Lend&#x000fc;let&#x02019; (Momentum)
+Program of the Hungarian Academy of Sciences, and the European XFEL.
+Z.N. acknowledges support from the Bolyai Fellowship of the Hungarian
+Academy of Sciences. W.G., T. A., A.G., and C. B. acknowledge funding
+by the Deutsche Forschungsgemeinschaft via SFB925 and by the Hamburg
+Centre of Ultrafast Imaging. Work by A.M.M., G.D., L.Y., E.P.K., and
+S.H.S was supported by the U.S. Department of Energy (DOE), Office
+of Science, Basic Energy Sciences (BES), under Contract No. DE-AC02-06CH11357.
+This research used resources of the Advanced Photon Source, a U.S.
+Department of Energy (DOE) Office of Science User Facility operated
+for the DOE Office of Science by Argonne National Laboratory under
+Contract No. DE-AC02-06CH11357.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>de Groot</surname><given-names>F.</given-names></name>
+<article-title>High-Resolution X-ray Emission and
+X-ray Absorption Spectroscopy</article-title>. <source>Chem. Rev.</source>
+<year>2001</year>, <volume>101</volume>, <fpage>1779</fpage>&#x02013;<lpage>1808</lpage>.<pub-id pub-id-type="pmid">11709999</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Boubnov</surname><given-names>A.</given-names></name>; <name><surname>Carvalho</surname><given-names>H. W. P.</given-names></name>; <name><surname>Doronkin</surname><given-names>D. E.</given-names></name>; <name><surname>G&#x000fc;nter</surname><given-names>T.</given-names></name>; <name><surname>Gallo</surname><given-names>E.</given-names></name>; <name><surname>Atkins</surname><given-names>A. J.</given-names></name>; <name><surname>Jacob</surname><given-names>C. R.</given-names></name>; <name><surname>Grunwaldt</surname><given-names>J.-D.</given-names></name>
+<article-title>Selective Catalytic Reduction of NO Over Fe-ZSM-5:
+Mechanistic Insights by Operando HERFD-XANES and Valence-to-Core X-ray
+Emission Spectroscopy</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>13006</fpage>&#x02013;<lpage>13015</lpage>.<pub-id pub-id-type="pmid">25105343</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Safonova</surname><given-names>O. V.</given-names></name>; <name><surname>Florea</surname><given-names>M.</given-names></name>; <name><surname>Bilde</surname><given-names>J.</given-names></name>; <name><surname>Delichere</surname><given-names>P.</given-names></name>; <name><surname>Millet</surname><given-names>J. M. M.</given-names></name>
+<article-title>Local Environment of Vanadium in
+V/Al/O-Mixed Oxide Catalyst for Propane Ammoxidation: Characterization
+by In Situ Valence-to-Core X-ray Emission Spectroscopy and X-ray Absorption
+Spectroscopy</article-title>. <source>J. Catal.</source>
+<year>2009</year>, <volume>268</volume>, <fpage>156</fpage>&#x02013;<lpage>164</lpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Milne</surname><given-names>C. J.</given-names></name>; <name><surname>Penfold</surname><given-names>T. J.</given-names></name>; <name><surname>Chergui</surname><given-names>M.</given-names></name>
+<article-title>Recent Experimental
+and Theoretical Developments in Time-Resolved X-ray Spectroscopies</article-title>. <source>Coord. Chem. Rev.</source>
+<year>2014</year>, <volume>277&#x02013;278</volume>, <fpage>44</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Bressler</surname><given-names>C.</given-names></name>; <name><surname>Chergui</surname><given-names>M.</given-names></name>
+<article-title>Molecular Structural Dynamics Probed by Ultrafast X-Ray
+Absorption Spectroscopy</article-title>. <source>Annu. Rev. Phys. Chem.</source>
+<year>2010</year>, <volume>61</volume>, <fpage>263</fpage>&#x02013;<lpage>282</lpage>.<pub-id pub-id-type="pmid">20055677</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Chen</surname><given-names>L. X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Shelby</surname><given-names>M. L.</given-names></name>
+<article-title>Recent
+Advances on Ultrafast X-ray Spectroscopy in the Chemical Sciences</article-title>. <source>Chem. Sci.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4136</fpage>&#x02013;<lpage>4152</lpage>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Smolentsev</surname><given-names>G.</given-names></name>; <name><surname>Bunker</surname><given-names>G.</given-names></name>
+<article-title>The Electronic Structure in 3d Transition
+Metal Complexes: Can We Measure Oxidation States?</article-title>. <source>J. Phys.: Conf. Ser.</source>
+<year>2009</year>, <volume>190</volume>, <fpage>012046</fpage>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>
+<article-title>High Resolution 1s
+Core Hole X-ray Spectroscopy in 3d Transition Metal Complexes&#x02013;Electronic
+and Structural Information</article-title>. <source>Coord. Chem. Rev.</source>
+<year>2005</year>, <volume>249</volume>, <fpage>65</fpage>&#x02013;<lpage>95</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Rovezzi</surname><given-names>M.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>Hard X-ray Emission
+Spectroscopy: A Powerful Tool for the Characterization of Magnetic
+Semiconductors</article-title>. <source>Semicond. Sci. Technol.</source>
+<year>2014</year>, <volume>29</volume>, <fpage>023002</fpage>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Peng</surname><given-names>G.</given-names></name>; <name><surname>deGroot</surname><given-names>F. M. F.</given-names></name>; <name><surname>Haemaelaeinen</surname><given-names>K.</given-names></name>; <name><surname>Moore</surname><given-names>J. A.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Grush</surname><given-names>M. M.</given-names></name>; <name><surname>Hastings</surname><given-names>J. B.</given-names></name>; <name><surname>Siddons</surname><given-names>D. P.</given-names></name>; <name><surname>Armstrong</surname><given-names>W. H.</given-names></name>
+<article-title>High-Resolution Manganese X-ray Fluorescence
+Spectroscopy. Oxidation-State and Spin-State Sensitivity</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1994</year>, <volume>116</volume>, <fpage>2914</fpage>&#x02013;<lpage>2920</lpage>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; <name><surname>Neisius</surname><given-names>T.</given-names></name>; <name><surname>Moln&#x000e1;r</surname><given-names>G.</given-names></name>; <name><surname>Renz</surname><given-names>F.</given-names></name>; <name><surname>K&#x000e1;rp&#x000e1;ti</surname><given-names>S.</given-names></name>; <name><surname>Shukla</surname><given-names>A.</given-names></name>; <name><surname>de Groot</surname><given-names>F. M. F.</given-names></name>
+<article-title>Probing the 3d Spin Momentum with
+X-ray Emission Spectroscopy: The Case of Molecular-Spin Transitions</article-title>. <source>J. Phys. Chem. B</source>
+<year>2006</year>, <volume>110</volume>, <fpage>11647</fpage>&#x02013;<lpage>11653</lpage>.<pub-id pub-id-type="pmid">16800459</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; <name><surname>Rueff</surname><given-names>J.-P.</given-names></name>; <name><surname>Mattila</surname><given-names>A.</given-names></name>; <name><surname>N&#x000e9;meth</surname><given-names>Z.</given-names></name>; <name><surname>Shukla</surname><given-names>A.</given-names></name>
+<article-title>Temperature- and Pressure-Induced Spin-State Transitions
+in LaCoO<sub>3</sub></article-title>. <source>Phys. Rev. B</source>
+<year>2006</year>, <volume>73</volume>, <fpage>024424</fpage>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Rueff</surname><given-names>J.-P.</given-names></name>; <name><surname>Shukla</surname><given-names>A.</given-names></name>
+<article-title>Inelastic X-ray Scattering by Electronic Excitations
+Under High Pressure</article-title>. <source>Rev. Mod. Phys.</source>
+<year>2010</year>, <volume>82</volume>, <fpage>847</fpage>&#x02013;<lpage>896</lpage>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; <name><surname>de Groot</surname><given-names>F. M. F.</given-names></name>
+<article-title>Comment on &#x0201c;Spin
+Crossover in (Mg,Fe)O: A M&#x000f6;ssbauer Effect Study with an Alternative
+Interpretation of X-ray Emission Spectroscopy Data</article-title>. <source>Phys. Rev. B</source>
+<year>2007</year>, <volume>75</volume>, <fpage>177101</fpage>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Pollock</surname><given-names>C. J.</given-names></name>; <name><surname>Delgado-Jaime</surname><given-names>M. U.</given-names></name>; <name><surname>Atanasov</surname><given-names>M.</given-names></name>; <name><surname>Neese</surname><given-names>F.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>K&#x003b2; Mainline X-ray
+Emission Spectroscopy as an Experimental Probe of Metal-Ligand Covalency</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>9453</fpage>&#x02013;<lpage>9463</lpage>.<pub-id pub-id-type="pmid">24914450</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="book" id="cit16"><person-group person-group-type="allauthors"><name><surname>De Groot</surname><given-names>F.</given-names></name>, <name><surname>Kotani</surname><given-names>A.</given-names></name></person-group><source>Core Level Spectroscopy
+of Solids</source>; <publisher-name>CRC</publisher-name>: <publisher-loc>Boca Raton, FL</publisher-loc>, <year>2008</year>; Vol. <volume>6</volume>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Pham</surname><given-names>V.-T.</given-names></name>; <name><surname>Abela</surname><given-names>R.</given-names></name>; <name><surname>Grolimund</surname><given-names>D.</given-names></name>; <name><surname>Borca</surname><given-names>C. N.</given-names></name>; <name><surname>Johnson</surname><given-names>S. L.</given-names></name>; <name><surname>Milne</surname><given-names>C. J.</given-names></name>; <name><surname>Bressler</surname><given-names>C.</given-names></name>
+<article-title>Picosecond Time-Resolved X-Ray Emission
+Spectroscopy: Ultrafast Spin-State Determination in an Iron Complex</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>5910</fpage>&#x02013;<lpage>5912</lpage>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Haldrup</surname><given-names>K.</given-names></name>; et al. <article-title>Guest-Host Interactions Investigated by Time-Resolved X-ray Spectroscopies
+and Scattering at MHz Rates: Solvation Dynamics and Photoinduced Spin
+Transition in Aqueous Fe(bipy)<sub>3</sub><sup arrange="stack">2+</sup></article-title>. <source>J. Phys. Chem. A</source>
+<year>2012</year>, <volume>116</volume>, <fpage>9878</fpage>&#x02013;<lpage>9887</lpage>.<pub-id pub-id-type="pmid">22970732</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; et al. <article-title>Spin-State Studies with
+XES and RIXS: From Static to Ultrafast</article-title>. <source>J. Electron
+Spectrosc. Relat. Phenom.</source>
+<year>2013</year>, <volume>188</volume>, <fpage>166</fpage>&#x02013;<lpage>171</lpage>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Zhang</surname><given-names>W.</given-names></name>; et al. <article-title>Tracking Excited-State Charge and Spin Dynamics in Iron Coordination
+Complexes</article-title>. <source>Nature</source>
+<year>2014</year>, <volume>509</volume>, <fpage>345</fpage>&#x02013;<lpage>348</lpage>.<pub-id pub-id-type="pmid">24805234</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Kern</surname><given-names>J.</given-names></name>; et al. <article-title>Taking Snapshots of Photosynthetic Water Oxidation
+Using Femtosecond X-ray Diffraction and Spectroscopy</article-title>. <source>Nat. Commun.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4371</fpage>.<pub-id pub-id-type="pmid">25006873</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Gallo</surname><given-names>E.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>Valence to Core X-ray
+Emission Spectroscopy</article-title>. <source>Adv. Mater.</source>
+<year>2014</year>, <pub-id pub-id-type="doi">10.1002/adma.201304994</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Lee</surname><given-names>N.</given-names></name>; <name><surname>Petrenko</surname><given-names>T.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Neese</surname><given-names>F.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>Probing Valence
+Orbital Composition with Iron K&#x003b2; X-ray Emission Spectroscopy</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>9715</fpage>&#x02013;<lpage>9727</lpage>.<pub-id pub-id-type="pmid">20578760</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Bauer</surname><given-names>M.</given-names></name>
+<article-title>HERFD-XAS
+and Valence-to-Core-XES: New Tools to Push the Limits in Research
+with Hard X-rays?</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>13827</fpage>&#x02013;<lpage>13837</lpage>.<pub-id pub-id-type="pmid">24905791</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Delgado-Jaime</surname><given-names>M. U.</given-names></name>; <name><surname>Dible</surname><given-names>B. R.</given-names></name>; <name><surname>Chiang</surname><given-names>K. P.</given-names></name>; <name><surname>Brennessel</surname><given-names>W. W.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Holland</surname><given-names>P. L.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>Identification
+of a Single Light Atom within a Multinuclear Metal Cluster Using Valence-to-Core
+X-ray Emission Spectroscopy</article-title>. <source>Inorg. Chem.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>10709</fpage>&#x02013;<lpage>10717</lpage>.<pub-id pub-id-type="pmid">21954894</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Horne</surname><given-names>C. R.</given-names></name>; <name><surname>Collins</surname><given-names>T. J.</given-names></name>; <name><surname>Workman</surname><given-names>J. M.</given-names></name>; <name><surname>Cramer</surname><given-names>S. P.</given-names></name>
+<article-title>Chemical Dependence of Interatomic
+X-ray Transition Energies and Intensities -A Study of Mn K&#x003b2;&#x02033;
+and K&#x003b2;<sub>2,5</sub> Spectra</article-title>. <source>Chem. Phys.
+Lett.</source>
+<year>1999</year>, <volume>302</volume>, <fpage>119</fpage>&#x02013;<lpage>124</lpage>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Swarbrick</surname><given-names>J. C.</given-names></name>; <name><surname>Kvashnin</surname><given-names>Y.</given-names></name>; <name><surname>Schulte</surname><given-names>K.</given-names></name>; <name><surname>Seenivasan</surname><given-names>K.</given-names></name>; <name><surname>Lamberti</surname><given-names>C.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>Ligand Identification
+in Titanium Complexes Using X-ray Valence-to-Core Emission Spectroscopy</article-title>. <source>Inorg. Chem.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>8323</fpage>&#x02013;<lpage>8332</lpage>.<pub-id pub-id-type="pmid">20831281</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Safonov</surname><given-names>V. A.</given-names></name>; <name><surname>Vykhodtseva</surname><given-names>L. N.</given-names></name>; <name><surname>Polukarov</surname><given-names>Y. M.</given-names></name>; <name><surname>Safonova</surname><given-names>O. V.</given-names></name>; <name><surname>Smolentsev</surname><given-names>G.</given-names></name>; <name><surname>Sikora</surname><given-names>M.</given-names></name>; <name><surname>Eeckhout</surname><given-names>S. G.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>Valence-to-Core X-ray
+Emission Spectroscopy Identification of Carbide Compounds in Nanocrystalline
+Cr Coatings Deposited from Cr(III) Electrolytes Containing Organic
+Substances</article-title>. <source>J. Phys. Chem. B</source>
+<year>2006</year>, <volume>110</volume>, <fpage>23192</fpage>&#x02013;<lpage>23196</lpage>.<pub-id pub-id-type="pmid">17107164</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Lancaster</surname><given-names>K. M.</given-names></name>; <name><surname>Roemelt</surname><given-names>M.</given-names></name>; <name><surname>Ettenhuber</surname><given-names>P.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Ribbe</surname><given-names>M. W.</given-names></name>; <name><surname>Neese</surname><given-names>F.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>X-ray Emission
+Spectroscopy Evidences a Central Carbon in the Nitrogenase Iron-Molybdenum
+Cofactor</article-title>. <source>Science</source>
+<year>2011</year>, <volume>334</volume>, <fpage>974</fpage>&#x02013;<lpage>977</lpage>.<pub-id pub-id-type="pmid">22096198</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Smolentsev</surname><given-names>G.</given-names></name>; <name><surname>Soldatov</surname><given-names>A. V.</given-names></name>; <name><surname>Messinger</surname><given-names>J.</given-names></name>; <name><surname>Merz</surname><given-names>K.</given-names></name>; <name><surname>Weyherm&#x000fc;ller</surname><given-names>T.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Pushkar</surname><given-names>Y.</given-names></name>; <name><surname>Yano</surname><given-names>J.</given-names></name>; <name><surname>Yachandra</surname><given-names>V. K.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>X-ray Emission Spectroscopy
+To Study Ligand Valence Orbitals in Mn Coordination Complexes</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>13161</fpage>&#x02013;<lpage>13167</lpage>.<pub-id pub-id-type="pmid">19663435</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Lassalle-Kaiser</surname><given-names>B.</given-names></name>; et al. <article-title>Experimental and Computational X-ray Emission Spectroscopy as a Direct
+Probe of Protonation States in Oxo-Bridged MnIV Dimers Relevant to
+Redox-Active Metalloproteins</article-title>. <source>Inorg. Chem.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>12915</fpage>&#x02013;<lpage>12922</lpage>.<pub-id pub-id-type="pmid">24161081</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Chandrasekaran</surname><given-names>P.</given-names></name>; <name><surname>Chiang</surname><given-names>K. P.</given-names></name>; <name><surname>Nordlund</surname><given-names>D.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Holland</surname><given-names>P. L.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>Sensitivity of X-ray
+Core Spectroscopy to Changes in Metal Ligation: A Systematic Study
+of Low-Coordinate, High-Spin Ferrous Complexes</article-title>. <source>Inorg. Chem.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>6286</fpage>&#x02013;<lpage>6298</lpage>.<pub-id pub-id-type="pmid">23662855</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Pollock</surname><given-names>C.
+J.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>Valence-to-Core
+X-ray Emission Spectroscopy: A Sensitive Probe of the Nature of a
+Bound Ligand</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>5594</fpage>&#x02013;<lpage>5601</lpage>.<pub-id pub-id-type="pmid">21417349</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Gallo</surname><given-names>E.</given-names></name>; <name><surname>Lamberti</surname><given-names>C.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>Investigation
+of the Valence Electronic States of Ti(IV) in Ti Silicalite-1 Coupling
+X-ray Emission Spectroscopy and Density Functional Calculations</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2011</year>, <volume>13</volume>, <fpage>19409</fpage>&#x02013;<lpage>19419</lpage>.<pub-id pub-id-type="pmid">21970893</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Delgado-Jaime</surname><given-names>M. U.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>; <name><surname>Bauer</surname><given-names>M.</given-names></name>
+<article-title>Valence-to-Core X-Ray Emission Spectroscopy
+of Iron-Carbonyl Complexes: Implications for the Examination of Catalytic
+Intermediates</article-title>. <source>Chem.&#x02014;Eur. J.</source>
+<year>2013</year>, <volume>19</volume>, <fpage>15888</fpage>&#x02013;<lpage>15897</lpage>.<pub-id pub-id-type="pmid">24222392</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Beckwith</surname><given-names>M. A.</given-names></name>; <name><surname>Roemelt</surname><given-names>M.</given-names></name>; <name><surname>Collomb</surname><given-names>M.-N.</given-names></name>; <name><surname>DuBoc</surname><given-names>C.</given-names></name>; <name><surname>Weng</surname><given-names>T.-C.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Neese</surname><given-names>F.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>
+<article-title>Manganese K&#x003b2; X-ray Emission
+Spectroscopy As a Probe of Metal-Ligand Interactions</article-title>. <source>Inorg. Chem.</source>
+<year>2011</year>, <volume>50</volume>, <fpage>8397</fpage>&#x02013;<lpage>8409</lpage>.<pub-id pub-id-type="pmid">21805960</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Bordage</surname><given-names>A.</given-names></name>; <name><surname>Papai</surname><given-names>M.</given-names></name>; <name><surname>Sas</surname><given-names>N. S.</given-names></name>; <name><surname>Szlachetko</surname><given-names>J.</given-names></name>; <name><surname>Nachtegaal</surname><given-names>M.</given-names></name>; <name><surname>Vanko</surname><given-names>G.</given-names></name>
+<article-title>On the Sensitivity of Hard X-ray
+Spectroscopies to the Chemical State of Br</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>11088</fpage>&#x02013;<lpage>11098</lpage>.<pub-id pub-id-type="pmid">23719632</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Gaur</surname><given-names>A.</given-names></name>; <name><surname>Shrivastava</surname><given-names>B. D.</given-names></name>; <name><surname>Joshi</surname><given-names>S. K.</given-names></name>
+<article-title>Copper K-edge XANES of Cu(I) and
+Cu(II) Oxide Mixtures</article-title>. <source>J. Phys. Conf. Ser.</source>
+<year>2009</year>, <volume>190</volume>, <fpage>012084</fpage>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>March</surname><given-names>A. M.</given-names></name>; <name><surname>Stickrath</surname><given-names>A.</given-names></name>; <name><surname>Doumy</surname><given-names>G.</given-names></name>; <name><surname>Kanter</surname><given-names>E. P.</given-names></name>; <name><surname>Kr&#x000e4;ssig</surname><given-names>B.</given-names></name>; <name><surname>Southworth</surname><given-names>S. H.</given-names></name>; <name><surname>Attenkofer</surname><given-names>K.</given-names></name>; <name><surname>Kurtz</surname><given-names>C. A.</given-names></name>; <name><surname>Chen</surname><given-names>L. X.</given-names></name>; <name><surname>Young</surname><given-names>L.</given-names></name>
+<article-title>Development of High-Repetition-Rate
+Laser Pump/X-ray Probe Methodologies for Synchrotron Facilities</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2011</year>, <volume>82</volume>, <fpage>073110</fpage>.<pub-id pub-id-type="pmid">21806175</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Lima</surname><given-names>F. A.</given-names></name>; et al. <article-title>A High-Repetition Rate
+Scheme for Synchrotron-Based Picosecond Laser Pump/X-ray Probe Experiments
+on Chemical and Biological Systems in Solution</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2011</year>, <volume>82</volume>, <fpage>063111</fpage>.<pub-id pub-id-type="pmid">21721678</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Stebel</surname><given-names>L.</given-names></name>; <name><surname>Malvestuto</surname><given-names>M.</given-names></name>; <name><surname>Capogrosso</surname><given-names>V.</given-names></name>; <name><surname>Sigalotti</surname><given-names>P.</given-names></name>; <name><surname>Ressel</surname><given-names>B.</given-names></name>; <name><surname>Bondino</surname><given-names>F.</given-names></name>; <name><surname>Magnano</surname><given-names>E.</given-names></name>; <name><surname>Cautero</surname><given-names>G.</given-names></name>; <name><surname>Parmigiani</surname><given-names>F.</given-names></name>
+<article-title>Time-Resolved
+Soft X-ray Absorption Setup Using Multi-Bunch Operation Modes at Synchrotrons</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2011</year>, <volume>82</volume>, <fpage>123109</fpage>.<pub-id pub-id-type="pmid">22225201</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Wu</surname><given-names>B.</given-names></name>; <name><surname>Zhu</surname><given-names>D.</given-names></name>; <name><surname>Acremann</surname><given-names>Y.</given-names></name>; <name><surname>Miller</surname><given-names>T. A.</given-names></name>; <name><surname>Lindenberg</surname><given-names>A. M.</given-names></name>; <name><surname>Hellwig</surname><given-names>O.</given-names></name>; <name><surname>St&#x000f6;hr</surname><given-names>J.</given-names></name>; <name><surname>Scherz</surname><given-names>A.</given-names></name>
+<article-title>Observations of Laser Induced Magnetization Dynamics
+in Co/Pd Multilayers with Coherent X-ray Scattering</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2011</year>, <volume>99</volume>, <fpage>252505</fpage>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kozina</surname><given-names>M.</given-names></name>; <name><surname>Hu</surname><given-names>T.</given-names></name>; <name><surname>Wittenberg</surname><given-names>J. S.</given-names></name>; <name><surname>Szilagyi</surname><given-names>E.</given-names></name>; <name><surname>Trigo</surname><given-names>M.</given-names></name>; <name><surname>Miller</surname><given-names>T. A.</given-names></name>; <name><surname>Uher</surname><given-names>C.</given-names></name>; <name><surname>Damodaran</surname><given-names>A.</given-names></name>; <name><surname>Martin</surname><given-names>L.</given-names></name>; <name><surname>Mehta</surname><given-names>A.</given-names></name>
+<article-title>Measurement of Transient
+Atomic Displacements in Thin Films with Picosecond and Femtometer
+Resolution</article-title>. <source>Struct. Dyn.</source>
+<year>2014</year>, <volume>1</volume>, <fpage>034301</fpage>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Navirian</surname><given-names>H.</given-names></name>; <name><surname>Shayduk</surname><given-names>R.</given-names></name>; <name><surname>Leitenberger</surname><given-names>W.</given-names></name>; <name><surname>Goldshteyn</surname><given-names>J.</given-names></name>; <name><surname>Gaal</surname><given-names>P.</given-names></name>; <name><surname>Bargheer</surname><given-names>M.</given-names></name>
+<article-title>Synchrotron-Based Ultrafast X-ray
+Diffraction at High Repetition Rates</article-title>. <source>Rev. Sci.
+Instrum.</source>
+<year>2012</year>, <volume>83</volume>, <fpage>063303</fpage>.<pub-id pub-id-type="pmid">22755618</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Shirom</surname><given-names>M.</given-names></name>; <name><surname>Stein</surname><given-names>G.</given-names></name>
+<article-title>Excited State Chemistry
+of the Ferrocyanide Ion in Aqueous Solution. I. Formation of the Hydrated
+Electron</article-title>. <source>J. Chem. Phys.</source>
+<year>1971</year>, <volume>55</volume>, <fpage>3372</fpage>&#x02013;<lpage>3378</lpage>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Shirom</surname><given-names>M.</given-names></name>; <name><surname>Stein</surname><given-names>G.</given-names></name>
+<article-title>Excited State Chemistry of the Ferrocyanide
+Ion in Aqueous Solution. II. Photoaquation</article-title>. <source>J. Chem. Phys.</source>
+<year>1971</year>, <volume>55</volume>, <fpage>3379</fpage>&#x02013;<lpage>3382</lpage>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Westre</surname><given-names>T. E.</given-names></name>; <name><surname>Kennepohl</surname><given-names>P.</given-names></name>; <name><surname>DeWitt</surname><given-names>J. G.</given-names></name>; <name><surname>Hedman</surname><given-names>B.</given-names></name>; <name><surname>Hodgson</surname><given-names>K. O.</given-names></name>; <name><surname>Solomon</surname><given-names>E. I.</given-names></name>
+<article-title>A Multiplet Analysis of Fe K-Edge 1s &#x02192; 3d Pre-Edge
+Features of Iron Complexes</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1997</year>, <volume>119</volume>, <fpage>6297</fpage>&#x02013;<lpage>6314</lpage>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Penfold</surname><given-names>T. J.</given-names></name>; <name><surname>Reinhard</surname><given-names>M.</given-names></name>; <name><surname>Rittmann-Frank</surname><given-names>M. H.</given-names></name>; <name><surname>Tavernelli</surname><given-names>I.</given-names></name>; <name><surname>Rothlisberger</surname><given-names>U.</given-names></name>; <name><surname>Milne</surname><given-names>C. J.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Chergui</surname><given-names>M.</given-names></name>
+<article-title>X-ray Spectroscopic Study of Solvent Effects on the
+Ferrous and Ferric Hexacyanide Anions</article-title>. <source>J. Phys.
+Chem. A</source>
+<year>2014</year>, <volume>118</volume>, <fpage>9411</fpage>&#x02013;<lpage>9418</lpage>.<pub-id pub-id-type="pmid">25223627</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Reinhard</surname><given-names>M.</given-names></name>; <name><surname>Penfold</surname><given-names>T. J.</given-names></name>; <name><surname>Lima</surname><given-names>F. A.</given-names></name>; <name><surname>Rittmann</surname><given-names>J.</given-names></name>; <name><surname>Rittmann-Frank</surname><given-names>M. H.</given-names></name>; <name><surname>Abela</surname><given-names>R.</given-names></name>; <name><surname>Tavernelli</surname><given-names>I.</given-names></name>; <name><surname>Rothlisberger</surname><given-names>U.</given-names></name>; <name><surname>Milne</surname><given-names>C. J.</given-names></name>; <name><surname>Chergui</surname><given-names>M.</given-names></name>
+<article-title>Photooxidation and
+Photoaquation of Iron Hexacyanide in Aqueous Solution: A Picosecond
+X-ray Absorption Study</article-title>. <source>Struct. Dyn.</source>
+<year>2014</year>, <volume>1</volume>, <fpage>024901</fpage>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Lee</surname><given-names>T.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Rose-Petruck</surname><given-names>C. G.</given-names></name>; <name><surname>Benesch</surname><given-names>F.</given-names></name>
+<article-title>Ultrafast Tabletop
+Laser-Pump-X-ray Probe Measurement of Solvated Fe(CN)<sub>6</sub><sup arrange="stack">4&#x02013;</sup></article-title>. <source>J. Chem. Phys.</source>
+<year>2005</year>, <volume>122</volume>, <fpage>084506</fpage>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Dufresne</surname><given-names>E.
+M.</given-names></name>; <name><surname>Adams</surname><given-names>B.</given-names></name>; <name><surname>Arms</surname><given-names>D. A.</given-names></name>; <name><surname>Chollet</surname><given-names>M.</given-names></name>; <name><surname>Landahl</surname><given-names>E. C.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Walko</surname><given-names>D. A.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>
+<article-title>Time-Resolved Research at the Advanced
+Photon Source Beamline 7-ID</article-title>. <source>AIP Conf. Proc.</source>
+<year>2010</year>, <volume>1234</volume>, <fpage>181</fpage>&#x02013;<lpage>184</lpage>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Neese</surname><given-names>F.</given-names></name>
+<article-title>The ORCA Program System</article-title>. <source>WIREs Comput. Mol. Sci.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>73</fpage>&#x02013;<lpage>78</lpage>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Lee</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Parr</surname><given-names>R. G.</given-names></name>
+<article-title>Development of the Colle-Salvetti Correlation-Energy
+Formula into a Functional of the Electron Density</article-title>. <source>Phys. Rev. B</source>
+<year>1988</year>, <volume>37</volume>, <fpage>785</fpage>&#x02013;<lpage>789</lpage>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Becke</surname><given-names>A. D.</given-names></name>
+<article-title>Density-Functional
+Thermochemistry. III. The Role of Exact Exchange</article-title>. <source>J. Chem. Phys.</source>
+<year>1993</year>, <volume>98</volume>, <fpage>5648</fpage>&#x02013;<lpage>5652</lpage>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Stephens</surname><given-names>P. J.</given-names></name>; <name><surname>Devlin</surname><given-names>F. J.</given-names></name>; <name><surname>Chabalowski</surname><given-names>C. F.</given-names></name>; <name><surname>Frisch</surname><given-names>M. J.</given-names></name>
+<article-title>Ab Initio Calculation
+of Vibrational Absorption and Circular Dichroism Spectra Using Density
+Functional Force Fields</article-title>. <source>J. Phys. Chem.</source>
+<year>1994</year>, <volume>98</volume>, <fpage>11623</fpage>&#x02013;<lpage>11627</lpage>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Sch&#x000e4;fer</surname><given-names>A.</given-names></name>; <name><surname>Huber</surname><given-names>C.</given-names></name>; <name><surname>Ahlrichs</surname><given-names>R.</given-names></name>
+<article-title>Fully Optimized
+Contracted Gaussian Basis Sets of Triple Zeta Valence Quality for
+Atoms Li to Kr</article-title>. <source>J. Chem. Phys.</source>
+<year>1994</year>, <volume>100</volume>, <fpage>5829</fpage>&#x02013;<lpage>5835</lpage>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Klamt</surname><given-names>A.</given-names></name>; <name><surname>Schuurmann</surname><given-names>G.</given-names></name>
+<article-title>COSMO: A New
+Approach to Dielectric Screening in Solvents with Explicit Expressions
+for the Screening Energy and its Gradient</article-title>. <source>J.
+Chem. Soc., Perkin Trans. 2</source>
+<year>1993</year>, <fpage>799</fpage>&#x02013;<lpage>805</lpage>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>He&#x000df;</surname><given-names>B.
+A.</given-names></name>; <name><surname>Marian</surname><given-names>C. M.</given-names></name>; <name><surname>Wahlgren</surname><given-names>U.</given-names></name>; <name><surname>Gropen</surname><given-names>O.</given-names></name>
+<article-title>A Mean-Field Spin-Orbit Method Applicable
+to Correlated Wavefunctions</article-title>. <source>Chem. Phys. Lett.</source>
+<year>1996</year>, <volume>251</volume>, <fpage>365</fpage>&#x02013;<lpage>371</lpage>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Weng</surname><given-names>T.-C.</given-names></name>; <name><surname>Kvashnina</surname><given-names>K.</given-names></name>; <name><surname>Swarbrick</surname><given-names>J.</given-names></name>; <name><surname>Sikora</surname><given-names>M.</given-names></name>; <name><surname>Gallo</surname><given-names>E.</given-names></name>; <name><surname>Smolentsev</surname><given-names>N.</given-names></name>; <name><surname>Mori</surname><given-names>R. A.</given-names></name>
+<article-title>Reflections on Hard X-ray Photon-In/Photon-Out Spectroscopy
+for Electronic Structure Studies</article-title>. <source>J. Electron
+Spectrosc. Relat. Phenom.</source>
+<year>2013</year>, <volume>188</volume>, <fpage>17</fpage>&#x02013;<lpage>25</lpage>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Hocking</surname><given-names>R. K.</given-names></name>; <name><surname>Wasinger</surname><given-names>E. C.</given-names></name>; <name><surname>de Groot</surname><given-names>F. M. F.</given-names></name>; <name><surname>Hodgson</surname><given-names>K. O.</given-names></name>; <name><surname>Hedman</surname><given-names>B.</given-names></name>; <name><surname>Solomon</surname><given-names>E. I.</given-names></name>
+<article-title>Fe L-Edge X.A.S. Studies of K<sub>4</sub>[Fe(CN)<sub>6</sub>] and K<sub>3</sub>[Fe(CN)<sub>6</sub>]: A Direct Probe of
+Back-Bonding</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2006</year>, <volume>128</volume>, <fpage>10442</fpage>&#x02013;<lpage>10451</lpage>.<pub-id pub-id-type="pmid">16895409</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Lundberg</surname><given-names>M.</given-names></name>; <name><surname>Kroll</surname><given-names>T.</given-names></name>; <name><surname>DeBeer</surname><given-names>S.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Wilson</surname><given-names>S. A.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Nordlund</surname><given-names>D.</given-names></name>; <name><surname>Hedman</surname><given-names>B.</given-names></name>; <name><surname>Hodgson</surname><given-names>K. O.</given-names></name>; <name><surname>Solomon</surname><given-names>E. I.</given-names></name>
+<article-title>Metal-Ligand Covalency
+of Iron Complexes from High-Resolution Resonant Inelastic X-ray Scattering</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>17121</fpage>&#x02013;<lpage>17134</lpage>.<pub-id pub-id-type="pmid">24131028</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Emschwiller</surname><given-names>M. G.</given-names></name>; <name><surname>Legros</surname><given-names>J.</given-names></name>
+<article-title>L&#x02019;Hydrolyse Photochimique des Solutions de Ferrocyanure
+de Potassium: Influence de la Frequence, de l&#x02019;Intensite d&#x02019;Irradiation
+et de la Concentration sur le Rendement Quantique</article-title>. <source>Compt. Rend.</source>
+<year>1965</year>, <volume>261</volume>, <fpage>1535</fpage>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Bergmann</surname><given-names>U.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>
+<article-title>X-ray Emission Spectroscopy</article-title>. <source>Photosynth. Res.</source>
+<year>2009</year>, <volume>102</volume>, <fpage>255</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">19705296</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Verbeni</surname><given-names>R.</given-names></name>; <name><surname>Pylkk&#x000e4;nen</surname><given-names>T.</given-names></name>; <name><surname>Huotari</surname><given-names>S.</given-names></name>; <name><surname>Simonelli</surname><given-names>L.</given-names></name>; <name><surname>Vank&#x000f3;</surname><given-names>G.</given-names></name>; <name><surname>Martel</surname><given-names>K.</given-names></name>; <name><surname>Henriquet</surname><given-names>C.</given-names></name>; <name><surname>Monaco</surname><given-names>G.</given-names></name>
+<article-title>Multiple-element spectrometer for non-resonant inelastic
+X-ray spectroscopy of electronic excitations</article-title>. <source>J. Synchrotron Radiat.</source>
+<year>2009</year>, <volume>16</volume>, <fpage>469</fpage>&#x02013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">19535859</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Kleymenov</surname><given-names>E.</given-names></name>; <name><surname>van Bokhoven</surname><given-names>J. A.</given-names></name>; <name><surname>David</surname><given-names>C.</given-names></name>; <name><surname>Glatzel</surname><given-names>P.</given-names></name>; <name><surname>Janousch</surname><given-names>M.</given-names></name>; <name><surname>Alonso-Mori</surname><given-names>R.</given-names></name>; <name><surname>Studer</surname><given-names>M.</given-names></name>; <name><surname>Willimann</surname><given-names>M.</given-names></name>; <name><surname>Bergamaschi</surname><given-names>A.</given-names></name>; <name><surname>Henrich</surname><given-names>B.</given-names></name>; <name><surname>Nachtegaal</surname><given-names>M.</given-names></name>
+<article-title>Five-Element
+Johann-Type X-ray Emission Spectrometer with a Single-Photon-Counting
+Pixel Detector</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2011</year>, <volume>82</volume>, <fpage>065107</fpage>.<pub-id pub-id-type="pmid">21721730</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Gog</surname><given-names>T.</given-names></name>; et al. <article-title>Momentum-Resolved Resonant and Nonresonant Inelastic X-ray Scattering
+at the Advanced Photon Source</article-title>. <source>Synchrotron Radiat.
+News</source>
+<year>2009</year>, <volume>22</volume>, <fpage>12</fpage>&#x02013;<lpage>21</lpage>.</mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Sokaras</surname><given-names>D.</given-names></name>; <name><surname>Weng</surname><given-names>T.-C.</given-names></name>; <name><surname>Nordlund</surname><given-names>D.</given-names></name>; <name><surname>Alonso-Mori</surname><given-names>R.</given-names></name>; <name><surname>Velikov</surname><given-names>P.</given-names></name>; <name><surname>Wenger</surname><given-names>D.</given-names></name>; <name><surname>Garachtchenko</surname><given-names>A.</given-names></name>; <name><surname>George</surname><given-names>M.</given-names></name>; <name><surname>Borzenets</surname><given-names>V.</given-names></name>; <name><surname>Johnson</surname><given-names>B.</given-names></name>; <name><surname>Rabedeau</surname><given-names>T.</given-names></name>; <name><surname>Bergmann</surname><given-names>U.</given-names></name>
+<article-title>A Seven-Crystal Johann-Type Hard X-ray Spectrometer
+at the Stanford Synchrotron Radiation Lightsource</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2013</year>, <volume>84</volume>, <fpage>053102</fpage>.<pub-id pub-id-type="pmid">23742527</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Alonso-Mori</surname><given-names>R.</given-names></name>; <name><surname>Kern</surname><given-names>J.</given-names></name>; <name><surname>Sokaras</surname><given-names>D.</given-names></name>; <name><surname>Weng</surname><given-names>T.-C.</given-names></name>; <name><surname>Nordlund</surname><given-names>D.</given-names></name>; <name><surname>Tran</surname><given-names>R.</given-names></name>; <name><surname>Montanez</surname><given-names>P.</given-names></name>; <name><surname>Delor</surname><given-names>J.</given-names></name>; <name><surname>Yachandra</surname><given-names>V. K.</given-names></name>; <name><surname>Yano</surname><given-names>J.</given-names></name>
+<article-title>A Multi-Crystal Wavelength Dispersive X-ray Spectrometer</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2012</year>, <volume>83</volume>, <fpage>073114</fpage>.<pub-id pub-id-type="pmid">22852678</pub-id></mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Suljoti</surname><given-names>E.</given-names></name>; <name><surname>Garcia-Diez</surname><given-names>R.</given-names></name>; <name><surname>Bokarev</surname><given-names>S. I.</given-names></name>; <name><surname>Lange</surname><given-names>K. M.</given-names></name>; <name><surname>Schoch</surname><given-names>R.</given-names></name>; <name><surname>Dierker</surname><given-names>B.</given-names></name>; <name><surname>Dantz</surname><given-names>M.</given-names></name>; <name><surname>Yamamoto</surname><given-names>K.</given-names></name>; <name><surname>Engel</surname><given-names>N.</given-names></name>; <name><surname>Atak</surname><given-names>K.</given-names></name>; <name><surname>K&#x000fc;hn</surname><given-names>O.</given-names></name>; <name><surname>Bauer</surname><given-names>M.</given-names></name>; <name><surname>Rubensson</surname><given-names>J.-E.</given-names></name>; <name><surname>Aziz</surname><given-names>E. F.</given-names></name>
+<article-title>Direct Observation of Molecular Orbital Mixing in a
+Solvated Organometallic Complex</article-title>. <source>Angew. Chem.,
+Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>9841</fpage>&#x02013;<lpage>9844</lpage>.</mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Charvat</surname><given-names>A.</given-names></name>; <name><surname>Lugovoj</surname><given-names>E.</given-names></name>; <name><surname>Faubel</surname><given-names>M.</given-names></name>; <name><surname>Abel</surname><given-names>B.</given-names></name>
+<article-title>New Design for a Time-of-Flight Mass Spectrometer with a Liquid Beam
+Laser Desorption Ion Source for the Analysis of Biomolecules</article-title>. <source>Rev. Sci. Instrum.</source>
+<year>2004</year>, <volume>75</volume>, <fpage>1209</fpage>&#x02013;<lpage>1218</lpage>.</mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Lange</surname><given-names>K. M.</given-names></name>; <name><surname>Kothe</surname><given-names>A.</given-names></name>; <name><surname>Aziz</surname><given-names>E. F.</given-names></name>
+<article-title>Chemistry in Solution: Recent Techniques
+and Applications Using Soft X-ray Spectroscopy</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2012</year>, <volume>14</volume>, <fpage>5331</fpage>&#x02013;<lpage>5338</lpage>.<pub-id pub-id-type="pmid">22314874</pub-id></mixed-citation></ref></ref-list></back></article>

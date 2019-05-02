@@ -1,0 +1,777 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26848651</article-id><article-id pub-id-type="pmc">4783928</article-id><article-id pub-id-type="doi">10.3390/ijms17020194</article-id><article-id pub-id-type="publisher-id">ijms-17-00194</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Methods to Design and Synthesize Antibody-Drug Conjugates (ADCs)</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Yao</surname><given-names>Houzong</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00194">1</xref><xref ref-type="author-notes" rid="fn1-ijms-17-00194">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Feng</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00194">1</xref><xref ref-type="aff" rid="af2-ijms-17-00194">2</xref><xref ref-type="author-notes" rid="fn1-ijms-17-00194">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Lu</surname><given-names>Aiping</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00194">1</xref><xref rid="c1-ijms-17-00194" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Ge</given-names></name><xref ref-type="aff" rid="af1-ijms-17-00194">1</xref><xref rid="c1-ijms-17-00194" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>M&#x000e1;sson</surname><given-names>M&#x000e1;r</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-17-00194"><label>1</label>Institute for Advancing Translational Medicine in Bone &#x00026; Joint Diseases, School of Chinese Medicine, Hong Kong Baptist University, Hong Kong, China; <email>yaohouzong@163.com</email> (H.Y.); <email>jiangfeng@nbu.edu.cn</email> (F.J.)</aff><aff id="af2-ijms-17-00194"><label>2</label>Faculty of Materials Science and Chemical Engineering, the State Key Laboratory Base of Novel Functional Materials and Preparation Science, Ningbo University, Ningbo 315211, Zhejiang, China</aff><author-notes><corresp id="c1-ijms-17-00194"><label>*</label>Correspondence: <email>aipinglu@hkbu.edu.hk</email> (A.L.); <email>zhangge@hkbu.edu.hk</email> (G.Z.); Tel.: +852-3411-2456 (A.L.); +852-3411-2958 (G.Z.)</corresp><fn id="fn1-ijms-17-00194"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>2</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2016</year></pub-date><volume>17</volume><issue>2</issue><elocation-id>194</elocation-id><history><date date-type="received"><day>11</day><month>1</month><year>2016</year></date><date date-type="accepted"><day>28</day><month>1</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Antibody-drug conjugates (ADCs) have become a promising targeted therapy strategy that combines the specificity, favorable pharmacokinetics and biodistributions of antibodies with the destructive potential of highly potent drugs. One of the biggest challenges in the development of ADCs is the application of suitable linkers for conjugating drugs to antibodies. Recently, the design and synthesis of linkers are making great progress. In this review, we present the methods that are currently used to synthesize antibody-drug conjugates by using thiols, amines, alcohols, aldehydes and azides.</p></abstract><kwd-group><kwd>antibody-drug conjugates (ADCs)</kwd><kwd>targeted therapy</kwd><kwd>monoclonal antibodies (mAbs)</kwd><kwd>drugs</kwd><kwd>linkers</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijms-17-00194"><title>1. Introduction</title><p>Cancer is still one of the major threats to human health. However, cancer therapies used today always have more or less adverse side effects to normal tissues. Targeted therapy is a promising strategy to address this challenge. The pioneer of targeted therapy is Paul Ehrlich who introduced the principle &#x0201c;magic bullet&#x0201d; at the beginning of the 20th century [<xref rid="B1-ijms-17-00194" ref-type="bibr">1</xref>]. To avoid side effects, drugs should be specifically delivered to cancer cells via binding to ligands that can specifically recognize the cancer-associated biomarkers such as antigens. Among the ligands for targeted therapy, antibodies are excellent candidates because of their specific recognitions and high affinities. Nowadays, antibody-drug conjugates (ADCs) are attracting tremendous attention for targeted cancer therapy.</p><p>Antibody-drug conjugates are biotherapeutics that consist of monoclonal antibodies, potent cytotoxic drugs and linkers between them (<xref ref-type="fig" rid="ijms-17-00194-f001">Figure 1</xref>). The monoclonal antibodies lead the drug precursors to the target cancer cells, in which the prodrugs can be chemically or enzymatically converted to drugs in their active forms [<xref rid="B2-ijms-17-00194" ref-type="bibr">2</xref>]. Conjugating cytotoxins to monoclonal antibodies that specifically tie to tumor cell surface antigens enables the drugs to be target-delivered to cancer cells and leaves normal cells unaffected. More important, many of the cytotoxic drugs that are too toxic for use in traditional chemotherapy can also be used in the construction of antibody-drug conjugates [<xref rid="B3-ijms-17-00194" ref-type="bibr">3</xref>,<xref rid="B4-ijms-17-00194" ref-type="bibr">4</xref>]. The linkers are also essential parts of antibody-drug conjugates, which account for stability in circulation, good pharmacokinetics and efficient release of toxic drugs in the tumor cells.</p><p>The selection of antibody, drug, and linker has recently been summarized in a few excellent reviews [<xref rid="B5-ijms-17-00194" ref-type="bibr">5</xref>,<xref rid="B6-ijms-17-00194" ref-type="bibr">6</xref>,<xref rid="B7-ijms-17-00194" ref-type="bibr">7</xref>,<xref rid="B8-ijms-17-00194" ref-type="bibr">8</xref>,<xref rid="B9-ijms-17-00194" ref-type="bibr">9</xref>,<xref rid="B10-ijms-17-00194" ref-type="bibr">10</xref>,<xref rid="B11-ijms-17-00194" ref-type="bibr">11</xref>]. In this review, we mainly describe the linking methods to design and synthesize ADCs, including those that are not discussed in the reviews mentioned above.</p><fig id="ijms-17-00194-f001" position="float"><label>Figure 1</label><caption><p>Schematic representation of an antibody-drug conjugate (ADC). Reprinted with permission from Reference [<xref rid="B2-ijms-17-00194" ref-type="bibr">2</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g001"/></fig></sec><sec id="sec2-ijms-17-00194"><title>2. Conjugation via Various Functional Groups to Synthesize Antibody-Drug Conjugates (ADCs)</title><sec id="sec2dot1-ijms-17-00194"><title>2.1. Conjugation via Thiols</title><p>Employing the thiols of interchain cysteine residues in monoclonal antibodies as attachment sites for drug molecules is one of the most used conjugation methods. In a human IgG1, there are four interchain disulfide bonds that can be used as potential conjugation sites [<xref rid="B12-ijms-17-00194" ref-type="bibr">12</xref>]. The four interchain disulfide bonds can be reduced by tris(2-carboxyethyl) phosphine (TCEP) or dithiothreitol (DTT), which results in eight thiol groups that are available for conjugating drug molecules. Through this method, different drug antibody ratio (DAR) conjugates will be obtained when targeting typical DARs of 2&#x02013;4 [<xref rid="B13-ijms-17-00194" ref-type="bibr">13</xref>,<xref rid="B14-ijms-17-00194" ref-type="bibr">14</xref>]. In addition, antibody-drug conjugate at each drug antibody ratio has several isomers. Thus, over a hundred different species are present in the antibody-drug conjugate. Although conventional methods that employ cysteine residues as conjugation sites are highly heterogeneous, Adcetris<sup>&#x000ae;</sup> was approved by FDA in 2011.</p><p>Homogeneous antibody-drug conjugates can be produced through cysteine residues when all interchain cysteines are coupled to drugs. For example, Senter and coworkers [<xref rid="B15-ijms-17-00194" ref-type="bibr">15</xref>,<xref rid="B16-ijms-17-00194" ref-type="bibr">16</xref>] developed such a conjugate which consisted of cAC10, an anti-CD30 monoclonal antibody, and monomethyl auristatin E (MMAE). This cAC10-vcMMAE conjugate contains eight drugs per antibody, which is the highest drug antibody ratio (DAR) that can be obtained through using interchain cysteines as conjugation sites. However, antibody-drug conjugates with four drugs per antibody generally have improved <italic>in vivo</italic> performance [<xref rid="B17-ijms-17-00194" ref-type="bibr">17</xref>]. McDonagh <italic>et al.</italic> [<xref rid="B18-ijms-17-00194" ref-type="bibr">18</xref>] developed a method to control the conjugate sites by mutating four or six of the interchain cysteines to serines, therefore leaving four or two cysteines accessible for conjugating (<xref ref-type="scheme" rid="ijms-17-00194-f002">Scheme 1</xref>). After reduction of the disulfide bonds, the mutated monoclonal antibodies with the reduced number of interchain cysteines were conjugated with the drug vcMMAE. Through this method, homogenous antibody-drug conjugates with clear attachment sites could be produced.</p><fig id="ijms-17-00194-f002" position="float"><object-id pub-id-type="pii">ijms-17-00194-f002_Scheme 1</object-id><label>Scheme 1</label><caption><p>Interchain cysteine to serine mutagenesis enables drugs to conjugate to the remaining cysteines. Adapted from reference [<xref rid="B18-ijms-17-00194" ref-type="bibr">18</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g002"/></fig><p>Reducing the disulfide bonds of a monoclonal antibody should not affect its functions [<xref rid="B19-ijms-17-00194" ref-type="bibr">19</xref>]. What is more, interchain disulfide bonds are easier to be reduced than intrachain disulfide bonds [<xref rid="B20-ijms-17-00194" ref-type="bibr">20</xref>]. These allow free thiol groups to be generated under mild reducing conditions while leaving the antibody intact at the same time. Liu <italic>et al.</italic> [<xref rid="B21-ijms-17-00194" ref-type="bibr">21</xref>] took advantage of the fact that different disulfide bonds in a monoclonal antibody have different susceptibilities towards reduction and developed another strategy to tightly control the site of conjugation. Limited reduction with TCEP or DTT predominantly yielded conjugates in which drugs were attached to heavy-light chain disulfides; partial re-oxidation of fully reduced antibodies with 5,5&#x02032;-dithiobis (2-nitrobenzoic acid) (DTNB) yielded conjugates that drugs were mainly attached to by heavy-heavy chain disulfides [<xref rid="B13-ijms-17-00194" ref-type="bibr">13</xref>].</p><sec id="sec2dot1dot1-ijms-17-00194"><title>2.1.1. Addition to Maleimides</title><p>Classically, cysteine residues can be modified through addition of thiols to electrophiles such as maleimides (<xref ref-type="scheme" rid="ijms-17-00194-f003">Scheme 2</xref>) [<xref rid="B22-ijms-17-00194" ref-type="bibr">22</xref>,<xref rid="B23-ijms-17-00194" ref-type="bibr">23</xref>,<xref rid="B24-ijms-17-00194" ref-type="bibr">24</xref>,<xref rid="B25-ijms-17-00194" ref-type="bibr">25</xref>]. The conjugate could be achieved by reducing the disulfide bonds of the antibody and then adding to maleimides. Addition to maleimides is the most common method for attaching drugs to antibodies. Adcetris<sup>&#x000ae;</sup>, which was approved by the FDA for the treatment of patients with Hodgkin&#x02019;s lymphoma after failed autologous stem cell transplantation or patients with systemic anaplastic large-cell lymphoma after the failure of at least one prior multi-agent chemotherapy regimen, was produced by this method in which a maleimide-functionalized drug was conjugated to the interchain cysteine residues of an anti-CD30 antibody [<xref rid="B15-ijms-17-00194" ref-type="bibr">15</xref>]. Maleimide-based antibody-drug conjugates were recently found to have limited stability in blood circulation [<xref rid="B26-ijms-17-00194" ref-type="bibr">26</xref>], which would lower the efficacy of the conjugates and damage healthy tissue. Succinimide or maleimide hydrolysis is a promising method to get around this problem. Once hydrolyzed, the antibody-drug conjugates were no longer subject to elimination reactions of maleimides through retro-Michael reactions, thus improving the stabilities and potencies of ADCs [<xref rid="B27-ijms-17-00194" ref-type="bibr">27</xref>,<xref rid="B28-ijms-17-00194" ref-type="bibr">28</xref>,<xref rid="B29-ijms-17-00194" ref-type="bibr">29</xref>].</p><fig id="ijms-17-00194-f003" position="float"><object-id pub-id-type="pii">ijms-17-00194-f003_Scheme 2</object-id><label>Scheme 2</label><caption><p>The synthesis of antibody-drug conjugates (ADCs) through the addition of thiols to maleimides. Adapted from reference [<xref rid="B23-ijms-17-00194" ref-type="bibr">23</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g003"/></fig></sec><sec id="sec2dot1dot2-ijms-17-00194"><title>2.1.2. Disulfide-Thiol Exchange</title><p>The approach disulfide-thiol exchange could also be used to synthesis ADCs by forming a new disulfide bond between drugs and antibodies [<xref rid="B30-ijms-17-00194" ref-type="bibr">30</xref>,<xref rid="B31-ijms-17-00194" ref-type="bibr">31</xref>]. Ojima <italic>et al.</italic> [<xref rid="B30-ijms-17-00194" ref-type="bibr">30</xref>] designed and synthesized novel antibody-taxoid conjugates that include highly cytotoxic taxoid drug and monoclonal antibodies that could recognize the EGFR expressed in cancer cells. In this study, taxoid bearing a free thiol group was attached to the pyridyldithio groups of the modified anti-EGFR antibodies through disulfide-thiol exchange (<xref ref-type="scheme" rid="ijms-17-00194-f004">Scheme 3</xref>). The resulting conjugates possess remarkable antitumor activities against EGFR-expressing A431 (human epidermoid) tumor xenografts in immune deficient mice.</p><fig id="ijms-17-00194-f004" position="float"><object-id pub-id-type="pii">ijms-17-00194-f004_Scheme 3</object-id><label>Scheme 3</label><caption><p>Preparation of antibody-taxoid conjugates via disulfide-thiol exchange. Adapted from reference [<xref rid="B30-ijms-17-00194" ref-type="bibr">30</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g004"/></fig></sec><sec id="sec2dot1dot3-ijms-17-00194"><title>2.1.3. Addition to Alkynes</title><p>To avoid the maleimide instability issue, Kolodych <italic>et al.</italic> [<xref rid="B32-ijms-17-00194" ref-type="bibr">32</xref>] developed a heterobifunctional reagent, sodium 4-((4-(cyanoethynyl)benzoyl)oxy)-2,3,5,6-tetrafluorobenzenesulfonate (CBTF), for amine-to-thiol coupling (<xref ref-type="scheme" rid="ijms-17-00194-f005">Scheme 4</xref>). This reagent comprises a 3-arylpropionitrile (APN) group that replaces the maleimide and allows for the preparation of remarkably stable conjugates. Addition of thiols in the antibodies to the 3-arylpropionitriles predominantly produced <italic>Z</italic>-isomers of the addition products.</p><fig id="ijms-17-00194-f005" position="float"><object-id pub-id-type="pii">ijms-17-00194-f005_Scheme 4</object-id><label>Scheme 4</label><caption><p>The conjugation of amine-drug to trastuzumab by using sodium 4-((4-(cyanoethynyl)benzoyl)oxy)-2,3,5,6-tetrafluorobenzenesulfonate (CBTF). Reprinted with permission from reference [<xref rid="B32-ijms-17-00194" ref-type="bibr">32</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g005"/></fig></sec><sec id="sec2dot1dot4-ijms-17-00194"><title>2.1.4. Disulfide Re-Bridging</title><p>Recently, various novel cysteine-relied conjugation methods have been developed [<xref rid="B33-ijms-17-00194" ref-type="bibr">33</xref>]. Godwin and coworkers [<xref rid="B34-ijms-17-00194" ref-type="bibr">34</xref>,<xref rid="B35-ijms-17-00194" ref-type="bibr">35</xref>,<xref rid="B36-ijms-17-00194" ref-type="bibr">36</xref>] developed a thiol conjugation approach in which interchain disulfide bonds of the cysteines were partially reduced, followed by bis-alkylation (including Michael addition and elimination) to introduce thiols of two cysteines to the drug (<xref ref-type="scheme" rid="ijms-17-00194-f006">Scheme 5</xref>). Depending on the reduction degree, the numbers of cysteines for conjugation can be eight or four to generate drug antibody ratios (DARs) of four and two, respectively. They also demonstrated that the thiobridge ADCs are more stable than maleimide ADCs in the human serum.</p><p>Behrens <italic>et al.</italic> [<xref rid="B37-ijms-17-00194" ref-type="bibr">37</xref>] reduced all the disulfide bonds, exposing eight cysteine residues, then similarly used dibromomaleimide (DBM) to react with the free thiol groups of the antibody and produced a dithiomaleimide (DTM) ADC. Four cytotoxic drugs with this functional linker were attached to the monoclonal antibodies conveniently by linking with the cysteine residues.</p><p>Chudasama and coworkers [<xref rid="B27-ijms-17-00194" ref-type="bibr">27</xref>,<xref rid="B38-ijms-17-00194" ref-type="bibr">38</xref>,<xref rid="B39-ijms-17-00194" ref-type="bibr">39</xref>,<xref rid="B40-ijms-17-00194" ref-type="bibr">40</xref>] presented a significant method towards next-generation antibody-based therapeutics through disulfide re-bridging. In their works, the reduction of disulfides and disulfide re-bridging could be achieved in one step by the use of a single reagent: dithioaryl(TCEP)pyridazinedione [<xref rid="B38-ijms-17-00194" ref-type="bibr">38</xref>]. Disulfide re-bridging through the use of dibromopyridazinedione derivatives after disulfide reduction by TCEP was another strategy for the construction of antibody-based therapeutics in their studies [<xref rid="B39-ijms-17-00194" ref-type="bibr">39</xref>,<xref rid="B40-ijms-17-00194" ref-type="bibr">40</xref>]. The resulting conjugates were highly stable and had potent cytotoxicites against tumor cells.</p><fig id="ijms-17-00194-f006" position="float"><object-id pub-id-type="pii">ijms-17-00194-f006_Scheme 5</object-id><label>Scheme 5</label><caption><p>Three approaches to make ADCs through disulfide re-bridging: thiobridge, dibromomaleimide and pyridazinedione. Adapted from reference [<xref rid="B35-ijms-17-00194" ref-type="bibr">35</xref>,<xref rid="B37-ijms-17-00194" ref-type="bibr">37</xref>,<xref rid="B40-ijms-17-00194" ref-type="bibr">40</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g006"/></fig></sec><sec id="sec2dot1dot5-ijms-17-00194"><title>2.1.5. Expressed Protein Ligation (EPL) and Alkylguanine-DNA-Alkyl Transferase (AGT) Reaction</title><p>Another strategy for making homogeneous ADCs was inserting entire domains or proteins into antibodies. The most well known such method is expressed protein ligation (EPL), which relied on a self-splicing intein to activate the C-terminal of the target protein and thus formed a new amide bond with a small molecule, peptide or protein. EPL followed the mechanism: (1) C-terminal thioester formation through the spontaneous N to S rearrangement of an intein; (2) selected thiol displacement of the intein sequence to give an activated thioester; (3) thiol exchange of the thioester with a &#x003b2;-amino mercapto ligand (small molecule, peptide or protein); and (4) spontaneous N to C rearrangement to form an stable amide bond that links the antibody of interest to the drug with a inserted cysteine (<xref ref-type="scheme" rid="ijms-17-00194-f007">Scheme 6</xref>) [<xref rid="B34-ijms-17-00194" ref-type="bibr">34</xref>].</p><fig id="ijms-17-00194-f007" position="float"><object-id pub-id-type="pii">ijms-17-00194-f007_Scheme 6</object-id><label>Scheme 6</label><caption><p>Amino mercapto-derivitized drug can be attached to an antibody through intein splicing. Reprinted with permission from reference [<xref rid="B34-ijms-17-00194" ref-type="bibr">34</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g007"/></fig><p>Proteins that do not interfere with the function of an insertion can take advantage of the human O<sup>6</sup>-alkylguanine-DNA alkyltransferase (hAGT) reaction in which the guanine attached to the O<sup>6</sup> benzyl group is attacked by the cysteine of hAGT and thus transferred to the drug-AGT conjugate (<xref ref-type="scheme" rid="ijms-17-00194-f008">Scheme 7</xref>). To realize this reaction, hAGT was directly evolved to possess comparable kinetics to the wild type hAGT, while retaining the substrate tolerance for the <italic>O</italic>-benzyl moiety [<xref rid="B41-ijms-17-00194" ref-type="bibr">41</xref>].</p><fig id="ijms-17-00194-f008" position="float"><object-id pub-id-type="pii">ijms-17-00194-f008_Scheme 7</object-id><label>Scheme 7</label><caption><p>Human O<sup>6</sup>-alkylguanine-DNA alkyltransferase (hAGT) used guanine as a leaving group, forming a thioether bond to a benzyl-derivitized drug. Adapted from Reference [<xref rid="B41-ijms-17-00194" ref-type="bibr">41</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g008"/></fig></sec></sec><sec id="sec2dot2-ijms-17-00194"><title>2.2. Conjugation via Amines</title><sec id="sec2dot2dot1-ijms-17-00194"><title>2.2.1. Formation of Amides</title><p>Forming amide is one of the most important reactions for the nucleophilic amines. Amines could typically be acylated by carboxyl via some familiar activating reagents, such as <italic>N</italic>-hydroxysuccinimide (NHS), 2-Succinimido-1,1,3,3-tetra-methyluronium tetrafluoroborate (TSTU), and Benzotriazol-1-yl-oxytripyrrolidinophosphonium hexafluorophosphate (PyBOP).</p><p>Amines of the antibodies can react with the carboxyls that derived from the drugs in the effect of the NHS to give antibody-drug conjugates (<xref ref-type="scheme" rid="ijms-17-00194-f009">Scheme 8</xref>) [<xref rid="B22-ijms-17-00194" ref-type="bibr">22</xref>,<xref rid="B23-ijms-17-00194" ref-type="bibr">23</xref>,<xref rid="B42-ijms-17-00194" ref-type="bibr">42</xref>]. Amines of lysines are commonly used for linking drugs to antibodies because lysines are usually exposed on the surface of the antibodies and therefore easily accessible. Antibodies contain up to 80 lysines [<xref rid="B43-ijms-17-00194" ref-type="bibr">43</xref>] and, as a result, conjugation through lysine residues inevitably leads to twofold heterogeneity: (1) different number of drugs per antibody; and (2) antibodies with the same number of drugs attached at different sites [<xref rid="B31-ijms-17-00194" ref-type="bibr">31</xref>,<xref rid="B44-ijms-17-00194" ref-type="bibr">44</xref>]. The heterogeneity with respect to DARs can be restricted to a certain extent by adjusting the stoichiometry of drug and antibody used in the reaction; and with respect to site-specificity, the heterogeneity can be limited by the chemical accessibility of reactive groups [<xref rid="B45-ijms-17-00194" ref-type="bibr">45</xref>,<xref rid="B46-ijms-17-00194" ref-type="bibr">46</xref>]. Mylotarg<sup>&#x000ae;</sup> was the first antibody-drug conjugate on the market by lysine-coupling. In the conjugate, a semi-synthetic calicheamicin derivative was activated with NHS, and then attached to the lysines of a humanized IgG4 [<xref rid="B47-ijms-17-00194" ref-type="bibr">47</xref>]. However, Mylotarg<sup>&#x000ae;</sup> was withdrawn from the market in 2010 due to the lack of benefit improvement to patients. Recently, there was a new clinically relevant antibody-drug conjugate generated by lysine modification: Kadcyla<sup>&#x000ae;</sup> [<xref rid="B48-ijms-17-00194" ref-type="bibr">48</xref>].</p><fig id="ijms-17-00194-f009" position="float"><object-id pub-id-type="pii">ijms-17-00194-f009_Scheme 8</object-id><label>Scheme 8</label><caption><p>Amines of the antibodies reacted with the carboxyls that derived from the drugs in the effect of the <italic>N</italic>-hydroxysuccinimide (NHS). Adapted from reference [<xref rid="B23-ijms-17-00194" ref-type="bibr">23</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g009"/></fig><p>Hong <italic>et al.</italic> [<xref rid="B49-ijms-17-00194" ref-type="bibr">49</xref>] developed an approach to covalently attach the anticancer drug doxorubicin to an anti-EGFR antibody fragment (Fab&#x02019;) through a polyethylene glycol (PEG) linker. In this work, CIT&#x02013;(CH<sub>2</sub>)<sub>5</sub>&#x02013;PEG<sub>24</sub>&#x02013;CO<sub>2</sub>H was activated by TSTU or PyBOP and then coupled <italic>in situ</italic> with the C3&#x02032;-amine of DOX to give CIT&#x02013;(CH<sub>2</sub>)<sub>5</sub>&#x02013;PEG<sub>24</sub>&#x02013;DOX, which was then conjugated with the cysteine residues of an anti-EGFR Fab&#x02019;. Introduction of PEG increased aqueous solubility of the drug, which led to a yield improvement of the conjugation reaction with the Fab&#x02019;.</p><p>Besides familiar activating reagent, amines could react with carboxyl acids and their derivatives to form the amides under the influence of the BTG, SrtA and BirA. For example, Jeger <italic>et al.</italic> [<xref rid="B50-ijms-17-00194" ref-type="bibr">50</xref>] observed the selective acylation of amines by the glutamines in the heavy chain&#x02019;s flexible regions of an IgG where the asparagines (N) were mutated to glutamines (Q). By using bacterial transglutaminase (BTG) at these sites, they synthesized homogeneous conjugates that were tumor-uptake selective <italic>in vivo</italic> (<xref ref-type="scheme" rid="ijms-17-00194-f010">Scheme 9</xref>).</p><fig id="ijms-17-00194-f010" position="float"><object-id pub-id-type="pii">ijms-17-00194-f010_Scheme 9</object-id><label>Scheme 9</label><caption><p>The reaction of the amine-drugs and antibodies under the influence of bacterial transglutaminase (BTG). Adapted from reference [<xref rid="B50-ijms-17-00194" ref-type="bibr">50</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g010"/></fig><p>Sortase A (SrtA), one of the many sortases found in Gram-positive bacteria, is a transpeptidase [<xref rid="B51-ijms-17-00194" ref-type="bibr">51</xref>] that can recognize a LPXTG sequence, break the TG bond and facilitate the formation of a new amide bond with the amine of glycine-derivitized drug. This was demonstrated through conjugating folate, biotin, rhodamine and so on [<xref rid="B52-ijms-17-00194" ref-type="bibr">52</xref>,<xref rid="B53-ijms-17-00194" ref-type="bibr">53</xref>]. The leaving glycine could return as a competing nucleophile, which reversed the reaction, unless more than 10 equivalents of glycine-derivitized drugs were used (<xref ref-type="scheme" rid="ijms-17-00194-f011">Scheme 10</xref>) [<xref rid="B54-ijms-17-00194" ref-type="bibr">54</xref>]. Williamson <italic>et al.</italic> [<xref rid="B55-ijms-17-00194" ref-type="bibr">55</xref>] put forward a creative solution to solve this problem: they used threonine esters as substrates and the product glycolic acids were far less nucleophilic, enabling conjugation with a 1:1 stoichiometry.</p><fig id="ijms-17-00194-f011" position="float"><object-id pub-id-type="pii">ijms-17-00194-f011_Scheme 10</object-id><label>Scheme 10</label><caption><p>The sortase-mediated conjugation of glycine-derivitized drugs and the antibodies. Adapted from reference [<xref rid="B54-ijms-17-00194" ref-type="bibr">54</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g011"/></fig><p>The biotin ligase (BirA) could recognize and acylate the Avi-tag, which is a 15-amino acid GLNDIFEAQKIEWHE sequence. Chen <italic>et al.</italic> [<xref rid="B56-ijms-17-00194" ref-type="bibr">56</xref>] found that BirA could accept keto analogs of biotin as substrates to react with Avi-tag and form intermediates that could conjugate with the oxyamines of drugs (<xref ref-type="scheme" rid="ijms-17-00194-f012">Scheme 11</xref>). BirA has a similar function as formylglycine-generating enzyme (FGE), which can site-specifically insert an aldehyde group into an antibody. In this case, a keto group was introduced into the antibody. Although BirA requires a long sequence, it is far less restricted in the location along the antibody. They demonstrated the reaction with the installed carbonyl using fluorescein hydrazide.</p><fig id="ijms-17-00194-f012" position="float"><object-id pub-id-type="pii">ijms-17-00194-f012_Scheme 11</object-id><label>Scheme 11</label><caption><p>The BirA-mediated conjugation of biotin-like ketones, oxyamine-drugs and antibody. Adapted from Reference [<xref rid="B56-ijms-17-00194" ref-type="bibr">56</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g012"/></fig></sec><sec id="sec2dot2dot2-ijms-17-00194"><title>2.2.2. Formation of Carbamates</title><p>Amines of the drugs could react with the hydroxyls that derived from the linkers in the effect of phosgene, 4-nitrophenyl chloroformate, <italic>etc.</italic> and form the carbamate containing drug-linkers (<xref ref-type="scheme" rid="ijms-17-00194-f013">Scheme 12</xref>), which was then coupled to antibodies [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>,<xref rid="B58-ijms-17-00194" ref-type="bibr">58</xref>]. For instance, Jeffrey <italic>et al.</italic> [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>] prepared antibody-drug conjugates in which the amino-CBI drug, a DNA minor groove binder drug (MGBs), was attached to monoclonal antibodies through peptide linkers that designed to release drugs in the lysosomes of target cells. In this study, the amino-CBI drug reacted with phosgene to form the corresponding isocyanate and then the linker with a hydroxyl was added to form the carbamate. Dubowchik <italic>et al.</italic> [<xref rid="B59-ijms-17-00194" ref-type="bibr">59</xref>] linked the anticancer drug doxorubicin to chimeric BR96, an internalizing monoclonal antibody, through lysosomally cleavable dipeptides. In this case, the carbamate between drug and antibody was prepared with 4-nitrophenyl chloroformate. These antibody-drug conjugates usually insert a spacer such as <italic>para</italic>-aminobenzyl carbamate (PABC) between the peptide linkers and the drugs to minimize the steric interaction effects. This approach has previously been used to release doxorubicin [<xref rid="B60-ijms-17-00194" ref-type="bibr">60</xref>], MMAE [<xref rid="B17-ijms-17-00194" ref-type="bibr">17</xref>] and camptothecin [<xref rid="B61-ijms-17-00194" ref-type="bibr">61</xref>] from antibody-drug conjugates.</p><fig id="ijms-17-00194-f013" position="float"><object-id pub-id-type="pii">ijms-17-00194-f013_Scheme 12</object-id><label>Scheme 12</label><caption><p>The reaction of amines of the drug and hydroxyls of the linkers in the effect of phosgene or 4-nitrophenyl chloroformate. Adapted from Reference [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>,<xref rid="B58-ijms-17-00194" ref-type="bibr">58</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g013"/></fig><p>Another carbamate was designed for the hydroxy containing drug. For instance, antibody-drug conjugate SYD985 consists of <italic>seco</italic>-DUBA drug, self-elimination spacer, cleavable peptides linker and trastuzumab. The <italic>seco</italic>-DUBA drug was linked to the self-elimination spacer via carbamate bond that derived from carbonate. Treatment of MOM protected duocarmycin with 4-nitrophenyl chloroformate gave the corresponding carbonate. Commercially available <italic>tert</italic>-butyl methyl(2-(methylamino) ethyl)carbamate was then used to synthesize the carbamate. Removal of the Boc and MOM groups with trifluoroacetic acid (TFA) provided cyclization spacer-duocarmycin as a TFA salt. Cyclization spacer-duocarmycin was reacted with the activated linker to synthesis drug-linker module under slightly basic conditions [<xref rid="B62-ijms-17-00194" ref-type="bibr">62</xref>].</p></sec></sec><sec id="sec2dot3-ijms-17-00194"><title>2.3. Conjugation via Alcohols</title><sec id="sec2dot3dot1-ijms-17-00194"><title>2.3.1. Formation of Carbonates</title><p>Similar with amines, alcohols can react with chloroformates to form carbonates. For example, Moon <italic>et al.</italic> [<xref rid="B63-ijms-17-00194" ref-type="bibr">63</xref>] conjugated 7-ethyl-10-hydroxycamptothecin (SN-38) derivatives to hMN-14, a humanized anti-CEACAM5 mAb, via a carbonate bond. To construct the carbonate bond, BOC-SN-38 [<xref rid="B64-ijms-17-00194" ref-type="bibr">64</xref>] was firstly converted to its 20-<italic>O</italic>-chloroformate, and then reacted <italic>in situ</italic> with the known linker, MC-Phe-Lys(MMT)-PABOH [<xref rid="B60-ijms-17-00194" ref-type="bibr">60</xref>]. </p></sec><sec id="sec2dot3dot2-ijms-17-00194"><title>2.3.2. Formation of Ether Bonds</title><p>Jeffrey <italic>et al.</italic> [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>] described a method to conjugate amino-CBI drug to the monoclonal antibody by formation of carbamates (see <xref ref-type="sec" rid="sec2dot2dot2-ijms-17-00194">Section 2.2.2</xref>). Another approach for attaching a DNA minor groove binder drug (MGB) derivative to mAb involved <italic>O</italic>-alkylation of the hydroxy in aza-CBI to form ether bond. In this approach, a <italic>para</italic>-aminobenzyl ether (PABE) group was used as a self- elimination spacer between the drug and the peptides [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>]. An important step in the synthesis of this antibody-MGB conjugate was the formation of an ether bond through the <italic>O</italic>-alkylation of aza-CBI by bromide and potassium carbonate (<xref ref-type="scheme" rid="ijms-17-00194-f014">Scheme 13</xref>). This work also showed that the conjugate could cleave via amide bond hydrolysis and lead to the release of free phenolic drug [<xref rid="B65-ijms-17-00194" ref-type="bibr">65</xref>]. This approach should be broadly applied to drugs that have a phenolic hydroxyl group as the conjugate site [<xref rid="B66-ijms-17-00194" ref-type="bibr">66</xref>].</p><fig id="ijms-17-00194-f014" position="float"><object-id pub-id-type="pii">ijms-17-00194-f014_Scheme 13</object-id><label>Scheme 13</label><caption><p>The formation of an ether bond through the <italic>O</italic>-alkylation of aza-CBI by bromide and potassium carbonate. Adapted from reference [<xref rid="B57-ijms-17-00194" ref-type="bibr">57</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g014"/></fig></sec><sec id="sec2dot3dot3-ijms-17-00194"><title>2.3.3. Formation of Ester Bond</title><p>In 2010, Quiles <italic>et al.</italic> [<xref rid="B67-ijms-17-00194" ref-type="bibr">67</xref>] developed paclitaxel-monoclonal antibody (PTX-mAb) conjugates that could deliver significant doses of drugs to the tumor cells using the ester bond. The conjugates used PEG as linker, and the paclitaxel was attached to the linker with glutarate (GL) or succinate (SX) through the ester bond, the resulting PTX&#x02013;L&#x02013;Lys[(PEG<sub>12</sub>)<sub>3</sub>&#x02013;PEG<sub>4</sub>]&#x02013;PEG<sub>6</sub>&#x02013;CO<sub>2</sub>NHS (L = GL or SX) was then conjugated to C225, an antiepidermal growth factor receptor (anti-EGFR) monoclonal antibody, producing completely soluble conjugates.</p></sec></sec><sec id="sec2dot4-ijms-17-00194"><title>2.4. Conjugation via Aldehydes</title><sec id="sec2dot4dot1-ijms-17-00194"><title>2.4.1. Conjugation via FGE</title><p>Conjugation via aldehydes is another method for linking drugs to antibodies. Formylglycine-generating enzymes (FGEs), which recognize and modify a short CXPXR (where X is any amino acid) sequence, can be used to modify the cysteine residues of antibodies to aldehyde-containing formylglycine (FGly) residues. This method was applied to generate site-specific antibody-drug conjugates via incorporating cytotoxic drugs into monoclonal antibodies with a formylglycine [<xref rid="B68-ijms-17-00194" ref-type="bibr">68</xref>]. Following the production of modified antibody, a chemical method can be used to conjugate a drug to the aldehyde group of formylglycine. Oxyamine or hydrazide drugs were attached to the modified antibodies successfully (<xref ref-type="scheme" rid="ijms-17-00194-f015">Scheme 14</xref>) [<xref rid="B69-ijms-17-00194" ref-type="bibr">69</xref>]. Recently, this kind of aldehyde conjugation strategy was further developed by Agarwal <italic>et al.</italic> [<xref rid="B70-ijms-17-00194" ref-type="bibr">70</xref>], who used hydrazino-iso-Pictet-Spengler (HIPS) chemistry to attach maytansine to the aldehyde-containing trastuzumab. The HIPS chemistry resulted in the formation of a covalent C&#x02013;C bond, which was more stable than oxime or hydrazone ligation products in physiological condition. What is more, this study showed that the aldehyde group can be introduced in many locations of the antibody without affecting the stability and activity of the obtained antibody-drug conjugates.</p><fig id="ijms-17-00194-f015" position="float"><object-id pub-id-type="pii">ijms-17-00194-f015_Scheme 14</object-id><label>Scheme 14</label><caption><p>The conversion of the cysteine thiol to an aldehyde group by formylglycine-generating enzymes (FGE) enables reactions with oxyamine drugs. Adapted from reference [<xref rid="B70-ijms-17-00194" ref-type="bibr">70</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g015"/></fig></sec><sec id="sec2dot4dot2-ijms-17-00194"><title>2.4.2. Conjugation via aaRS</title><p>The tRNA/aminoacyl-tRNA synthetase (aaRS) pair can site-specifically incorporate an unnatural amino acid (e.g., <italic>p</italic>-acetylphenylalanine, pAcPhe) into antibody [<xref rid="B71-ijms-17-00194" ref-type="bibr">71</xref>]. Recently, the genetic incorporation of unnatural amino acids into antibodies had become a useful tool in the ADC design [<xref rid="B72-ijms-17-00194" ref-type="bibr">72</xref>,<xref rid="B73-ijms-17-00194" ref-type="bibr">73</xref>]. This method was successfully realized by Axup <italic>et al.</italic> [<xref rid="B74-ijms-17-00194" ref-type="bibr">74</xref>], who developed site-specific auristatin conjugates of trastuzumab. A <italic>p</italic>-acetylphenylalanine was loaded onto the amber codon of tRNA by aaRS and then specifically incorporated into the amber site of the trastuzumab heavy chain. After purification, the antibody was coupled to the monomethyl auristatin F (MMAF) derivative that contains an oxyamine group by an oxime ligation with the pAcPhe residues (<xref ref-type="scheme" rid="ijms-17-00194-f016">Scheme 15</xref>). The analysis of antitumor activity and pharmacokinetics of this site-specific antibody-drug conjugate confirmed its efficacy and stability in serum.</p><fig id="ijms-17-00194-f016" position="float"><object-id pub-id-type="pii">ijms-17-00194-f016_Scheme 15</object-id><label>Scheme 15</label><caption><p>Incorporation of <italic>p</italic>-acetylphenylalanine (pAcPhe) allows for site-specific conjugation of drugs to the modified antibodies. Adapted from reference [<xref rid="B74-ijms-17-00194" ref-type="bibr">74</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g016"/></fig></sec><sec id="sec2dot4dot3-ijms-17-00194"><title>2.4.3. Oxidation of Sialic Acids</title><p>Glycoengineering has been employed to synthesize site-specific antibody-drug conjugates, in which sialic acids were used as chemical handles for selective conjugations. This was achieved by incorporating sialic acids into the native glycans of trastuzumab through &#x003b2;-1,4-galactosyltransferase (Gal T) and &#x003b1;-2,6-sialyltransferase (Sial T). Prior to reaction with the oxyamine drugs, the alcohol groups of sialic acids were oxidated to aldehyde groups. The resulting antibodies could react with the cytotoxic drugs via an oxime ligation (<xref ref-type="scheme" rid="ijms-17-00194-f017">Scheme 16</xref>). This method was evaluated by conjugating trastuzumab with two drugs, monomethyl auristatin E (MMAE) and dolastatin 10. The glycoengineered antibody-drug conjugates exhibited comparable antitumor activities to the conventional analogs [<xref rid="B75-ijms-17-00194" ref-type="bibr">75</xref>].</p><fig id="ijms-17-00194-f017" position="float"><object-id pub-id-type="pii">ijms-17-00194-f017_Scheme 16</object-id><label>Scheme 16</label><caption><p>The modification of glycans of trastuzumab by Gal T and Sial T leads to the incorporation of sialic acids, which were oxidated and coupled to the drugs through oxime ligation. Adapted from reference [<xref rid="B75-ijms-17-00194" ref-type="bibr">75</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g017"/></fig></sec><sec id="sec2dot4dot4-ijms-17-00194"><title>2.4.4. Conjugation via Transamination Reagent</title><p>Witus <italic>et al.</italic> [<xref rid="B76-ijms-17-00194" ref-type="bibr">76</xref>,<xref rid="B77-ijms-17-00194" ref-type="bibr">77</xref>] introduced carbonyl groups by transamination reagent pyridoxal 5&#x02032;-phosphate (PLP) at the N-terminus of antibodies, which could be used as unique attachment sites for the conjugation formation (<xref ref-type="scheme" rid="ijms-17-00194-f018">Scheme 17</xref>). However, the reaction yields were not very high and high temperatures were required, which limited the application of this method. To solve these problems, they developed a combinatorial peptide library screening platform and found a new transamination reagent, <italic>N</italic>-methylpyridinium-4-carboxaldehyde benzenesulfonate salt (RS) [<xref rid="B78-ijms-17-00194" ref-type="bibr">78</xref>]. Antibodies with glutamate-rich sequences were particularly reactive substrates for this reagent [<xref rid="B79-ijms-17-00194" ref-type="bibr">79</xref>].</p><fig id="ijms-17-00194-f018" position="float"><object-id pub-id-type="pii">ijms-17-00194-f018_Scheme 17</object-id><label>Scheme 17</label><caption><p>The oxidation of amines to aldehyde groups which could react with oxyaminedrugs using transamination reagents pyridoxal 5&#x02032;-phosphate (PLP) or <italic>N</italic>-methylpyridinium-4-carboxaldehyde benzenesulfonate salt (RS). Adapted from reference [<xref rid="B79-ijms-17-00194" ref-type="bibr">79</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g018"/></fig></sec></sec><sec id="sec2dot5-ijms-17-00194"><title>2.5. Conjugation via Azides</title><sec id="sec2dot5dot1-ijms-17-00194"><title>2.5.1. Click Reactions with DBCO</title><p>Azides can react with alkynes to form triazoles through click chemistries, such as copper-catalyzed azide-alkyne cycloaddition (CuAAC) and strain-promoted azide-alkyne cycloaddition (SPAAC) (<xref ref-type="scheme" rid="ijms-17-00194-f019">Scheme 18</xref>) [<xref rid="B80-ijms-17-00194" ref-type="bibr">80</xref>,<xref rid="B81-ijms-17-00194" ref-type="bibr">81</xref>]. This approach was recently used to construct antibody-drug conjugates. For example, Zhou <italic>et al.</italic> [<xref rid="B81-ijms-17-00194" ref-type="bibr">81</xref>] conjugated drugs to antibodies using this method. In this study, an azide-containing reagent, sodium (difluoroalkylazido)sulfinate (DAAS-Na), allowed azide groups to be linked to heteroaromatics, and the products could then be attached to monoclonal antibodies by click reactions. DAAS-Na was used in the heteroarene functionalization reaction, in which ZnCl<sub>2</sub> and TsOH&#x000b7;H<sub>2</sub>O were acid additives and tBuOOH was an oxidant. The resulting azide-linked drugs could react with a dibenzylcyclooctyne (DBCO) containing antibody through a CuAAC reaction. This strategy expands the extent of bioactive drugs that can be linked to monoclonal antibodies.</p><fig id="ijms-17-00194-f019" position="float"><object-id pub-id-type="pii">ijms-17-00194-f019_Scheme 18</object-id><label>Scheme 18</label><caption><p>The synthesis of ADCs through copper-catalyzed azide-alkyne cycloaddition (CuAAC) and strain-promoted azide-alkyne cycloaddition (SPAAC) click reactions. Adapted from reference [<xref rid="B81-ijms-17-00194" ref-type="bibr">81</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g019"/></fig><p>Microbial transglutaminase (MTGase) can catalyze the formation of an isopeptide bond between the amine group of glutamine and the primary amine of lysine while simultaneously releasing an ammonia gas [<xref rid="B82-ijms-17-00194" ref-type="bibr">82</xref>]. The coupling activity of MTGase was applied to synthesize antibody-drug conjugates [<xref rid="B83-ijms-17-00194" ref-type="bibr">83</xref>,<xref rid="B84-ijms-17-00194" ref-type="bibr">84</xref>,<xref rid="B85-ijms-17-00194" ref-type="bibr">85</xref>]. For example, Dennler <italic>et al.</italic> [<xref rid="B83-ijms-17-00194" ref-type="bibr">83</xref>] afforded a highly homogeneous trastuzumab-MMAE conjugate with DAR of 2 using this enzymatic conjugation strategy. In this work, an azide-containing linker, which involves a primary amine, was coupled to Q295 of the deglycosylated antibody by MTGase. This enzymatic reaction was followed by a SPAAC reaction with the DBCO-containing auristatin drug.</p><p>Cell-free protein synthesis (CFPS) system was also efficiently applied to produce monoclonal antibodies that contain unnatural amino acids for antibody-drug conjugate generations. For example, Zimmerman <italic>et al.</italic> [<xref rid="B86-ijms-17-00194" ref-type="bibr">86</xref>] prepared a site-specific antibody-drug conjugate via CFPS system using a new synthetase to incorporate a <italic>para</italic>-azidomethylphenylalanine (pAMF) to the monoclonal antibody, which was then linked to a DBCO-functionalized MMAF drug by SPAAC reaction.</p></sec><sec id="sec2dot5dot2-ijms-17-00194"><title>2.5.2. Click Reactions with Terminal Alkynes</title><p>In 2014, Bryden <italic>et al.</italic> [<xref rid="B87-ijms-17-00194" ref-type="bibr">87</xref>] described the attachment of azide-functionalized porphyrins to a tratuzumab via a novel conjugation method. In this study, Trastuzumab was treated with TCEP in order to reduce the interchain disulfide bond. Treatment with <italic>N</italic>-propargyl-3,4-dibromomaleimide yielded alkyne-containing trastuzumab, which then successfully reacted with porphyrin derivatives through the CuAAC reaction to afford trastuzumab-porphyrin conjugates (<xref ref-type="scheme" rid="ijms-17-00194-f020">Scheme 19</xref>). This method could also be realized using SPAAC reaction [<xref rid="B39-ijms-17-00194" ref-type="bibr">39</xref>].</p><fig id="ijms-17-00194-f020" position="float"><object-id pub-id-type="pii">ijms-17-00194-f020_Scheme 19</object-id><label>Scheme 19</label><caption><p>The synthesis of trastuzumab-porphyrin conjugates through <italic>N</italic>-propargyl-3,4-dibromomaleimide and a click chemistry. Reprinted with permission from Reference [<xref rid="B87-ijms-17-00194" ref-type="bibr">87</xref>].</p></caption><graphic xlink:href="ijms-17-00194-g020"/></fig></sec></sec></sec><sec id="sec3-ijms-17-00194"><title>3. Conclusions</title><p>A promising approach to improve the potency of drugs is to be conjugated to monoclonal antibodies that enable these cytotoxic drugs to be site-specifically delivered to tumor cells while avoiding the toxicity of drugs on normal cells. The linkers of antibody-drug conjugates profoundly impact their potency and safety. Recently, a variety of methods have been developed to conjugate drugs to antibodies. In this review, we summarized the methods that are currently used to design and synthesize antibody-drug conjugates, including heterogeneous ADCs and homogeneous ADCs, via various functional groups such as thiols, amines, alcohols, aldehydes and azides. Heterogeneous ADCs were usually synthesized through the thiols of cysteine residues and the amines of lysines, however, the heterogeneity diminished their activities and promoted antibody aggregations, and increased toxicities in the circulation. Homogeneous ADCs made through the catalysis of site-specific conjugation enzymes such as AGT, BTG, aaRS and Sial T are more stable and have comparable or even better activities than those conventional analogs <italic>in vivo</italic>. We believe that a growing number of methods will be developed to synthesize ADCs in the near future, and more and more ADCs, especially site-specifically modified ADCs, will be produced.</p></sec></body><back><ack><title>Acknowledgments</title><p>We thank the other academic staff members in Aiping Lu and Ge Zhang&#x02019;s group at Hong Kong Baptist University (Hong Kong, China). We also thank Hong Kong Baptist University (Hong Kong, China) for providing critical comments and technical support. This study was supported by the Hong Kong General Research Fund (HKBU12102914 to Ge Zhang) and the Faculty Research Grant of Hong Kong Baptist University (FRG2/12-13/027 to Ge Zhang).</p></ack><notes><title>Author Contributions</title><p>Houzong Yao and Feng Jiang wrote the manuscript; and Aiping Lu and Ge Zhang revised and approved the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijms-17-00194"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lenoir</surname><given-names>T.</given-names></name></person-group>
+<article-title>A magic bullet: Research for profit and the growth of knowledge in Germany around 1900</article-title>
+<source>Minerva</source>
+<year>1988</year>
+<volume>26</volume>
+<fpage>66</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="doi">10.1007/BF01096701</pub-id>
+</element-citation></ref><ref id="B2-ijms-17-00194"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laurent</surname><given-names>D.</given-names></name><name><surname>Bernhard</surname><given-names>S.</given-names></name></person-group>
+<article-title>Antibody-drug conjugates: Linking cytotoxic payloads to monoclonal antibodies</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2010</year>
+<volume>21</volume>
+<fpage>5</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="pmid">19769391</pub-id></element-citation></ref><ref id="B3-ijms-17-00194"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez</surname><given-names>H.L.</given-names></name><name><surname>Cardarelli</surname><given-names>P.M.</given-names></name><name><surname>Deshpande</surname><given-names>S.</given-names></name><name><surname>Gangwar</surname><given-names>S.</given-names></name><name><surname>Schroeder</surname><given-names>G.M.</given-names></name><name><surname>Vite</surname><given-names>G.D.</given-names></name><name><surname>Borzilleri</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Antibody-drug conjugates: Current status and future directions</article-title>
+<source>Drug Discov. Today</source>
+<year>2014</year>
+<volume>19</volume>
+<fpage>869</fpage>
+<lpage>881</lpage>
+<pub-id pub-id-type="doi">10.1016/j.drudis.2013.11.004</pub-id>
+<pub-id pub-id-type="pmid">24239727</pub-id></element-citation></ref><ref id="B4-ijms-17-00194"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chari</surname><given-names>R.V.J.</given-names></name><name><surname>Miller</surname><given-names>M.L.</given-names></name><name><surname>Widdison</surname><given-names>W.C.</given-names></name></person-group>
+<article-title>Antibody-drug conjugates: An emerging concept in cancer therapy</article-title>
+<source>Angew. Chem. Int. Ed. Engl.</source>
+<year>2014</year>
+<volume>53</volume>
+<fpage>3796</fpage>
+<lpage>3827</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.201307628</pub-id>
+<pub-id pub-id-type="pmid">24677743</pub-id></element-citation></ref><ref id="B5-ijms-17-00194"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thudium</surname><given-names>K.</given-names></name><name><surname>Bilic</surname><given-names>S.</given-names></name><name><surname>Leipold</surname><given-names>D.</given-names></name><name><surname>Mallet</surname><given-names>W.</given-names></name><name><surname>Kaur</surname><given-names>S.</given-names></name><name><surname>Meibohm</surname><given-names>B.</given-names></name><name><surname>Erickson</surname><given-names>H.</given-names></name><name><surname>Tibbitts</surname><given-names>J.</given-names></name><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Gupta</surname><given-names>M.</given-names></name></person-group>
+<article-title>American association of pharmaceutical scientists national biotechnology conference short course: Translational challenges in developing antibody-drug conjugates</article-title>
+<source>MAbs</source>
+<year>2013</year>
+<volume>5</volume>
+<fpage>5</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.4161/mabs.22909</pub-id>
+<pub-id pub-id-type="pmid">23255090</pub-id></element-citation></ref><ref id="B6-ijms-17-00194"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sievers</surname><given-names>E.L.</given-names></name><name><surname>Senter</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Antibody-drug conjugates in cancer therapy</article-title>
+<source>Annu. Rev. Med.</source>
+<year>2013</year>
+<volume>64</volume>
+<fpage>15</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-med-050311-201823</pub-id>
+<pub-id pub-id-type="pmid">23043493</pub-id></element-citation></ref><ref id="B7-ijms-17-00194"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harper</surname><given-names>J.</given-names></name><name><surname>Mao</surname><given-names>S.</given-names></name><name><surname>Strout</surname><given-names>P.</given-names></name><name><surname>Kamal</surname><given-names>A.</given-names></name></person-group>
+<article-title>Selecting an optimal antibody for antibody-drug conjugate therapy: Internalization and intracellular localization</article-title>
+<source>Methods Mol. Biol.</source>
+<year>2013</year>
+<volume>1045</volume>
+<fpage>41</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="pmid">23913140</pub-id></element-citation></ref><ref id="B8-ijms-17-00194"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bander</surname><given-names>N.H.</given-names></name></person-group>
+<article-title>Antibody-drug conjugate target selection: Critical factors</article-title>
+<source>Methods Mol. Biol.</source>
+<year>2013</year>
+<volume>1045</volume>
+<fpage>29</fpage>
+<lpage>40</lpage>
+<pub-id pub-id-type="pmid">23913139</pub-id></element-citation></ref><ref id="B9-ijms-17-00194"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gerber</surname><given-names>H.-P.</given-names></name><name><surname>Koehn</surname><given-names>F.E.</given-names></name><name><surname>Abraham</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>The antibody-drug conjugate: An enabling modality for natural product-based cancer therapeutics</article-title>
+<source>Nat. Prod. Rep.</source>
+<year>2013</year>
+<volume>30</volume>
+<fpage>625</fpage>
+<lpage>639</lpage>
+<pub-id pub-id-type="doi">10.1039/c3np20113a</pub-id>
+<pub-id pub-id-type="pmid">23525375</pub-id></element-citation></ref><ref id="B10-ijms-17-00194"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chudasama</surname><given-names>V.</given-names></name><name><surname>Maruani</surname><given-names>A.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name></person-group>
+<article-title>Recent advances in the construction of antibody&#x02013;drug conjugates</article-title>
+<source>Nat. Chem.</source>
+<year>2016</year>
+<volume>8</volume>
+<fpage>114</fpage>
+<lpage>119</lpage>
+<pub-id pub-id-type="doi">10.1038/nchem.2415</pub-id>
+<pub-id pub-id-type="pmid">26791893</pub-id></element-citation></ref><ref id="B11-ijms-17-00194"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diamantis</surname><given-names>N.</given-names></name><name><surname>Banerji</surname><given-names>U.</given-names></name></person-group>
+<article-title>Antibody-drug conjugates&#x02014;An emerging class of cancer treatment</article-title>
+<source>Br. J. Cancer</source>
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1038/bjc.2015.435</pub-id>
+<pub-id pub-id-type="pmid">26742008</pub-id></element-citation></ref><ref id="B12-ijms-17-00194"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McAuley</surname><given-names>A.</given-names></name><name><surname>Jacob</surname><given-names>J.</given-names></name><name><surname>Kolvenbach</surname><given-names>C.G.</given-names></name><name><surname>Westland</surname><given-names>K.</given-names></name><name><surname>Lee</surname><given-names>H.J.</given-names></name><name><surname>Brych</surname><given-names>S.R.</given-names></name><name><surname>Rehder</surname><given-names>D.</given-names></name><name><surname>Kleemann</surname><given-names>G.R.</given-names></name><name><surname>Brems</surname><given-names>D.N.</given-names></name><name><surname>Matsumura</surname><given-names>M.</given-names></name></person-group>
+<article-title>Contributions of a disulfide bond to the structure, stability, and dimerization of human IgG1 antibody CH3 domain</article-title>
+<source>Protein Sci.</source>
+<year>2008</year>
+<volume>17</volume>
+<fpage>95</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1110/ps.073134408</pub-id>
+<pub-id pub-id-type="pmid">18156469</pub-id></element-citation></ref><ref id="B13-ijms-17-00194"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>M.M.C.</given-names></name><name><surname>Beam</surname><given-names>K.S.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Hamblett</surname><given-names>K.J.</given-names></name><name><surname>Blackmore</surname><given-names>R.S.</given-names></name><name><surname>Torgov</surname><given-names>M.Y.</given-names></name><name><surname>Handley</surname><given-names>F.G.M.</given-names></name><name><surname>Ihle</surname><given-names>N.C.</given-names></name><name><surname>Senter</surname><given-names>P.D.</given-names></name><name><surname>Alley</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>Reduction&#x02013;alkylation strategies for the modification of specific monoclonal antibody disulfides</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2005</year>
+<volume>16</volume>
+<fpage>1282</fpage>
+<lpage>1290</lpage>
+<pub-id pub-id-type="doi">10.1021/bc050201y</pub-id>
+<pub-id pub-id-type="pmid">16173809</pub-id></element-citation></ref><ref id="B14-ijms-17-00194"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Willner</surname><given-names>D.</given-names></name><name><surname>Trail</surname><given-names>P.A.</given-names></name><name><surname>Hofstead</surname><given-names>S.J.</given-names></name><name><surname>King</surname><given-names>H.D.</given-names></name><name><surname>Lasch</surname><given-names>S.J.</given-names></name><name><surname>Braslawsky</surname><given-names>G.R.</given-names></name><name><surname>Greenfield</surname><given-names>R.S.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name><name><surname>Firestone</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>(6-Maleimidocaproyl) hydrazone of doxorubicin-a new derivative for the preparation of immunoconjugates of doxorubicin</article-title>
+<source>Bioconjug. Chem.</source>
+<year>1993</year>
+<volume>4</volume>
+<fpage>521</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="doi">10.1021/bc00024a015</pub-id>
+<pub-id pub-id-type="pmid">7508268</pub-id></element-citation></ref><ref id="B15-ijms-17-00194"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Doronina</surname><given-names>S.O.</given-names></name><name><surname>Toki</surname><given-names>B.E.</given-names></name><name><surname>Torgov</surname><given-names>M.Y.</given-names></name><name><surname>Mendelsohn</surname><given-names>B.A.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Chace</surname><given-names>D.F.</given-names></name><name><surname>DeBlanc</surname><given-names>R.L.</given-names></name><name><surname>Gearing</surname><given-names>R.P.</given-names></name><name><surname>Bovee</surname><given-names>T.D.</given-names></name><name><surname>Siegall</surname><given-names>C.B.</given-names></name><etal/></person-group>
+<article-title>Development of potent monoclonal antibody auristatin conjugates for cancer therapy</article-title>
+<source>Nat. Biotechnol.</source>
+<year>2003</year>
+<volume>21</volume>
+<fpage>778</fpage>
+<lpage>784</lpage>
+<pub-id pub-id-type="doi">10.1038/nbt832</pub-id>
+<pub-id pub-id-type="pmid">12778055</pub-id></element-citation></ref><ref id="B16-ijms-17-00194"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francisco</surname><given-names>J.A.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Meyer</surname><given-names>D.L.</given-names></name><name><surname>Mixan</surname><given-names>B.J.</given-names></name><name><surname>Klussman</surname><given-names>K.</given-names></name><name><surname>Chace</surname><given-names>D.F.</given-names></name><name><surname>Rejniak</surname><given-names>S.X.</given-names></name><name><surname>Gordon</surname><given-names>K.A.</given-names></name><name><surname>DeBlanc</surname><given-names>R.</given-names></name><name><surname>Toki</surname><given-names>B.E.</given-names></name><etal/></person-group>
+<article-title>cAC10-vcMMAE, an anti-CD30-monomethyl auristatin E conjugate with potent and selective antitumor activity</article-title>
+<source>Blood</source>
+<year>2003</year>
+<volume>102</volume>
+<fpage>1458</fpage>
+<lpage>1465</lpage>
+<pub-id pub-id-type="doi">10.1182/blood-2003-01-0039</pub-id>
+<pub-id pub-id-type="pmid">12714494</pub-id></element-citation></ref><ref id="B17-ijms-17-00194"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hamblett</surname><given-names>K.J.</given-names></name><name><surname>Senter</surname><given-names>P.D.</given-names></name><name><surname>Chace</surname><given-names>D.F.</given-names></name><name><surname>Sun</surname><given-names>M.M.C.</given-names></name><name><surname>Lenox</surname><given-names>J.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Kissler</surname><given-names>K.M.</given-names></name><name><surname>Bernhardt</surname><given-names>S.X.</given-names></name><name><surname>Kopcha</surname><given-names>A.K.</given-names></name><name><surname>Zabinski</surname><given-names>R.F.</given-names></name><etal/></person-group>
+<article-title>Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate</article-title>
+<source>Clin. Cancer Res.</source>
+<year>2004</year>
+<volume>10</volume>
+<fpage>7063</fpage>
+<lpage>7070</lpage>
+<pub-id pub-id-type="doi">10.1158/1078-0432.CCR-04-0789</pub-id>
+<pub-id pub-id-type="pmid">15501986</pub-id></element-citation></ref><ref id="B18-ijms-17-00194"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McDonagh</surname><given-names>C.F.</given-names></name><name><surname>Turcott</surname><given-names>E.</given-names></name><name><surname>Westendorf</surname><given-names>L.</given-names></name><name><surname>Webster</surname><given-names>J.B.</given-names></name><name><surname>Alley</surname><given-names>S.C.</given-names></name><name><surname>Kim</surname><given-names>K.</given-names></name><name><surname>Andreyka</surname><given-names>J.</given-names></name><name><surname>Stone</surname><given-names>I.</given-names></name><name><surname>Hamblett</surname><given-names>K.J.</given-names></name><name><surname>Francisco</surname><given-names>J.A.</given-names></name><etal/></person-group>
+<article-title>Engineered antibody-drug conjugates with defined sites and stoichiometries of drug attachment</article-title>
+<source>Prot. Eng. Des. Sel.</source>
+<year>2006</year>
+<volume>19</volume>
+<fpage>299</fpage>
+<lpage>307</lpage>
+<pub-id pub-id-type="doi">10.1093/protein/gzl013</pub-id>
+<pub-id pub-id-type="pmid">16644914</pub-id></element-citation></ref><ref id="B19-ijms-17-00194"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersen</surname><given-names>D.C.</given-names></name><name><surname>Reilly</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Production technologies for monoclonal antibodies and their fragments</article-title>
+<source>Curr. Opin. Biotechnol.</source>
+<year>2004</year>
+<volume>15</volume>
+<fpage>456</fpage>
+<lpage>462</lpage>
+<pub-id pub-id-type="doi">10.1016/j.copbio.2004.08.002</pub-id>
+<pub-id pub-id-type="pmid">15464378</pub-id></element-citation></ref><ref id="B20-ijms-17-00194"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schroeder</surname><given-names>D.D.</given-names></name><name><surname>Tankersly</surname><given-names>D.L.</given-names></name><name><surname>Lundblad</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>A new preparation of modified immune serum globulin (human) suitable for intravenous administration. I. Standardization of the reduction and alkylation reaction</article-title>
+<source>Vox. Sang.</source>
+<year>1981</year>
+<volume>40</volume>
+<fpage>373</fpage>
+<lpage>382</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1423-0410.1981.tb00725.x</pub-id>
+<pub-id pub-id-type="pmid">7293114</pub-id></element-citation></ref><ref id="B21-ijms-17-00194"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>H.</given-names></name><name><surname>Chumsae</surname><given-names>C.</given-names></name><name><surname>Gaza-Bulseco</surname><given-names>G.</given-names></name><name><surname>Hurkmans</surname><given-names>K.</given-names></name><name><surname>Radziejewski</surname><given-names>C.H.</given-names></name></person-group>
+<article-title>Ranking the susceptibility of disulfide bonds in human IgG1 antibodies by reduction, differential alkylation, and LC-MS analysis</article-title>
+<source>Anal. Chem.</source>
+<year>2010</year>
+<volume>82</volume>
+<fpage>5219</fpage>
+<lpage>5226</lpage>
+<pub-id pub-id-type="doi">10.1021/ac100575n</pub-id>
+<pub-id pub-id-type="pmid">20491447</pub-id></element-citation></ref><ref id="B22-ijms-17-00194"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nwe</surname><given-names>K.</given-names></name><name><surname>Milenic</surname><given-names>D.E.</given-names></name><name><surname>Ray</surname><given-names>G.L.</given-names></name><name><surname>Kim</surname><given-names>Y.-S.</given-names></name><name><surname>Brechbiel</surname><given-names>M.W.</given-names></name></person-group>
+<article-title>Preparation of cystamine core dendrimer and antibody&#x02212;dendrimer conjugates for MRI angiography</article-title>
+<source>Mol. Pharm.</source>
+<year>2012</year>
+<volume>9</volume>
+<fpage>374</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="doi">10.1021/mp2003219</pub-id>
+<pub-id pub-id-type="pmid">21882823</pub-id></element-citation></ref><ref id="B23-ijms-17-00194"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nanaware-Kharade</surname><given-names>N.</given-names></name><name><surname>Gonzalez</surname><given-names>G.A.</given-names></name><name><surname>Lay</surname><given-names>J.O.</given-names></name><name><surname>Hendrickson</surname><given-names>H.P.</given-names></name><name><surname>Peterson</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Therapeutic anti-methamphetamine antibody fragment-nanoparticle conjugates: Synthesis and <italic>in vitro</italic> characterization</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2012</year>
+<volume>23</volume>
+<fpage>1864</fpage>
+<lpage>1872</lpage>
+<pub-id pub-id-type="doi">10.1021/bc300204n</pub-id>
+<pub-id pub-id-type="pmid">22873701</pub-id></element-citation></ref><ref id="B24-ijms-17-00194"><label>24.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hermanson</surname><given-names>G.T.</given-names></name></person-group>
+<source>Bioconjugate Techniques</source>
+<edition>2nd ed.</edition>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2008</year>
+<fpage>1041</fpage>
+<lpage>1132</lpage>
+</element-citation></ref><ref id="B25-ijms-17-00194"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gauthier</surname><given-names>M.A.</given-names></name><name><surname>Klok</surname><given-names>H.-A.</given-names></name></person-group>
+<article-title>Peptide/protein-polymer conjugates: Synthetic strategies and design concepts</article-title>
+<source>Chem. Commun.</source>
+<year>2008</year>
+<volume>21</volume>
+<fpage>2591</fpage>
+<lpage>2611</lpage>
+<pub-id pub-id-type="doi">10.1039/b719689j</pub-id>
+<pub-id pub-id-type="pmid">18535687</pub-id></element-citation></ref><ref id="B26-ijms-17-00194"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shen</surname><given-names>B.-Q.</given-names></name><name><surname>Xu</surname><given-names>K.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Raab</surname><given-names>H.</given-names></name><name><surname>Bhakta</surname><given-names>S.</given-names></name><name><surname>Kenrick</surname><given-names>M.</given-names></name><name><surname>Parsons-Reponte</surname><given-names>K.L.</given-names></name><name><surname>Tien</surname><given-names>J.</given-names></name><name><surname>Yu</surname><given-names>S.-F.</given-names></name><name><surname>Mai</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>Conjugation site modulates the <italic>in vivo</italic> stability and therapeutic activity of antibody-drug conjugates</article-title>
+<source>Nat. Biotechnol.</source>
+<year>2012</year>
+<volume>30</volume>
+<fpage>184</fpage>
+<lpage>189</lpage>
+<pub-id pub-id-type="doi">10.1038/nbt.2108</pub-id>
+<pub-id pub-id-type="pmid">22267010</pub-id></element-citation></ref><ref id="B27-ijms-17-00194"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nunes</surname><given-names>J.P.M.</given-names></name><name><surname>Morais</surname><given-names>M.</given-names></name><name><surname>Vassileva</surname><given-names>V.</given-names></name><name><surname>Robinson</surname><given-names>E.</given-names></name><name><surname>Rajkumar</surname><given-names>V.S.</given-names></name><name><surname>Smith</surname><given-names>M.E.B.</given-names></name><name><surname>Pedley</surname><given-names>R.B.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name><name><surname>Baker</surname><given-names>J.R.</given-names></name><name><surname>Chudasama</surname><given-names>V.</given-names></name></person-group>
+<article-title>Functional native disulfide bridging enables delivery of a potent, stable and targeted antibody&#x02212;drug conjugate (ADC)</article-title>
+<source>Chem. Commun.</source>
+<year>2015</year>
+<volume>51</volume>
+<fpage>10624</fpage>
+<lpage>10627</lpage>
+<pub-id pub-id-type="doi">10.1039/C5CC03557K</pub-id>
+<pub-id pub-id-type="pmid">26051118</pub-id></element-citation></ref><ref id="B28-ijms-17-00194"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lyon</surname><given-names>R.P.</given-names></name><name><surname>Setter</surname><given-names>J.R.</given-names></name><name><surname>Bovee</surname><given-names>T.D.</given-names></name><name><surname>Doronina</surname><given-names>S.O.</given-names></name><name><surname>Hunter</surname><given-names>J.H.</given-names></name><name><surname>Anderson</surname><given-names>M.E.</given-names></name><name><surname>Balasubramanian</surname><given-names>C.L.</given-names></name><name><surname>Duniho</surname><given-names>S.M.</given-names></name><name><surname>Leiske</surname><given-names>C.I.</given-names></name><name><surname>Li</surname><given-names>F.</given-names></name><etal/></person-group>
+<article-title>Self-hydrolyzing maleimides improve the stability and pharmacological properties of antibody-drug conjugates</article-title>
+<source>Nat. Biotechnol.</source>
+<year>2014</year>
+<volume>32</volume>
+<fpage>1059</fpage>
+<lpage>1062</lpage>
+<pub-id pub-id-type="doi">10.1038/nbt.2968</pub-id>
+<pub-id pub-id-type="pmid">25194818</pub-id></element-citation></ref><ref id="B29-ijms-17-00194"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tumey</surname><given-names>L.N.</given-names></name><name><surname>Charati</surname><given-names>M.</given-names></name><name><surname>He</surname><given-names>T.</given-names></name><name><surname>Sousa</surname><given-names>E.</given-names></name><name><surname>Ma</surname><given-names>D.</given-names></name><name><surname>Han</surname><given-names>X.</given-names></name><name><surname>Clark</surname><given-names>T.</given-names></name><name><surname>Casavant</surname><given-names>J.</given-names></name><name><surname>Loganzo</surname><given-names>F.</given-names></name><name><surname>Barletta</surname><given-names>F.</given-names></name><etal/></person-group>
+<article-title>Mild method for succinimide hydrolysis on ADCs: Impact on ADC potency, stability, exposure, and efficacy</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>1871</fpage>
+<lpage>1880</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500357n</pub-id>
+<pub-id pub-id-type="pmid">25216346</pub-id></element-citation></ref><ref id="B30-ijms-17-00194"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ojima</surname><given-names>I.</given-names></name><name><surname>Geng</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>X.</given-names></name><name><surname>Qu</surname><given-names>C.</given-names></name><name><surname>Borella</surname><given-names>C.P.</given-names></name><name><surname>Xie</surname><given-names>H.</given-names></name><name><surname>Wilhelm</surname><given-names>S.D.</given-names></name><name><surname>Leece</surname><given-names>B.A.</given-names></name><name><surname>Bartle</surname><given-names>L.M.</given-names></name><name><surname>Goldmacher</surname><given-names>V.S.</given-names></name><etal/></person-group>
+<article-title>Tumor-specific novel taxoid-monoclonal antibody conjugates</article-title>
+<source>J. Med. Chem.</source>
+<year>2002</year>
+<volume>45</volume>
+<fpage>5620</fpage>
+<lpage>5623</lpage>
+<pub-id pub-id-type="doi">10.1021/jm025540g</pub-id>
+<pub-id pub-id-type="pmid">12477344</pub-id></element-citation></ref><ref id="B31-ijms-17-00194"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Widdison</surname><given-names>W.C.</given-names></name><name><surname>Wilhelm</surname><given-names>S.D.</given-names></name><name><surname>Cavanagh</surname><given-names>E.E.</given-names></name><name><surname>Whiteman</surname><given-names>K.R.</given-names></name><name><surname>Leece</surname><given-names>B.A.</given-names></name><name><surname>Kovtun</surname><given-names>Y.</given-names></name><name><surname>Goldmacher</surname><given-names>V.S.</given-names></name><name><surname>Xie</surname><given-names>H.</given-names></name><name><surname>Steeves</surname><given-names>R.M.</given-names></name><name><surname>Lutz</surname><given-names>R.J.</given-names></name><etal/></person-group>
+<article-title>Semisynthetic maytansine analogues for the targeted treatment of cancer</article-title>
+<source>J. Med. Chem.</source>
+<year>2006</year>
+<volume>49</volume>
+<fpage>4392</fpage>
+<lpage>4408</lpage>
+<pub-id pub-id-type="doi">10.1021/jm060319f</pub-id>
+<pub-id pub-id-type="pmid">16821799</pub-id></element-citation></ref><ref id="B32-ijms-17-00194"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kolodych</surname><given-names>S.</given-names></name><name><surname>Koniev</surname><given-names>O.</given-names></name><name><surname>Baatarkhuu</surname><given-names>Z.</given-names></name><name><surname>Bonnefoy</surname><given-names>J.-Y.</given-names></name><name><surname>Debaene</surname><given-names>F.</given-names></name><name><surname>Cianf&#x000e9;rani</surname><given-names>S.</given-names></name><name><surname>Dorsselaer</surname><given-names>A.V.</given-names></name><name><surname>Wagner</surname><given-names>A.</given-names></name></person-group>
+<article-title>CBTF: New amine-to-thiol coupling reagent for preparation of antibody conjugates with increased plasma stability</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2015</year>
+<volume>26</volume>
+<fpage>197</fpage>
+<lpage>200</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500610g</pub-id>
+<pub-id pub-id-type="pmid">25614935</pub-id></element-citation></ref><ref id="B33-ijms-17-00194"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cal</surname><given-names>P.M.</given-names></name><name><surname>Bernardes</surname><given-names>G.J.</given-names></name><name><surname>Gois</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Cysteine-selective reactions for antibody conjugation</article-title>
+<source>Angew. Chem. Int. Ed. Engl.</source>
+<year>2014</year>
+<volume>53</volume>
+<fpage>10585</fpage>
+<lpage>10587</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.201405702</pub-id>
+<pub-id pub-id-type="pmid">25070879</pub-id></element-citation></ref><ref id="B34-ijms-17-00194"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kline</surname><given-names>T.</given-names></name><name><surname>Steiner</surname><given-names>A.R.</given-names></name><name><surname>Penta</surname><given-names>K.</given-names></name><name><surname>Sato</surname><given-names>A.K.</given-names></name><name><surname>Hallam</surname><given-names>T.J.</given-names></name><name><surname>Yin</surname><given-names>G.</given-names></name></person-group>
+<article-title>Methods to make homogenous antibody drug conjugates</article-title>
+<source>Pharm. Res.</source>
+<year>2015</year>
+<volume>32</volume>
+<fpage>3480</fpage>
+<lpage>3493</lpage>
+<pub-id pub-id-type="doi">10.1007/s11095-014-1596-8</pub-id>
+<pub-id pub-id-type="pmid">25511917</pub-id></element-citation></ref><ref id="B35-ijms-17-00194"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Badescu</surname><given-names>G.</given-names></name><name><surname>Bryant</surname><given-names>P.</given-names></name><name><surname>Bird</surname><given-names>M.</given-names></name><name><surname>Henseleit</surname><given-names>K.</given-names></name><name><surname>Swierkosz</surname><given-names>J.</given-names></name><name><surname>Parekh</surname><given-names>V.</given-names></name><name><surname>Tommasi</surname><given-names>R.</given-names></name><name><surname>Pawlisz</surname><given-names>E.</given-names></name><name><surname>Jurlewicz</surname><given-names>K.</given-names></name><name><surname>Farys</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Bridging disulfides for stable and defined antibody drug conjugates</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>1124</fpage>
+<lpage>1136</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500148x</pub-id>
+<pub-id pub-id-type="pmid">24791606</pub-id></element-citation></ref><ref id="B36-ijms-17-00194"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bryant</surname><given-names>P.</given-names></name><name><surname>Pabst</surname><given-names>M.</given-names></name><name><surname>Badescu</surname><given-names>G.</given-names></name><name><surname>Bird</surname><given-names>M.</given-names></name><name><surname>McDowell</surname><given-names>W.</given-names></name><name><surname>Jamieson</surname><given-names>E.</given-names></name><name><surname>Swierkosz</surname><given-names>J.</given-names></name><name><surname>Jurlewicz</surname><given-names>K.</given-names></name><name><surname>Tommasi</surname><given-names>R.</given-names></name><name><surname>Henseleit</surname><given-names>K.</given-names></name><etal/></person-group>
+<article-title><italic>In vitro</italic> and <italic>in vivo</italic> evaluation of cysteine rebridged trastuzumab-MMAE antibody drug conjugates with defined drug-to-antibody ratios</article-title>
+<source>Mol. Pharm.</source>
+<year>2015</year>
+<volume>12</volume>
+<fpage>1872</fpage>
+<lpage>1879</lpage>
+<pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.5b00116</pub-id>
+<pub-id pub-id-type="pmid">25894424</pub-id></element-citation></ref><ref id="B37-ijms-17-00194"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Behrens</surname><given-names>C.R.</given-names></name><name><surname>Ha</surname><given-names>E.H.</given-names></name><name><surname>Chinn</surname><given-names>L.L.</given-names></name><name><surname>Bowers</surname><given-names>S.</given-names></name><name><surname>Probst</surname><given-names>G.</given-names></name><name><surname>Fitch-Bruhns</surname><given-names>M.</given-names></name><name><surname>Monteon</surname><given-names>J.</given-names></name><name><surname>Valdiosera</surname><given-names>A.</given-names></name><name><surname>Bermudez</surname><given-names>A.</given-names></name><name><surname>Liao-Chan</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Antibody&#x02212;drug conjugates (ADCs) derived from interchain cysteine cross-linking demonstrate improved homogeneity and other pharmacological properties over conventional heterogeneous ADCs</article-title>
+<source>Mol. Pharm.</source>
+<year>2015</year>
+<volume>12</volume>
+<fpage>3986</fpage>
+<lpage>3998</lpage>
+<pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.5b00432</pub-id>
+<pub-id pub-id-type="pmid">26393951</pub-id></element-citation></ref><ref id="B38-ijms-17-00194"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>M.T.W.</given-names></name><name><surname>Maruani</surname><given-names>A.</given-names></name><name><surname>Baker</surname><given-names>J.R.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name><name><surname>Chudasama</surname><given-names>V.</given-names></name></person-group>
+<article-title>Next-generation disulfide stapling: Reduction and functional re-bridging all in one</article-title>
+<source>Chem. Sci.</source>
+<year>2016</year>
+<volume>7</volume>
+<fpage>799</fpage>
+<lpage>802</lpage>
+<pub-id pub-id-type="doi">10.1039/C5SC02666K</pub-id>
+</element-citation></ref><ref id="B39-ijms-17-00194"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maruani</surname><given-names>A.</given-names></name><name><surname>Savoie</surname><given-names>H.</given-names></name><name><surname>Bryden</surname><given-names>F.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name><name><surname>Boyle</surname><given-names>R.</given-names></name><name><surname>Chudasama</surname><given-names>V.</given-names></name></person-group>
+<article-title>Site-selective multi-porphyrin attachment enables the formation of a next-generation antibody-based photodynamic therapeutic</article-title>
+<source>Chem. Commun.</source>
+<year>2015</year>
+<volume>51</volume>
+<fpage>15304</fpage>
+<lpage>15307</lpage>
+<pub-id pub-id-type="doi">10.1039/C5CC06985H</pub-id>
+<pub-id pub-id-type="pmid">26340593</pub-id></element-citation></ref><ref id="B40-ijms-17-00194"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maruani</surname><given-names>A.</given-names></name><name><surname>Smith</surname><given-names>M.E.B.</given-names></name><name><surname>Miranda</surname><given-names>E.</given-names></name><name><surname>Chester</surname><given-names>K.A.</given-names></name><name><surname>Chudasama</surname><given-names>V.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name></person-group>
+<article-title>A plug-and-play approach to antibody-based therapeutics via a chemoselective dual click strategy</article-title>
+<source>Nat. Commun.</source>
+<year>2015</year>
+<volume>6</volume>
+<fpage>6645</fpage>
+<pub-id pub-id-type="doi">10.1038/ncomms7645</pub-id>
+<pub-id pub-id-type="pmid">25824906</pub-id></element-citation></ref><ref id="B41-ijms-17-00194"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Juillerat</surname><given-names>A.</given-names></name><name><surname>Gronemeyer</surname><given-names>T.</given-names></name><name><surname>Keppler</surname><given-names>A.</given-names></name><name><surname>Gendreizig</surname><given-names>S.</given-names></name><name><surname>Pick</surname><given-names>H.</given-names></name><name><surname>Vogel</surname><given-names>H.</given-names></name><name><surname>Johnsson</surname><given-names>K.</given-names></name></person-group>
+<article-title>Directed evolution of O<sup>6</sup>-alkylguanine-DNA alkyltransferase for efficient labeling of fusion proteins with small molecules <italic>in vivo</italic></article-title>
+<source>Chem. Biol.</source>
+<year>2003</year>
+<volume>10</volume>
+<fpage>313</fpage>
+<lpage>317</lpage>
+<pub-id pub-id-type="doi">10.1016/S1074-5521(03)00068-1</pub-id>
+<pub-id pub-id-type="pmid">12725859</pub-id></element-citation></ref><ref id="B42-ijms-17-00194"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>R.</given-names></name><name><surname>Vugts</surname><given-names>D.J.</given-names></name><name><surname>Visser</surname><given-names>G.W.M.</given-names></name><name><surname>Walsum</surname><given-names>M.S.-V.</given-names></name><name><surname>Bolijn</surname><given-names>M.</given-names></name><name><surname>Spiga</surname><given-names>M.</given-names></name><name><surname>Lazzari</surname><given-names>P.</given-names></name><name><surname>Shankar</surname><given-names>S.</given-names></name><name><surname>Sani</surname><given-names>M.</given-names></name><name><surname>Zanda</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Development of novel ADCs: Conjugation of tubulysin analogues to trastuzumab monitored by dual radiolabeling</article-title>
+<source>Cancer Res.</source>
+<year>2014</year>
+<volume>74</volume>
+<fpage>5700</fpage>
+<lpage>5710</lpage>
+<pub-id pub-id-type="doi">10.1158/0008-5472.CAN-14-1141</pub-id>
+<pub-id pub-id-type="pmid">25145670</pub-id></element-citation></ref><ref id="B43-ijms-17-00194"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mueller</surname><given-names>B.M.</given-names></name><name><surname>Wrasidlo</surname><given-names>W.A.</given-names></name><name><surname>Reisfeld</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Determination of the number of e-amino groups available for conjugation of effect or molecules to monoclonal antibodies</article-title>
+<source>Hybridoma</source>
+<year>1988</year>
+<volume>7</volume>
+<fpage>453</fpage>
+<lpage>456</lpage>
+<pub-id pub-id-type="doi">10.1089/hyb.1988.7.453</pub-id>
+<pub-id pub-id-type="pmid">3143663</pub-id></element-citation></ref><ref id="B44-ijms-17-00194"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wakankar</surname><given-names>A.A.</given-names></name><name><surname>Feeney</surname><given-names>M.B.</given-names></name><name><surname>Rivera</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Kim</surname><given-names>M.</given-names></name><name><surname>Sharma</surname><given-names>V.K.</given-names></name><name><surname>Wang</surname><given-names>Y.J.</given-names></name></person-group>
+<article-title>Physicochemical stability of the antibody-drug conjugate Trastuzumab-DM1: Changes due to modification and conjugation processes</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2010</year>
+<volume>21</volume>
+<fpage>1588</fpage>
+<lpage>1595</lpage>
+<pub-id pub-id-type="doi">10.1021/bc900434c</pub-id>
+<pub-id pub-id-type="pmid">20698491</pub-id></element-citation></ref><ref id="B45-ijms-17-00194"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siegel</surname><given-names>M.M.</given-names></name><name><surname>Tabei</surname><given-names>K.</given-names></name><name><surname>Kunz</surname><given-names>A.</given-names></name><name><surname>Hollander</surname><given-names>I.J.</given-names></name><name><surname>Hamann</surname><given-names>R.R.</given-names></name><name><surname>Bell</surname><given-names>D.H.</given-names></name><name><surname>Berkenkamp</surname><given-names>S.</given-names></name><name><surname>Hillenkamp</surname><given-names>F.</given-names></name></person-group>
+<article-title>Calicheamicin derivatives conjugated to monoclonal antibodies: Determination of loading values and distributions by infrared and UV matrix-assisted laser desorption/ionization mass spectrometry and electrospray ionization mass spectrometry</article-title>
+<source>Anal. Chem.</source>
+<year>1997</year>
+<volume>69</volume>
+<fpage>2716</fpage>
+<lpage>2726</lpage>
+<pub-id pub-id-type="doi">10.1021/ac970035q</pub-id>
+<pub-id pub-id-type="pmid">9230680</pub-id></element-citation></ref><ref id="B46-ijms-17-00194"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adamczyk</surname><given-names>M.</given-names></name><name><surname>Gebler</surname><given-names>J.</given-names></name><name><surname>Shreder</surname><given-names>K.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Region-selective labeling of antibodies as determined by electrospray ionization-mass spectrometry (ESI-MS)</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2000</year>
+<volume>11</volume>
+<fpage>557</fpage>
+<lpage>563</lpage>
+<pub-id pub-id-type="doi">10.1021/bc990181y</pub-id>
+<pub-id pub-id-type="pmid">10898578</pub-id></element-citation></ref><ref id="B47-ijms-17-00194"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hamann</surname><given-names>P.R.</given-names></name><name><surname>Hinman</surname><given-names>L.M.</given-names></name><name><surname>Hollander</surname><given-names>I.</given-names></name><name><surname>Beyer</surname><given-names>C.F.</given-names></name><name><surname>Lindh</surname><given-names>D.</given-names></name><name><surname>Holcomb</surname><given-names>R.</given-names></name><name><surname>Hallett</surname><given-names>W.</given-names></name><name><surname>Tsou</surname><given-names>H.R.</given-names></name><name><surname>Upeslacis</surname><given-names>J.</given-names></name><name><surname>Shochat</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Gemtuzumab ozogamicin, a potent and selective anti-CD33 antibody-calicheamicin conjugate for treatment of acute myeloid leukemia</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2002</year>
+<volume>13</volume>
+<fpage>47</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1021/bc010021y</pub-id>
+<pub-id pub-id-type="pmid">11792178</pub-id></element-citation></ref><ref id="B48-ijms-17-00194"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feng</surname><given-names>Y.</given-names></name><name><surname>Zhu</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>W.</given-names></name><name><surname>Prabakaran</surname><given-names>P.</given-names></name><name><surname>Lin</surname><given-names>K.</given-names></name><name><surname>Dimitrov</surname><given-names>D.</given-names></name></person-group>
+<article-title>Conjugates of small molecule drugs with antibodies and other proteins</article-title>
+<source>Biomedicines</source>
+<year>2014</year>
+<volume>2</volume>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.3390/biomedicines2010001</pub-id>
+</element-citation></ref><ref id="B49-ijms-17-00194"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>L.P.T.</given-names></name><name><surname>Scoble</surname><given-names>J.A.</given-names></name><name><surname>Doughty</surname><given-names>L.</given-names></name><name><surname>Coia</surname><given-names>G.</given-names></name><name><surname>Williams</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Cancer-targeting antibody-drug conjugates: Site-specific conjugation of doxorubicin to anti-EGFR 528 Fab9 through a polyethylene glycol linker</article-title>
+<source>Aust. J. Chem.</source>
+<year>2011</year>
+<volume>64</volume>
+<fpage>779</fpage>
+<lpage>789</lpage>
+<pub-id pub-id-type="doi">10.1071/CH11071</pub-id>
+</element-citation></ref><ref id="B50-ijms-17-00194"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jeger</surname><given-names>S.</given-names></name><name><surname>Zimmermann</surname><given-names>K.</given-names></name><name><surname>Blanc</surname><given-names>A.</given-names></name><name><surname>Gr&#x000fc;nberg</surname><given-names>J.</given-names></name><name><surname>Honer</surname><given-names>M.</given-names></name><name><surname>Hunziker</surname><given-names>P.</given-names></name><name><surname>Struthers</surname><given-names>H.</given-names></name><name><surname>Schibli</surname><given-names>R.</given-names></name></person-group>
+<article-title>Site-specific and stoichiometric modification of antibodies by bacterial transglutaminase</article-title>
+<source>Angew. Chem. Int. Ed. Engl.</source>
+<year>2010</year>
+<volume>49</volume>
+<fpage>9995</fpage>
+<lpage>9997</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.201004243</pub-id>
+<pub-id pub-id-type="pmid">21110357</pub-id></element-citation></ref><ref id="B51-ijms-17-00194"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mazmanian</surname><given-names>S.K.</given-names></name><name><surname>Liu</surname><given-names>G.</given-names></name><name><surname>Ton-That</surname><given-names>H.</given-names></name><name><surname>Schneewind</surname><given-names>O.</given-names></name></person-group>
+<article-title>Staphylococcus aureus sortase, an enzyme that anchors surface proteins to the cell wall</article-title>
+<source>Science</source>
+<year>1999</year>
+<volume>285</volume>
+<fpage>760</fpage>
+<lpage>763</lpage>
+<pub-id pub-id-type="doi">10.1126/science.285.5428.760</pub-id>
+<pub-id pub-id-type="pmid">10427003</pub-id></element-citation></ref><ref id="B52-ijms-17-00194"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsukiji</surname><given-names>S.</given-names></name><name><surname>Nagamune</surname><given-names>T.</given-names></name></person-group>
+<article-title>Sortase-mediated ligation: A gift from Gram-positive bacteria to protein engineering</article-title>
+<source>Chem. Biochem. Eur. J. Chem. Biol.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>787</fpage>
+<lpage>798</lpage>
+<pub-id pub-id-type="doi">10.1002/cbic.200800724</pub-id>
+<pub-id pub-id-type="pmid">19199328</pub-id></element-citation></ref><ref id="B53-ijms-17-00194"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Madej</surname><given-names>M.P.</given-names></name><name><surname>Coia</surname><given-names>G.</given-names></name><name><surname>Williams</surname><given-names>C.C.</given-names></name><name><surname>Caine</surname><given-names>J.M.</given-names></name><name><surname>Pearce</surname><given-names>L.A.</given-names></name><name><surname>Attwood</surname><given-names>R.</given-names></name><name><surname>Bartone</surname><given-names>N.A.</given-names></name><name><surname>Dolezal</surname><given-names>O.</given-names></name><name><surname>Nisbet</surname><given-names>R.M.</given-names></name><name><surname>Nuttall</surname><given-names>S.D.</given-names></name><etal/></person-group>
+<article-title>Engineering of an anti-epidermal growth factor receptor antibody to single chain format and labeling by Sortase A-mediated protein ligation</article-title>
+<source>Biotechnol. Bioeng.</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>1461</fpage>
+<lpage>1470</lpage>
+<pub-id pub-id-type="doi">10.1002/bit.24407</pub-id>
+<pub-id pub-id-type="pmid">22170409</pub-id></element-citation></ref><ref id="B54-ijms-17-00194"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ta</surname><given-names>H.T.</given-names></name><name><surname>Peter</surname><given-names>K.</given-names></name><name><surname>Hagemeyer</surname><given-names>C.E.</given-names></name></person-group>
+<article-title>Enzymatic antibody tagging: Toward a universal biocompatible targeting tool</article-title>
+<source>Trends Cardiovasc. Med.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>105</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tcm.2012.07.004</pub-id>
+<pub-id pub-id-type="pmid">22889584</pub-id></element-citation></ref><ref id="B55-ijms-17-00194"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Williamson</surname><given-names>D.J.</given-names></name><name><surname>Fascione</surname><given-names>M.A.</given-names></name><name><surname>Webb</surname><given-names>M.E.</given-names></name><name><surname>Turnbull</surname><given-names>W.B.</given-names></name></person-group>
+<article-title>Efficient N-terminal labeling of proteins by use of sortase</article-title>
+<source>Angew. Chem.</source>
+<year>2012</year>
+<volume>124</volume>
+<fpage>9511</fpage>
+<lpage>9514</lpage>
+<pub-id pub-id-type="doi">10.1002/ange.201204538</pub-id>
+</element-citation></ref><ref id="B56-ijms-17-00194"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>I.</given-names></name><name><surname>Howarth</surname><given-names>M.</given-names></name><name><surname>Lin</surname><given-names>W.</given-names></name><name><surname>Ting</surname><given-names>A.Y.</given-names></name></person-group>
+<article-title>Site-specific labeling of cell surface proteins with biophysical probes using biotin ligase</article-title>
+<source>Nat. Methods</source>
+<year>2005</year>
+<volume>2</volume>
+<fpage>99</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth735</pub-id>
+<pub-id pub-id-type="pmid">15782206</pub-id></element-citation></ref><ref id="B57-ijms-17-00194"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jeffrey</surname><given-names>S.C.</given-names></name><name><surname>Torgov</surname><given-names>M.Y.</given-names></name><name><surname>Andreyka</surname><given-names>J.B.</given-names></name><name><surname>Boddington</surname><given-names>L.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Denny</surname><given-names>W.A.</given-names></name><name><surname>Gordon</surname><given-names>K.A.</given-names></name><name><surname>Gustin</surname><given-names>D.</given-names></name><name><surname>Haugen</surname><given-names>J.</given-names></name><name><surname>Toni Kline</surname><given-names>T.</given-names></name><etal/></person-group>
+<article-title>Design, synthesis, and <italic>in vitro</italic> evaluation of dipeptide-based antibody minor groove binder conjugates</article-title>
+<source>J. Med. Chem.</source>
+<year>2005</year>
+<volume>48</volume>
+<fpage>1344</fpage>
+<lpage>1358</lpage>
+<pub-id pub-id-type="doi">10.1021/jm040137q</pub-id>
+<pub-id pub-id-type="pmid">15743178</pub-id></element-citation></ref><ref id="B58-ijms-17-00194"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burke</surname><given-names>P.J.</given-names></name><name><surname>Senter</surname><given-names>P.D.</given-names></name><name><surname>Meyer</surname><given-names>D.W.</given-names></name><name><surname>Miyamoto</surname><given-names>J.B.</given-names></name><name><surname>Anderson</surname><given-names>M.</given-names></name><name><surname>Toki</surname><given-names>B.E.</given-names></name><name><surname>Manikumar</surname><given-names>G.</given-names></name><name><surname>Wani</surname><given-names>M.C.</given-names></name><name><surname>Kroll</surname><given-names>D.J.</given-names></name><name><surname>Jeffrey</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>Design, synthesis, and biological evaluation of antibody-drug conjugates comprised of potent camptothecin analogues</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2009</year>
+<volume>20</volume>
+<fpage>1242</fpage>
+<lpage>1250</lpage>
+<pub-id pub-id-type="doi">10.1021/bc9001097</pub-id>
+<pub-id pub-id-type="pmid">19469529</pub-id></element-citation></ref><ref id="B59-ijms-17-00194"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dubowchik</surname><given-names>G.M.</given-names></name><name><surname>Firestone</surname><given-names>R.A.</given-names></name><name><surname>Padilla</surname><given-names>L.</given-names></name><name><surname>Willner</surname><given-names>D.</given-names></name><name><surname>Hofstead</surname><given-names>S.J.</given-names></name><name><surname>Mosure</surname><given-names>K.</given-names></name><name><surname>Knipe</surname><given-names>J.O.</given-names></name><name><surname>Lasch</surname><given-names>S.J.</given-names></name><name><surname>Trail</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Cathepsin B-labile dipeptide linkers for lysosomal release of doxorubicin from internalizing immunoconjugates: Model studies of enzymatic drug release and antigen-specific <italic>in vitro</italic> anticancer activity</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2002</year>
+<volume>13</volume>
+<fpage>855</fpage>
+<lpage>869</lpage>
+<pub-id pub-id-type="doi">10.1021/bc025536j</pub-id>
+<pub-id pub-id-type="pmid">12121142</pub-id></element-citation></ref><ref id="B60-ijms-17-00194"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>King</surname><given-names>H.D.</given-names></name><name><surname>Dubowchik</surname><given-names>G.M.</given-names></name><name><surname>Mastalerz</surname><given-names>H.</given-names></name><name><surname>Willner</surname><given-names>D.</given-names></name><name><surname>Hofstead</surname><given-names>S.J.</given-names></name><name><surname>Firestone</surname><given-names>R.A.</given-names></name><name><surname>Lasch</surname><given-names>S.J.</given-names></name><name><surname>Trail</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Monoclonal antibody conjugates of doxorubicin prepared with branched peptide linkers: Inhibition of aggregation by methoxytriethyleneglycol chains</article-title>
+<source>J. Med. Chem.</source>
+<year>2002</year>
+<volume>45</volume>
+<fpage>4336</fpage>
+<lpage>4343</lpage>
+<pub-id pub-id-type="doi">10.1021/jm020149g</pub-id>
+<pub-id pub-id-type="pmid">12213074</pub-id></element-citation></ref><ref id="B61-ijms-17-00194"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>M.A.</given-names></name><name><surname>Dubowchik</surname><given-names>G.M.</given-names></name><name><surname>Hofstead</surname><given-names>S.J.</given-names></name><name><surname>Trail</surname><given-names>P.A.</given-names></name><name><surname>Firestone</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Synthesis of an immunoconjugate of camptothecin</article-title>
+<source>Bioorg. Med. Chem. Lett.</source>
+<year>2002</year>
+<volume>12</volume>
+<fpage>217</fpage>
+<lpage>219</lpage>
+<pub-id pub-id-type="doi">10.1016/S0960-894X(01)00707-7</pub-id>
+<pub-id pub-id-type="pmid">11755358</pub-id></element-citation></ref><ref id="B62-ijms-17-00194"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elgersma</surname><given-names>R.C.</given-names></name><name><surname>Coumans</surname><given-names>R.G.E.</given-names></name><name><surname>Huijbregts</surname><given-names>T.</given-names></name><name><surname>Menge</surname><given-names>W.M.P.B.</given-names></name><name><surname>Joosten</surname><given-names>J.A.F.</given-names></name><name><surname>Spijker</surname><given-names>H.J.</given-names></name><name><surname>de Groot</surname><given-names>F.M.H.</given-names></name><name><surname>van der Lee</surname><given-names>M.M.C.</given-names></name><name><surname>Ubink</surname><given-names>R.</given-names></name><name><surname>van den Dobbelsteen</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Design, synthesis, and evaluation of linker-duocarmycin payloads: Toward selection of HER2-targeting antibody&#x02212;drug conjugate SYD985</article-title>
+<source>Mol. Pharm.</source>
+<year>2015</year>
+<volume>12</volume>
+<fpage>1813</fpage>
+<lpage>1835</lpage>
+<pub-id pub-id-type="doi">10.1021/mp500781a</pub-id>
+<pub-id pub-id-type="pmid">25635711</pub-id></element-citation></ref><ref id="B63-ijms-17-00194"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moon</surname><given-names>S.-J.</given-names></name><name><surname>Govindan</surname><given-names>S.V.</given-names></name><name><surname>Cardillo</surname><given-names>T.M.</given-names></name><name><surname>D&#x02019;Souza</surname><given-names>C.A.</given-names></name><name><surname>Hansen</surname><given-names>H.J.</given-names></name><name><surname>Goldenberg</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Antibody conjugates of 7-ethyl-10-hydroxycamptothecin (SN-38) for targeted cancer chemotherapy</article-title>
+<source>J. Med. Chem.</source>
+<year>2008</year>
+<volume>51</volume>
+<fpage>6916</fpage>
+<lpage>6926</lpage>
+<pub-id pub-id-type="doi">10.1021/jm800719t</pub-id>
+<pub-id pub-id-type="pmid">18939816</pub-id></element-citation></ref><ref id="B64-ijms-17-00194"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Rubio</surname><given-names>B.</given-names></name><name><surname>Sapra</surname><given-names>P.</given-names></name><name><surname>Wu</surname><given-names>D.</given-names></name><name><surname>Reddy</surname><given-names>P.</given-names></name><name><surname>Sai</surname><given-names>P.</given-names></name><name><surname>Martinez</surname><given-names>A.</given-names></name><name><surname>Gao</surname><given-names>Y.</given-names></name><name><surname>Lozanguiez</surname><given-names>Y.</given-names></name><name><surname>Longley</surname><given-names>C.</given-names></name><etal/></person-group>
+<article-title>Novel prodrugs of SN-38 using multiarm poly(ethylene glycol) linkers</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2008</year>
+<volume>19</volume>
+<fpage>849</fpage>
+<lpage>859</lpage>
+<pub-id pub-id-type="doi">10.1021/bc700333s</pub-id>
+<pub-id pub-id-type="pmid">18370417</pub-id></element-citation></ref><ref id="B65-ijms-17-00194"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Toki</surname><given-names>B.E.</given-names></name><name><surname>Cerveny</surname><given-names>C.G.</given-names></name><name><surname>Wahl</surname><given-names>A.F.</given-names></name><name><surname>Senter</surname><given-names>P.D.</given-names></name></person-group>
+<article-title>Protease mediated fragmentation of <italic>p</italic>-amidobenzyl ethers: A new strategy for the activation of anticancer prodrugs</article-title>
+<source>J. Org. Chem.</source>
+<year>2002</year>
+<volume>67</volume>
+<fpage>1866</fpage>
+<lpage>1872</lpage>
+<pub-id pub-id-type="doi">10.1021/jo016187+</pub-id>
+<pub-id pub-id-type="pmid">11895404</pub-id></element-citation></ref><ref id="B66-ijms-17-00194"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denny</surname><given-names>W.A.</given-names></name></person-group>
+<article-title>DNA minor groove alkylating agents</article-title>
+<source>Curr. Med. Chem.</source>
+<year>2001</year>
+<volume>8</volume>
+<fpage>533</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="doi">10.2174/0929867003373283</pub-id>
+<pub-id pub-id-type="pmid">11281840</pub-id></element-citation></ref><ref id="B67-ijms-17-00194"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quiles</surname><given-names>S.</given-names></name><name><surname>Raisch</surname><given-names>K.P.</given-names></name><name><surname>Sanford</surname><given-names>L.L.</given-names></name><name><surname>Bonner</surname><given-names>J.A.</given-names></name><name><surname>Safavy</surname><given-names>A.</given-names></name></person-group>
+<article-title>Synthesis and preliminary biological evaluation of high-drug-load paclitaxel-antibody conjugates for tumor-targeted chemotherapy</article-title>
+<source>J. Med. Chem.</source>
+<year>2010</year>
+<volume>53</volume>
+<fpage>586</fpage>
+<lpage>594</lpage>
+<pub-id pub-id-type="doi">10.1021/jm900899g</pub-id>
+<pub-id pub-id-type="pmid">19958000</pub-id></element-citation></ref><ref id="B68-ijms-17-00194"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Drake</surname><given-names>P.M.</given-names></name><name><surname>Albers</surname><given-names>A.E.</given-names></name><name><surname>Baker</surname><given-names>J.</given-names></name><name><surname>Banas</surname><given-names>S.</given-names></name><name><surname>Barfield</surname><given-names>R.M.</given-names></name><name><surname>Bhat</surname><given-names>A.S.</given-names></name><name><surname>de Hart</surname><given-names>G.W.</given-names></name><name><surname>Garofalo</surname><given-names>A.W.</given-names></name><name><surname>Holder</surname><given-names>P.</given-names></name><name><surname>Jones</surname><given-names>L.C.</given-names></name><etal/></person-group>
+<article-title>Aldehyde tag coupled with HIPS chemistry enables the production of ADCs conjugated site-specifically to different antibody regions with distinct <italic>in vivo</italic> efficacy and PK outcomes</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>1331</fpage>
+<lpage>1341</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500189z</pub-id>
+<pub-id pub-id-type="pmid">24924618</pub-id></element-citation></ref><ref id="B69-ijms-17-00194"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabuka</surname><given-names>D.</given-names></name><name><surname>Rush</surname><given-names>J.S.</given-names></name><name><surname>de Hart</surname><given-names>G.W.</given-names></name><name><surname>Wu</surname><given-names>P.</given-names></name><name><surname>Bertozzi</surname><given-names>C.R.</given-names></name></person-group>
+<article-title>Site-specific chemical protein conjugation using genetically encoded aldehyde tags</article-title>
+<source>Nat. Protoc.</source>
+<year>2012</year>
+<volume>7</volume>
+<fpage>1052</fpage>
+<lpage>1067</lpage>
+<pub-id pub-id-type="doi">10.1038/nprot.2012.045</pub-id>
+<pub-id pub-id-type="pmid">22576105</pub-id></element-citation></ref><ref id="B70-ijms-17-00194"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agarwal</surname><given-names>P.</given-names></name><name><surname>Kudirka</surname><given-names>R.</given-names></name><name><surname>Albers</surname><given-names>A.E.</given-names></name><name><surname>Barfield</surname><given-names>R.M.</given-names></name><name><surname>de Hart</surname><given-names>G.W.</given-names></name><name><surname>Drake</surname><given-names>P.M.</given-names></name><name><surname>Jones</surname><given-names>L.C.</given-names></name><name><surname>Rabuka</surname><given-names>D.</given-names></name></person-group>
+<article-title>Hydrazino-Pictet-Spengler ligation as a biocompatible method for the generation of stable protein conjugates</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2013</year>
+<volume>24</volume>
+<fpage>846</fpage>
+<lpage>851</lpage>
+<pub-id pub-id-type="doi">10.1021/bc400042a</pub-id>
+<pub-id pub-id-type="pmid">23731037</pub-id></element-citation></ref><ref id="B71-ijms-17-00194"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lemke</surname><given-names>E.A.</given-names></name></person-group>
+<article-title>The exploding genetic code</article-title>
+<source>ChemBioChem</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>1691</fpage>
+<lpage>1694</lpage>
+<pub-id pub-id-type="doi">10.1002/cbic.201402362</pub-id>
+<pub-id pub-id-type="pmid">25079784</pub-id></element-citation></ref><ref id="B72-ijms-17-00194"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>C.H.</given-names></name><name><surname>Axup</surname><given-names>J.Y.</given-names></name><name><surname>Schultz</surname><given-names>P.G.</given-names></name></person-group>
+<article-title>Protein conjugation with genetically encoded unnatural amino acids</article-title>
+<source>Curr. Opin. Chem. Biol.</source>
+<year>2013</year>
+<volume>17</volume>
+<fpage>412</fpage>
+<lpage>419</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cbpa.2013.04.017</pub-id>
+<pub-id pub-id-type="pmid">23664497</pub-id></element-citation></ref><ref id="B73-ijms-17-00194"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hutchins</surname><given-names>B.M.</given-names></name><name><surname>Kazane</surname><given-names>S.A.</given-names></name><name><surname>Staflin</surname><given-names>K.</given-names></name><name><surname>Forsyth</surname><given-names>J.S.</given-names></name><name><surname>Felding-Habermann</surname><given-names>B.</given-names></name><name><surname>Smider</surname><given-names>V.V.</given-names></name><name><surname>Schultz</surname><given-names>P.G.</given-names></name></person-group>
+<article-title>Selective formation of covalent protein heterodimers with an unnatural amino acid</article-title>
+<source>Chem. Biol.</source>
+<year>2011</year>
+<volume>18</volume>
+<fpage>299</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chembiol.2011.01.006</pub-id>
+<pub-id pub-id-type="pmid">21439474</pub-id></element-citation></ref><ref id="B74-ijms-17-00194"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Axup</surname><given-names>J.Y.</given-names></name><name><surname>Bajjuri</surname><given-names>K.M.</given-names></name><name><surname>Ritland</surname><given-names>M.</given-names></name><name><surname>Hutchins</surname><given-names>B.M.</given-names></name><name><surname>Kim</surname><given-names>C.H.</given-names></name><name><surname>Kazane</surname><given-names>S.A.</given-names></name><name><surname>Halder</surname><given-names>R.</given-names></name><name><surname>Forsyth</surname><given-names>J.S.</given-names></name><name><surname>Santidrian</surname><given-names>A.F.</given-names></name><name><surname>Stafin</surname><given-names>K.</given-names></name><etal/></person-group>
+<article-title>Synthesis of site-specific antibody&#x02013;drug conjugates using unnatural amino acids</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>16101</fpage>
+<lpage>16106</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1211023109</pub-id>
+<pub-id pub-id-type="pmid">22988081</pub-id></element-citation></ref><ref id="B75-ijms-17-00194"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Q.</given-names></name><name><surname>Stefano</surname><given-names>J.E.</given-names></name><name><surname>Manning</surname><given-names>C.</given-names></name><name><surname>Kyazike</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>B.</given-names></name><name><surname>Gianolio</surname><given-names>D.A.</given-names></name><name><surname>Park</surname><given-names>A.</given-names></name><name><surname>Busch</surname><given-names>M.</given-names></name><name><surname>Bird</surname><given-names>J.</given-names></name><name><surname>Zheng</surname><given-names>X.</given-names></name><etal/></person-group>
+<article-title>Site-specific antibody&#x02013;drug conjugation through glycoengineering</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>510</fpage>
+<lpage>520</lpage>
+<pub-id pub-id-type="doi">10.1021/bc400505q</pub-id>
+<pub-id pub-id-type="pmid">24533768</pub-id></element-citation></ref><ref id="B76-ijms-17-00194"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Witus</surname><given-names>L.S.</given-names></name><name><surname>Francis</surname><given-names>M.</given-names></name></person-group>
+<article-title>Site-Specific protein bioconjugation via a pyridoxal 5&#x02032;-phosphate-mediated N-terminal transamination reaction</article-title>
+<source>Curr. Protoc. Chem. Biol.</source>
+<year>2010</year>
+<volume>2</volume>
+<fpage>125</fpage>
+<lpage>134</lpage>
+<pub-id pub-id-type="pmid">23836553</pub-id></element-citation></ref><ref id="B77-ijms-17-00194"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kalia</surname><given-names>J.</given-names></name><name><surname>Raines</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Hydrolytic stability of hydrazones and oximes</article-title>
+<source>Angew. Chem. Int. Ed.</source>
+<year>2008</year>
+<volume>47</volume>
+<fpage>7523</fpage>
+<lpage>7526</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.200802651</pub-id>
+<pub-id pub-id-type="pmid">18712739</pub-id></element-citation></ref><ref id="B78-ijms-17-00194"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buckley</surname><given-names>T.F.</given-names></name><name><surname>Rapoport</surname><given-names>H.</given-names></name></person-group>
+<article-title>Mild and simple biomimetic conversion of amines to carbonyl compounds</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>1982</year>
+<volume>104</volume>
+<fpage>4446</fpage>
+<lpage>4450</lpage>
+<pub-id pub-id-type="doi">10.1021/ja00380a019</pub-id>
+</element-citation></ref><ref id="B79-ijms-17-00194"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Witus</surname><given-names>L.S.</given-names></name><name><surname>Netirojjanakul</surname><given-names>C.</given-names></name><name><surname>Palla</surname><given-names>K.S.</given-names></name><name><surname>Muehl</surname><given-names>E.M.</given-names></name><name><surname>Weng</surname><given-names>C.-H.</given-names></name><name><surname>Iavarone</surname><given-names>A.T.</given-names></name><name><surname>Francis</surname><given-names>M.B.</given-names></name></person-group>
+<article-title>Site-Specific Protein Transamination Using <italic>N</italic>-Methylpyridinium-4-Carboxaldehyde</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2013</year>
+<volume>135</volume>
+<fpage>17223</fpage>
+<lpage>17229</lpage>
+<pub-id pub-id-type="doi">10.1021/ja408868a</pub-id>
+<pub-id pub-id-type="pmid">24191658</pub-id></element-citation></ref><ref id="B80-ijms-17-00194"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dirksen</surname><given-names>A.</given-names></name><name><surname>Madsen</surname><given-names>M.</given-names></name><name><surname>Iacono</surname><given-names>G.D.</given-names></name><name><surname>Matin</surname><given-names>M.J.</given-names></name><name><surname>Bacica</surname><given-names>M.</given-names></name><name><surname>Stankovi&#x00107;</surname><given-names>N.</given-names></name><name><surname>Callans</surname><given-names>S.</given-names></name><name><surname>Bhat</surname><given-names>A.</given-names></name></person-group>
+<article-title>Parallel Synthesis and screening of peptide conjugates</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>1052</fpage>
+<lpage>1060</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500129w</pub-id>
+<pub-id pub-id-type="pmid">24824568</pub-id></element-citation></ref><ref id="B81-ijms-17-00194"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Q.</given-names></name><name><surname>Gui</surname><given-names>J.</given-names></name><name><surname>Pan</surname><given-names>C.-M.</given-names></name><name><surname>Albone</surname><given-names>E.</given-names></name><name><surname>Cheng</surname><given-names>X.</given-names></name><name><surname>Suh</surname><given-names>E.M.</given-names></name><name><surname>Grasso</surname><given-names>L.</given-names></name><name><surname>Ishihara</surname><given-names>Y.</given-names></name><name><surname>Baran</surname><given-names>P.S.</given-names></name></person-group>
+<article-title>Bioconjugation by native chemical tagging of C&#x02013;H bonds</article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2013</year>
+<volume>135</volume>
+<fpage>12994</fpage>
+<lpage>12997</lpage>
+<pub-id pub-id-type="doi">10.1021/ja407739y</pub-id>
+<pub-id pub-id-type="pmid">23957305</pub-id></element-citation></ref><ref id="B82-ijms-17-00194"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>M.</given-names></name><name><surname>Casadio</surname><given-names>R.</given-names></name><name><surname>Bergamini</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Transglutaminases: Nature&#x02019;s biological glues</article-title>
+<source>Biochem. J.</source>
+<year>2002</year>
+<volume>396</volume>
+<fpage>377</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.1042/bj20021234</pub-id>
+<pub-id pub-id-type="pmid">12366374</pub-id></element-citation></ref><ref id="B83-ijms-17-00194"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dennler</surname><given-names>P.</given-names></name><name><surname>Chiotellis</surname><given-names>A.</given-names></name><name><surname>Fischer</surname><given-names>E.</given-names></name><name><surname>Br&#x000e9;geon</surname><given-names>D.</given-names></name><name><surname>Belmant</surname><given-names>C.</given-names></name><name><surname>Gauthier</surname><given-names>L.</given-names></name><name><surname>Lhospice</surname><given-names>F.</given-names></name><name><surname>Romagne</surname><given-names>F.</given-names></name><name><surname>Schibli</surname><given-names>R.</given-names></name></person-group>
+<article-title>Transglutaminase-based chemo-enzymatic conjugation approach yields homogeneous antibody&#x02013;drug conjugates</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>569</fpage>
+<lpage>578</lpage>
+<pub-id pub-id-type="doi">10.1021/bc400574z</pub-id>
+<pub-id pub-id-type="pmid">24483299</pub-id></element-citation></ref><ref id="B84-ijms-17-00194"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strop</surname><given-names>P.</given-names></name></person-group>
+<article-title>Versatility of microbial transglutaminase</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>855</fpage>
+<lpage>862</lpage>
+<pub-id pub-id-type="doi">10.1021/bc500099v</pub-id>
+<pub-id pub-id-type="pmid">24694238</pub-id></element-citation></ref><ref id="B85-ijms-17-00194"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strop</surname><given-names>P.</given-names></name><name><surname>Liu</surname><given-names>S.H.</given-names></name><name><surname>Dorywalska</surname><given-names>M.</given-names></name><name><surname>Delaria</surname><given-names>K.</given-names></name><name><surname>Dushin</surname><given-names>R.G.</given-names></name><name><surname>Tran</surname><given-names>T.T.</given-names></name><name><surname>Ho</surname><given-names>W.H.</given-names></name><name><surname>Farias</surname><given-names>S.</given-names></name><name><surname>Casas</surname><given-names>M.G.</given-names></name><name><surname>Abdiche</surname><given-names>Y.</given-names></name><etal/></person-group>
+<article-title>Location matters: Site of conjugation modulates stability and pharmacokinetics of antibody drug conjugates</article-title>
+<source>Chem. Biol.</source>
+<year>2013</year>
+<volume>20</volume>
+<fpage>161</fpage>
+<lpage>167</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chembiol.2013.01.010</pub-id>
+<pub-id pub-id-type="pmid">23438745</pub-id></element-citation></ref><ref id="B86-ijms-17-00194"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zimmerman</surname><given-names>E.S.</given-names></name><name><surname>Heibeck</surname><given-names>T.H.</given-names></name><name><surname>Gill</surname><given-names>A.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Murray</surname><given-names>C.J.</given-names></name><name><surname>Madlansacay</surname><given-names>M.R.</given-names></name><name><surname>Tran</surname><given-names>C.</given-names></name><name><surname>Uter</surname><given-names>N.T.</given-names></name><name><surname>Yin</surname><given-names>G.</given-names></name><name><surname>Rivers</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Production of site-specific antibody&#x02013;drug conjugates using optimized non-natural amino acids in a cell-free expression system</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>351</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="doi">10.1021/bc400490z</pub-id>
+<pub-id pub-id-type="pmid">24437342</pub-id></element-citation></ref><ref id="B87-ijms-17-00194"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bryden</surname><given-names>F.</given-names></name><name><surname>Maruani</surname><given-names>A.</given-names></name><name><surname>Savoie</surname><given-names>H.</given-names></name><name><surname>Chudasama</surname><given-names>V.</given-names></name><name><surname>Smith</surname><given-names>M.E.B.</given-names></name><name><surname>Caddick</surname><given-names>S.</given-names></name><name><surname>Boyle</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Regioselective and stoichiometrically controlled conjugation of photodynamic sensitizers to a HER2 targeting antibody fragment</article-title>
+<source>Bioconjug. Chem.</source>
+<year>2014</year>
+<volume>25</volume>
+<fpage>611</fpage>
+<lpage>617</lpage>
+<pub-id pub-id-type="doi">10.1021/bc5000324</pub-id>
+<pub-id pub-id-type="pmid">24564170</pub-id></element-citation></ref></ref-list></back></article>

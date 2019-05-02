@@ -1,0 +1,1159 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26664676</article-id><article-id pub-id-type="pmc">4667836</article-id><article-id pub-id-type="doi">10.1002/ece3.1662</article-id><article-id pub-id-type="publisher-id">ECE31662</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Species&#x02010;specific adaptations explain resilience of herbaceous understorey to increased precipitation variability in a <styled-content style="fixed-case">M</styled-content>editerranean oak woodland</article-title><alt-title alt-title-type="left-running-head">M. Jongen <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="ece31662-cr-0001" contrib-type="author" corresp="yes"><name><surname>Jongen</surname><given-names>Marjan</given-names></name><xref ref-type="aff" rid="ece31662-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece31662-cr-0002" contrib-type="author"><name><surname>Hellmann</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="ece31662-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece31662-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece31662-cr-0003" contrib-type="author"><name><surname>Unger</surname><given-names>Stephan</given-names></name><xref ref-type="aff" rid="ece31662-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece31662-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Instituto Superior de Agronomia</named-content><institution>Universidade de Lisboa</institution><named-content content-type="street">Tapada da Ajuda</named-content><named-content content-type="post-code">1349&#x02010;017</named-content><named-content content-type="city">Lisboa</named-content><country country="PT">Portugal</country></aff><aff id="ece31662-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Experimental and Systems Ecology</named-content><institution>University of Bielefeld</institution><named-content content-type="street">Universit&#x000e4;tsstr. 25</named-content><named-content content-type="post-code">D&#x02010;33615</named-content><named-content content-type="city">Bielefeld</named-content><country country="DE">Germany</country></aff><aff id="ece31662-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">AgroEcosystem Research</named-content><named-content content-type="organisation-division">BayCEER</named-content><institution>University of Bayreuth</institution><named-content content-type="street">Universit&#x000e4;tsstr. 30</named-content><named-content content-type="post-code">D&#x02010;95447</named-content><named-content content-type="city">Bayreuth</named-content><country country="DE">Germany</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Marjan Jongen, Instituto Superior de Agronomia, Universidade de Lisboa, Tapada da Ajuda, 1349&#x02010;017 Lisboa, Portugal.<break/>
+Tel: +351 21 365 3515;<break/>
+Fax: +351 21 365 5000;<break/>
+E&#x02010;mail: <email>marjanjongen@isa.utl.pt</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>9</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2015</year></pub-date><volume>5</volume><issue>19</issue><issue-id pub-id-type="doi">10.1002/ece3.2015.5.issue-19</issue-id><fpage>4246</fpage><lpage>4262</lpage><history><date date-type="received"><day>12</day><month>9</month><year>2014</year></date><date date-type="rev-recd"><day>21</day><month>6</month><year>2015</year></date><date date-type="accepted"><day>29</day><month>7</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2015 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-5-4246.pdf"/><abstract abstract-type="main" id="ece31662-abs-0001"><title>Abstract</title><p>To date, the implications of the predicted greater intra&#x02010;annual variability and extremes in precipitation on ecosystem functioning have received little attention. This study presents results on leaf&#x02010;level physiological responses of five species covering the functional groups grasses, forbs, and legumes in the understorey of a Mediterranean oak woodland, with increasing precipitation variability, without altering total annual precipitation inputs. Although extending the dry period between precipitation events from 3 to 6&#x000a0;weeks led to increased soil moisture deficit, overall treatment effects on photosynthetic performance were not observed in the studied species. This resilience to prolonged water stress was explained by different physiological and morphological strategies to withstand periods below the wilting point, that is, isohydric behavior in <italic>Agrostis</italic>,<italic> Rumex,</italic> and <italic>Tuberaria</italic>, leaf succulence in <italic>Rumex</italic>, and taproots in <italic>Tolpis</italic>. In addition, quick recovery upon irrigation events and species&#x02010;specific adaptations of water&#x02010;use efficiency with longer dry periods and larger precipitation events contributed to the observed resilience in productivity of the annual plant community. Although none of the species exhibited a change in cover with increasing precipitation variability, leaf physiology of the legume <italic>Ornithopus</italic> exhibited signs of sensitivity to moisture deficit, which may have implications for the agricultural practice of seeding legume&#x02010;rich mixtures in Mediterranean grassland&#x02010;type systems. This highlights the need for long&#x02010;term precipitation manipulation experiments to capture possible directional changes in species composition and seed bank development, which can subsequently affect ecosystem state and functioning.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece31662-kwd-0001"><italic>Agrostis pourretii</italic></kwd><kwd id="ece31662-kwd-0002">climate change</kwd><kwd id="ece31662-kwd-0003"><styled-content style="fixed-case">M</styled-content>editerranean ecosystem</kwd><kwd id="ece31662-kwd-0004"><italic><styled-content style="fixed-case">O</styled-content>rnithopus sativus</italic></kwd><kwd id="ece31662-kwd-0005">precipitation manipulation</kwd><kwd id="ece31662-kwd-0006"><italic><styled-content style="fixed-case">R</styled-content>umex acetosella</italic></kwd><kwd id="ece31662-kwd-0007"><italic><styled-content style="fixed-case">T</styled-content>olpis barbata</italic></kwd><kwd id="ece31662-kwd-0008"><italic><styled-content style="fixed-case">T</styled-content>uberaria guttata</italic></kwd></kwd-group><funding-group><award-group><funding-source>FCT (Funda&#x000e7;&#x000e3;o para a Ci&#x000ea;ncia e Tecnologia)</funding-source><award-id>PTDC/CLI/79662/2011</award-id><award-id>SFRH/BPD/79662/2011</award-id></award-group></funding-group><funding-group><award-group><funding-source>Studienstiftung des Deutschen Volkes through a doctoral fellowship</funding-source></award-group></funding-group><counts><page-count count="17"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece31662</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.7.2 mode:remove_FC converted:02.12.2015</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece31662-cit-1001">
+<source>Ecology and Evolution</source>
+<year>2015</year>; <volume>5</volume>(<issue>19</issue>): <fpage>4246</fpage>&#x02013;<lpage>4262</lpage>
+<pub-id pub-id-type="pmid">26664676</pub-id></mixed-citation>
+</p></notes></front><body><sec id="ece31662-sec-0001"><title>Introduction</title><p>The Mediterranean climate in the Iberian Peninsula is characterized by relatively mild and wet winters and hot and dry summers, with high temperatures and low soil moisture in the June to September period setting the abiotic limit for productivity (e.g., Tenhunen et&#x000a0;al. <xref rid="ece31662-bib-0066" ref-type="ref">1990</xref>). The understorey vegetation in the savanna&#x02010;type evergreen oak woodlands is dominated by C3 annual plant species, which avoid the dry hot summer period by adjusting their life cycle to the seasonal water availability (e.g., Unger et&#x000a0;al. <xref rid="ece31662-bib-0070" ref-type="ref">2009</xref>). Nevertheless, the vegetative and reproductive growth during the life cycle of these annual species exhibits a strong dependence on water availability.</p><p>For the Mediterranean region, climate change scenarios predict decreasing annual precipitation (Christensen et&#x000a0;al. <xref rid="ece31662-bib-0011" ref-type="ref">2007</xref>), accompanied by changes in seasonality and temporal variability of precipitation (Luterbacher et&#x000a0;al. <xref rid="ece31662-bib-0047" ref-type="ref">2006</xref>), with a decrease in the number of precipitation days and an increase in the length of the dry spells (Easterling et&#x000a0;al. <xref rid="ece31662-bib-0015" ref-type="ref">2000</xref>).</p><p>Indeed, studies report an increase in the dry period between precipitation events in the Iberian Peninsula (Gallego et&#x000a0;al. <xref rid="ece31662-bib-0024" ref-type="ref">2011</xref>), with increasing drought frequency in Portugal for the February to March period (Pires <xref rid="ece31662-bib-0056" ref-type="ref">2003</xref>). The increase in precipitation variability is expected to extend the periods of soil moisture deficit (Jackson et&#x000a0;al. <xref rid="ece31662-bib-0037" ref-type="ref">2001</xref>), which might have important consequences for productivity, biodiversity, and the matter cycles of many terrestrial ecosystems (Austin et&#x000a0;al. <xref rid="ece31662-bib-0001" ref-type="ref">2004</xref>; Huxman et&#x000a0;al. <xref rid="ece31662-bib-0034" ref-type="ref">2004</xref>; Schwinning and Sala <xref rid="ece31662-bib-0062" ref-type="ref">2004</xref>), and particularly for drought&#x02010;susceptive grasslands (Knapp et&#x000a0;al. <xref rid="ece31662-bib-0044" ref-type="ref">2002</xref>; Harper et&#x000a0;al. <xref rid="ece31662-bib-0029" ref-type="ref">2005</xref>; Fay et&#x000a0;al. <xref rid="ece31662-bib-0022" ref-type="ref">2011</xref>).</p><p>To date, several studies have reported on the effects of alterations in the precipitation regime (without changing total precipitation inputs) on primary productivity and species composition. In arid ecosystems, no significant changes in productivity with increasing precipitation variability were found (Miranda et&#x000a0;al. <xref rid="ece31662-bib-0050" ref-type="ref">2009</xref>; Thomey et&#x000a0;al. <xref rid="ece31662-bib-0067" ref-type="ref">2011</xref>; Vargas et&#x000a0;al. <xref rid="ece31662-bib-0072" ref-type="ref">2012</xref>), although Thomey et&#x000a0;al. (<xref rid="ece31662-bib-0067" ref-type="ref">2011</xref>) did report significant productivity increases in the dominant grass species in plots receiving large monthly rainfall events, as compared to plots receiving small weekly rainfall events. In marked contrast, in semi&#x02010;arid ecosystems positive effects of larger infrequent precipitation events on productivity were found (Heisler&#x02010;White et&#x000a0;al. <xref rid="ece31662-bib-0030" ref-type="ref">2008</xref>, <xref rid="ece31662-bib-0031" ref-type="ref">2009</xref>), whereas negative effects on productivity have been reported for mesic ecosystems (Knapp et&#x000a0;al. <xref rid="ece31662-bib-0044" ref-type="ref">2002</xref>; Laporte et&#x000a0;al. <xref rid="ece31662-bib-0045" ref-type="ref">2002</xref>; Fay et&#x000a0;al. <xref rid="ece31662-bib-0021" ref-type="ref">2003</xref>; Harper et&#x000a0;al. <xref rid="ece31662-bib-0029" ref-type="ref">2005</xref>; Heisler&#x02010;White et&#x000a0;al. <xref rid="ece31662-bib-0031" ref-type="ref">2009</xref>). However, the majority of studies, reporting on effects of increased precipitation variability in grassland ecosystems, report no significant changes in productivity or species composition (Unger and Jongen <xref rid="ece31662-bib-0069" ref-type="ref">2015</xref>).</p><p>To develop a better understanding of the effects of altered precipitation regimes on ecosystem processes in the herbaceous understorey in a Mediterranean oak woodland, this understorey vegetation resembling Mediterranean grasslands, we established a large&#x02010;scale rainfall manipulation experiment. The aim was to assess the impact of increasing precipitation variability, without altering total annual precipitation inputs, on productivity and species composition of the understorey vegetation. In previous studies, we found no significant effects on net primary productivity and community structure when extending the dry period between precipitation events from 1 to 3&#x000a0;weeks (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0039" ref-type="ref">2013a</xref>). The absence of differences in productivity with precipitation variability in the latter study was explained by the apparent lack of severity in drought stress caused by the changing precipitation patterns. Extending the dry period to 6&#x000a0;weeks in a consecutive study was expected to challenge the phenotypic and physiological plasticity of understorey vegetation, with potentially severe consequences for productivity and carbon sequestration (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>). However, although in this study increased soil moisture deficit with 6&#x02010;weekly precipitation frequency was reported, no effects on productivity and community structure were found (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>), with the herbaceous understorey being highly resilient to increased precipitation variability. This finding suggests employment of stress avoidance and/or adaptation strategies of the understorey vegetation when exposed to moisture stress, with changes in morphological, physiological, and biochemical mechanisms. For example, plants can adjust water&#x02010;use efficiency, by minimizing water loss, while maintaining photosynthesis, primarily achieved by decreasing stomata aperture, increasing photosynthetic capacity, or both (Bacon <xref rid="ece31662-bib-0002" ref-type="ref">2004</xref>; Buckley <xref rid="ece31662-bib-0008" ref-type="ref">2005</xref>; Gilbert et&#x000a0;al. <xref rid="ece31662-bib-0027" ref-type="ref">2011</xref>). Alternatively, plants can avoid stress by rapidly completing their life cycle before the onset of severe drought (Geber and Dawson <xref rid="ece31662-bib-0026" ref-type="ref">1997</xref>; Chaves et&#x000a0;al. <xref rid="ece31662-bib-0009" ref-type="ref">2003</xref>), develop extensive root systems, and increase root to shoot ratio to enhance water uptake in relation to water loss (Comas et&#x000a0;al. <xref rid="ece31662-bib-0012" ref-type="ref">2013</xref>; Lynch <xref rid="ece31662-bib-0048" ref-type="ref">2013</xref>), increase structural carbon to withstand turgor losses with decreasing leaf water potentials (Brugnoli et&#x000a0;al. <xref rid="ece31662-bib-0007" ref-type="ref">1998</xref>; Monti et&#x000a0;al. <xref rid="ece31662-bib-0051" ref-type="ref">2006</xref>; Werner and M&#x000e1;guas <xref rid="ece31662-bib-0076" ref-type="ref">2010</xref>), or use strategies to protect against photo&#x02010;inhibition (Werner et&#x000a0;al. <xref rid="ece31662-bib-0077" ref-type="ref">2002</xref>; Galm&#x000e9;s et&#x000a0;al. <xref rid="ece31662-bib-0025" ref-type="ref">2007</xref>). The ability of the plant community to cope with a temporary soil moisture deficit results from the employment of a combination of strategies, probably associated with species&#x02010;specific traits (Valladares and S&#x000e1;nchez&#x02010;G&#x000f3;mez <xref rid="ece31662-bib-0071" ref-type="ref">2006</xref>; Berger and Ludwig <xref rid="ece31662-bib-0004" ref-type="ref">2014</xref>), with studies revealing a diversity of adaptive mechanisms among coexisting species (P&#x000e9;rez&#x02010;Ramos et&#x000a0;al. <xref rid="ece31662-bib-0054" ref-type="ref">2013</xref>).</p><p>The present study attempts to describe temporal alterations in species physiology, resulting from altered precipitation regimes, with the length of the dry period between precipitation events extended to 6&#x000a0;weeks. We studied three prominent forb species, the dominant grass, and a legume, these species all co&#x02010;occurring in the herbaceous understorey of Mediterranean evergreen oak woodlands. We elaborate on the physiological adaptations of these species in periods of water deficit, and on the ability to recover with irrigation, in order to identify strategies, on a species&#x02010; and functional group&#x02010;specific level, explaining the previously observed resilience to increased precipitation variability.</p><p>We hypothesized that (1) the resilience observed with increasing precipitation variability can be explained by species&#x02010;specific traits and water stress avoidance and/or adaptation strategies; (2) the different functional groups will have distinct strategies, with (3) the legume being least adapted to the increase in the extent of the dry period between precipitation events, with previous results showing increased sensitivity of this functional group to changing precipitation patterns. In addition, we hypothesize (4) that, upon irrigation, the ability of the studied species to recover is dependent on phenology, specifically whether senescence has been initiated.</p></sec><sec id="ece31662-sec-0002"><title>Materials and Methods</title><sec id="ece31662-sec-0003"><title>Site description</title><p>The study was conducted at the Herdade da Machoqueira do Grou (39&#x000b0;08&#x02032;16&#x02033;N, 8&#x000b0;20&#x02032;03&#x02033;W), 30&#x000a0;km northeast of Coruche, Portugal. The soil is a Cambisol (FAO <xref rid="ece31662-bib-0018" ref-type="ref">2006</xref>), with 81% sand, 14% silt, and 5% clay. The ecosystem is limited in nitrogen, with total soil inorganic N at the experimental site during the study period being less than 1&#x000a0;<italic>&#x003bc;</italic>g&#x000a0;g<sup>&#x02212;1</sup> soil (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>). Volumetric soil water content (<italic>&#x003b8;</italic>
+<sub>v</sub>) at field capacity and at permanent wilting point is 19.3% and 7.6%, respectively. The climate is Mediterranean, characterized by wet and mild winters, and dry and hot summers. Long&#x02010;term mean annual temperature is ~15.9&#x000b0;C, and mean annual precipitation is 680&#x000a0;&#x000b1;&#x000a0;210&#x000a0;mm (<italic>Inst. de Meteorologia</italic>, Lisbon), with 87% (594&#x000a0;mm) of the precipitation being confined to the growing season (October 1 to May 31).</p><p>The study site is located in a montado, a Mediterranean evergreen oak woodland, with <italic>Quercus suber</italic> being the only tree species. The tree density is ~45 trees ha<sup>&#x02212;1</sup>. The understorey vegetation consists of a mixture of C3 annual species (e.g., <italic>Agrostis pourretii, Tolpis barbata</italic>,<italic> Tuberaria guttata</italic>,<italic> Vulpia bromoides</italic>), emerging after the first rains in autumn and senescing in late spring. Until October 2009, the experimental site was intermittently grazed with a stocking density of 0.16 cattle ha<sup>&#x02212;1</sup>. In October 2010, the site was plowed and seeded with a legume&#x02010;rich mixture (a.o. <italic>Ornithopus sativus</italic>) and the grass <italic>Lolium multiflorum</italic> (seed mixture Charneca 650, S 07874, Fertiprado, Vaiamonte, Portugal). The species included in the mixture are typically native to Portugal or the Mediterranean region. Sowing legume&#x02010;rich seed mixtures in agro&#x02010;silvo&#x02010;pastoral systems, in order to improve productivity and soil fertility, is a common agricultural practice in Portugal (Crespo <xref rid="ece31662-bib-0014" ref-type="ref">2010</xref>).</p></sec><sec id="ece31662-sec-0004"><title>Experimental design and rainfall manipulation</title><p>In December 2009, eight rainfall manipulation shelters (greenhouse model &#x0201c;Fraga,&#x0201d; Prilux, Ponte de Vagos, Portugal) were constructed within a fenced area of ~3500&#x000a0;m<sup>2</sup>, enabling manipulation of the precipitation received by the understorey. Each shelter covered an area of 6&#x000a0;&#x000d7;&#x000a0;5&#x000a0;m (30&#x000a0;m<sup>2</sup>), with an eave height of 1.6&#x000a0;m and a ridge height of 2.5&#x000a0;m. The shelter roofs were covered in November 2011 by a clear, 2&#x02010;mm, UV&#x02010;transparent polyethylene glasshouse film (Pl&#x000e1;sticos F. Matos, Massam&#x000e1;, Portugal). For additional information on shelter design, see Jongen et&#x000a0;al. (<xref rid="ece31662-bib-0039" ref-type="ref">2013a</xref>). The two water manipulation treatments were as follows: &#x0201c;3&#x02010;weekly watering treatment&#x0201d; (3W), with a dry period between precipitation events of 21&#x000a0;days, and &#x0201c;6&#x02010;weekly watering treatment&#x0201d; (6W), with this dry period increased twofold to 42&#x000a0;days. Each of the two treatments had four replicate experimental plots. To prevent a treatment effect on germination and seedling establishment, all experimental plots were subjected to equal water inputs until the middle of November 2011, receiving 244&#x000a0;mm of natural precipitation. Subsequently, from November 17 onwards, when the shelters were covered, until the end of May, experimental plots were subjected to the water manipulation treatments, with 3W receiving 40&#x000a0;mm of water every 3&#x000a0;weeks and 6W receiving 80&#x000a0;mm every 6&#x000a0;weeks. In total, precipitation inputs during the growing season of October 2011 to the end of May 2012 amounted to 614&#x000a0;mm for both treatments.</p></sec><sec id="ece31662-sec-0005"><title>Microclimate</title><p>Air temperature (<italic>T</italic>
+<sub>a</sub>) and RH (relative humidity) were continuously measured using EHT sensors with radiation shields (Decagon Devices Inc., Pullman, WA). Water VPD (vapor pressure deficit) was calculated from the temperature and humidity data according to Goudriaan and van Laar (<xref rid="ece31662-bib-0028" ref-type="ref">1994</xref>). PPFD (Photosynthetic photon flux density) was continuously measured using a QSO&#x02010;S PAR sensor (Decagon Devices Inc.). Volumetric soil water content (<italic>&#x003b8;</italic>
+<sub>v</sub>), at a depth of 5&#x000a0;cm, was continuously measured in each of the experimental plots using EC&#x02010;5 soil moisture sensors (Decagon Devices Inc.). All above&#x02010;mentioned sensors were connected to EM&#x02010;50 data loggers (Decagon Devices Inc.), recording half&#x02010;hourly means. Precipitation was measured with a RG2 rain gauge (Delta&#x02010;T Devices, Burwell, Cambridge, U.K.), and stored as half&#x02010;hourly means on a DL2 data logger (Delta&#x02010;T Devices).</p></sec><sec id="ece31662-sec-0006"><title>Plant measurements</title><p>Measured plant traits were photosynthetic gas exchange (<italic>A</italic>), stomatal conductance (<italic>g</italic>
+<sub>s</sub>), transpiration (<italic>E</italic>), predawn and midday leaf water potentials (&#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub>), predawn and midday maximum quantum yield of photosystem II (F<sub>v</sub>/F<sub>m</sub>), LWC (leaf water content), leaf carbon and nitrogen content (%C and %N), leaf carbon and nitrogen isotope composition (<italic>&#x003b4;</italic>
+<sup>13</sup>C and <italic>&#x003b4;</italic>
+<sup>15</sup>N), and species cover. <italic>A</italic>,<italic> g</italic>
+<sub>s</sub>, and <italic>E</italic> were measured at midday with a portable open&#x02010;flow gas exchange system (LI&#x02010;6400; Li&#x02010;Cor Inc., Lincoln, NE) at ambient light. WUE (Water&#x02010;use efficiency) was calculated as <italic>A</italic>/<italic>g</italic>
+<sub>s</sub>. &#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub> were obtained using a Scholander&#x02010;type pressure chamber (Manofrigido, Lisbon, Portugal). F<sub>v</sub>/F<sub>m</sub> was measured at predawn and midday using a MINI&#x02010;PAM portable chlorophyll fluorometer (Walz, Effeltrich, Germany), fitted with a DLC&#x02010;8 dark leaf&#x02010;clip holder. LWC was determined by comparing fresh weight and dry weight (48&#x000a0;h at 65&#x000b0;C) of a sample of 3&#x02013;10 fully expanded leaves. These leaf samples were subsequently ground to a fine powder for analysis of %C and %N, and <italic>&#x003b4;</italic>
+<sup>13</sup>C and <italic>&#x003b4;</italic>
+<sup>15</sup>N. These analyses were performed at the Stable Isotopes and Instrumental Analysis Facility of the Centre for Environmental Biology, University of Lisbon, Portugal. The <sup>13</sup>C/<sup>12</sup>C and <sup>15</sup>N/<sup>14</sup>N ratios in the samples were determined by continuous flow isotope mass spectrometry (Preston and Owens <xref rid="ece31662-bib-0058" ref-type="ref">1983</xref>), on a Sercon Hydra 20&#x02013;22 (Sercon Ltd., Cheshire, U.K.) stable isotope ratio mass spectrometer, coupled to a EuroEA (EuroVector, Milan, Italy) elemental analyzer for online sample preparation by Dumas&#x02010;combustion. The standards used were Sorghum Flour Standard OAS and Wheat Flour Standard OAS (Elemental Microanalysis Ltd., Okehampton, U.K.) for nitrogen and carbon isotope ratios, respectively; <italic>&#x003b4;</italic>
+<sup>15</sup>N results were referred to air and <italic>&#x003b4;</italic>
+<sup>13</sup>C to PeeDee Belemnite. Precision of the isotope ratio analysis, calculated using values from 6 to 9 replicates of laboratory standard material interspersed among samples in every batch analysis, was &#x000b1;0.2&#x02030;.</p><p>Species cover was determined in two 38&#x000a0;&#x000d7;&#x000a0;38&#x000a0;cm quadrats in each experimental plot. Within each quadrat, a total of 64 steel pins, 5&#x000a0;cm apart, were inserted vertically into the vegetation. Percent cover for each plant species is calculated by dividing the number of hits by the total number of points within the quadrat.</p><p>The above&#x02010;mentioned measurements were taken on five species. The studied species include three forbs: (1) <italic>Rumex acetosella</italic> L., a perennial forb, native to the southwestern Mediterranean region, and commonly found in annual grasslands, sprouting in autumn from a spreading rhizome; (2) <italic>Tolpis barbata</italic> (L.) Gaertn., an endemic annual in the Compositae family; and (3) <italic>Tuberaria guttata</italic> (L.) Fourr., an endemic annual in the Cistaceae family. In addition, we studied the legume <italic>Ornithopus sativus</italic> Brot., a species included in the mixture seeded in October 2010 at the experimental site. Finally, we studied the annual grass <italic>Agrostis pourretii</italic> Willd., the most abundant graminoid at the experimental site.</p><p>Measurements of plant parameters were taken in the period of February to June. In February, March, and May, data collection was organized around the simultaneous irrigation in 3W and 6W (February 14, March 27, and May 8), with measurements of <italic>A</italic>,<italic> g</italic>
+<sub>s</sub>, <italic>E</italic>, &#x003a8;, F<sub>v</sub>/F<sub>m</sub>, and LWC being taken 1&#x000a0;day before and one or 2&#x000a0;days after the respective irrigation events. Leaf samples from pre&#x02010; and postwatering were pooled for analysis of tissue carbon and nitrogen, and isotopic composition. In addition, measurements were taken at the end of May, organized around the irrigation in 3W (May 29). At that time, measurements in 3W were taken before and after irrigation. As 6W was not irrigated at the end of May, only one set of data is available for this treatment at that time. Finally, measurements were taken in June (June 12), to assess vegetation performance at the end of the growing season. Not all plant parameters could be assessed at all times in all the five species (Table&#x000a0;<xref rid="ece31662-tbl-0001" ref-type="table-wrap">1</xref>), mainly due to vegetative phase of respective species (e.g., senescence of <italic>Agrostis</italic> in May and June, and <italic>Ornithopus</italic> in June). In addition, leaf&#x02010;level gas exchange on <italic>Agrostis</italic> could not be conducted due to the small leaf size.</p><table-wrap id="ece31662-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Overview of collected data for the five species in the period of February to June. Species indicated by <italic>Rumex</italic> (R), <italic>Tolpis</italic> (To), <italic>Tuberaria</italic> (Tu), <italic>Agrostis</italic> (A), and <italic>Ornithopus</italic> (O)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" colspan="5" valign="top" rowspan="1">February</th><th align="left" colspan="5" valign="top" rowspan="1">March</th><th align="left" colspan="5" valign="top" rowspan="1">May</th><th align="left" colspan="5" valign="top" rowspan="1">End May</th><th align="left" colspan="3" valign="top" rowspan="1">June</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">F<sub>v</sub>/F<sub>m</sub>
+</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x003a8;</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td></tr><tr><td align="left" rowspan="1" colspan="1">Leaf water content</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>A</italic>,<italic> g</italic>
+<sub><italic>s</italic></sub>, <italic>E</italic>
+</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>&#x003b4;</italic>
+<sup>15</sup>N, <italic>&#x003b4;</italic>
+<sup>13</sup>C, %N, %C</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Cover</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">R</td><td align="left" rowspan="1" colspan="1">To</td><td align="left" rowspan="1" colspan="1">Tu</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece31662-sec-0007"><title>Data analysis</title><p>Statistical analysis was performed using SigmaPlot 11.0 (Systat Software Inc., San Jose, CA). To assess the effect of treatment on plant performance prior to irrigation, two separate sets of ANOVA (analyses of variance) were performed for each of the measured plant parameters. First of all, data were analyzed separately for each species, using a two&#x02010;way repeated&#x02010;measures ANOVA, with treatment and time (month) as main effects. In addition, to assess differences among species, data were analyzed separately for each month, using a two&#x02010;way ANOVA, with treatment and species as main effects. If data failed to meet the normality assumptions for ANOVA, data were square&#x02010;root&#x02010; or log&#x02010;transformed. Fisher&#x002bc;s LSD (least significant difference) <italic>post hoc</italic> pairwise comparison was applied to determine individual differences between means, only when the main effect gave a significant difference.</p><p>PCA (Principal component analysis) was used to assess the contribution of physiological plant parameters that discriminate between the responses of individual species, treatment, and irrigation. The integrated responses of the individual species to irrigation were interpreted following the trajectories through multivariate space with time, as previously applied by Potts et&#x000a0;al. (<xref rid="ece31662-bib-0057" ref-type="ref">2006</xref>). PCA was performed using the R function &#x0201c;prcomp&#x0201d; from the &#x0201c;stats&#x0201d; package in R version 3.0.1 (R Development Core Team <xref rid="ece31662-bib-0059" ref-type="ref">2013</xref>). Data were mean centered and scaled to 1 standard deviation. PCA was performed for May data collected prior to irrigation, to assess functional differences among the studied species when subjected to moisture deficit. One PCA included state variables &#x003a8;, F<sub>v</sub>/F<sub>m</sub>, and LWC for comparison of all five species. In addition, another PCA was performed for comparison of the three forbs, including not only the above&#x02010;mentioned state variables, but also data of leaf&#x02010;level gas exchange. Although not presented, equivalent PCA for March showed similar patterns. Finally, PCA was performed separately for each species, over the course of the growing season, including pre&#x02010; and postwatering data.</p></sec></sec><sec id="ece31662-sec-0008"><title>Results</title><sec id="ece31662-sec-0009"><title>Microclimate and soil water</title><p>Meteorological conditions at the experimental site over the course of the study are shown in Figure&#x000a0;S1. Experimental water manipulation (Fig.&#x000a0;<xref rid="ece31662-fig-0001" ref-type="fig">1</xref>A) resulted in marked differences in temporal soil moisture dynamics between 3W and 6W (Fig.&#x000a0;<xref rid="ece31662-fig-0001" ref-type="fig">1</xref>B). From March onwards, supremacy of <italic>&#x003b8;</italic>
+<sub>v</sub> alternated between the two treatments and higher temperatures in combination with increasing biomass and concomitant higher transpiration resulted in a rapid decrease of <italic>&#x003b8;</italic>
+<sub>v</sub> in both treatments. The total number of days during spring with <italic>&#x003b8;</italic>
+<sub>v</sub> below the wilting point was 13 and 42&#x000a0;days in 3W and 6W, respectively. Average <italic>&#x003b8;</italic>
+<sub>v</sub> at 5&#x000a0;cm depth during the February to June period was 11.7 and 11.4% in 3W and 6W, respectively. The variability of soil water content (<italic>&#x003b8;</italic>
+<sub>v</sub>), calculated as the coefficient of variation of daily average <italic>&#x003b8;</italic>
+<sub>v</sub> values, increased by 23% (from 0.326 to 0.401) when extending the dry period from 3 to 6&#x000a0;weeks.</p><fig fig-type="Figure" xml:lang="en" id="ece31662-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(A) Quantity of water received by the study plots during the growing season of October 2011 to June 2012. All plots received equal water inputs until November 17, when the water manipulation treatment started. <inline-graphic xlink:href="ECE3-5-4246-g006.jpg" xlink:title="image"/> = before water manipulation (natural precipitation), <inline-graphic xlink:href="ECE3-5-4246-g007.jpg" xlink:title="image"/> = 3&#x02010;weekly watering treatment, <inline-graphic xlink:href="ECE3-5-4246-g008.jpg" xlink:title="image"/> = 6&#x02010;weekly watering treatment. (B) Volumetric soil water content (<italic>&#x003b8;</italic>
+<sub>v</sub>) at a depth of 5&#x000a0;cm in the study plots for the period of October 2011 to June 2012. <inline-graphic xlink:href="ECE3-5-4246-g009.jpg" xlink:title="image"/> = before water manipulation, <inline-graphic xlink:href="ECE3-5-4246-g010.jpg" xlink:title="image"/> = 3&#x02010;weekly watering treatment, <inline-graphic xlink:href="ECE3-5-4246-g011.jpg" xlink:title="image"/> = 6&#x02010;weekly watering treatment. Data represent 30&#x02010;min values, with <italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>4. For clarity, error bars are not shown. Dashed horizontal line represents the soil water content at the permanent wilting point, indicating the threshold for soil water stress. Timing of data collection is indicated by horizontal arrows.</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-5-4246-g001"/></fig></sec><sec id="ece31662-sec-0010"><title>Plant measurements</title><p>For a given species, assessed over the course of all measurement periods, treatment differences were apparent (Table&#x000a0;S1), for example, &#x003a8;<sub>pre</sub> in <italic>Tolpis</italic> and <italic>Agrostis</italic>,<italic> E</italic> in <italic>Rumex</italic> and <italic>Tolpis</italic>, and <italic>g</italic>
+<sub>s</sub> in <italic>Tuberaria</italic> and <italic>Ornithopus</italic>, elaborated further on below. However, at a given measurement time, statistical analysis did not show differences in treatment effects among species, with a lack of significant interactions between treatment and species in all cases, except for midday F<sub>v</sub>/F<sub>m</sub> in February (Table&#x000a0;S2).</p><sec id="ece31662-sec-0011"><title>Chlorophyll fluorescence</title><p>None of the species showed significant differences in F<sub>v</sub>/F<sub>m</sub> in response to altered precipitation variability, with the exception of the significant reduction in midday F<sub>v</sub>/F<sub>m</sub> in <italic>Agrostis</italic> in 6W (Table&#x000a0;S1, Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>A4&#x02013;D4). In all species, values of midday F<sub>v</sub>/F<sub>m</sub> were typically reduced, as compared to predawn F<sub>v</sub>/F<sub>m</sub>, with the differential of predawn and midday F<sub>v</sub>/F<sub>m</sub> becoming increasingly larger as the growing season progressed. Both predawn and midday F<sub>v</sub>/F<sub>m</sub> differed significantly among species, with the forbs generally exhibiting higher F<sub>v</sub>/F<sub>m</sub> than <italic>Agrostis</italic> and <italic>Ornithopus</italic> (Table&#x000a0;S2).</p><fig fig-type="Figure" xml:lang="en" id="ece31662-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Plant parameters prior to irrigation for the studied species in February (A1&#x02013;A5), March (B1&#x02013;B5), May (C1&#x02013;C5), end of May (D1&#x02013;D5), and June (E1&#x02013;E3) in the 3&#x02010;weekly (&#x025cf;) and 6&#x02010;weekly (<inline-graphic xlink:href="ECE3-5-4246-g012.jpg" xlink:title="image"/>) watering treatments. All data were transformed to fall within a 1&#x02013;10 range. For obtaining actual variable values, following conversion factors need to be used: <italic>A&#x000a0;</italic>&#x000d7;<italic>&#x000a0;</italic>3 (in <italic>&#x003bc;</italic>mol m<sup>&#x02212;2</sup>&#x000a0;sec<sup>&#x02212;1</sup>), <italic>g</italic>
+<sub>s</sub>/20 (in mmol m<sup>&#x02212;2</sup>&#x000a0;sec<sup>&#x02212;1)</sup>, <italic>E&#x000a0;</italic>&#x000d7;<italic>&#x000a0;</italic>2 (in mmol m<sup>&#x02212;2</sup>&#x000a0;sec<sup>&#x02212;1</sup>), %cover &#x000d7;10, F<sub>v</sub>/F<sub>m</sub>/10, &#x003a8;/&#x02010;4 (in <styled-content style="fixed-case">MP</styled-content>a), %N/3, %C&#x000a0;&#x000d7;&#x000a0;10, <styled-content style="fixed-case">WUE</styled-content>/40, and leaf water content &#x000d7;10 (in %). <italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>4. Asterisks indicate significantly different means (Fisher's least significant difference) between 3&#x02010;weekly and 6&#x02010;weekly watering treatments (*<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001). In addition, 0.05&#x000a0;&#x0003c;&#x000a0;<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.1 is indicated by <bold>+</bold>.</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-5-4246-g002"/></fig></sec><sec id="ece31662-sec-0012"><title>Water status</title><p>For LWC, a significant, but small treatment difference was found for <italic>Tuberaria</italic> (Table&#x000a0;S1, Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>A3&#x02013;E3). For <italic>Tolpis</italic>, a significant interaction between treatment and month was found (Table&#x000a0;S1), with a decrease in LWC in March and May in 6W (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>B2 and C2). Significant differences among species were observed for LWC over the entire sampling period (Table&#x000a0;S2), with <italic>Tolpis</italic> exhibiting the highest (81&#x02013;86%) and <italic>Agrostis</italic> having the lowest values (42&#x02013;69%).</p><p>In <italic>Tolpis</italic> and <italic>Agrostis</italic>, &#x003a8;<sub>pre</sub> was significantly lower in 6W, while treatment effects were lacking for &#x003a8;<sub>mid</sub> in all species (Table&#x000a0;S1). Congruent with the seasonal decline in LWC, all species showed significant decreases in both &#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub> as the growing season progressed, with the exception of &#x003a8;<sub>pre</sub> in <italic>Tuberaria</italic>. The grass <italic>Agrostis</italic> exhibited particularly low &#x003a8;<sub>pre</sub>, reaching &#x02212;1.8&#x000a0;MPa in May (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>C4).</p><p>In the three forbs and in <italic>Ornithopus</italic>, the disparity between &#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub> steadily increased during the growing season (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>), while <italic>Agrostis</italic> exhibited the largest disparity between &#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub> in March (up to 1.2&#x000a0;MPa), this difference decreasing to ~0.3&#x000a0;MPa in May, mainly caused by very low &#x003a8;<sub>pre</sub> with the increase in senescence.</p><p>For both &#x003a8;<sub>pre</sub> and &#x003a8;<sub>mid</sub>, significant differences among species were found (Table&#x000a0;S2). <italic>Agrostis</italic> generally exhibited lowest &#x003a8;, while &#x003a8;<sub>pre</sub> in <italic>Ornithopus</italic> was significantly higher in March and May, as compared to the other species. In June, with <italic>Agrostis</italic> and <italic>Ornithopus</italic> senescent, <italic>Tuberaria</italic> exhibited significantly higher &#x003a8;, as compared to the other two forbs <italic>Rumex</italic> and <italic>Tolpis</italic> (Table&#x000a0;S2).</p></sec><sec id="ece31662-sec-0013"><title>Gas exchange</title><p>In <italic>Rumex</italic>,<italic> Tuberaria,</italic> and <italic>Ornithopus</italic>,<italic> g</italic>
+<sub>s</sub> and <italic>E</italic> were higher in 3W, as compared to 6W, with this difference being significant or nearly significant (Table&#x000a0;S1). In contrast, <italic>A</italic> was not significantly altered by treatment in any of these species. For <italic>Tolpis</italic>, no significant treatment effects were found for <italic>g</italic>
+<sub>s</sub> and <italic>E</italic>. However, for <italic>A</italic>, a significant interaction between treatment and month was found (Table&#x000a0;S1), with a significant decrease of <italic>A</italic> in March in 6W (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>B2). In all species, <italic>A</italic> reached a maximum in May, with a decline toward the end of May. A recovery in 3W in June, in response to the irrigation at the end of May, was only observed in <italic>Tuberaria</italic> (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>E3).</p><p>Species differences in <italic>A</italic>,<italic> g</italic>
+<sub>s</sub>, and <italic>E</italic> were significant in all months, with the exception of <italic>g</italic>
+<sub>s</sub> and <italic>E</italic> in May (Table&#x000a0;S2). Until the end of May, lowest <italic>g</italic>
+<sub>s</sub> and <italic>E</italic> were found in <italic>Tuberaria</italic> and <italic>Ornithopus</italic>, while in June <italic>Tuberaria</italic> showed significantly higher values as compared to the other species. On all sampling dates, <italic>Ornithopus</italic> showed lower <italic>A</italic> as compared to the other species, this difference becoming significant at the end of May. In contrast to <italic>Ornithopus,</italic> the three forb species were still active in June, with <italic>Tuberaria</italic> exhibiting significantly higher <italic>A</italic> than <italic>Rumex</italic> and <italic>Tolpis</italic>.</p><p>Water&#x02010;use efficiency only revealed significant differences in response to precipitation variability in <italic>Tuberaria</italic>, with higher WUE in 6W (Table&#x000a0;S1), this increase being apparent in May and at the end of May (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>C3 and D3). Significant differences in WUE among species were only apparent at the end of May, with the highest WUE in <italic>Tuberaria</italic> while <italic>Ornithopus</italic> exhibited the lowest WUE.</p></sec><sec id="ece31662-sec-0014"><title>Leaf nitrogen (N) and carbon (C) concentration</title><p>Neither tissue %N nor %C exhibited significant differences in response to altered precipitation variability in any of the species (Table&#x000a0;S1). Differences in tissue %N and %C among species were significant in all months (Table&#x000a0;S2), with tissue %N being significantly higher in <italic>Ornithopus</italic>, and significantly lower in <italic>Agrostis</italic>, as compared to the other species. Tissue %C was lowest in <italic>Tolpis</italic>, while <italic>Rumex</italic> had higher tissue %C as compared to the other species (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>).</p></sec><sec id="ece31662-sec-0015"><title>Cover</title><p>Percent cover was not affected by increased precipitation variability in any of the species (Table&#x000a0;S1). However, over the course of the growing season, independent of treatment, cover of <italic>Rumex</italic> and <italic>Agrostis</italic> decreased significantly, whereas cover of <italic>Tolpis</italic> and <italic>Ornithopus</italic> was maintained (Fig.&#x000a0;<xref rid="ece31662-fig-0002" ref-type="fig">2</xref>). In contrast, <italic>Tuberaria</italic> significantly increased its cover with time. Cover percentages for the studied species at the experimental site (ranging from ~2% for <italic>Ornithopus,</italic> and between ~18% and ~39% for <italic>Rumex</italic>,<italic> Tolpis,</italic> and <italic>Tuberaria</italic>, to ~84% for <italic>Agrostis</italic>) reflect the inherent community composition at the experimental site. Throughout the growing season, cover of <italic>Agrostis</italic> was significantly higher as compared to the other species (Table&#x000a0;S2), while cover of <italic>Ornithopus</italic> was not only low, but also significantly lower in February and March, as compared to the other species.</p></sec><sec id="ece31662-sec-0016"><title>Isotopic composition</title><p>Figure&#x000a0;<xref rid="ece31662-fig-0003" ref-type="fig">3</xref> shows leaf isotopic compositions (<italic>&#x003b4;</italic>
+<sup>13</sup>C and <italic>&#x003b4;</italic>
+<sup>15</sup>N) of the studied species in February, March, and May. <italic>&#x003b4;</italic>
+<sup>13</sup>C values (Fig.&#x000a0;<xref rid="ece31662-fig-0003" ref-type="fig">3</xref>A&#x02013;C) ranged between &#x02212;28.1 and &#x02212;31.0&#x02030;. In <italic>Rumex</italic>, no significant difference in <italic>&#x003b4;</italic>
+<sup>13</sup>C was found between precipitation treatments, while <italic>Tolpis</italic> and <italic>Tuberaria</italic> exhibited marginally lower <italic>&#x003b4;</italic>
+<sup>13</sup>C in 3W as compared to 6W (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.073 and <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.051, respectively, Table&#x000a0;S1). In contrast, <italic>&#x003b4;</italic>
+<sup>13</sup>C in <italic>Agrostis</italic> and in <italic>Ornithopus</italic> was significantly depleted in 3W. At all times, a significant difference among species was found for <italic>&#x003b4;</italic>
+<sup>13</sup>C (Table&#x000a0;S2). In February, <italic>&#x003b4;</italic>
+<sup>13</sup>C in <italic>Tuberaria</italic> was significantly lower as compared to all other species, while in March both <italic>Tuberaria</italic> and <italic>Tolpis</italic> had significantly stronger <sup>13</sup>C depletion. In May, <italic>Rumex</italic> showed significantly enriched values in comparison with the other species.</p><fig fig-type="Figure" xml:lang="en" id="ece31662-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(A&#x02013;C) <italic>&#x003b4;</italic>
+<sup>13</sup>C and (D&#x02013;F) <italic>&#x003b4;</italic>
+<sup>15</sup>N in studied species in February, March, and May in the 3&#x02010;weekly (&#x025a0;) and 6&#x02010;weekly (<inline-graphic xlink:href="ECE3-5-4246-g013.jpg" xlink:title="image"/>) watering treatments. Bars show mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>4. Asterisks indicate significantly different means (Fisher's least significant difference) between 3&#x02010;weekly and 6&#x02010;weekly watering treatments (*<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001). In addition, 0.05&#x000a0;&#x0003c;&#x000a0;<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.1 is indicated by +.</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-5-4246-g003"/></fig><p>Foliage <italic>&#x003b4;</italic>
+<sup>15</sup>N (Fig.&#x000a0;<xref rid="ece31662-fig-0003" ref-type="fig">3</xref>D&#x02013;F) varied between &#x02212;2.6 and 3.7&#x02030; and was significantly depleted in <italic>Tuberaria</italic> in 3W, as compared to 6W. There was a large and significant species effect on N isotopic composition, with <italic>Rumex</italic> consistently having significantly higher <italic>&#x003b4;</italic>
+<sup>15</sup>N, while <italic>&#x003b4;</italic>
+<sup>15</sup>N in both <italic>Ornithopus</italic> and <italic>Tuberaria</italic> was significantly lower throughout the growing season.</p></sec></sec><sec id="ece31662-sec-0017"><title>Principal component analysis</title><sec id="ece31662-sec-0018"><title>PCA based on sampling time</title><p>Functional differences in species prior to irrigation in May were assessed using &#x003a8;, F<sub>v</sub>/F<sub>m</sub>, and LWC as state variables in PCA (Fig.&#x000a0;<xref rid="ece31662-fig-0004" ref-type="fig">4</xref>A). <italic>Agrostis</italic> is clearly separated from the other species on PC1, exhibiting low parameter values. <italic>Rumex</italic>,<italic> Tolpis</italic>, and <italic>Tuberaria</italic> are clustered together, while separation is evident between these forbs and <italic>Ornithopus</italic> on PC2, the latter species having higher <italic>&#x003c8;</italic>. Within species, the separation between treatments is almost consistently represented on PC1. However, treatment differences were small, with the exception of <italic>Agrostis</italic>.</p><fig fig-type="Figure" xml:lang="en" id="ece31662-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Scatterplots of principal component analyses of plant parameters prior to irrigation in May, showing the first and second <styled-content style="fixed-case">PC</styled-content> (principal component) with (A) comparison of all five studied species, and (B) comparison of the three forbs. Symbols: <italic>Rumex acetosella</italic> (&#x025b5;), <italic>Tolpis barbata</italic> (&#x025bd;), <italic>Tuberaria guttata</italic> (&#x02662;), <italic>Ornithopus sativus</italic> (&#x025a1;), and <italic>Agrostis pourretii</italic> (&#x025cb;) in the 3&#x02010;weekly watering treatment (black symbols), and 6&#x02010;weekly watering treatment (gray symbols). The individual values are given by open symbols, with the treatment mean indicated by closed symbols. Scaled loading values are indicated by variable names. Percentages of variance explained by the respective <styled-content style="fixed-case">PC</styled-content> are given in parentheses in the axes labels.</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-5-4246-g004"/></fig><p>Including all state variables, functional differences among the forbs are evident (Fig.&#x000a0;<xref rid="ece31662-fig-0004" ref-type="fig">4</xref>B), with high values for predawn F<sub>v</sub>/F<sub>m</sub> and <italic>A</italic> in <italic>Rumex</italic>, high &#x003a8; in <italic>Tuberaria</italic>, and high LWC and <italic>g</italic>
+<sub>s</sub> in <italic>Tolpis</italic>. Treatment differences in <italic>Rumex</italic> and <italic>Tuberaria</italic> were apparent on PC1; that is, in 6W these species were characterized by high WUE, and low <italic>g</italic>
+<sub>s</sub> and <italic>E</italic>. However, for <italic>Tolpis</italic>, treatment differences were small.</p></sec><sec id="ece31662-sec-0019"><title>PCA based on individual species</title><p>For the forb species and <italic>Ornithopus</italic>, PC1 was associated with changes in <italic>g</italic>
+<sub>s</sub> and either <italic>E</italic> or <italic>A</italic>, thus representing parameters related to photosynthesis. PC2 was associated with leaf water status, correlating with changes in &#x003a8; and LWC, and also with WUE in <italic>Tuberaria</italic> and <italic>Ornithopus</italic> (Fig.&#x000a0;<xref rid="ece31662-fig-0005" ref-type="fig">5</xref>A&#x02013;D).</p><fig fig-type="Figure" xml:lang="en" id="ece31662-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Scatterplots of principal component analyses of plant parameters over the course of the growing season, showing the first and second <styled-content style="fixed-case">PC</styled-content> (principal component) for (A) <italic>Rumex acetosella</italic>, (B) <italic>Tolpis barbata</italic>, (C) <italic>Tuberaria guttata</italic>, (D) <italic>Ornithopus sativus</italic>, and (E) <italic>Agrostis pourretii</italic>. Symbols: &#x025cf; and <inline-graphic xlink:href="ECE3-5-4246-g015.jpg" xlink:title="image"/> represent before irrigation in the 3&#x02010; and 6&#x02010;weekly watering treatments, respectively; &#x025b2; and <inline-graphic xlink:href="ECE3-5-4246-g014.jpg" xlink:title="image"/> represent after irrigation in the 3&#x02010; and 6&#x02010;weekly watering treatment, respectively. All individual values are given, with the arrowed lines connecting means of consecutive measurements, with symbol size increasing with time in year. Thick lines represent the trajectory shifts with irrigation, and thin lines represent the trajectory shifts from after irrigation to the consecutive before irrigation state. Thick dashed lines represent the shifts with irrigation in the 3&#x02010;weekly watering treatment at the end of May. Scaled loading values of state variables are indicated. Percentages of variance explained by the respective <styled-content style="fixed-case">PC</styled-content> are given in parentheses in the axes labels. State variables used and trajectories included depended on available complete data sets for the respective species (Table&#x000a0;<xref rid="ece31662-tbl-0001" ref-type="table-wrap">1</xref>). Trajectories start in February, with the exception of <italic>Tuberaria</italic>, which starts in March (due to the absence of data on &#x003a8; in February). Trajectories of <italic>Agrostis</italic> stop in May, with no data available for the end of May and June.</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-5-4246-g005"/></fig><p>For all of these four species, ordinations from 3W and 6W often did cluster, especially after irrigation, indicating only small treatment differences. However, treatment differences could be observed along PC1 prior to irrigation in May for <italic>Rumex</italic> and <italic>Tuberaria</italic>, in March for <italic>Tolpis</italic>, and in March and May for <italic>Ornithopus</italic>, showing lower values for photosynthesis&#x02010;related parameters in 6W, as compared to 3W. Irrigation in <italic>Tolpis</italic>,<italic> Tuberaria</italic>, and <italic>Ornithopus</italic> resulted in large shifts in multivariate space, increasing <italic>E</italic> and <italic>g</italic>
+<sub>s</sub> as well as, for <italic>Tolpis</italic>,<italic> A</italic>, and decreasing WUE. For <italic>Rumex</italic>,<italic> Ornithopus</italic>, and most clearly for <italic>Tolpis</italic>, the multivariate trajectory over the course of the growing season moves along PC2, toward lower values of &#x003a8;. However, for <italic>Tuberaria</italic>, seasonality was not clearly reflected in PCA.</p><p>For <italic>Agrostis</italic>, where a different set of predictors was used, PC1 spans between predawn F<sub>v</sub>/F<sub>m</sub> and &#x003a8;, and PC2 correlates positively with midday F<sub>v</sub>/F<sub>m</sub> (Fig.&#x000a0;<xref rid="ece31662-fig-0005" ref-type="fig">5</xref>E). Samples from February appeared to be distinct from the other months, forming a cluster with higher values on PC1. Prior to irrigation, treatments were separated. However, after irrigation, ordinations did cluster, indicating only small treatment differences. The effect of irrigation can be seen as a movement along PC1, indicating a recovery of leaf water status. For <italic>Agrostis</italic>, no clear trajectory can be observed along the growing season.</p></sec></sec></sec><sec id="ece31662-sec-0020"><title>Discussion</title><sec id="ece31662-sec-0021"><title>Species&#x02010;specific adaptation strategies &#x02013; the grass <italic>Agrostis pourretii</italic>
+</title><p>In <italic>Agrostis</italic>, the consistently lower midday F<sub>v</sub>/F<sub>m</sub> in 6W indicates a higher dynamic photo&#x02010;inhibition with increasing precipitation variability, which suggests decreasing efficiency of photochemical and nonphotochemical quenching (Bj&#x000f6;rkman and Demmig <xref rid="ece31662-bib-0006" ref-type="ref">1987</xref>; Johnson et&#x000a0;al. <xref rid="ece31662-bib-0038" ref-type="ref">1993</xref>). In addition, <italic>Agrostis</italic> exhibited significantly lower &#x003a8;<sub>pre</sub> in March and May in 6W, indicating a decline of nocturnal water status recovery, probably due to its shallow root system. However, no differences were found for &#x003a8;<sub>mid</sub>, suggesting the ability of tight short&#x02010;term stomatal control in response to low <italic>&#x003b8;</italic>
+<sub>v</sub>. This is supported by higher <italic>&#x003b4;</italic>
+<sup>13</sup>C in 6W, indicating higher WUE (Farquhar et&#x000a0;al. <xref rid="ece31662-bib-0019" ref-type="ref">1989</xref>). The observed differences in physiological characteristics of <italic>Agrostis</italic> with increasing precipitation variability are indicative for isohydric plants (Stocker <xref rid="ece31662-bib-0065" ref-type="ref">1956</xref>), with tight short&#x02010;term stomatal control and a minimum threshold of &#x003a8;, thereby managing water loss through stomata, accompanied by higher WUE. However, irrigation resulted in an opportunistic response in <italic>Agrostis</italic>, with the trajectories in multivariate space driven by a rapid increase in leaf water status, decreasing the divergence between the two treatments. This behavior is indicative of a water spender strategy with high growth rates and a rapid life cycle closely coupled to water availability. This strategy has previously been reported for annual grass species in Mediterranean environments, showing drought resistance, in combination with a water spender mechanism upon irrigation (Bicak and Sternberg <xref rid="ece31662-bib-0005" ref-type="ref">1993</xref>; Ram&#x000ed;rez et&#x000a0;al. <xref rid="ece31662-bib-0060" ref-type="ref">2008</xref>; Chirino et&#x000a0;al. <xref rid="ece31662-bib-0010" ref-type="ref">2011</xref>). In our study, <italic>Agrostis</italic> was the most abundant species, which might reflect the general success of its physiological adaptations to fluctuations in water availability.</p><p>Our data do not suggest adaptive structural changes in <italic>Agrostis</italic> as precipitation variability increases, with no treatment effects on tissue C and N. As the photosynthetic apparatus is the largest sink for nitrogen in foliage (Evans and Seemann <xref rid="ece31662-bib-0017" ref-type="ref">1989</xref>), the low tissue N in <italic>Agrostis</italic> is probably due to a dilution effect of growth (Walker et&#x000a0;al. <xref rid="ece31662-bib-0074" ref-type="ref">2001</xref>), resulting from a combination of low soil&#x02010;N content (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>) and high growth rates. In addition, independent of treatment, this species exhibited a rapid curtailment of vegetative growth in May, allocating resources to reproductive organs, and accelerating leaf senescence, the latter also evident from the rapidly decreasing LWC in May in both treatments.</p></sec><sec id="ece31662-sec-0022"><title>Species&#x02010;specific adaptation strategies&#x02013; the forbs</title><p>With none of the studied forb species exhibiting treatment&#x02010;related photo&#x02010;inhibition, different adaptation strategies were observed among the three forb species, extrapolated from data on leaf&#x02010;level gas exchange and leaf water status. In <italic>Rumex</italic>, changing precipitation patterns did not result in significant treatment differences in F<sub>v</sub>/F<sub>m</sub>, &#x003a8;, <italic>A</italic>,<italic> g</italic>
+<sub>s</sub>, and WUE prior to irrigation, the latter confirmed by the lack of a treatment effect on <italic>&#x003b4;</italic>
+<sup>13</sup>C. Thus, the adaptation to moisture deficit in <italic>Rumex</italic> may be found in its innate morphological characteristics, that is, leaf succulence, with maintenance of leaf water status and stomatal aperture, thereby preventing CO<sub>2</sub> limitation of photosynthesis. Following the trajectories through multivariate space with irrigation confirms the good adaptation of <italic>Rumex</italic> to variability in soil moisture, with irrigation only resulting in small shifts in both treatments. To date, relatively few studies on drought tolerance in <italic>Rumex acetosella</italic> exist (i.e., Zimmerman and Lechowicz <xref rid="ece31662-bib-0081" ref-type="ref">1982</xref>; Farris <xref rid="ece31662-bib-0020" ref-type="ref">1984</xref>; Houssard et&#x000a0;al. <xref rid="ece31662-bib-0032" ref-type="ref">1992</xref>; Mamolos et&#x000a0;al. <xref rid="ece31662-bib-0049" ref-type="ref">2001</xref>). Houssard et&#x000a0;al. (<xref rid="ece31662-bib-0032" ref-type="ref">1992</xref>) showed that <italic>Rumex</italic> responds to water deficit by restricting water loss, suggesting a physiological basis of drought tolerance. Indeed, in May, <italic>Rumex</italic> exerted some degree of stomatal control, with a decrease in <italic>g</italic>
+<sub>s</sub> and concomitantly higher WUE in 6W, reinforcing the capacity for isohydric behavior. <italic>Tuberaria</italic> showed typical isohydric behavior with treatment differences prior to irrigation revealing a good stomatal control in response to low <italic>&#x003b8;</italic>
+<sub>v</sub>, maintaining a constant &#x003a8; and higher WUE in 6W, the latter also reflected in higher <italic>&#x003b4;</italic>
+<sup>13</sup>C (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.051). This was accompanied by a decrease in LWC, suggesting that <italic>g</italic>
+<sub>s</sub> was more closely linked to low <italic>&#x003b8;</italic>
+<sub>v</sub> than to leaf water status. The trajectories through multivariate space with irrigation were dictated by changes in <italic>E</italic> and <italic>g</italic>
+<sub>s</sub>. In addition, the response to irrigation in 6W was characterized by increasing LWC. The finding that <italic>&#x003b4;</italic>
+<sup>15</sup>N signatures in <italic>Tuberaria</italic> were similar to the legume <italic>Ornithopus</italic>, while being markedly depleted as compared to the other species, may indicate facilitative legume neighbor interactions, with the treatment effect on <italic>&#x003b4;</italic>
+<sup>15</sup>N in <italic>Tuberaria</italic> caused by a decrease in facilitation with moisture deficit, as reported previously by Khan et&#x000a0;al. (<xref rid="ece31662-bib-0042" ref-type="ref">2014</xref>).</p><p>
+<italic>Tolpis</italic> showed little evidence of physiological adaptations supporting isohydric behavior in response to soil moisture deficits, with <italic>A</italic> corresponding directly to altered <italic>g</italic>
+<sub>s</sub>, and consequently low WUE. However, morphological adaptations, that is, the taproot system, distinctive for this species, can delay the onset of water stress, thereby maintaining leaf water status (Persson and Baitulin <xref rid="ece31662-bib-0055" ref-type="ref">1996</xref>). Nevertheless, this strategy was not evident in March, with the decrease in &#x003a8;<sub>pre</sub> in 6W indicating a decline of nocturnal water recharge, probably due to the late development of an effective taproot. The trajectories with irrigation in <italic>Tolpis</italic> were, especially in 6W, dictated by a rapid increase in both <italic>A</italic> and <italic>g</italic>
+<sub>s.</sub> Indeed, studies have shown that recovery of photosynthetic capacity upon irrigation can be rapid, with attainment of predrought photosynthetic rates (Xu et&#x000a0;al. <xref rid="ece31662-bib-0080" ref-type="ref">2009</xref>; Zlatev <xref rid="ece31662-bib-0082" ref-type="ref">2013</xref>). In <italic>Tolpis</italic>, the rapid recovery indicates that the depression of <italic>A</italic> with moisture deficit can be attributed to stomatal limitation of CO<sub>2</sub> (Cornic <xref rid="ece31662-bib-0013" ref-type="ref">2000</xref>), as studies have shown that metabolic limitations to photosynthesis are reversed considerably slower (Ignace et&#x000a0;al. <xref rid="ece31662-bib-0036" ref-type="ref">2007</xref>; Galle et&#x000a0;al. <xref rid="ece31662-bib-0023" ref-type="ref">2009</xref>; Hu et&#x000a0;al. <xref rid="ece31662-bib-0033" ref-type="ref">2010</xref>).</p><p>Independent of treatment, differences in plant parameters were observed among the three forb species. With the exception of June, <italic>Rumex</italic> attained highest <italic>A</italic>, although this was not translated into an increase in cover. In this species, high carbon investments into rhizome biomass can be expected (Mooney <xref rid="ece31662-bib-0052" ref-type="ref">1972</xref>; Xiong and Katterer <xref rid="ece31662-bib-0079" ref-type="ref">2010</xref>). In addition, the structural carbon content in the succulent leaves was higher as compared to the other species. In June, <italic>Tuberaria</italic> attained highest A, with maintenance of leaf water status, reflecting the supremacy of its typical isohydric behavior.</p></sec><sec id="ece31662-sec-0023"><title>Species&#x02010;specific adaptation strategies &#x02013; the legume <italic>Ornithopus sativus</italic>
+</title><p>Extensive literature is available on productivity of <italic>Ornithopus sativus</italic> (e.g., de Lautour and Rumball <xref rid="ece31662-bib-0046" ref-type="ref">1986</xref>; Iglesias and Lloveras <xref rid="ece31662-bib-0035" ref-type="ref">2000</xref>; Nichols et&#x000a0;al. <xref rid="ece31662-bib-0053" ref-type="ref">2007</xref>), a species often included in legume seed mixtures for pasture improvement (Nichols et&#x000a0;al. <xref rid="ece31662-bib-0053" ref-type="ref">2007</xref>). Performance of this species with moisture deficit has received little attention to date, bar the mentioning of the absence of symptoms to water stress (Wickham et&#x000a0;al. <xref rid="ece31662-bib-0078" ref-type="ref">2007</xref>). In relation to increasing precipitation variability, previous comparison among functional group abundance revealed a higher sensitivity of legumes to altered precipitation regimes (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>).</p><p>Ecophysiological variables for <italic>Ornithopus</italic> did show an increased susceptibility to low <italic>&#x003b8;</italic>
+<sub>v</sub>, although significant treatment effects were only found for <italic>g</italic>
+<sub>s</sub> and <italic>&#x003b4;</italic>
+<sup>13</sup>C, with decreasing <italic>g</italic>
+<sub>s</sub> in March and May, and higher <italic>&#x003b4;</italic>
+<sup>13</sup>C at all times in 6W. However, with soil moisture deficit in 6W in March and May, the decrease in <italic>g</italic>
+<sub>s</sub> was accompanied by a decrease in <italic>A</italic>, this difference being significant in March (t&#x02010;test: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.004). Moreover, the intolerance of <italic>Ornithopus</italic> to low <italic>&#x003b8;</italic>
+<sub>v</sub> was evident from the large treatment separation in multivariate space in March and May prior to irrigation. However, irrigation resulted in a larger shift in 6W, as compared to 3W, indicating rapid recovery of leaf water status and photosynthetic apparatus. In comparison with the forbs, <italic>Ornithopus</italic> showed lower <italic>A</italic> and displayed a rapid phenological development, initiating senescence in May. In addition, <italic>g</italic>
+<sub>s</sub> and tissue C were comparable to <italic>Tuberaria</italic>, which is in line with maintenance of high &#x003a8; throughout the season. However, in contrast to <italic>Tuberaria</italic>, this did not result in increased photosynthesis and growth, likely due to the effects of increased photo&#x02010;inhibition, as indicated by substantially lower midday F<sub>v</sub>/F<sub>m</sub>.</p><p>In <italic>Ornithopus,</italic> the rhizo&#x02010;symbiotic nitrogen acquisition pattern, typical for legumes, was evident from the significantly lower tissue <italic>&#x003b4;</italic>
+<sup>15</sup>N, as compared to <italic>Rumex</italic>,<italic> Tolpis,</italic> and <italic>Agrostis</italic>, and the significantly higher tissue N, as compared to all other species. However, although studies have shown that N<sub>2</sub> fixation in legumes is sensitive to moisture deficiency (e.g., Serraj et&#x000a0;al. <xref rid="ece31662-bib-0063" ref-type="ref">1999</xref>; Vicente et&#x000a0;al. <xref rid="ece31662-bib-0073" ref-type="ref">2012</xref>), the lack of treatment effects on either tissue N or <italic>&#x003b4;</italic>
+<sup>15</sup>N does not suggest an increase in water stress on <italic>Rhizobium</italic> with increasing precipitation variability.</p></sec><sec id="ece31662-sec-0024"><title>Vegetation resilience to changing precipitation variability</title><p>Increasing precipitation variability, extending the dry period between precipitation events from 3 to 6&#x000a0;weeks, did lead to increased soil moisture deficits. However, aboveground productivity in the understorey of this Mediterranean oak woodland was resilient to increased precipitation variability (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>). Our results confirmed this resilience, with sustainment of photosynthetic performance with temporarily decreased <italic>&#x003b8;</italic>
+<sub>v</sub> in <italic>Rumex</italic>,<italic> Tolpis</italic>,<italic> Tuberaria,</italic> and <italic>Agrostis</italic>, these species accounting for 61% of aboveground productivity and representing the functional groups of forbs and grasses. Indeed, these two functional groups have previously been shown to be unaffected by increased precipitation variability (Jongen et&#x000a0;al. <xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>). The present study confirms this finding and explains it with adaptive physiological mechanisms, that is, isohydric behavior in <italic>Agrostis</italic>,<italic> Rumex,</italic> and <italic>Tuberaria</italic>, and suggests probable morphological adaptations, that is, succulence in <italic>Rumex</italic> and taproots in <italic>Tolpis</italic>. These adaptation mechanisms thus sustained the performance of these species when water was scarce. In addition, quick recovery upon irrigation events and species&#x02010;specific adaptations of water&#x02010;use efficiency with longer dry periods and larger precipitation events contributed to the observed resilience in productivity.</p><p>The legume <italic>Ornithopus</italic> was sensitive to moisture deficit, with no distinct adaptation mechanism detectable. This is in line with Jongen et&#x000a0;al. (<xref rid="ece31662-bib-0040" ref-type="ref">2013b</xref>), reporting lower productivity for the functional group of legumes with increasing precipitation variability. However, with legumes only accounting for a small percentage of total productivity, this did not impair ecosystem resilience to changing precipitation patterns. Nevertheless, this may have implications for the agricultural practice of seeding legume&#x02010;rich mixtures, and justifies additional research for drought&#x02010;tolerant cultivar improvement (i.e., Erice et&#x000a0;al. <xref rid="ece31662-bib-0016" ref-type="ref">2010</xref>; Real et&#x000a0;al. <xref rid="ece31662-bib-0061" ref-type="ref">2011</xref>) to maintain productivity with climate change.</p><p>Although precipitation manipulation treatments have been applied during the November to May period for three consecutive years on the same experimental plots (weekly vs. 3&#x02010;weekly watering treatments, starting in 2009 and 2010, and 3&#x02010;weekly vs. 6&#x02010;weekly watering treatments, starting in 2011), no significant effects of increased precipitation variability on cover of the studied species were found in the present study. This may suggest no changes in community structure, with adaptational success in response to temporarily low soil moisture not altering competitive interactions among the coexisting plant species. Shifts in species composition and diversity with environmental change have previously been related to differences in productivity of the dominant species present (e.g., Klanderud and Totland <xref rid="ece31662-bib-0043" ref-type="ref">2005</xref>; Kardol et&#x000a0;al. <xref rid="ece31662-bib-0041" ref-type="ref">2010</xref>; B&#x000e1;ez et&#x000a0;al. <xref rid="ece31662-bib-0003" ref-type="ref">2013</xref>). For example, plant community responses to altered precipitation quantity were linked to morphological traits of the dominant species (Sternberg et&#x000a0;al. <xref rid="ece31662-bib-0064" ref-type="ref">1999</xref>). Further, in relation to increasing precipitation variability, Knapp et&#x000a0;al. (<xref rid="ece31662-bib-0044" ref-type="ref">2002</xref>) reported increasing diversity in a mesic grassland, with a concomitant productivity decrease in the dominant grass species. The lack of treatment effects on cover in our study may be partially attributed to the relatively short period of manipulation. Shifts in species composition may only occur in the long term and are thus rarely observed in short&#x02010;term precipitation manipulation studies (Weltzin et&#x000a0;al. <xref rid="ece31662-bib-0075" ref-type="ref">2003</xref>). Indeed, in a recent review it was shown that the majority of studies did not detect changes in community structure and biodiversity with decreasing precipitation frequency, which was explained by the short duration of most studies and by the degree of manipulation lying within the range of natural precipitation variability encountered (Unger and Jongen <xref rid="ece31662-bib-0069" ref-type="ref">2015</xref>). However, even in a long&#x02010;term experiment (9&#x000a0;years), with manipulation of the amount of precipitation, Tielb&#x000f6;rger et&#x000a0;al. (<xref rid="ece31662-bib-0068" ref-type="ref">2014</xref>) did not find treatment differences in species composition, richness, and density in a Mediterranean and semi&#x02010;arid ecosystem. They argue that this resistance is most likely explained by the fact that the component species have developed a variety of adaptation mechanisms to the naturally large variation in precipitation (Tielb&#x000f6;rger et&#x000a0;al. <xref rid="ece31662-bib-0068" ref-type="ref">2014</xref>), as indeed, is suggested from results in the present study.</p><p>Nevertheless, long&#x02010;term effects of altered precipitation regimes on, for example, shifts in competition intensity or seed bank regeneration, consequently affecting ecosystem productivity and community structure in subsequent years, cannot be excluded. This emphasizes the need for long&#x02010;term precipitation manipulation experiments to capture possible directional changes of species composition, which can subsequently affect ecosystem state and functioning. Answers to these questions are needed to develop appropriate land management practices and mitigation strategies in the face of increasing climatic change and variability.</p></sec></sec><sec id="ece31662-sec-0026"><title>Conflict of Interest</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S1</bold>. Daily average air temperature (&#x002da;C, &#x02219;&#x02219;&#x02219;&#x02219;), average daytime (11.00&#x02012;18.00&#x000a0;h) vapor pressure deficit (VPD in kPa, &#x02500;) and daily&#x02010;integrated photosynthetic photon flux density (PPFD in mol m<sup>&#x02212;2</sup> d<sup>&#x02212;1</sup>, &#x02588;) at the experimental site over the course of the study.</p><p>
+<bold>Table&#x000a0;S1</bold>. Summary of two&#x02010;way repeated measures ANOVA, with factors treatment (T) and month (M) of all plant parameters prior to irrigation in the studied species. For M, results of Fisher&#x002bc;s LSD are indicated, with different letters indicating significantly different means (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05) for February, March, May, end of May, and June.</p><p>
+<bold>Table&#x000a0;S2</bold>. Summary of two&#x02010;way ANOVA, with factors treatment (T) and species (S) of all plant parameters prior to irrigation in February, March, May, end of May and June. For S, results of Fisher&#x002bc;s LSD are indicated, with different letters indicating significantly different means (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05) for <italic>Rumex</italic>,<italic> Tolpis</italic>,<italic> Tuberaria</italic>,<italic> Agrostis</italic> and <italic>Ornithopus</italic>.</p></caption><media xlink:href="ECE3-5-4246-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece31662-sec-0025"><title>Acknowledgments</title><p>The authors wish to thank Ant&#x000f3;nio Gon&#x000e7;alves Ferreira for providing the field site at Machoqueira do Grou, Florian Ulm for valuable help with the fieldwork, and Peter Fay for suggestions on the manuscript. The authors gratefully acknowledge the financial support of FCT (Funda&#x000e7;&#x000e3;o para a Ci&#x000ea;ncia e Tecnologia), through the project PTDC/CLI/79662/2011 and through a postdoctoral fellowship to Marjan Jongen (SFRH/BPD/79662/2011). Additional funding was provided by the Studienstiftung des Deutschen Volkes through a doctoral fellowship to Christine Hellmann.</p></ack><ref-list content-type="cited-references" id="ece31662-bibl-0001"><title>References</title><ref id="ece31662-bib-0001"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Austin</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yahdjian</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Stark</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Belnap</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Porporato</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Norton</surname>
+</string-name>, et al. <year>2004</year>
+<article-title>Water pulses and biogeochemical cycles in arid and semiarid ecosystems</article-title>. <source>Oecologia</source>
+<volume>141</volume>:<fpage>221</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">14986096</pub-id></mixed-citation></ref><ref id="ece31662-bib-0002"><mixed-citation publication-type="book">
+<string-name>
+<surname>Bacon</surname>, <given-names>M. A.</given-names>
+</string-name>
+<year>2004</year>
+<source>Water use efficiency in plant biology</source>. <publisher-name>Blackwell Publishers Ltd</publisher-name>, <publisher-loc>Oxford</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0003"><mixed-citation publication-type="journal">
+<string-name>
+<surname>B&#x000e1;ez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>W. T.</given-names>
+<surname>Pockman</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Johnson</surname>
+</string-name>, and <string-name>
+<given-names>E. E.</given-names>
+<surname>Small</surname>
+</string-name>. <year>2013</year>
+<article-title>Effects of experimental rainfall manipulations on Chihuahuan Desert grassland and shrubland plant communities</article-title>. <source>Oecologia</source>
+<volume>172</volume>:<fpage>1117</fpage>&#x02013;<lpage>1127</lpage>.<pub-id pub-id-type="pmid">23263528</pub-id></mixed-citation></ref><ref id="ece31662-bib-0004"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Berger</surname>, <given-names>J. D.</given-names>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Ludwig</surname>
+</string-name>. <year>2014</year>
+<article-title>Contrasting adaptive strategies to terminal drought&#x02010;stress gradients in Mediterranean legumes: phenology, productivity, and water relations in wild and domesticated <italic>Lupinus luteus</italic> L</article-title>. <source>J. Exp. Bot.</source>
+<volume>65</volume>:<fpage>6219</fpage>&#x02013;<lpage>6229</lpage>.<pub-id pub-id-type="pmid">24591050</pub-id></mixed-citation></ref><ref id="ece31662-bib-0005"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bicak</surname>, <given-names>C. J.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Sternberg</surname>
+</string-name>. <year>1993</year>
+<article-title>Water relations of an annual grass, <italic>Bromus diandrus</italic>, in the Central Valley of California</article-title>. <source>Bull. South. Calif. Acad. Sci.</source>
+<volume>92</volume>:<fpage>54</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0006"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bj&#x000f6;rkman</surname>, <given-names>O.</given-names>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Demmig</surname>
+</string-name>. <year>1987</year>
+<article-title>Photon yield of O<sub>2</sub> evolution and chlorophyll fluorescence at 77K among vascular plants of diverse origins</article-title>. <source>Planta</source>
+<volume>170</volume>:<fpage>489</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">24233012</pub-id></mixed-citation></ref><ref id="ece31662-bib-0007"><mixed-citation publication-type="book">
+<string-name>
+<surname>Brugnoli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Scartazza</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lauteri</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Monteverdi</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>M&#x000e1;guas</surname>
+</string-name>. <year>1998</year>
+<chapter-title>Carbon isotope discrimination in structural and non&#x02010;structural carbohydrates in relation to productivity and adaptation to unfavourable conditions</chapter-title> Pp. <fpage>133</fpage>&#x02013;<lpage>146</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Griffiths</surname><given-names>H.</given-names></name></person-group>, ed. <source>Stable isotopes: integration of biological, ecological and geochemical processes</source>. <publisher-name>BIOS Scientific Publishers</publisher-name>, <publisher-loc>Oxford</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0008"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Buckley</surname>, <given-names>T. N.</given-names>
+</string-name>
+<year>2005</year>
+<article-title>The control of stomata by water balance</article-title>. <source>New Phytol.</source>
+<volume>168</volume>:<fpage>275</fpage>&#x02013;<lpage>292</lpage>.<pub-id pub-id-type="pmid">16219068</pub-id></mixed-citation></ref><ref id="ece31662-bib-0009"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chaves</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Pereira</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Maroco</surname>
+</string-name>. <year>2003</year>
+<article-title>Understanding plant responses to drought &#x02013; from genes to the whole plant</article-title>. <source>Funct. Plant Biol.</source>
+<volume>30</volume>:<fpage>239</fpage>&#x02013;<lpage>264</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0010"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Chirino</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bellot</surname>
+</string-name>, and <string-name>
+<given-names>J. R.</given-names>
+<surname>S&#x000e1;nchez</surname>
+</string-name>. <year>2011</year>
+<article-title>Daily sap flow rate as an indicator of drought avoidance mechanisms in five Mediterranean perennial species in semi&#x02010;arid southeastern Spain</article-title>. <source>Trees</source>
+<volume>25</volume>:<fpage>593</fpage>&#x02013;<lpage>606</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0011"><mixed-citation publication-type="book">
+<string-name>
+<surname>Christensen</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Hewitson</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Busuioc</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Held</surname>
+</string-name>, et al. <year>2007</year>
+<chapter-title>Regional climate projections</chapter-title> Pp. <fpage>847</fpage>&#x02013;<lpage>940</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Solomon</surname><given-names>S.</given-names></name></person-group>, et&#x000a0;al., eds. <source>Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC)</source>. <publisher-name>Cambridge Univ. Press</publisher-name>, <publisher-loc>Cambridge, U.K</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0012"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Comas</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Becker</surname>
+</string-name>, <string-name>
+<given-names>V. M.</given-names>
+<surname>Cruz</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Byrne</surname>
+</string-name>, and <string-name>
+<given-names>D. A.</given-names>
+<surname>Dierig</surname>
+</string-name>. <year>2013</year>
+<article-title>Root traits contributing to plant productivity under drought</article-title>. <source>Front. Plant Sci.</source>
+<volume>4</volume>:<fpage>442</fpage>.<pub-id pub-id-type="pmid">24204374</pub-id></mixed-citation></ref><ref id="ece31662-bib-0013"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cornic</surname>, <given-names>G.</given-names>
+</string-name>
+<year>2000</year>
+<article-title>Drought stress inhibits photosynthesis by decreasing stomatal aperture &#x02212; not by affecting ATP synthesis</article-title>. <source>Trends Plant Sci.</source>
+<volume>5</volume>:<fpage>187</fpage>&#x02013;<lpage>188</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0014"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Crespo</surname>, <given-names>D.</given-names>
+</string-name>
+<year>2010</year>
+<article-title>Species diversity: David Crespo takes C3 pastures the next step to boost soil carbon</article-title>. <source>Austral. Farm J.</source>
+<volume>20</volume>:<fpage>44</fpage>&#x02013;<lpage>47</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0015"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Easterling</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name>
+<given-names>P. Y.</given-names>
+<surname>Groisman</surname>
+</string-name>, <string-name>
+<given-names>T. R.</given-names>
+<surname>Karl</surname>
+</string-name>, <string-name>
+<given-names>K. E.</given-names>
+<surname>Kunkel</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Ambenje</surname>
+</string-name>. <year>2000</year>
+<article-title>Observed variability and trends in extreme climate events: a brief review</article-title>. <source>Bull. Am. Meteorol. Soc.</source>
+<volume>81</volume>:<fpage>417</fpage>&#x02013;<lpage>442</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0016"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Erice</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Louahlia</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Irigoyen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sanchez&#x02010;Diaz</surname>
+</string-name>, and <string-name>
+<given-names>J. C.</given-names>
+<surname>Avice</surname>
+</string-name>. <year>2010</year>
+<article-title>Biomass partitioning, morphology and water status of four alfalfa genotypes submitted to progressive drought and subsequent recovery</article-title>. <source>J. Plant Physiol.</source>
+<volume>167</volume>:<fpage>114</fpage>&#x02013;<lpage>120</lpage>.<pub-id pub-id-type="pmid">19744745</pub-id></mixed-citation></ref><ref id="ece31662-bib-0017"><mixed-citation publication-type="book">
+<string-name>
+<surname>Evans</surname>, <given-names>J. R.</given-names>
+</string-name>, and <string-name>
+<given-names>J. R.</given-names>
+<surname>Seemann</surname>
+</string-name>. <year>1989</year>
+<chapter-title>The allocation of nitrogen in the photosynthetic apparatus: costs, consequences and control</chapter-title> Pp. <fpage>183</fpage>&#x02013;<lpage>205</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Briggs</surname><given-names>W. R.</given-names></name></person-group>, ed. <source>Photosynthesis</source>. <publisher-name>Alan R. Liss</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0018"><mixed-citation publication-type="book">
+<collab collab-type="authors">FAO</collab>
+. <year>2006</year>
+<source>World reference base for soil resources: World soil resource report No. 103</source>. <publisher-name>FAO</publisher-name>, <publisher-loc>Rome, Italy</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0019"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Farquhar</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Ehleringer</surname>
+</string-name>, and <string-name>
+<given-names>K. T.</given-names>
+<surname>Hubick</surname>
+</string-name>. <year>1989</year>
+<article-title>Carbon isotope discrimination and photosynthesis</article-title>. <source>Annu. Rev. Plant Physiol. Plant Mol. Biol.</source>
+<volume>40</volume>:<fpage>503</fpage>&#x02013;<lpage>537</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0020"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Farris</surname>, <given-names>M. A.</given-names>
+</string-name>
+<year>1984</year>
+<article-title>Leaf size and shape variation in response to drought stress in <italic>Rumex acetosella</italic> L</article-title>. <source>Am. Midl. Nat.</source>
+<volume>111</volume>:<fpage>358</fpage>&#x02013;<lpage>363</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0021"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fay</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Carlisle</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Knapp</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Blair</surname>
+</string-name>, and <string-name>
+<given-names>S. L.</given-names>
+<surname>Collins</surname>
+</string-name>. <year>2003</year>
+<article-title>Productivity responses to altered rainfall patterns in a C4&#x02010;dominated grassland</article-title>. <source>Oecologia</source>
+<volume>137</volume>:<fpage>245</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">12845518</pub-id></mixed-citation></ref><ref id="ece31662-bib-0022"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Fay</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Blair</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Nippert</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Carlisle</surname>
+</string-name>, and <string-name>
+<given-names>A. K.</given-names>
+<surname>Knapp</surname>
+</string-name>. <year>2011</year>
+<article-title>Relative effects of precipitation variability and warming on tallgrass prairie ecosystem function</article-title>. <source>Biogeosciences</source>
+<volume>8</volume>:<fpage>3052</fpage>&#x02013;<lpage>3068</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0023"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Galle</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Florez&#x02010;Sarasa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tomas</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Medrano</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ribas&#x02010;Carb&#x000f3;</surname>
+</string-name>, et&#x000a0;al. <year>2009</year>
+<article-title>The role of mesophyll conductance during water stress and recovery in tobacco (<italic>Nicotiana sylvestris</italic>): acclimation or limitation?</article-title>
+<source>J. Exp. Bot.</source>
+<volume>60</volume>:<fpage>2379</fpage>&#x02013;<lpage>2390</lpage>.<pub-id pub-id-type="pmid">19321646</pub-id></mixed-citation></ref><ref id="ece31662-bib-0024"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gallego</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Trigo</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Vaquero</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Brunet</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sigr&#x000f3;</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>Trends in frequency indices of daily precipitation over the Iberian Peninsula during the last century</article-title>. <source>J. Geophys. Res.</source>
+<volume>116</volume>:<fpage>D02109</fpage>.</mixed-citation></ref><ref id="ece31662-bib-0025"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Galm&#x000e9;s</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Medrano</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Flexas</surname>
+</string-name>. <year>2007</year>
+<article-title>Photosynthesis and photoinhibition in response to drought in a pubescent (var. <italic>minor</italic>) and a glabrous (var. <italic>palaui</italic>) variety of <italic>Digitalis minor</italic>
+</article-title>. <source>Environ. Exp. Bot.</source>
+<volume>60</volume>:<fpage>105</fpage>&#x02013;<lpage>111</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0026"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Geber</surname>, <given-names>M. A.</given-names>
+</string-name>, and <string-name>
+<given-names>T. E.</given-names>
+<surname>Dawson</surname>
+</string-name>. <year>1997</year>
+<article-title>Genetic variation in stomatal and biochemical limitations to photosynthesis in the annual plant, <italic>Polygonum arenastrum</italic>
+</article-title>. <source>Oecologia</source>
+<volume>109</volume>:<fpage>535</fpage>&#x02013;<lpage>546</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0027"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gilbert</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Zwieniecki</surname>
+</string-name>, and <string-name>
+<given-names>N. M.</given-names>
+<surname>Holbrook</surname>
+</string-name>. <year>2011</year>
+<article-title>Independent variation in photosynthetic capacity and stomatal conductance leads to differences in intrinsic water use efficiency in 11 soybean genotypes before and during mild drought</article-title>. <source>J. Exp. Bot.</source>
+<volume>62</volume>:<fpage>2875</fpage>&#x02013;<lpage>2887</lpage>.<pub-id pub-id-type="pmid">21339387</pub-id></mixed-citation></ref><ref id="ece31662-bib-0028"><mixed-citation publication-type="book">
+<string-name>
+<surname>Goudriaan</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<given-names>H. H.</given-names>
+<surname>van Laar</surname>
+</string-name>. <year>1994</year>
+<source>Modelling potential crop growth processes</source>. <publisher-name>Kluwer Academic Publishers</publisher-name>, <publisher-loc>Dordrecht, the Netherlands</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0029"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Harper</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Blair</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Fay</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Knapp</surname>
+</string-name>, and <string-name>
+<given-names>J. D.</given-names>
+<surname>Carlisle</surname>
+</string-name>. <year>2005</year>
+<article-title>Increased rainfall variability and reduced rainfall amount decreases soil CO<sub>2</sub> flux in a grassland ecosystem</article-title>. <source>Glob. Change Biol.</source>
+<volume>11</volume>:<fpage>322</fpage>&#x02013;<lpage>334</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0030"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heisler&#x02010;White</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Knapp</surname>
+</string-name>, and <string-name>
+<given-names>E. F.</given-names>
+<surname>Kelly</surname>
+</string-name>. <year>2008</year>
+<article-title>Increasing precipitation event size increases aboveground net primary productivity in a semi&#x02010;arid grassland</article-title>. <source>Oecologia</source>
+<volume>158</volume>:<fpage>129</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">18670792</pub-id></mixed-citation></ref><ref id="ece31662-bib-0031"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Heisler&#x02010;White</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Blair</surname>
+</string-name>, <string-name>
+<given-names>E. F.</given-names>
+<surname>Kelly</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Harmoney</surname>
+</string-name>, and <string-name>
+<given-names>A. K.</given-names>
+<surname>Knapp</surname>
+</string-name>. <year>2009</year>
+<article-title>Contingent productivity responses to more extreme rainfall regimes across a grassland biome</article-title>. <source>Glob. Change Biol.</source>
+<volume>15</volume>:<fpage>2894</fpage>&#x02013;<lpage>2904</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0032"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Houssard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Escarre</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Vartanian</surname>
+</string-name>. <year>1992</year>
+<article-title>Water stress effects on successional populations of the dioecious herb, <italic>Rumex acetosella</italic> L</article-title>. <source>New Phytol.</source>
+<volume>120</volume>:<fpage>551</fpage>&#x02013;<lpage>559</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0033"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Huang</surname>
+</string-name>. <year>2010</year>
+<article-title>Diffusion limitations and metabolic factors associated with inhibition and recovery of photosynthesis from drought stress in a C<sub>3</sub> perennial grass species</article-title>. <source>Physiol. Plant.</source>
+<volume>139</volume>:<fpage>93</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">20070869</pub-id></mixed-citation></ref><ref id="ece31662-bib-0034"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Huxman</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Snyder</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Tissue</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Leffler</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ogle</surname>
+</string-name>, <string-name>
+<given-names>W. T.</given-names>
+<surname>Pockman</surname>
+</string-name>, et al. <year>2004</year>
+<article-title>Precipitation pulses and carbon balance in semi&#x02010;arid and arid ecosystems</article-title>. <source>Oecologia</source>
+<volume>141</volume>:<fpage>254</fpage>&#x02013;<lpage>268</lpage>.<pub-id pub-id-type="pmid">15338414</pub-id></mixed-citation></ref><ref id="ece31662-bib-0035"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Iglesias</surname>, <given-names>I.</given-names>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Lloveras</surname>
+</string-name>. <year>2000</year>
+<article-title>Forage production and quality of serradella in mild winter areas in north&#x02010;west Spain</article-title>. <source>N Z J. Agric. Res.</source>
+<volume>43</volume>:<fpage>35</fpage>&#x02013;<lpage>40</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0036"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ignace</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Huxman</surname>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Weltzin</surname>
+</string-name>, and <string-name>
+<given-names>D. G.</given-names>
+<surname>Williams</surname>
+</string-name>. <year>2007</year>
+<article-title>Leaf gas exchange and water status responses of a native and non&#x02010;native grass to precipitation across contrasting soil surfaces in the Sonoran Desert</article-title>. <source>Oecologia</source>
+<volume>152</volume>:<fpage>401</fpage>&#x02013;<lpage>413</lpage>.<pub-id pub-id-type="pmid">17333286</pub-id></mixed-citation></ref><ref id="ece31662-bib-0037"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jackson</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Carpenter</surname>
+</string-name>, <string-name>
+<given-names>C. N.</given-names>
+<surname>Dahm</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>McKnight</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Naiman</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Postel</surname>
+</string-name>, et&#x000a0;al. <year>2001</year>
+<article-title>Water in a changing world</article-title>. <source>Ecol. Appl.</source>
+<volume>11</volume>:<fpage>1027</fpage>&#x02013;<lpage>1045</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0038"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Johnson</surname>, <given-names>G. N.</given-names>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Scholes</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Horton</surname>
+</string-name>. <year>1993</year>
+<article-title>The dissipation of excess excitation energy in British plant species</article-title>. <source>Plant, Cell Environ.</source>
+<volume>16</volume>:<fpage>673</fpage>&#x02013;<lpage>679</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0039"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jongen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lecomte</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Unger</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pint&#x000f3;&#x02010;Marijuan</surname>
+</string-name>, and <string-name>
+<given-names>J. S.</given-names>
+<surname>Pereira</surname>
+</string-name>. <year>2013a</year>
+<article-title>The impact of changes in the timing of precipitation on the herbaceous understorey of Mediterranean oak woodlands</article-title>. <source>Agric. For. Meteorol.</source>
+<volume>171&#x02013;172</volume>:<fpage>163</fpage>&#x02013;<lpage>173</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0040"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jongen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Unger</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Fangueiro</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cerasoli</surname>
+</string-name>, <string-name>
+<given-names>J. M. N.</given-names>
+<surname>Silva</surname>
+</string-name>, and <string-name>
+<given-names>J. S.</given-names>
+<surname>Pereira</surname>
+</string-name>. <year>2013b</year>
+<article-title>Resilience of montado understorey&#x000a0;to experimental precipitation variability fails under severe natural drought</article-title>. <source>Agric. Ecosyst. Environ.</source>
+<volume>178</volume>:<fpage>18</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0041"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kardol</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Campany</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Souza</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Norby</surname>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Weltzin</surname>
+</string-name>, and <string-name>
+<given-names>A. T.</given-names>
+<surname>Classen</surname>
+</string-name>. <year>2010</year>
+<article-title>Climate change effects on plant biomass alter dominance patterns and community evenness in an experimental old&#x02010;field ecosystem</article-title>. <source>Glob. Change Biol.</source>
+<volume>16</volume>:<fpage>2676</fpage>&#x02013;<lpage>2687</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0042"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khan</surname>, <given-names>M. A. S. A.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Grant</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Beierkuhnlein</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kreyling</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Jentsch</surname>
+</string-name>. <year>2014</year>
+<article-title>Climatic extremes lead to species&#x02010;specific legume facilitation in an experimental temperate grassland</article-title>. <source>Plant Soil</source>
+<volume>379</volume>:<fpage>161</fpage>&#x02013;<lpage>175</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0043"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Klanderud</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<given-names>&#x000d8;.</given-names>
+<surname>Totland</surname>
+</string-name>. <year>2005</year>
+<article-title>Simulated climate change altered dominance hierarchies and diversity of an alpine biodiversity hotspot</article-title>. <source>Ecology</source>
+<volume>86</volume>:<fpage>2047</fpage>&#x02013;<lpage>2054</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0044"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Knapp</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Fay</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Blair</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Carlisle</surname>
+</string-name>, et al. <year>2002</year>
+<article-title>Rainfall variability, carbon cycling, and plant species diversity in a mesic grassland</article-title>. <source>Science</source>
+<volume>298</volume>:<fpage>2202</fpage>&#x02013;<lpage>2205</lpage>.<pub-id pub-id-type="pmid">12481139</pub-id></mixed-citation></ref><ref id="ece31662-bib-0045"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Laporte</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<given-names>L. C.</given-names>
+<surname>Duchesne</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Wetzel</surname>
+</string-name>. <year>2002</year>
+<article-title>Effect of rainfall patterns on soil surface CO<sub>2</sub> efflux, soil moisture, soil temperature and plant growth in a grassland ecosystem of northern Ontario, Canada: implications for climate change</article-title>. <source>BMC Ecol.</source>
+<volume>2</volume>:article 10.</mixed-citation></ref><ref id="ece31662-bib-0046"><mixed-citation publication-type="journal">
+<string-name>
+<surname>de Lautour</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name>
+<given-names>W.</given-names>
+<surname>Rumball</surname>
+</string-name>. <year>1986</year>
+<article-title>&#x02018;Grasslands Koha&#x02019; pink serradella (<italic>Ornithopus sativus</italic> Brot.)</article-title>. <source>N Z J. Agric. Res.</source>
+<volume>14</volume>:<fpage>465</fpage>&#x02013;<lpage>467</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0047"><mixed-citation publication-type="book">
+<string-name>
+<surname>Luterbacher</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Xoplaki</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Casty</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wanner</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pauling</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>K&#x000fc;ttel</surname>
+</string-name>, et al. <year>2006</year>
+<chapter-title>Mediterranean climate variability over the last centuries; a review</chapter-title> Pp. <fpage>27</fpage>&#x02013;<lpage>148</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Lionello</surname><given-names>P.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Malanotte&#x02010;Rizzoli</surname><given-names>P.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Boscolo</surname><given-names>R.</given-names></name></person-group>, eds. <source>The Mediterranean climate: an overview of the main characteristics and issues</source>. <publisher-name>Elsevier</publisher-name>, <publisher-loc>Amsterdam, the Netherlands</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0048"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lynch</surname>, <given-names>J. P.</given-names>
+</string-name>
+<year>2013</year>
+<article-title>Steep, cheap and deep: an ideotype to optimize water and N acquisition by maize root systems</article-title>. <source>Ann. Bot.</source>
+<volume>112</volume>:<fpage>347</fpage>&#x02013;<lpage>357</lpage>.<pub-id pub-id-type="pmid">23328767</pub-id></mixed-citation></ref><ref id="ece31662-bib-0049"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mamolos</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Veresoglou</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Noitsakis</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Gerakis</surname>
+</string-name>. <year>2001</year>
+<article-title>Differential drought tolerance of five coexisting plant species in Mediterranean lowland grasslands</article-title>. <source>J. Arid Environ.</source>
+<volume>49</volume>:<fpage>329</fpage>&#x02013;<lpage>341</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0050"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Miranda</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<given-names>F. M.</given-names>
+<surname>Padilla</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>L&#x000e1;zaro</surname>
+</string-name>, and <string-name>
+<given-names>F. I.</given-names>
+<surname>Pugnaire</surname>
+</string-name>. <year>2009</year>
+<article-title>Do changes in rainfall patterns affect semiarid annual plant communities?</article-title>
+<source>J. Veg. Sci.</source>
+<volume>20</volume>:<fpage>269</fpage>&#x02013;<lpage>276</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0051"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Monti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Brugnoli</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Scartazza</surname>
+</string-name>, and <string-name>
+<given-names>M. T.</given-names>
+<surname>Amaducci</surname>
+</string-name>. <year>2006</year>
+<article-title>The effect of transient and continuous drought on&#x000a0;yield, photosynthesis and carbon isotope discrimination&#x000a0;in sugar beet (<italic>Beta vulgaris</italic> L.)</article-title>. <source>J. Exp. Bot.</source>
+<volume>57</volume>:<fpage>1253</fpage>&#x02013;<lpage>1262</lpage>.<pub-id pub-id-type="pmid">16467409</pub-id></mixed-citation></ref><ref id="ece31662-bib-0052"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mooney</surname>, <given-names>H. A.</given-names>
+</string-name>
+<year>1972</year>
+<article-title>The carbon balance of plants</article-title>. <source>Annu. Rev. Ecol. Syst.</source>
+<volume>3</volume>:<fpage>315</fpage>&#x02013;<lpage>346</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0053"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Nichols</surname>, <given-names>P. G. H.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Loi</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Nutt</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Craig</surname>
+</string-name>, <string-name>
+<given-names>B.&#x000a0;C.</given-names>
+<surname>Pengelly</surname>
+</string-name>, et al. <year>2007</year>
+<article-title>New annual and short&#x02010;lived perennial pasture legumes for Australian agriculture &#x02013; 15&#x000a0;years of revolution</article-title>. <source>Field. Crop. Res.</source>
+<volume>104</volume>:<fpage>10</fpage>&#x02013;<lpage>23</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0054"><mixed-citation publication-type="journal">
+<string-name>
+<surname>P&#x000e9;rez&#x02010;Ramos</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Volaire</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fattet</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Blanchard</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Roumet</surname>
+</string-name>. <year>2013</year>
+<article-title>Tradeoffs between functional strategies for resource&#x02010;use and drought&#x02010;survival in Mediterranean rangeland species</article-title>. <source>Environ. Exp. Bot.</source>
+<volume>87</volume>:<fpage>126</fpage>&#x02013;<lpage>136</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0055"><mixed-citation publication-type="book">
+<string-name>
+<surname>Persson</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<given-names>I. O.</given-names>
+<surname>Baitulin</surname>
+</string-name>. <year>1996</year>
+<source>Plant root systems and natural vegetation</source>. <publisher-name>Opulus Press AB</publisher-name>, <publisher-loc>Uppsala, Sweden</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0056"><mixed-citation publication-type="miscellaneous">
+<string-name>
+<surname>Pires</surname>, <given-names>V. C.</given-names>
+</string-name>
+<year>2003</year>
+<article-title>Frequ&#x000ea;ncia e intensidade de fen&#x000f3;menos meteorol&#x000f3;gicos extremos associados &#x000e0; precipita&#x000e7;&#x000e3;o: desenvolvimento de um sistema de monitoriza&#x000e7;&#x000e3;o de situa&#x000e7;&#x000f5;es de seca em Portugal continental</article-title>. [Master Thesis], Universidade de Lisboa, Lisboa.</mixed-citation></ref><ref id="ece31662-bib-0057"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Potts</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Huxman</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Enquist</surname>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Weltzin</surname>
+</string-name>, and <string-name>
+<given-names>D. G.</given-names>
+<surname>Williams</surname>
+</string-name>. <year>2006</year>
+<article-title>Resilience and resistance of ecosystem functional response to a precipitation pulse in a semi&#x02010;arid grassland</article-title>. <source>J. Ecol.</source>
+<volume>94</volume>:<fpage>23</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0058"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Preston</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<given-names>N. J. P.</given-names>
+<surname>Owens</surname>
+</string-name>. <year>1983</year>
+<article-title>Interfacing an automatic elemental analyser with an isotope ratio mass&#x000a0;spectrometer: the potential for fully automated total&#x000a0;nitrogen and nitrogen&#x02010;15 analysis</article-title>. <source>Analyst</source>
+<volume>108</volume>:<fpage>971</fpage>&#x02013;<lpage>977</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0059"><mixed-citation publication-type="book">
+<collab collab-type="authors">R Development Core Team</collab>
+. <year>2013</year>
+<source>R: a language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>, <publisher-loc>Vienna, Austria</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0060"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ram&#x000ed;rez</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Valladares</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Domingo</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Bellot</surname>
+</string-name>. <year>2008</year>
+<article-title>Seasonal water&#x02010;use efficiency and chlorophyll fluorescence response in alpha grass (<italic>Stipa tenacissima</italic> L.) is affected by tussock size</article-title>. <source>Photosynthetica</source>
+<volume>46</volume>:<fpage>222</fpage>&#x02013;<lpage>231</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0061"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Real</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Clark</surname>
+</string-name>, <string-name>
+<given-names>T. O.</given-names>
+<surname>Albertsen</surname>
+</string-name>, <string-name>
+<given-names>R. C.</given-names>
+<surname>Hayes</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Denton</surname>
+</string-name>, et al. <year>2011</year>
+<article-title>Evaluation of perennial forage legumes and herbs in six Mediterranean environments</article-title>. <source>Chil. J. Agric. Res.</source>
+<volume>71</volume>:<fpage>357</fpage>&#x02013;<lpage>369</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0062"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schwinning</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<given-names>O. E.</given-names>
+<surname>Sala</surname>
+</string-name>. <year>2004</year>
+<article-title>Hierarchy of responses to resource pulses in arid and semi&#x02010;arid ecosystems</article-title>. <source>Oecologia</source>
+<volume>141</volume>:<fpage>211</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">15034778</pub-id></mixed-citation></ref><ref id="ece31662-bib-0063"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Serraj</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>T. R.</given-names>
+<surname>Sinclair</surname>
+</string-name>, and <string-name>
+<given-names>L. C.</given-names>
+<surname>Purcell</surname>
+</string-name>. <year>1999</year>
+<article-title>Symbiotic N<sub>2</sub> fixation response to drought</article-title>. <source>J. Exp. Bot.</source>
+<volume>50</volume>:<fpage>143</fpage>&#x02013;<lpage>155</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0064"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Sternberg</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>V. K.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Masters</surname>
+</string-name>, and <string-name>
+<given-names>I. P.</given-names>
+<surname>Clarke</surname>
+</string-name>. <year>1999</year>
+<article-title>Plant community dynamics in a calcareous grassland under climate change manipulations</article-title>. <source>Plant Ecol.</source>
+<volume>143</volume>:<fpage>29</fpage>&#x02013;<lpage>37</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0065"><mixed-citation publication-type="book">
+<string-name>
+<surname>Stocker</surname>, <given-names>O.</given-names>
+</string-name>
+<year>1956</year>
+<chapter-title>Die Abh&#x000e4;ngigkeit der Transpiration von den Umweltfaktoren</chapter-title> Pp. <fpage>436</fpage>&#x02013;<lpage>488</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Ruhland</surname><given-names>W.</given-names></name></person-group>, ed. <source>Encyclopedia of plant physiology</source>, vol 3. <publisher-name>Springer</publisher-name>, <publisher-loc>Berlin</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0066"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tenhunen</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sala Serra</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Harley</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Dougherty</surname>
+</string-name>, and <string-name>
+<given-names>F. J.</given-names>
+<surname>Reynolds</surname>
+</string-name>. <year>1990</year>
+<article-title>Factors influencing carbon fixation and water use by Mediterranean sclerophyll shrubs during summer drought</article-title>. <source>Oecologia</source>
+<volume>82</volume>:<fpage>381</fpage>&#x02013;<lpage>393</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0067"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Thomey</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Vargas</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>R. F.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>D. O.</given-names>
+<surname>Natvig</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>Effect of precipitation variability on net primary production and soil respiration in a Chihuahuan Desert grassland</article-title>. <source>Glob. Change Biol.</source>
+<volume>17</volume>:<fpage>1505</fpage>&#x02013;<lpage>1515</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0068"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Tielb&#x000f6;rger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Bilton</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Metz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kigel</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Holzapfel</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Lebrija&#x02010;Trejos</surname>
+</string-name>, et al. <year>2014</year>
+<article-title>Middle&#x02010;Eastern plant communities tolerate 9&#x000a0;years of drought in a multi&#x02010;site climate manipulation experiment</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>:<fpage>5102</fpage>.<pub-id pub-id-type="pmid">25283495</pub-id></mixed-citation></ref><ref id="ece31662-bib-0069"><mixed-citation publication-type="book">
+<string-name>
+<surname>Unger</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Jongen</surname>
+</string-name>. <year>2015</year>
+<chapter-title>Consequences of changing precipitation patterns for ecosystem functioning in grasslands: a review</chapter-title> Pp. <fpage>347</fpage>&#x02013;<lpage>393</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>L&#x000fc;ttge</surname><given-names>U.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Beyschlag</surname><given-names>W.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Cushman</surname><given-names>J.</given-names></name></person-group>, eds. <source>Progress in botany</source>, vol 76. <publisher-name>Springer</publisher-name>, <publisher-loc>Berlin Heidelberg</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0070"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Unger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>M&#x000e1;guas</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Pereira</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Aires</surname>
+</string-name>, <string-name>
+<given-names>T. S.</given-names>
+<surname>David</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Werner</surname>
+</string-name>. <year>2009</year>
+<article-title>Partitioning carbon fluxes in a Mediterranean oak forest to disentangle changes in ecosystem sink strength during drought</article-title>. <source>Agric. For. Meteorol.</source>
+<volume>149</volume>:<fpage>949</fpage>&#x02013;<lpage>961</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0071"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Valladares</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>S&#x000e1;nchez&#x02010;G&#x000f3;mez</surname>
+</string-name>. <year>2006</year>
+<article-title>Ecophysiological traits associated with drought in Mediterranean tree seedlings: individual responses versus interspecific trends in eleven species</article-title>. <source>Plant Biol.</source>
+<volume>8</volume>:<fpage>688</fpage>&#x02013;<lpage>697</lpage>.<pub-id pub-id-type="pmid">16773558</pub-id></mixed-citation></ref><ref id="ece31662-bib-0072"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vargas</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Thomey</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>R. F.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>D. O.</given-names>
+<surname>Natvig</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Precipitation variability and fire influence the temporal dynamics of soil CO<sub>2</sub> efflux in an arid grassland</article-title>. <source>Glob. Change Biol.</source>
+<volume>18</volume>:<fpage>1401</fpage>&#x02013;<lpage>1411</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0073"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Vicente</surname>, <given-names>C. S. L.</given-names>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>P&#x000e9;rez&#x02010;Fern&#x000e1;ndez</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pereira</surname>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>Tavares&#x02010;de&#x02010;Sousa</surname>
+</string-name>. <year>2012</year>
+<article-title>Biological nitrogen fixation of <italic>Biserrula pelecinus</italic> L. under water deficit</article-title>. <source>Plant, Soil Environ.</source>
+<volume>58</volume>:<fpage>360</fpage>&#x02013;<lpage>366</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0074"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Walker</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<given-names>I. G.</given-names>
+<surname>Burns</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Moorby</surname>
+</string-name>. <year>2001</year>
+<article-title>Responses of plant growth rate to nitrogen supply: a comparison of relative addition and N interruption treatments</article-title>. <source>J. Exp. Bot.</source>
+<volume>52</volume>:<fpage>309</fpage>&#x02013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">11283176</pub-id></mixed-citation></ref><ref id="ece31662-bib-0075"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Weltzin</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Loik</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Schwinning</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Fay</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Haddad</surname>
+</string-name>, et al. <year>2003</year>
+<article-title>Assessing the response of terrestrial ecosystems to potential changes in precipitation</article-title>. <source>Bioscience</source>
+<volume>53</volume>:<fpage>941</fpage>&#x02013;<lpage>952</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0076"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Werner</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>M&#x000e1;guas</surname>
+</string-name>. <year>2010</year>
+<article-title>Carbon isotope discrimination as a tracer of functional traits in a mediterranean macchia plant community</article-title>. <source>Funct. Plant Biol.</source>
+<volume>37</volume>:<fpage>467</fpage>&#x02013;<lpage>477</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0077"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Werner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Correia</surname>
+</string-name>, and <string-name>
+<given-names>W.</given-names>
+<surname>Beyschlag</surname>
+</string-name>. <year>2002</year>
+<article-title>Characteristic patterns of chronic and dynamic photoinhibition of different functional groups in a Mediterranean ecosystem</article-title>. <source>Funct. Plant Biol.</source>
+<volume>29</volume>:<fpage>999</fpage>&#x02013;<lpage>1011</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0078"><mixed-citation publication-type="book">
+<string-name>
+<surname>Wickham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Revell</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Liu</surname>
+</string-name>. <year>2007</year>
+<source>Developing sustainable fodder crop systems with new annual pasture legumes</source>. <publisher-name>RIRDC</publisher-name>, <publisher-loc>Barton, A.C.T</publisher-loc>.</mixed-citation></ref><ref id="ece31662-bib-0079"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Xiong</surname>, <given-names>S. J.</given-names>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Katterer</surname>
+</string-name>. <year>2010</year>
+<article-title>Carbon&#x02010;allocation dynamics in reed canary grass as affected by soil type and fertilization rates in northern Sweden</article-title>. <source>Acta Agric. Scand. B</source>
+<volume>60</volume>:<fpage>24</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0080"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Xu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhou</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Shimizu</surname>
+</string-name>. <year>2009</year>
+<article-title>Are plant growth and photosynthesis limited by pre&#x02010;drought following rewatering in grass?</article-title>
+<source>J. Exp. Bot.</source>
+<volume>60</volume>:<fpage>3737</fpage>&#x02013;<lpage>3749</lpage>.<pub-id pub-id-type="pmid">19596698</pub-id></mixed-citation></ref><ref id="ece31662-bib-0081"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zimmerman</surname>, <given-names>J. K.</given-names>
+</string-name>, and <string-name>
+<given-names>M. J.</given-names>
+<surname>Lechowicz</surname>
+</string-name>. <year>1982</year>
+<article-title>Responses to moisture stress in male and female plants of <italic>Rumex acetosella</italic> L. (Polygonaceae)</article-title>. <source>Oecologia</source>
+<volume>53</volume>:<fpage>305</fpage>&#x02013;<lpage>309</lpage>.</mixed-citation></ref><ref id="ece31662-bib-0082"><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zlatev</surname>, <given-names>Z. S.</given-names>
+</string-name>
+<year>2013</year>
+<article-title>Drought&#x02010;induced changes and recovery of photosynthesis in two bean cultivars (<italic>Phaseolus vulgaris</italic> L.)</article-title>. <source>Emir. J. Food Agric.</source>
+<volume>25</volume>:<fpage>1014</fpage>&#x02013;<lpage>1023</lpage>.</mixed-citation></ref></ref-list></back></article>

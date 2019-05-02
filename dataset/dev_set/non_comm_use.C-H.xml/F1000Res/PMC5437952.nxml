@@ -1,0 +1,1141 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000Research</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28580131</article-id><article-id pub-id-type="pmc">5437952</article-id><article-id pub-id-type="doi">10.12688/f1000research.11332.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject><subj-group><subject>Cellular Microbiology &#x00026; Pathogenesis</subject></subj-group><subj-group><subject>Immune Response</subject></subj-group><subj-group><subject>Innate Immunity</subject></subj-group></subj-group></article-categories><title-group><article-title>Recent insights into the implications of metabolism in plasmacytoid dendritic cell innate functions: Potential ways to control these functions</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 1 approved</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Saas</surname><given-names>Philippe</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8857-9939</contrib-id></contrib><contrib contrib-type="author"><name><surname>Varin</surname><given-names>Alexis</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Perruche</surname><given-names>Sylvain</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Ceroi</surname><given-names>Adam</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><aff id="a1">
+<label>1</label>EFS Bourgogne Franche-Comt&#x000e9;, Universit&#x000e9; Bourgogne Franche-Comt&#x000e9;, Inserm, UMR1098, Besan&#x000e7;on, F-25000, France</aff><aff id="a2">
+<label>2</label>The Center for Cell Clearance, University of Virginia, Charlottesville, VA, 22903, USA</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:philippe.saas@efs.sante.fr">philippe.saas@efs.sante.fr</email></corresp><fn fn-type="con"><p>PS, AV, SP and AC critically read, analysed and discussed the literature and conceived the outline of the manuscript. PS wrote the manuscript. SP, AV and AC edited the manuscript and provided valuable discussions and criticism.</p></fn><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>The authors declare that they have no competing interests.</p></fn></author-notes><pub-date pub-type="epub"><day>10</day><month>4</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>6</volume><elocation-id>456</elocation-id><history><date date-type="accepted"><day>7</day><month>4</month><year>2017</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2017 Saas P et al.</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-6-12232.pdf"/><abstract><p>There are more and more data concerning the role of cellular metabolism in innate immune cells, such as macrophages or conventional dendritic cells. However, few data are available currently concerning plasmacytoid dendritic cells (PDC), another type of innate immune cells. These cells are the main type I interferon (IFN) producing cells, but they also secrete other pro-inflammatory cytokines (e.g., tumor necrosis factor or interleukin [IL]-6) or immunomodulatory factors (e.g., IL-10 or transforming growth factor-&#x003b2;). Through these functions, PDC participate in antimicrobial responses or maintenance of immune tolerance, and have been implicated in the pathophysiology of several autoimmune diseases. Recent data support the idea that the glycolytic pathway (or glycolysis), as well as lipid metabolism (including both cholesterol and fatty acid metabolism) may impact some innate immune functions of PDC or may be involved in these functions after Toll-like receptor (TLR) 7/9 triggering. Some differences may be related to the origin of PDC (human
+<italic>versus</italic> mouse PDC or blood-sorted
+<italic>versus</italic> FLT3 ligand stimulated-bone marrow-sorted PDC). The kinetics of glycolysis may differ between human and murine PDC. In mouse PDC, metabolism changes promoted by TLR7/9 activation may depend on an autocrine/paracrine loop, implicating type I IFN and its receptor IFNAR, explaining a delayed glycolysis. Moreover, PDC functions can be modulated by the metabolism of cholesterol and fatty acids. This may occur
+<italic>via</italic> the production of lipid ligands that activate nuclear receptors (e.g., liver X receptor [LXR]) in PDC or through limiting intracellular cholesterol pool size (by statins or LXR agonists) in these cells. Finally, lipid-activated nuclear receptors (
+<italic>i.e</italic>., LXR or peroxisome proliferator activated receptor) may also directly interact with pro-inflammatory transcription factors, such as NF-&#x003ba;B. Here, we discuss how glycolysis and lipid metabolism may modulate PDC functions and how this may be harnessed in pathological situations where PDC play a detrimental role.</p></abstract><kwd-group kwd-group-type="author"><kwd>plasmacytoid dendritic cells</kwd><kwd>immunometabolism</kwd><kwd>cholesterol</kwd><kwd>fatty acid</kwd><kwd>LXR</kwd><kwd>PPAR</kwd><kwd>type I interferon</kwd><kwd>glycolysis</kwd></kwd-group><funding-group><award-group id="fund-1"><funding-source>Agence Nationale de la Recherche</funding-source><award-id>ANR-11-LABX-0021</award-id></award-group><award-group id="fund-2"><funding-source>Conseil R&#x000e9;gional de Bourgogne Franche-Comt&#x000e9;</funding-source></award-group><funding-statement>The work in this field is supported by the Agence Nationale de la Recherche (LabEx LipSTIC; ANR-11-LABX-0021), and the Conseil R&#x000e9;gional de Bourgogne Franche-Comt&#x000e9; (&#x0201c;soutien au LabEx LipSTIC&#x0201d; 2016).</funding-statement><funding-statement><italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic></funding-statement></funding-group></article-meta></front><body><sec><title>1. Introduction</title><p>More and more data are available concerning the role of cellular metabolism in innate immune cells, such as macrophages or conventional dendritic cells (cDC)
+<sup><xref rid="ref-1" ref-type="bibr">1</xref>&#x02013;
+<xref rid="ref-3" ref-type="bibr">3</xref></sup>. However, few data are available currently concerning plasmacytoid dendritic cells (PDC). PDC belong to the family of dendritic cells (DC) and possess specific features that distinguish them from cDC. PDC represent the main type I interferon (IFN) secreting cells and play a critical role in antimicrobial immune responses. The involvement of PDC through IFN-&#x003b1; secretion has also been reported in several autoimmune diseases (see section 2.4). Furthermore, PDC release other pro-inflammatory cytokines, as well as immunoregulatory factors. In these ways, they may exert pro-inflammatory functions or, on the contrary, participate in tolerance mechanisms. In this Review article, based on recent publications
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>&#x02013;
+<xref rid="ref-6" ref-type="bibr">6</xref></sup>, we will discuss how the innate immune functions of PDC may be modulated by or dependent on the glycolytic pathway (also known as glycolysis) and lipid metabolism, including the metabolism of cholesterol and fatty acids. Before that, we will describe the innate functions of PDC. PDC also have the capacity to present antigens to T cells and to polarize CD4
+<sup>+</sup> helper T cell responses, as well as those interacting with B cells
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. These functions will not be discussed in this article, since no sufficient data are available concerning the impact of metabolism on the capacity of PDC to interact with the adaptive immune system. Although the &#x0201c;immunometabolism&#x0201d; (as defined in Ref#
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>) includes six metabolic pathways (glycolysis, the tricarboxylic acid [TCA] cycle, the pentose phosphate pathway, fatty acid oxidation, fatty acid synthesis and amino acid metabolism) that influence immune cell effector functions
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>, this article will focus on glycolysis and lipid metabolism (extended to the cholesterol metabolism). Concerning amino acid metabolism, PDC innate functions have been shown to be modulated by mammalian target of rapamycin (mTOR) signaling. This central metabolic regulator, mTOR can sense amino acid sufficiency in lysosomes, and promotes mRNA translation and lipid synthesis to support cell growth and proliferation
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Furthermore, mTOR, through its association with regulatory-associated protein of mTOR (RAPTOR), constitutes the mTOR complex 1 (mTORC1), which is connected with other metabolic pathways (see section 3.1). This will be discussed briefly, since the role of mTOR in innate immune cell functions has been reviewed recently
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-8" ref-type="bibr">8</xref></sup>. Finally, concerning amino acid metabolism, PDC are able to sense amino acid deficiency through their expression of GCN2 (general control nonderepressible 2) serine/threonine kinase. Indeed, the suppression of interleukin (IL)-6 production in PDC by indoleamine 2,3-dioxygenase (IDO) involves GCN2 kinase
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup> (see section 2.3).</p><p>What are the main roles of the immunometabolism in immune cells? First of all, this is a way to provide energy. Cells need energy to execute cellular functions, such as survival, proliferation or cytokine secretion. This energy is provided as adenosine triphosphate (ATP) by several pathways. The first is glycolysis, which involves the conversion of glucose to pyruvate in the cytosol. The second pathway is the TCA cycle (also called the Krebs cycle), which donates electrons to the electron transport chain located in the mitochondria to fuel oxidative phosphorylation or respiration (OXPHOS). This OXPHOS process generates ATP in the mitochondria. Other substrates, such as fatty acids
+<italic>via</italic> &#x003b2;-oxidation (also called fatty acid oxidation [FAO]), can replenish the TCA cycle to fuel OXPHOS
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. In addition to substrates used for energy production and
+<italic>de novo</italic> biosynthesis, mitochondrial metabolic pathways (such as the TCA, FAO, or OXPHOS) provide substrates for epigenetic modifications of DNA and histones
+<sup><xref rid="ref-11" ref-type="bibr">11</xref>,
+<xref rid="ref-12" ref-type="bibr">12</xref></sup>. This is the case, for instance, of acetyl-CoA for histone acetylation, which is associated with active transcription
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. This connects mitochondrial metabolism to epigenetic regulation
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. This specific aspect will be briefly discussed in the Conclusions of this article.</p></sec><sec><title>2. The innate immune functions of plasmacytoid dendritic cells</title><p>PDC belong to the DC family and possess specific features that distinguish them from cDC
+<sup><xref rid="ref-13" ref-type="bibr">13</xref></sup>. These features include: the capacity to rapidly and massively produce type I IFN (
+<italic>i.e</italic>., IFN-&#x003b1;/&#x003b2;), the expression of a particular set of pathogen-recognition receptors (PRR), leading to the recognition of specific pathogen-associated molecular pattern (PAMP) and damage-associated molecular pattern (DAMP) molecules, as well as a preferential localization in lymphoid organs
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>.</p><p>PDC were firstly identified in human as the major IFN-&#x003b1; producing cells, and thus initially called IPC (IFN-&#x003b1; producing cells)
+<sup><xref rid="ref-14" ref-type="bibr">14</xref>,
+<xref rid="ref-15" ref-type="bibr">15</xref></sup>. After this characterization in human, its murine PDC counterpart was then isolated
+<sup><xref rid="ref-16" ref-type="bibr">16</xref>&#x02013;
+<xref rid="ref-19" ref-type="bibr">19</xref></sup>. Human PDC are usually identified as CD4
+<sup>+</sup>, CD303
+<sup>+</sup> (previously known as BDCA-2), and CD123
+<sup>high</sup>, whereas mouse PDC are CD11c
+<sup>int</sup>, B220
+<sup>+</sup>, SIGLEC-H
+<sup>+</sup>, and CD317
+<sup>+</sup>
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. Despite the difference in phenotypes of human and mouse PDC, PDC from both species exhibit a conserved genetic signature with some common genes (e.g.,
+<italic>tlr7</italic>)
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>. Moreover, PDC exhibit specific transcription factors, such as the transcription factor E2-2 (also known as TCF4) or SPIB
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. A differentiation/ontogeny process distinct from those of cDC has been reported
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>.</p><sec><title>2.1. PDC ontogeny and localization</title><p>Development of PDC from hematopoietic stem cells occurs in the bone marrow. As mentioned above, PDC-defining transcription factors have been identified, such as E2-2 (TCF4) or SPIB
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. After differentiation in the bone marrow, PDC are released into the bloodstream for homing to different lymphoid tissues
+<sup><xref rid="ref-21" ref-type="bibr">21</xref></sup>. Thus, PDC isolated from blood of healthy donors or patients consist in PDC migrating to these tissues
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. In steady state, PDC reside mainly in T cell-rich areas in lymph nodes and secondary lymphoid organs
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. Localizations of PDC in other lymphoid organs, such as Peyer&#x02019;s patches of the gut
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>, and tonsils
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>, have been reported. PDC residing in non-lymphoid tissue &#x02013; such as the airways
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup> and the liver
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup> &#x02013; exert a critical role in steady state by regulating mucosal immunity and maintaining tolerance to inhaled or ingested antigens
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. Finally, PDC are also present in the thymus during homeostatic conditions, where they play a role in central tolerance
+<sup><xref rid="ref-27" ref-type="bibr">27</xref>&#x02013;
+<xref rid="ref-29" ref-type="bibr">29</xref></sup>. In contrast, during infections or autoimmune diseases, PDC migrate to inflamed lymph nodes
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup> or inflamed epithelia
+<sup><xref rid="ref-14" ref-type="bibr">14</xref>,
+<xref rid="ref-23" ref-type="bibr">23</xref>,
+<xref rid="ref-30" ref-type="bibr">30</xref></sup>. The microenvironment in which PDC are present may influence oxygen and nutrient availability, which impacts on metabolic pathways (see section 3).</p></sec><sec><title>2.2. Type I IFN and pro-inflammatory cytokines secreted by PDC</title><p>PDC constitute a DC subset, specialized in antimicrobial immune responses. This occurs mainly through a rapid type I IFN (IFN-&#x003b1;/&#x003b2;) production
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-31" ref-type="bibr">31</xref>,
+<xref rid="ref-32" ref-type="bibr">32</xref></sup>. Selective depletion of PDC by genetic approaches supports the critical role of PDC for early IFN-&#x003b1; production after microbial infections
+<sup><xref rid="ref-33" ref-type="bibr">33</xref>&#x02013;
+<xref rid="ref-35" ref-type="bibr">35</xref></sup>. The type I IFN response is triggered by Toll-like receptor (TLR) signaling after PAMP recognition.</p><p>Compared to cDC, PDC express a limited number of PRR. TLR 7/9 are expressed by both human and mouse PDC
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-36" ref-type="bibr">36</xref></sup>. These two endoplasmic TLRs allow PDC to recognize cytosine-phosphate guanosine (CpG)-rich unmethylated DNA from bacteria and DNA viruses,
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-31" ref-type="bibr">31</xref>,
+<xref rid="ref-37" ref-type="bibr">37</xref></sup>, as well as viral single-stranded RNA (ssRNA),
+<sup><xref rid="ref-31" ref-type="bibr">31</xref>,
+<xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-39" ref-type="bibr">39</xref></sup>, respectively. In addition, PDC are able to recognize
+<italic>via</italic> TLR7/9 mammalian nucleic acids
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>, in particular when these nucleic acids are complexed or associated with antimicrobial peptides (e.g., LL37)
+<sup><xref rid="ref-41" ref-type="bibr">41</xref>,
+<xref rid="ref-42" ref-type="bibr">42</xref></sup>. Once PDC have sensed pathogens or DAMP through endoplasmic TLR, signaling is mediated
+<italic>via</italic> MyD88 (myeloid differentiation factor 88), a docking protein for IRAK1&#x02044;4 (IL-1R-associated kinase 1/4), and the ubiquitin ligase TRAF6 (tumor necrosis factor [TNF] receptor-associated factor 6). IFN-regulatory factor 7 (IRF7) is then phosphorylated and translocates into the nucleus to induce
+<italic>type I IFN</italic> gene and IFN-inducible gene transcription (
+<xref ref-type="fig" rid="f1">Figure 1</xref>)
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>. This is true for human PDC
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. Concerning mouse PDC, other intermediates may participate in
+<italic>type I IFN</italic> mRNA transcription in the TLR-dependent IRF7 signaling pathway. This involves a complex, associating TRAF3, IRAK1, osteopontin, PI3K (phosphatidylinositol 3-kinase) and IKK&#x003b1; (I&#x003ba;B kinase-&#x003b1;)
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. A critical role of PI3K has also been reported for type I IFN production by human PDC
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. In addition, in TLR7- or TLR9-activated human PDC, TRAF6 can also recruit TAK1 (transforming growth factor [TGF]-&#x003b2;-activating kinase; also known as MAP3K7 for mitogen-activated protein kinase kinase kinase 7) to trigger the synthesis of pro-inflammatory cytokines
+<italic>via</italic> NF-&#x003ba;B activation
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. In mouse PDC, TAK-1/MAP3K7 activates the mitogen-activated protein kinase (MAPK) pathway that upregulates costimulatory molecule expression (e.g., CD40, CD80 or CD86)
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. Both human and mouse PDC have been shown to secrete TNF-&#x003b1;
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>&#x02013;
+<xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-45" ref-type="bibr">45</xref>,
+<xref rid="ref-46" ref-type="bibr">46</xref></sup>, IL-6
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>&#x02013;
+<xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-45" ref-type="bibr">45</xref>,
+<xref rid="ref-46" ref-type="bibr">46</xref></sup>, IL-8
+<sup><xref rid="ref-45" ref-type="bibr">45</xref>&#x02013;
+<xref rid="ref-47" ref-type="bibr">47</xref></sup> or granulocyte macrophage colony-stimulating factor (GM-CSF)
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>. This TLR-induced cytokine synthesis is regulated in PDC by the translocation of NF-&#x003ba;B, p38 MAPK and c-Jun N-terminal kinase (JNK) into the nucleus. In human PDC, the association of NF-&#x003ba;B p65 and p50 subunits with IRF5 appears to be the master inducer of
+<italic>IL-6</italic> mRNA transcription
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. Depending on the TLR9 ligand used, the cytokine response can be different. For instance, type A CpG-containing oligonucleotide (CpG-ODN) (CpGA) induces mainly type I IFN production, whereas type B CpG-ODN (CpGB) induces pro-inflammatory cytokine secretion and upregulation of co-stimulatory molecules
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>.</p><fig fig-type="figure" id="f1" orientation="portrait" position="float"><label>Figure 1. </label><caption><title>The main signaling pathways in plasmacytoid dendritic cells that promote metabolic changes or are modulated by metabolic pathways.</title><p>This figure summarizes different signaling pathways described in the literature to promote metabolic changes or to be modulated by immunometabolism in plasmacytoid dendritic cells. This includes: endosomal TLR 7 and TLR9, membrane IL-3 receptor (associating CD131 to CD123), GM-CSF receptor (associating CD131 to CD116), and IFN-&#x003b1; receptor (IFNAR associating IFNAR1 and IFNAR2). Only the main pathways with main effector molecules are depicted. For more details, please refer to the main text. Abbreviations (not defined in the main text):
+<italic>IFIG</italic>, IFN-I-induced genes;
+<italic>nf&#x003ba;B1</italic>, NF-&#x003ba;B gene.</p></caption><graphic xlink:href="f1000research-6-12232-g0000"/></fig><p>In addition to virus or pathogen-expressing TLR7/TLR9 ligands or synthetic ligands, PDC can be activated to release cytokines by other stimuli, including DAMP. PDC express RAGE (receptor for advanced glycation end products), a PRR that recognizes high-mobility group box-1 (HMGB1)
+<sup><xref rid="ref-49" ref-type="bibr">49</xref>,
+<xref rid="ref-50" ref-type="bibr">50</xref></sup>, a nuclear DNA-binding protein released from necrotic cells
+<sup><xref rid="ref-51" ref-type="bibr">51</xref></sup>. PDC can also be activated by neutrophil extracellular traps (NET), released by dying or activated neutrophils. These NET contain DNA fibers, histones, as well as a large amount of LL37 and HMGB1
+<sup><xref rid="ref-52" ref-type="bibr">52</xref>,
+<xref rid="ref-53" ref-type="bibr">53</xref></sup>. Human PDC can also be activated by CD154 from activated platelets
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup> or endothelial-derived microvesicles
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-46" ref-type="bibr">46</xref></sup>. Other PRR are present in the cytoplasm of PDC and dedicated to RNA virus recognition. This is the case of retinoic acid-inducible gene (RIG)-I-like receptors, DHX9 or DHX36
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup>.</p></sec><sec><title>2.3. Regulatory or immunosuppressive factors expressed by PDC</title><p>In addition to type I IFN and pro-inflammatory cytokine production, PDC have regulatory and immunosuppressive functions
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. This has been demonstrated by
+<italic>in vivo</italic> PDC depletion studies
+<sup><xref rid="ref-24" ref-type="bibr">24</xref>,
+<xref rid="ref-56" ref-type="bibr">56</xref></sup>. For instance, PDC exert immunoregulatory functions in the lung, preventing deleterious asthmatic reactions
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup>. Moreover, PDC may express immunosuppressive factors that confer tolerogenic properties
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. One major factor is the enzyme IDO
+<sup><xref rid="ref-26" ref-type="bibr">26</xref>,
+<xref rid="ref-57" ref-type="bibr">57</xref>,
+<xref rid="ref-58" ref-type="bibr">58</xref></sup>. This enzyme is involved in the catabolism of the essential amino acid, tryptophan, and the synthesis of kynurenines. Tryptophan is required for T cell proliferation and kynurenines have immunosuppressive properties. Engagement of several receptors, including CD80/CD86, or TLR9
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup>, participates in active IDO induction. Amino acid withdrawal resulting from IDO enzymatic activity, stimulates the GCN2 kinase in PDC and then prevents IL-6 secretion by PDC
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Moreover, IDO exerts a regulatory function independently of its catabolic activity by participating in TGF-&#x003b2;-signaling pathway
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup>. Receptors expressed by PDC, such as immunoglobulin-like transcript 7
+<sup><xref rid="ref-61" ref-type="bibr">61</xref></sup> or CD303
+<sup><xref rid="ref-62" ref-type="bibr">62</xref></sup> may also inhibit TLR7/9-mediated type I IFN production. In addition, PDC can produce, under certain circumstances, high levels of immunosuppressive cytokines, such as IL-10
+<sup><xref rid="ref-19" ref-type="bibr">19</xref>,
+<xref rid="ref-25" ref-type="bibr">25</xref></sup> or TGF-&#x003b2;
+<sup><xref rid="ref-56" ref-type="bibr">56</xref>,
+<xref rid="ref-63" ref-type="bibr">63</xref></sup>. In addition, PDC participate in the maintenance of immune tolerance
+<italic>via</italic> the induction and/or expansion of regulatory T cells (please refer to Refs#
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-63" ref-type="bibr">63</xref></sup>; this is out of the scope of this review).</p><p>When one evokes cellular metabolism, cell survival has to be discussed. IL-3 has been identified as a critical factor for the development and survival of PDC
+<sup><xref rid="ref-64" ref-type="bibr">64</xref>,
+<xref rid="ref-65" ref-type="bibr">65</xref></sup>. This cytokine interacts with the IL-3 receptor associating two chains, the common chain CD131 and the IL-3R&#x003b1; chain (CD123) that is highly expressed by PDC. Signaling through this receptor involves Janus kinase 2 (JAK2), Src kinases, transcription factors STAT3/STAT5 (signal transducer and activator of transcription 3/5) and Akt (
+<xref ref-type="fig" rid="f1">Figure 1</xref>)
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. Another cytokine that shares the common chain CD131 and influences PDC survival with nearly the same signaling pathway is GM-CSF (
+<xref ref-type="fig" rid="f1">Figure 1</xref>)
+<sup><xref rid="ref-65" ref-type="bibr">65</xref></sup>. Finally, PDC express IFNAR, the membrane receptor for type I IFN (IFN-&#x003b1; or IFN-&#x003b2;) that consists of two subunits, IFNAR1 and IFNAR2. Engagement of this receptor by its ligand activates JAK1 (associated with IFNAR1) and tyrosine kinase 2 (associated with IFNAR2) that phosphorylate and activate STAT1 and STAT2, respectively (
+<xref ref-type="fig" rid="f1">Figure 1</xref>)
+<sup><xref rid="ref-66" ref-type="bibr">66</xref>,
+<xref rid="ref-67" ref-type="bibr">67</xref></sup>.</p></sec><sec><title>2.4. Implications of PDC in diseases</title><p>Before discussing the role of immunometabolism, the role of PDC in beneficial and detrimental immune responses will be briefly detailed. As type I IFN producing cells, PDC play a major beneficial role in antimicrobial immune responses
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. However, uncontrolled IFN-&#x003b1; production in acute viral infection may be detrimental to the host. Moreover, high levels of type I IFN released by PDC may be detrimental in chronic inflammatory or autoimmune diseases
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-54" ref-type="bibr">54</xref>,
+<xref rid="ref-68" ref-type="bibr">68</xref>&#x02013;
+<xref rid="ref-71" ref-type="bibr">71</xref></sup>. This is the case of systemic lupus erythematosus (SLE)
+<sup><xref rid="ref-52" ref-type="bibr">52</xref>&#x02013;
+<xref rid="ref-54" ref-type="bibr">54</xref></sup>, type 1 diabetes
+<sup><xref rid="ref-69" ref-type="bibr">69</xref></sup>, and psoriasis
+<sup><xref rid="ref-41" ref-type="bibr">41</xref>,
+<xref rid="ref-71" ref-type="bibr">71</xref></sup>. Furthermore, PDC may participate in inflammatory autoimmune disorders (
+<italic>i.e</italic>., systemic sclerosis
+<sup><xref rid="ref-70" ref-type="bibr">70</xref></sup> or autoimmune vasculitis
+<sup><xref rid="ref-72" ref-type="bibr">72</xref></sup>)
+<italic>via</italic> the secretion of other pro-inflammatory cytokines than type I IFN
+<sup><xref rid="ref-72" ref-type="bibr">72</xref></sup> or chimiokines
+<sup><xref rid="ref-70" ref-type="bibr">70</xref></sup>. Since PDC infiltrate inflamed tissues, they may release pro-inflammatory factors participating in the amplification of diseases. Therefore, PDC have been reported to infiltrate acute graft-
+<italic>versus</italic>-host disease lesions, including gastro-intestinal
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup> and cutaneous
+<sup><xref rid="ref-74" ref-type="bibr">74</xref></sup> lesions. PDC emerge as cells present in atherosclerotic plaques and may play a role in atherosclerosis
+<sup><xref rid="ref-66" ref-type="bibr">66</xref>,
+<xref rid="ref-75" ref-type="bibr">75</xref></sup>. Atherosclerotic plaques are enriched in lipids. This may modify the lipid metabolism of infiltrated PDC by the uptake of lipid-enriched lipoproteins or oxidized lipoproteins, and subsequently PDC functions (see section 3.3.3). Finally, insufficient or exhausted production of IFN-&#x003b1; during chronic viral infections (e.g., chronic hepatitis C virus or HIV) has also been reported
+<sup><xref rid="ref-76" ref-type="bibr">76</xref>,
+<xref rid="ref-77" ref-type="bibr">77</xref></sup>. Thus, the metabolism of PDC may be pharmacologically modified in order to restore type I IFN production.</p></sec></sec><sec><title>3. The influence of the metabolism on innate immune functions of plasmacytoid dendritic cells</title><sec><title>3.1. PDC innate immune functions and mTOR signaling</title><p>The kinase mTOR is a key regulator of different biological processes, including metabolism
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. This is a serine/threonine protein kinase that senses and integrates signals (such as nutrients and oxygen) originating from the extracellular milieu, as well as intracellular signals
+<sup><xref rid="ref-78" ref-type="bibr">78</xref></sup>. In fact, mTOR is the catalytic subunit of two different complexes, mTORC1 and mTORC2. As mentioned briefly in the Introduction, mTORC1 is connected with several metabolic pathways. Indeed, mTORC1 promotes glycolysis through hypoxia-inducible factor 1&#x003b1; (HIF-1&#x003b1;)
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>, as well as cholesterol and fatty acid synthesis using TCA cycle intermediates through a pathway involving sterol regulatory element-binding proteins (SREBP) and the nuclear receptor, peroxisome proliferator-activated receptor (PPAR) &#x003b3;
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. Cholesterol and fatty acids are used as &#x0201c;building blocks&#x0201d;
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup> for complete maturation of endoplasmic reticulum (ER) and Golgi apparatus. Both organelles can promote the transport of pro-inflammatory cytokines within the cell that precedes their secretion
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. In addition, mTORC1 can have a negative effect on mitochondrial OXPHOS by inducing the expression of type I IFN and production of nitric oxide, which subsequently promotes aerobic glycolysis
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. This has been well described in macrophages
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>.</p><p>Concerning PDC innate immune functions, mTOR plays an important role in type I IFN production
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. The TLR9 ligand, CpGA, stimulates the rapid phosphorylation of mTOR and its downstream targets, the p70 ribosomal S6 kinase 1 and the eukaryotic translation initiation factor 4E-binding protein (4E-BP)
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. Thus, mTOR is involved in the TLR9-induced type I IFN signaling pathway (
+<xref ref-type="fig" rid="f2">Figure 2</xref>). Using the mTORC1 inhibitor rapamycin, the same authors demonstrated that TLR7/9-mediated production of type I IFN is inhibited in both human and mouse PDC
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. These data have been confirmed
+<italic>in vivo</italic> using live attenuated viral yellow fever vaccine
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. The virus responsible for yellow fever is an ssRNA virus and TLR7 recognizes ssRNA
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>. Rapamycin may act at two levels:
+<italic>i</italic>) by inactivating
+<italic>via</italic> the inhibition of 4E-BP phosphorylation the nuclear translocation of IRF7 required for type I IFN gene transcription; and
+<italic>ii</italic>) by blocking the formation of the TLR9-MyD88 complex
+<italic>via</italic> the p70 ribosomal S6 kinase 1
+<sup><xref rid="ref-78" ref-type="bibr">78</xref></sup>. In addition to type I IFN production, the inhibition of mTORC1 reduces TLR7/9-induced TNF and IL-6 production by human and mouse PDC
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. Overall, mTOR signaling is involved in the TLR9-induced type I IFN signaling pathway and blocking mTORC1 inhibits TLR7/9-stimulated secretion of pro-inflammatory cytokines (
+<italic>i.e.,</italic> type I IFN, TNF and IL-6) by PDC. Thus, the use of mTOR inhibitors may block the detrimental pro-inflammatory functions of PDC in inflammatory disorders, but may also prevent the beneficial antimicrobial response of PDC.</p><fig fig-type="figure" id="f2" orientation="portrait" position="float"><label>Figure 2. </label><caption><title>Metabolic changes in plasmacytoid dendritic cells (PDC) providing energy and affecting their innate immune functions: glycolysis
+<italic>versus</italic> fatty acid oxidation coupled with OXPHOS.</title><p>(
+<bold>A</bold>) The endosomal TLR7 pathway in human blood-derived PDC promotes early glycolysis (within minutes following TLR7 triggering; green font and green arrows), as attested by increased ECAR (extracellular acidification rate; a reflection of lactate excretion). This implicates the HIF-1&#x003b1; molecule that increases the GLUT1 glucose transporter allowing extracellular glucose entry and stimulates some enzymes involved in glycolysis (HK or PFK). Glycolysis in human PDC is required for TLR7-induced type I IFN production. A potential link with the activation of the mTORC1 complex can be seen, since this complex is activated by both endosomal TLR7 and TLR9 pathway in mouse and human PDC. Inhibitors of mTORC1 (RAP), of TLR7 signaling (chlor.), and of glycolysis (2-DG) are written in blue font. (
+<bold>B</bold>) The TLR9 pathway in mouse bone marrow-derived PDC promotes late glycolysis (after 24 hours) (grey font and grey arrows)
+<italic>via</italic> a type I IFN/IFNAR loop. This pathway also promotes fatty acid synthesis, FAO coupled with OXPHOS to generate ATP in a PPAR&#x003b1;-dependent mechanism (violet font and violet arrows). This TLR9 pathway implicates the activation of mTORC1 in both mouse and human PDC. Specific inhibitors of fatty acid synthesis (C75), pyruvate entry in the mitochondrion (UK5099), TCA cycle (TOFA) or FAO (etoxomir) are written in blue font and have been used to demonstrate the promotion of fatty acid synthesis, FAO and OXPHOS inTLR9-induced type I IFN production. For more details, please refer to the main text. Abbreviations (not defined in the main text): HK, hexokinase; PFK, phosphofructokinase; RAP., rapamycin; chlor., chloroquine.</p></caption><graphic xlink:href="f1000research-6-12232-g0001"/></fig><p>Lastly, mTORC1 stimulates glycolysis in innate immune cells, at least
+<italic>via</italic> HIF-1&#x003b1; induction, but also through the increased expression of the glucose transporter 1 (GLUT1) at the cell surface (
+<xref ref-type="fig" rid="f2">Figure 2</xref>)
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. GLUT1 enhances glucose uptake from the extracellular milieu
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. Thus, the implication of mTOR signaling pathway in the response of PDC to TLR9 ligand
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup> suggests that glycolysis may be triggered in the cells. This will be discussed in the next section.</p></sec><sec><title>3.2. PDC innate immune functions and glycolysis</title><p>The glycolytic pathway (also known as glycolysis) involves the uptake of extracellular glucose (
+<italic>i.e</italic>., present in the microenvironment) and its conversion in the cytosol to generate pyruvate
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Most pyruvate is then excreted from the cells as lactate after a process called aerobic glycolysis. This is a relatively inefficient pathway for the generation of energy (
+<italic>i.e</italic>., cellular ATP) compared to the TCA cycle coupled to OXPHOS
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. The preferential use of glycolysis
+<italic>versus</italic> the TCA cycle and OXPHOS depends on oxygen availability
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-80" ref-type="bibr">80</xref></sup>. Glycolysis is favored during hypoxia, a situation encountered, for instance, in joints during rheumatoid arthritis or in the inflamed colon during Crohn&#x02019;s disease
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup> - PDC can be present in both inflamed tissues (
+<italic>i.e</italic>., the synovial fluid
+<sup><xref rid="ref-81" ref-type="bibr">81</xref>&#x02013;
+<xref rid="ref-83" ref-type="bibr">83</xref></sup> and the colon
+<sup><xref rid="ref-73" ref-type="bibr">73</xref>,
+<xref rid="ref-84" ref-type="bibr">84</xref></sup>). This energy provided by glycolysis may represent the resources necessary for cytokine secretion, since PDC does not proliferate in the same way as adaptive cells (
+<italic>i.e</italic>., T cells). However, PDC become highly secretory upon activation
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. Finally, growth factors triggering PI3K and MAPK in their signaling pathway promote, in theory, the cellular use of glycolysis
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. This may be the case when PDC are stimulated by TLR7/9 ligands (see previous section).</p><p>The exposure of human PDC to two different ssRNA viruses, influenza virus (Flu) and Rhinovirus (RV) &#x02013; triggering the TLR7 pathway
+<italic>via</italic> ssRNA recognition
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup> &#x02013; activates HIF-1&#x003b1;
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>, a major regulator of metabolism (
+<xref ref-type="fig" rid="f2">Figure 2A</xref>). Indeed, HIF-1&#x003b1; is critical for glycolysis to generate ATP, since it induces the expression of different glycolytic enzymes, such as hexokinase and phosphofructokinase
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. In addition to HIF-1&#x003b1; activation, the TLR7 agonist gardiquimod, as well as Flu and RV, induces early glycolysis (within minutes) in human PDC, as attested by elevated extracellular acidification rate (ECAR; a reflection of lactate secretion in extracellular milieu, an indicator of glycolysis in real time) and elevated rates of lactate production
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Moreover, the inhibition of glycolysis by 2-deoxyglucose (2-DG; a glycolytic inhibitor) impairs ssRNA virus- or TLR7 ligand-induced type I IFN by PDC, as well as the upregulation of HLA-DR, CD80 and CD86 at PDC cell surface
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Furthermore, 2-DG inhibits the increase of
+<italic>IFNA</italic>,
+<italic>CD80</italic> and
+<italic>CD86</italic> mRNA induced by exposure to Flu
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. This suggests that glycolysis induced by the TLR7 pathway regulates these genes at the transcriptional level. The involvement of the TLR7 pathway in glycolysis was supported by the use of chloroquine, known to disrupt endosomal acidification required for TLR7 signaling
+<sup><xref rid="ref-85" ref-type="bibr">85</xref></sup>. Chloroquine treatment inhibits the lactate production by PDC in response to Flu or gardiquimod
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Overall, ssRNA viruses enhance glycolysis in human PDC
+<italic>via</italic> the TLR7 pathway (
+<xref ref-type="fig" rid="f2">Figure 2A</xref>). This finding was confirmed
+<italic>in vivo</italic>, since viral infection using live attenuated influenza vaccine increases glycolysis in
+<italic>ex vivo</italic> isolated human PDC and correlates with IFN-&#x003b1; production by these cells
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>.</p><p>These data contrast with a recent report showing that mouse PDC activation in response to the TLR9 ligand, CpGA, is not accompanied by a rapid change in ECAR (
+<italic>i.e</italic>., during the first 150 minutes). This contrasts with data obtained in the same experiments using cDC &#x02013; as a control of PDC &#x02013; stimulated by either lipopolysaccharide, Poly(I:C) or CpGA
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. However, glycolysis is detected late (24 hours) in TLR9-stimulated mouse PDC
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Moreover, the authors also studied the role of the TLR7 pathway in mouse PDC, but not extensively. Again, they found a delayed activation of glycolysis after stimulation of mouse PDC with the TLR7 agonist imiquimod
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Thus, whether the origin of PDC (human
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>
+<italic>versus</italic> mouse
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>) or their source (sorted from peripheral blood mononuclear cells
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>
+<italic>versus</italic> sorted from FLT3-stimulated ligand-bone marrow cultures
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>) may explain this discrepancy remains to be determined. Another difference between these two studies lies in the direct effect of IFN-&#x003b1; on PDC metabolism. Treatment of human PDC with IFN-&#x003b1; is not sufficient to induce PDC lactate efflux (
+<italic>i.e</italic>., glycolysis) and IFN-&#x003b1;/&#x003b2; receptor (IFNAR) blockade does not affect PDC lactate efflux induced by Flu infection
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. This suggests that type I IFN does not regulate in an autocrine/paracrine manner Flu-induced early glycolysis in human PDC. In contrast, this autocrine/paracrine loop involving type I IFN and its receptor may play a significant role in TLR-induced glycolysis in mouse PDC (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>)
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Nevertheless, all these data support that glycolysis plays a role as a source of energy in the production of type I IFN, pro-inflammatory cytokines (IL-6 and TNF) and costimulatory molecule upregulation by PDC in response to TLR7/9 activation. The modulation of this metabolic pathway may limit uncontrolled pro-inflammatory cytokines by PDC in pathological situations or may restore type I IFN production in chronic infectious diseases.</p></sec><sec><title>3.3. PDC innate immune functions and lipid metabolism</title><p>In this section, we will discuss fatty acid metabolism, including fatty acid oxidation (FAO; also known as mitochondrial &#x003b2;-oxidation) and fatty acid synthesis, as well as cholesterol metabolism. Lipid metabolism is regulated by many key enzymes. Some of these enzymes involved in
+<italic>de novo</italic> lipid synthesis are controlled by lipid-activated nuclear receptors, such as liver X receptor (LXR) or PPAR. The genes coding for these enzymes are thus called LXR or PPAR target genes, respectively. Among these LXR or PPAR target genes, one may cite
+<italic>FASN</italic> coding for fatty acid synthase
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>&#x02013;
+<xref rid="ref-88" ref-type="bibr">88</xref></sup>. These LXR or PPAR target genes code not only for enzymes involved in lipid metabolism, but also for transcription factors and transporters, and regulate also to glucose or amino acid metabolism. This is the case of the transcription factors, SREBP, or of glucose or cholesterol transporters involved in nutrient entry (e.g., the GLUT1 glucose transporter) or efflux, such as ATP binding cassette (ABC) transporters A1 and G1 (ABCA1 and ABCG1, respectively) involved in cholesterol efflux
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-86" ref-type="bibr">86</xref>,
+<xref rid="ref-87" ref-type="bibr">87</xref>,
+<xref rid="ref-89" ref-type="bibr">89</xref>,
+<xref rid="ref-90" ref-type="bibr">90</xref></sup>. PPAR and LXR are both mainly found associated with retinoid X receptor (RXR) to form a heterodimer. Considered as permissive heterodimer receptors, they can be activated by the ligands of each partner (e.g., PPAR or RXR ligands; LXR or RXR ligands)
+<sup><xref rid="ref-88" ref-type="bibr">88</xref>,
+<xref rid="ref-90" ref-type="bibr">90</xref></sup>. While the involvement of these nuclear receptors in innate immune responses is well described for macrophages and cDC
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>, few data are available for PDC. Here, we will discuss how lipid metabolism modulates PDC innate immune functions and how PDC activation by TLR ligands or other stimuli modifies lipid metabolism.</p><p>
+<bold><italic>3.3.1. Fatty acid oxidation</italic>.</bold> The FAO pathway allows the conversion of fatty acids into numerous products in the mitochondria. These products, such as acetyl-CoA, NADH (nicotinamide adenine dinucleotide dehydrogenase) and FADH
+<sub>2</sub> (the fully reduced form of flavin adenine dinucleotide [FAD]), can be used in the TCA cycle and the electron transport chain to generate energy
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. As discussed before, normoxia supports the TCA cycle and OXPHOS, while hypoxia
+<italic>via</italic> HIF-1&#x003b1; activation followed by the induction of glycolytic enzymes leads to glycolysis
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-80" ref-type="bibr">80</xref></sup>. The TCA cycle coupled to OXPHOS is the major metabolic pathway used by most quiescent or non-proliferating cells
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>.</p><p>A recent well-received manuscript reports that FAO and mitochondrial OXPHOS play a critical role in murine PDC activation by the TLR9 pathway (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>)
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. This is particularly well demonstrated for type I IFN production by these cells
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Mouse PDC stimulated by the TLR9 ligand, CpGA, exhibit an increase of basal oxygen consumption rate (OCR) and spare respiratory capacity (SRC)
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Both increased basal OCR and SRC are indicators of FAO. To directly demonstrate that CpGA increases FAO, the authors used etomoxir, an irreversible inhibitor of carnitine palmitoyl transferase I
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. This enzyme is responsible for the entry of activated fatty acids (
+<italic>i.e</italic>., medium-chain and long-chain fatty acids conjugated with carnitine) into mitochondria for FAO
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Etomoxir inhibits both the increase of basal OCR and SRC induced by TLR9 ligand stimulation. Moreover, etomoxir limits the production of IFN-&#x003b1; and pro-inflammatory cytokines (TNF-&#x003b1; and IL-6) by PDC in response to CpGA stimulation. This inhibition of TLR9 activation by etomoxir also prevents the upregulation of CD86 expression at PDC cell surface
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Overall, TLR9-induced mouse PDC activation is accompanied by an increased FAO, and stimulation of this metabolic pathway is required for pro-inflammatory cytokine secretion and PDC maturation (
+<italic>i.e</italic>., CD86 upregulation).</p><p>An increase of basal OCR and SRC attesting for FAO has also been observed after the activation of mouse PDC by the TLR7 agonist imiquimod. Treatment of mouse PDC by etomoxir inhibits imiquimod-induced IFN-&#x003b1; production
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>, suggesting that FAO is also required for type I IFN production in response to TLR7 ligand. Implication of FAO
+<italic>in vivo</italic> was assessed using etomoxir and mice infected with the ssRNA lymphocytic choriomeningitis virus (LCMV). Etomoxir-treated and LCMV-infected mice exhibit reduced circulating IFN-&#x003b1; 3 days after infection and significantly more LCMV are detected in the liver and spleen of etomoxir-treated
+<italic>versus</italic> untreated infected mice
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. This demonstrates the
+<italic>in vivo</italic> relevance of these data.</p><p>Changes in basal OCR are not detected at early time points after murine PDC activation by CpGA, but this requires new gene transcription. This may suggest that IFN-&#x003b1; production and IFNAR signaling induced by CpGA stimulation may be responsible for these changes in PDC metabolism. Indeed, treatment with IFN-&#x003b1; alone is sufficient to induce increased FAO in mouse PDC
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Thus, increased FAO induced by CpGA stimulation in mouse PDC are therefore the results of an autocrine or paracrine loop involving the type I IFN signaling pathway.</p><p>One goal of the FAO pathway is to generate energy, by the production of a high number of ATP molecules
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. This occurs in fact by fueling OXPHOS
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. To definitively demonstrate the implication of energy provided by FAO coupled to OXPHOS in type I IFN-induced mouse PDC activation, ATP was quantified in response to IFN-&#x003b1; and different inhibitors were used
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Metabolic reprogramming of mouse PDC induced by IFN-&#x003b1; leads to enhanced ATP availability
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. The quantity of ATP in response to CpGA activation is significantly reduced by the inhibition of either FAO (using etomoxir), pyruvate import into mitochondria required for the TCA cycle (using UK5099) or fatty acid synthesis (using tall oil fatty acid [TOFA])
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. This confirms that type I IFN stimulation of mouse PDC generates significant amounts of ATP
+<italic>via</italic> the FAO pathway. This pathway fuels OXPHOS in this setting and is itself fueled by fatty acid synthesis, as demonstrated by the use of the inhibitor TOFA (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>).</p><p>The pathways responsible for the changes in metabolism induced by type I IFN in mouse PDC were studied by an unbiased RNA-seq based approach
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. This analysis shows that OXPHOS is the major network induced by type I IFN, and FAO is connected to this network. Furthermore and surprisingly, this analysis reveals also a PPAR&#x003b1; gene signature
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. While PPAR&#x003b3; is expressed in macrophages and cDC
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>, the PPAR&#x003b1; isoform is mainly and highly expressed in metabolic active tissues, such as the liver or brown adipose tissues
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. After having confirmed that the PPAR&#x003b1; isoform is expressed by bone marrow-derived and splenic mouse PDC, a PPAR&#x003b1; antagonist, GW6471 was used
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. GW6471 blocks both IFN-&#x003b1; production and the increase of basal OCR in response to CpGA activation. Furthermore, increased basal OCR and SRC in mouse PDC are observed after incubation with a PPAR&#x003b1; agonist gemfibrozil, as well as with the combined PPAR&#x003b1; and PPAR&#x003b3; agonist, muraglitazar
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Overall, this indicates that PPAR&#x003b1; is involved in FAO and OXPHOS induced by CpGA activation (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>). This PPAR&#x003b1; pathway in PDC functions will be discussed later in this review together with the other lipid-activated nuclear receptor, LXR (see the following two sections).</p><p>
+<bold><italic>3.3.2. Fatty acid synthesis</italic>.</bold> The fatty acid synthesis pathway allows cells to generate lipids that are necessary for cellular growth and proliferation
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Fatty acid synthesis is performed in the cytosol, and it uses citrate from the TCA cycle and exported from the mitochondria into the cytosol to generate fatty acids (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>). As mentioned above,
+<italic>de novo</italic> fatty acid synthesis is dependent on key enzymes, such as FASN, that are controlled by either the mTOR signaling pathway
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>, LXR
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>,
+<xref rid="ref-87" ref-type="bibr">87</xref></sup> or SREBP-1c
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-91" ref-type="bibr">91</xref></sup>. Fatty acids generated by this synthesis can be used to fuel mitochondrial FAO
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>, to activate PPAR nuclear receptors
+<sup><xref rid="ref-89" ref-type="bibr">89</xref></sup>, or can be condensed with glycolysis-derived glycerol to produce triacylglycerol and phospholipids
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. These latter two are key components of many cellular structures, such as the cell membrane, ER or Golgi apparatus
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-8" ref-type="bibr">8</xref></sup>.</p><p>The inhibition of the fatty acid synthesis using two different inhibitors (TOFA, an inhibitor of acetyl-CoA carboxylase; C75, an inhibitor of FASN)
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup> prevents the increase of IFN-&#x003b1;, TNF-&#x003b1;, and IL-6 production by mouse PDC in response to CpGA stimulation
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. As previously demonstrated for FAO and OXPHOS, fatty acid synthesis induced by the TLR9 pathway implicates a type I IFN/IFNAR loop
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Moreover, using the TOFA inhibitor before measuring both the quantity of ATP in response to CpGA activation and the expression of PPAR&#x003b1; target genes,
+<italic>Acadl</italic> and
+<italic>Pltp</italic> in CpGA-activated mouse PDC
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup> allowed the authors to conclude that fatty acid synthesis induced in mouse PDC rather fuels FAO and OXPHOS than provides lipid ligands for PPAR&#x003b1; activation. It is well described that the natural ligands of PPAR&#x003b1; include different fatty acids, as well as numerous fatty acid derivatives and compounds with structural resemblance to fatty acids, such as acyl-CoAs, or oxidized fatty acids
+<sup><xref rid="ref-89" ref-type="bibr">89</xref></sup>. Here in PDC, fatty acids synthetized in response to the TLR9 signaling pathway do not seem to directly stimulate PPAR&#x003b1; by providing PPAR&#x003b1; ligands. One may hypothesize that, as reported for lipid-activated nuclear receptors
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>,
+<xref rid="ref-88" ref-type="bibr">88</xref></sup>, activation of PPAR&#x003b1; by TLR9 ligand may interfere with transcription factors
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-88" ref-type="bibr">88</xref></sup> that are critical for pro-inflammatory cytokine secretion by PDC (see section below).</p><p>
+<bold><italic>3.3.3. Cholesterol metabolism</italic>.</bold> Cholesterol is one of the major constituents of lipid rafts together with glycosphingolipids
+<sup><xref rid="ref-92" ref-type="bibr">92</xref></sup>. Cellular cholesterol content results from cholesterol uptake and biosynthesis through the mevalonate pathway, while its elimination from cells is mediated by cholesterol efflux. Cholesterol uptake involves plasma lipoproteins (mainly low density lipoprotein [LDL] and very low density lipoprotein [VLDL]) after interactions with their specific receptors, LDLR and VLDLR, respectively. Cholesterol efflux is mainly mediated by specific transporters, ABCA1 and ABCG1, in association with extracellular cholesterol acceptors, including apolipoproteins (APO) APOA1 and APOE, or lipoprotein particles (e.g., nascent high density lipoprotein [HDL] or HDL2) (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-93" ref-type="bibr">93</xref></sup>. ABCG1 is rather localized within the cell and seems to move sterols between intracellular compartments
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. ABCA1 is more dedicated to extrude cholesterol derivatives outside the cell
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. Cholesterol regulates critical cellular functions, including plasma membrane formation and fluidity, allowing the clustering of receptors into lipid rafts for efficient signaling
+<sup><xref rid="ref-92" ref-type="bibr">92</xref></sup>. These latter functions are implicated in signaling pathway regulation. Localization of signaling complexes within the lipid rafts is critical for certain receptors.</p><fig fig-type="figure" id="f3" orientation="portrait" position="float"><label>Figure 3. </label><caption><title>Cholesterol metabolism controls plasmacytoid dendritic cell (PDC) innate functions.</title><p>Activation of the LXR pathway by &#x0201c;physiological&#x0201d; oxidized cholesterol derivatives (oxysterols) or synthetic LXR agonists induces the decrease of PDC intracellular cholesterol content by stimulating cholesterol efflux through ABCA1 cholesterol transporter, inhibiting cholesterol entry by decreasing LDL or VLDL receptor (LDLR and VLDLR, respectively) expression and inhibiting
+<italic>de novo</italic> cholesterol biosynthesis (also known as the mevalonate pathway). Cholesterol efflux
+<italic>via</italic> ABCA1 requires cholesterol acceptors, such as APOA1, and immature HDL (HDL2/3) to generate mature HDL that transport cholesterol towards the liver. Activation of this LXR pathway inhibits TLR7-induced NF-&#x003ba;B activation and phosphorylation of STAT5 and Akt in response to IL-3 stimulation (green font and green arrows). Inhibition of cholesterol biosynthesis by statins (violet font and arrows) inhibits TLR7/9-induced IRF7 translocation in the nucleus, as well as phosphorylation of p38 kinase, and consequently the production of type I IFN. For more details and abbreviations, please refer to the main text.</p></caption><graphic xlink:href="f1000research-6-12232-g0002"/></fig><p>Cholesterol homeostasis is regulated at least by LXR. These nuclear receptors are expressed as two isoforms, including the ubiquitous LXR&#x003b2; isoform and LXR&#x003b1;, which exhibits an expression restricted to cells with high cholesterol turnover (e.g., macrophages)
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>,
+<xref rid="ref-90" ref-type="bibr">90</xref>,
+<xref rid="ref-94" ref-type="bibr">94</xref></sup>. The LXR pathway is activated by intermediates from the cholesterol biosynthesis (e.g., desmosterol), endogenous oxidized cholesterol derivatives (called oxysterols, such as 22(R)-hydroxycholesterol [22RHC]), and synthetic agonists (e.g., T0901317 or GW3965)
+<sup><xref rid="ref-86" ref-type="bibr">86</xref></sup>. LXR activation upregulates the expression of several genes involved in cholesterol homeostasis (
+<italic>i.e.</italic>, LXR target genes), including:
+<italic>ABCA1</italic>,
+<italic>ABCG1</italic>
+<sup><xref rid="ref-87" ref-type="bibr">87</xref></sup>, and
+<italic>APOE</italic> (related to cholesterol efflux)
+<sup><xref rid="ref-88" ref-type="bibr">88</xref>,
+<xref rid="ref-95" ref-type="bibr">95</xref></sup>, as well as the &#x02018;inducible degrader of the low-density lipoprotein receptor&#x02019; (IDOL), preventing cholesterol uptake through LDLR/VLDLR degradation
+<sup><xref rid="ref-96" ref-type="bibr">96</xref></sup>. Overall, these mechanisms triggered by LXR activation participate in the decrease of intracellular cholesterol content. Again, the LXR pathway has been studied extensively in the regulation of macrophage functions, including cholesterol homeostasis and inflammatory responses, as well as apoptotic cell uptake (a process called efferocytosis)
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>. However, the role of cholesterol and LXR begins only to be deciphered in PDC innate functions.</p><p>Inhibition of the mevalonate pathway (
+<italic>i.e</italic>.,
+<italic>de novo</italic> cholesterol biosynthesis) by statins (simvastatin and pitavastatin) blocks TLR7- and TLR9-induced type I IFN production by human PDC (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. This has been demonstrated with blood-derived PDC obtained from healthy donors, as well as from patients with SLE
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. Statin treatment also inhibits TNF secretion by human PDC in response to either TLR7 (loxoribine) or TLR9 (CpGA) ligands
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. These data have been confirmed
+<italic>in vivo</italic> using ssRNA Sendai virus
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. Inhibition of
+<italic>de novo</italic> cholesterol synthesis by statins in PDC interferes with the p38 MAPK pathway, Akt and nuclear translocation of IRF7 (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. Finally, the inhibitory effect of statins has been tested
+<italic>in vivo</italic> and on mouse PDC, since treatment of C57BL/6 mouse with statins before triggering type I IFN production by ssRNA poly(U) injection decreases circulating IFN-&#x003b1;
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. Thus, the inhibition of cholesterol synthesis in PDC is associated with an anti-inflammatory response. This confirms the global anti-inflammatory effects of statins
+<sup><xref rid="ref-98" ref-type="bibr">98</xref></sup>.</p><p>Recently, we reported that the LXR&#x003b2; isoform is expressed in human PDC
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>, as well as in mouse PDC (unpublished study, Ceroi A, Bonnefoy F, Angelot-Delettre F and Saas P), and that this LXR pathway is fully functional
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. Using freshly blood-isolated human PDC and a PDC cell line CAL-1, a functional LXR pathway has been demonstrated, as attested by increased LXR target gene expression in response to three different LXR agonists (two synthetic agonists and an oxysterol, 22RHC that represents a more physiological LXR ligand). The activation of the LXR pathway in PDC reduces the pro-inflammatory cytokine secretion (IL-6 and TNF-&#x003b1;) induced by TLR7 triggering
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. Moreover, these data obtained in human PDC from healthy donors
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and in leukemic PDC
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup> demonstrate that the LXR pathway interferes with TLR7-induced NF-&#x003ba;B activation at different levels, including a transcriptional repression of p65 NF-&#x003ba;B subunit and a reduced phosphorylation of this NF-&#x003ba;B subunit (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-99" ref-type="bibr">99</xref></sup>. Pretreatment of leukemic PDC with synthetic LXR agonists also reduces Akt and STAT5 phosphorylation in response to IL-3 (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup>. LXR stimulation in the PDC cell line CAL-1 increases cholesterol efflux
+<italic>via</italic> the upregulation of cholesterol transporters, such as ABCA1 (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup>. Although the cholesterol efflux was only tested using this CAL-1 PDC cell line
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup>, upregulation of cholesterol transporters at mRNA and protein levels was also observed in human blood-derived PDC treated with LXR agonists
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. Stimulation of cholesterol efflux by the addition of a cholesterol acceptor, APOA1, amplifies the effects of LXR activation in leukemic PDC, including inhibition of the IL-3 signaling pathway (Akt and STAT5 phosphorylation) and cell survival (
+<xref ref-type="fig" rid="f3">Figure 3</xref>)
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup>. This confirms the previous data using statins
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>, and suggests that modifying cholesterol homeostasis in PDC can be useful to limit their detrimental role in pathological situations. Alteration of PDC survival after modification of intracellular cholesterol content using either statins
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup> or LXR agonists
+<sup><xref rid="ref-99" ref-type="bibr">99</xref></sup> is only detected at highest concentrations (100 &#x000b5;M). In addition, LXR activation in human PDC also increases microparticle internalization
+<italic>via</italic> the phosphatidylserine receptor (PtdSerR), BAI-1
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. This contrasts with data obtained in macrophages in which LXR stimulation induces another PtdSerR, called Mer-TK (Mer tyrosine kinase)
+<sup><xref rid="ref-100" ref-type="bibr">100</xref></sup>. Nevertheless, this suggests that stimulation of PDC
+<italic>via</italic> the LXR pathway may improve their capacity to eliminate circulating pro-inflammatory microparticles. Triggering LXR pathway using LXR agonists before exposure to pro-inflammatory endothelial-derived microparticles prevents NF-&#x003ba;B activation and pro-inflammatory cytokine production by human PDC
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. This sustains an anti-inflammatory role of LXR agonists.</p><p>A discrepancy exists concerning type I IFN production after inhibition of cholesterol biosynthesis (using statins
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>) and the massive decrease of intracellular cholesterol content (using LXR agonists
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-99" ref-type="bibr">99</xref></sup>). Inhibition of type I IFN has been reported after statin treatment
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>, but not after cholesterol deprivation
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. This may be due to a compensatory mechanism, since massively decreasing the pool size of synthesized cholesterol alone induces spontaneous type I IFN production associated with an antiviral immunity in bone marrow-derived macrophages
+<sup><xref rid="ref-101" ref-type="bibr">101</xref></sup>. This response occurs
+<italic>via</italic> the cGAS/STING/TBK1/IRF3 pathway
+<sup><xref rid="ref-101" ref-type="bibr">101</xref></sup>. Thus, LXR agonists could inhibit TLR7/9-mediated type I IFN by interfering with this signaling pathway together with massively decreasing the intracellular cholesterol pool size. This could explain why IFN-&#x003b1; production is unaffected after LXR agonist treatment of PDC. Another difference between the effect of statins and LXR agonists lies in the inhibition of IRF7 (but not of NF-&#x003ba;B phosphorylation by statins)
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>, whereas the activation of the LXR pathway in PDC blocks NF-&#x003ba;B activation
+<italic>via</italic> several mechanisms
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-99" ref-type="bibr">99</xref></sup> (see above). Overall, the manipulation of cholesterol metabolism in PDC can be proposed to limit their pro-inflammatory functions.</p></sec></sec><sec><title>4. Conclusions</title><p>Here, we summarize data currently available showing that several metabolic pathways are triggered in PDC by different stimuli, including pro-inflammatory signals (e.g., TLR7/9 ligands or endothelial-derived microparticles), as well as anti-inflammatory signals (e.g., platelet-derived microparticles). These pathways comprise: the mTOR signaling pathway, glycolysis, FAO coupled to OXPHOS, fatty acid synthesis and cholesterol metabolism. All of these pathways are connected together, and they are globally necessary for efficient type I IFN production by PDC in response to TLR7/9-mediated activation. Few data are available, but it seems that induction of pro-inflammatory cytokines (e.g., TNF, IL-6 and IL-8) and costimulatory molecules (
+<italic>i.e</italic>., CD80 or CD86) also need most of these metabolic pathways. On the contrary, alteration of cholesterol metabolism associated with decreased intracellular cholesterol content either after inhibition of
+<italic>de novo</italic> cholesterol synthesis or LXR activation inhibits the pro-inflammatory functions of PDC. These data suggest that pharmacological manipulation of the host metabolism may be useful to reprogram altered PDC immune functions.</p><p>Since cellular metabolism is highly dependent on the microenvironment (oxygen availability and nutrients), changes in the local tissue microenvironment may modulate PDC innate immune functions. This modulation of metabolism may result from exogenous metabolites that diffuse passively or through transporters into the PDC. Among these metabolites, one may find ligands of lipid-activated nuclear receptors, such as LXR or PPAR
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-90" ref-type="bibr">90</xref></sup>.</p><p>Microenvironment and metabolic pathways may be modulated or controlled by microbiota. A recent study analyzed germ-free mice mono-colonized with each of the 53 human-resident bacterial species and the consequences of each bacterium on different immune cell subsets
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup>. Among these 53 bacteria, some bacteria were identified as modifying PDC frequencies in the colon and the small intestine
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup>. Among the genes for which their expression was correlated with PDC frequencies, the authors identified IFN-inducible signature transcripts, but also transcripts involved in lipid and protein metabolic pathways. Moreover, the
+<italic>Hif1a</italic> transcript coding for the metabolism regulator HIF-1&#x003b1; was also associated with PDC frequencies
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup>. This suggests a connection between PDC frequencies in the gastro-intestinal tract and metabolic pathways and nutrients/metabolites provided by microbiota.</p><p>We discussed above the connection of metabolism with epigenetic regulation. While few data are available concerning epigenetic regulation of PDC innate immune functions, it has been shown that the inhibitor of histone deacetylase, valproic acid, alters human PDC functions, including the production of pro-inflammatory cytokines (IFN-&#x003b1; TNF and IL-6) in response to TLR9 ligand, CpGA
+<sup><xref rid="ref-103" ref-type="bibr">103</xref></sup>. Thus, it remains to be determined how metabolism may regulate epigenetic modification of DNA and histones in PDC.</p><p>Lastly, acute perturbations in intracellular lipid content,
+<italic>via</italic> for instance LXR activation, may also influence cell proliferation and survival by inducing significant ER stress
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. This cellular organelle is responsible for protein folding. The result of this ER stress is an accumulation of unfolded proteins. This pathway leads also to the expression of the transcription factor X-box binding protein 1 (XBP1), which induces lipid synthesis. XBP1 has been shown to regulate cDC infiltrating ovarian tumors; accumulation of lipids in the tumor-infiltrating cDC following ER stress and XBP1 activation reduces their ability to present antigens, and thus impairs anti-tumor T-cell responses
+<sup><xref rid="ref-104" ref-type="bibr">104</xref></sup>. Whether this may occur in infiltrating PDC remains to be analyzed. Nevertheless, PDC have been shown to express XBP1
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup>. This factor can be targeted with bortezomib, which maintains ER homeostasis
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup>. This can be an additional way related to metabolism to block pro-inflammatory PDC functions. In conclusion, a better understanding of PDC immunometabolism may help to limit the detrimental effect of these cells and increase their beneficial role in the future.</p></sec></body><back><ack><title>Acknowledgments</title><p>We would like to thank Sarah Odrion for her help in editing our manuscript, and the members of our laboratory for their work.</p></ack><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Neill</surname><given-names>LA</given-names></name><name><surname>Pearce</surname><given-names>EJ</given-names></name></person-group>:
+<article-title>Immunometabolism governs dendritic cell and macrophage function.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2016</year>;<volume>213</volume>(<issue>1</issue>):<fpage>15</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20151570</pub-id>
+<!--<pub-id pub-id-type="pmcid">4710204</pub-id>-->
+<pub-id pub-id-type="pmid">26694970</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Neill</surname><given-names>LA</given-names></name><name><surname>Kishton</surname><given-names>RJ</given-names></name><name><surname>Rathmell</surname><given-names>J</given-names></name></person-group>:
+<article-title>A guide to immunometabolism for immunologists.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2016</year>;<volume>16</volume>(<issue>9</issue>):<fpage>553</fpage>&#x02013;<lpage>565</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri.2016.70</pub-id>
+<!--<pub-id pub-id-type="pmcid">5001910</pub-id>-->
+<pub-id pub-id-type="pmid">27396447</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pearce</surname><given-names>EJ</given-names></name><name><surname>Everts</surname><given-names>B</given-names></name></person-group>:
+<article-title>Dendritic cell metabolism.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2015</year>;<volume>15</volume>(<issue>1</issue>):<fpage>18</fpage>&#x02013;<lpage>29</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3771</pub-id>
+<!--<pub-id pub-id-type="pmcid">4495583</pub-id>-->
+<pub-id pub-id-type="pmid">25534620</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bajwa</surname><given-names>G</given-names></name><name><surname>DeBerardinis</surname><given-names>RJ</given-names></name><name><surname>Shao</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Cutting Edge: Critical Role of Glycolysis in Human Plasmacytoid Dendritic Cell Antiviral Responses.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2016</year>;<volume>196</volume>(<issue>5</issue>):<fpage>2004</fpage>&#x02013;<lpage>2009</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.1501557</pub-id>
+<!--<pub-id pub-id-type="pmcid">4761472</pub-id>-->
+<pub-id pub-id-type="pmid">26826244</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>D</given-names></name><name><surname>Sanin</surname><given-names>DE</given-names></name><name><surname>Everts</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Type 1 Interferons Induce Changes in Core Metabolism that Are Critical for Immune Function.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2016</year>;<volume>44</volume>(<issue>6</issue>):<fpage>1325</fpage>&#x02013;<lpage>1336</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2016.06.006</pub-id>
+<pub-id pub-id-type="pmid">27332732</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ceroi</surname><given-names>A</given-names></name><name><surname>Delettre</surname><given-names>FA</given-names></name><name><surname>Marotel</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>The anti-inflammatory effects of platelet-derived microparticles in human plasmacytoid dendritic cells involve liver X receptor activation.</article-title>
+<source><italic>Haematologica.</italic></source>
+<year>2016</year>;<volume>101</volume>(<issue>3</issue>):<fpage>e72</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.3324/haematol.2015.135459</pub-id>
+<!--<pub-id pub-id-type="pmcid">4815731</pub-id>-->
+<pub-id pub-id-type="pmid">26635040</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swiecki</surname><given-names>M</given-names></name><name><surname>Colonna</surname><given-names>M</given-names></name></person-group>:
+<article-title>The multifaceted biology of plasmacytoid dendritic cells.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2015</year>;<volume>15</volume>(<issue>8</issue>):<fpage>471</fpage>&#x02013;<lpage>485</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3865</pub-id>
+<!--<pub-id pub-id-type="pmcid">4808588</pub-id>-->
+<pub-id pub-id-type="pmid">26160613</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weichhart</surname><given-names>T</given-names></name><name><surname>Hengstschl&#x000e4;ger</surname><given-names>M</given-names></name><name><surname>Linke</surname><given-names>M</given-names></name></person-group>:
+<article-title>Regulation of innate immune cell function by mTOR.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2015</year>;<volume>15</volume>(<issue>10</issue>):<fpage>599</fpage>&#x02013;<lpage>614</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3901</pub-id>
+<pub-id pub-id-type="pmid">26403194</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharma</surname><given-names>MD</given-names></name><name><surname>Hou</surname><given-names>DY</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Indoleamine 2,3-dioxygenase controls conversion of Foxp3
+<sup>+</sup> Tregs to TH17-like cells in tumor-draining lymph nodes.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2009</year>;<volume>113</volume>(<issue>24</issue>):<fpage>6102</fpage>&#x02013;<lpage>6111</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2008-12-195354</pub-id>
+<!--<pub-id pub-id-type="pmcid">2699232</pub-id>-->
+<pub-id pub-id-type="pmid">19366986</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pearce</surname><given-names>EL</given-names></name><name><surname>Pearce</surname><given-names>EJ</given-names></name></person-group>:
+<article-title>Metabolic pathways in immune cell activation and quiescence.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2013</year>;<volume>38</volume>(<issue>4</issue>):<fpage>633</fpage>&#x02013;<lpage>643</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2013.04.005</pub-id>
+<!--<pub-id pub-id-type="pmcid">3654249</pub-id>-->
+<pub-id pub-id-type="pmid">23601682</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Audano</surname><given-names>M</given-names></name><name><surname>Ferrari</surname><given-names>A</given-names></name><name><surname>Fiorino</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Energizing Genetics and Epi-genetics: Role in the Regulation of Mitochondrial Function.</article-title>
+<source><italic>Curr Genomics.</italic></source>
+<year>2014</year>;<volume>15</volume>(<issue>6</issue>):<fpage>436</fpage>&#x02013;<lpage>456</lpage>.
+<pub-id pub-id-type="doi">10.2174/138920291506150106151119</pub-id>
+<!--<pub-id pub-id-type="pmcid">4311388</pub-id>-->
+<pub-id pub-id-type="pmid">25646072</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Sivakumar</surname><given-names>R</given-names></name><name><surname>Titov</surname><given-names>AA</given-names></name><etal/></person-group>:
+<article-title>Metabolic Factors that Contribute to Lupus Pathogenesis.</article-title>
+<source><italic>Crit Rev Immunol.</italic></source>
+<year>2016</year>;<volume>36</volume>(<issue>1</issue>):<fpage>75</fpage>&#x02013;<lpage>98</lpage>.
+<pub-id pub-id-type="doi">10.1615/CritRevImmunol.2016017164</pub-id>
+<!--<pub-id pub-id-type="pmcid">5278665</pub-id>-->
+<pub-id pub-id-type="pmid">27480903</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guilliams</surname><given-names>M</given-names></name><name><surname>Ginhoux</surname><given-names>F</given-names></name><name><surname>Jakubzick</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Dendritic cells, monocytes and macrophages: a unified nomenclature based on ontogeny.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2014</year>;<volume>14</volume>(<issue>8</issue>):<fpage>571</fpage>&#x02013;<lpage>578</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3712</pub-id>
+<!--<pub-id pub-id-type="pmcid">4638219</pub-id>-->
+<pub-id pub-id-type="pmid">25033907</pub-id></mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cella</surname><given-names>M</given-names></name><name><surname>Jarrossay</surname><given-names>D</given-names></name><name><surname>Facchetti</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid monocytes migrate to inflamed lymph nodes and produce large amounts of type I interferon.</article-title>
+<source><italic>Nat Med.</italic></source>
+<year>1999</year>;<volume>5</volume>(<issue>8</issue>):<fpage>919</fpage>&#x02013;<lpage>923</lpage>.
+<pub-id pub-id-type="doi">10.1038/11360</pub-id>
+<pub-id pub-id-type="pmid">10426316</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siegal</surname><given-names>FP</given-names></name><name><surname>Kadowaki</surname><given-names>N</given-names></name><name><surname>Shodell</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>The nature of the principal type 1 interferon-producing cells in human blood.</article-title>
+<source><italic>Science.</italic></source>
+<year>1999</year>;<volume>284</volume>(<issue>5421</issue>):<fpage>1835</fpage>&#x02013;<lpage>1837</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.284.5421.1835</pub-id>
+<pub-id pub-id-type="pmid">10364556</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Asselin-Paturel</surname><given-names>C</given-names></name><name><surname>Boonstra</surname><given-names>A</given-names></name><name><surname>Dalod</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Mouse type I IFN-producing cells are immature APCs with plasmacytoid morphology.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2001</year>;<volume>2</volume>(<issue>12</issue>):<fpage>1144</fpage>&#x02013;<lpage>1150</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni736</pub-id>
+<pub-id pub-id-type="pmid">11713464</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakano</surname><given-names>H</given-names></name><name><surname>Yanagita</surname><given-names>M</given-names></name><name><surname>Gunn</surname><given-names>MD</given-names></name></person-group>:
+<article-title>CD11c
+<sup>+</sup>B220
+<sup>+</sup>Gr-1
+<sup>+</sup> cells in mouse lymph nodes and spleen display characteristics of plasmacytoid dendritic cells.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2001</year>;<volume>194</volume>(<issue>8</issue>):<fpage>1171</fpage>&#x02013;<lpage>1178</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.194.8.1171</pub-id>
+<!--<pub-id pub-id-type="pmcid">2193516</pub-id>-->
+<pub-id pub-id-type="pmid">11602645</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferrero</surname><given-names>I</given-names></name><name><surname>Held</surname><given-names>W</given-names></name><name><surname>Wilson</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Mouse CD11c
+<sup>+</sup> B220
+<sup>+</sup> Gr1
+<sup>+</sup> plasmacytoid dendritic cells develop independently of the T-cell lineage.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2002</year>;<volume>100</volume>(<issue>8</issue>):<fpage>2852</fpage>&#x02013;<lpage>2857</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2002-01-0214</pub-id>
+<pub-id pub-id-type="pmid">12351395</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>P</given-names></name><name><surname>Del Hoyo</surname><given-names>GM</given-names></name><name><surname>Anjuere</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Characterization of a new subpopulation of mouse CD8&#x003b1;
+<sup>+</sup> B220
+<sup>+</sup> dendritic cells endowed with type 1 interferon production capacity and tolerogenic potential.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2002</year>;<volume>100</volume>(<issue>2</issue>):<fpage>383</fpage>&#x02013;<lpage>390</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood.V100.2.383</pub-id>
+<pub-id pub-id-type="pmid">12091326</pub-id></mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robbins</surname><given-names>SH</given-names></name><name><surname>Walzer</surname><given-names>T</given-names></name><name><surname>Demb&#x000e9;l&#x000e9;</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Novel insights into the relationships between dendritic cell subsets in human and mouse revealed by genome-wide expression profiling.</article-title>
+<source><italic>Genome Biol.</italic></source>
+<year>2008</year>;<volume>9</volume>(<issue>1</issue>):<fpage>R17</fpage>.
+<pub-id pub-id-type="doi">10.1186/gb-2008-9-1-r17</pub-id>
+<!--<pub-id pub-id-type="pmcid">2395256</pub-id>-->
+<pub-id pub-id-type="pmid">18218067</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>K</given-names></name><name><surname>Victora</surname><given-names>GD</given-names></name><name><surname>Schwickert</surname><given-names>TA</given-names></name><etal/></person-group>:
+<article-title>
+<italic>In vivo</italic> analysis of dendritic cell development and homeostasis.</article-title>
+<source><italic>Science.</italic></source>
+<year>2009</year>;<volume>324</volume>(<issue>5925</issue>):<fpage>392</fpage>&#x02013;<lpage>397</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1170540</pub-id>
+<!--<pub-id pub-id-type="pmcid">2803315</pub-id>-->
+<pub-id pub-id-type="pmid">19286519</pub-id></mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>HS</given-names></name><name><surname>Gelbard</surname><given-names>A</given-names></name><name><surname>Martinez</surname><given-names>GJ</given-names></name><etal/></person-group>:
+<article-title>Cell-intrinsic role for IFN-&#x003b1;-STAT1 signals in regulating murine Peyer patch plasmacytoid dendritic cells and conditioning an inflammatory response.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2011</year>;<volume>118</volume>(<issue>14</issue>):<fpage>3879</fpage>&#x02013;<lpage>3889</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2011-04-349761</pub-id>
+<!--<pub-id pub-id-type="pmcid">3193265</pub-id>-->
+<pub-id pub-id-type="pmid">21828128</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sisirak</surname><given-names>V</given-names></name><name><surname>Vey</surname><given-names>N</given-names></name><name><surname>Vanbervliet</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>CCR6/CCR10-mediated plasmacytoid dendritic cell recruitment to inflamed epithelia after instruction in lymphoid tissues.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2011</year>;<volume>118</volume>(<issue>19</issue>):<fpage>5130</fpage>&#x02013;<lpage>5140</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2010-07-295626</pub-id>
+<!--<pub-id pub-id-type="pmcid">3217401</pub-id>-->
+<pub-id pub-id-type="pmid">21937703</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Heer</surname><given-names>HJ</given-names></name><name><surname>Hammad</surname><given-names>H</given-names></name><name><surname>Soulli&#x000e9;</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Essential role of lung plasmacytoid dendritic cells in preventing asthmatic reactions to harmless inhaled antigen.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2004</year>;<volume>200</volume>(<issue>1</issue>):<fpage>89</fpage>&#x02013;<lpage>98</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20040035</pub-id>
+<!--<pub-id pub-id-type="pmcid">2213319</pub-id>-->
+<pub-id pub-id-type="pmid">15238608</pub-id></mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tokita</surname><given-names>D</given-names></name><name><surname>Sumpter</surname><given-names>TL</given-names></name><name><surname>Raimondi</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Poor allostimulatory function of liver plasmacytoid DC is associated with pro-apoptotic activity, dependent on regulatory T cells.</article-title>
+<source><italic>J Hepatol.</italic></source>
+<year>2008</year>;<volume>49</volume>(<issue>6</issue>):<fpage>1008</fpage>&#x02013;<lpage>1018</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jhep.2008.07.028</pub-id>
+<!--<pub-id pub-id-type="pmcid">2631180</pub-id>-->
+<pub-id pub-id-type="pmid">18926588</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matta</surname><given-names>BM</given-names></name><name><surname>Castellaneta</surname><given-names>A</given-names></name><name><surname>Thomson</surname><given-names>AW</given-names></name></person-group>:
+<article-title>Tolerogenic plasmacytoid DC.</article-title>
+<source><italic>Eur J Immunol.</italic></source>
+<year>2010</year>;<volume>40</volume>(<issue>10</issue>):<fpage>2667</fpage>&#x02013;<lpage>2676</lpage>.
+<pub-id pub-id-type="doi">10.1002/eji.201040839</pub-id>
+<!--<pub-id pub-id-type="pmcid">3974856</pub-id>-->
+<pub-id pub-id-type="pmid">20821731</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Okada</surname><given-names>T</given-names></name><name><surname>Lian</surname><given-names>ZX</given-names></name><name><surname>Naiki</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Murine thymic plasmacytoid dendritic cells.</article-title>
+<source><italic>Eur J Immunol.</italic></source>
+<year>2003</year>;<volume>33</volume>(<issue>4</issue>):<fpage>1012</fpage>&#x02013;<lpage>1019</lpage>.
+<pub-id pub-id-type="doi">10.1002/eji.200323616</pub-id>
+<pub-id pub-id-type="pmid">12672067</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Park</surname><given-names>J</given-names></name><name><surname>Foss</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Thymus-homing peripheral dendritic cells constitute two of the three major subsets of dendritic cells in the steady-state thymus.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2009</year>;<volume>206</volume>(<issue>3</issue>):<fpage>607</fpage>&#x02013;<lpage>622</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20082232</pub-id>
+<!--<pub-id pub-id-type="pmcid">2699131</pub-id>-->
+<pub-id pub-id-type="pmid">19273629</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hadeiba</surname><given-names>H</given-names></name><name><surname>Lahl</surname><given-names>K</given-names></name><name><surname>Edalati</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells transport peripheral antigens to the thymus to promote central tolerance.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2012</year>;<volume>36</volume>(<issue>3</issue>):<fpage>438</fpage>&#x02013;<lpage>450</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2012.01.017</pub-id>
+<!--<pub-id pub-id-type="pmcid">3315699</pub-id>-->
+<pub-id pub-id-type="pmid">22444632</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vermi</surname><given-names>W</given-names></name><name><surname>Riboldi</surname><given-names>E</given-names></name><name><surname>Wittamer</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Role of ChemR23 in directing the migration of myeloid and plasmacytoid dendritic cells to lymphoid organs and inflamed skin.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2005</year>;<volume>201</volume>(<issue>4</issue>):<fpage>509</fpage>&#x02013;<lpage>515</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20041310</pub-id>
+<!--<pub-id pub-id-type="pmcid">2213064</pub-id>-->
+<pub-id pub-id-type="pmid">15728234</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gilliet</surname><given-names>M</given-names></name><name><surname>Cao</surname><given-names>W</given-names></name><name><surname>Liu</surname><given-names>YJ</given-names></name></person-group>:
+<article-title>Plasmacytoid dendritic cells: sensing nucleic acids in viral infection and autoimmune diseases.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2008</year>;<volume>8</volume>(<issue>8</issue>):<fpage>594</fpage>&#x02013;<lpage>606</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri2358</pub-id>
+<pub-id pub-id-type="pmid">18641647</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reizis</surname><given-names>B</given-names></name><name><surname>Bunin</surname><given-names>A</given-names></name><name><surname>Ghosh</surname><given-names>HS</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells: recent progress and open questions.</article-title>
+<source><italic>Annu Rev Immunol.</italic></source>
+<year>2011</year>;<volume>29</volume>:<fpage>163</fpage>&#x02013;<lpage>183</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-immunol-031210-101345</pub-id>
+<!--<pub-id pub-id-type="pmcid">4160806</pub-id>-->
+<pub-id pub-id-type="pmid">21219184</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cervantes-Barragan</surname><given-names>L</given-names></name><name><surname>Lewis</surname><given-names>KL</given-names></name><name><surname>Firner</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells control T-cell response to chronic viral infection.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2012</year>;<volume>109</volume>(<issue>8</issue>):<fpage>3012</fpage>&#x02013;<lpage>3017</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1117359109</pub-id>
+<!--<pub-id pub-id-type="pmcid">3286988</pub-id>-->
+<pub-id pub-id-type="pmid">22315415</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swiecki</surname><given-names>M</given-names></name><name><surname>Gilfillan</surname><given-names>S</given-names></name><name><surname>Vermi</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cell ablation impacts early interferon responses and antiviral NK and CD8
+<sup>+</sup> T cell accrual.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2010</year>;<volume>33</volume>(<issue>6</issue>):<fpage>955</fpage>&#x02013;<lpage>966</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2010.11.020</pub-id>
+<!--<pub-id pub-id-type="pmcid">3588567</pub-id>-->
+<pub-id pub-id-type="pmid">21130004</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takagi</surname><given-names>H</given-names></name><name><surname>Fukaya</surname><given-names>T</given-names></name><name><surname>Eizumi</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells are crucial for the initiation of inflammation and T cell immunity
+<italic>in vivo</italic>.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2011</year>;<volume>35</volume>(<issue>6</issue>):<fpage>958</fpage>&#x02013;<lpage>971</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2011.10.014</pub-id>
+<pub-id pub-id-type="pmid">22177923</pub-id></mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pelka</surname><given-names>K</given-names></name><name><surname>Latz</surname><given-names>E</given-names></name></person-group>:
+<article-title>IRF5, IRF8, and IRF7 in human pDCs - the good, the bad, and the insignificant?</article-title>
+<source><italic>Eur J Immunol.</italic></source>
+<year>2013</year>;<volume>43</volume>(<issue>7</issue>):<fpage>1693</fpage>&#x02013;<lpage>1697</lpage>.
+<pub-id pub-id-type="doi">10.1002/eji.201343739</pub-id>
+<pub-id pub-id-type="pmid">23828296</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kadowaki</surname><given-names>N</given-names></name><name><surname>Ho</surname><given-names>S</given-names></name><name><surname>Antonenko</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Subsets of human dendritic cell precursors express different toll-like receptors and respond to different microbial antigens.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2001</year>;<volume>194</volume>(<issue>6</issue>):<fpage>863</fpage>&#x02013;<lpage>869</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.194.6.863</pub-id>
+<!--<pub-id pub-id-type="pmcid">2195968</pub-id>-->
+<pub-id pub-id-type="pmid">11561001</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diebold</surname><given-names>SS</given-names></name><name><surname>Kaisho</surname><given-names>T</given-names></name><name><surname>Hemmi</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Innate antiviral responses by means of TLR7-mediated recognition of single-stranded RNA.</article-title>
+<source><italic>Science.</italic></source>
+<year>2004</year>;<volume>303</volume>(<issue>5663</issue>):<fpage>1529</fpage>&#x02013;<lpage>1531</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1093616</pub-id>
+<pub-id pub-id-type="pmid">14976261</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moynagh</surname><given-names>PN</given-names></name></person-group>:
+<article-title>TLR signalling and activation of IRFs: revisiting old friends from the NF-kappaB pathway.</article-title>
+<source><italic>Trends Immunol.</italic></source>
+<year>2005</year>;<volume>26</volume>(<issue>9</issue>):<fpage>469</fpage>&#x02013;<lpage>476</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.it.2005.06.009</pub-id>
+<pub-id pub-id-type="pmid">16006187</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrat</surname><given-names>FJ</given-names></name><name><surname>Meeker</surname><given-names>T</given-names></name><name><surname>Gregorio</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Nucleic acids of mammalian origin can act as endogenous ligands for Toll-like receptors and may promote systemic lupus erythematosus.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2005</year>;<volume>202</volume>(<issue>8</issue>):<fpage>1131</fpage>&#x02013;<lpage>1139</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20050914</pub-id>
+<!--<pub-id pub-id-type="pmcid">2213213</pub-id>-->
+<pub-id pub-id-type="pmid">16230478</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lande</surname><given-names>R</given-names></name><name><surname>Gregorio</surname><given-names>J</given-names></name><name><surname>Facchinetti</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells sense self-DNA coupled with antimicrobial peptide.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2007</year>;<volume>449</volume>(<issue>7162</issue>):<fpage>564</fpage>&#x02013;<lpage>569</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature06116</pub-id>
+<pub-id pub-id-type="pmid">17873860</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ganguly</surname><given-names>D</given-names></name><name><surname>Chamilos</surname><given-names>G</given-names></name><name><surname>Lande</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Self-RNA-antimicrobial peptide complexes activate human dendritic cells through TLR7 and TLR8.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2009</year>;<volume>206</volume>(<issue>9</issue>):<fpage>1983</fpage>&#x02013;<lpage>1994</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20090480</pub-id>
+<!--<pub-id pub-id-type="pmcid">2737167</pub-id>-->
+<pub-id pub-id-type="pmid">19703986</pub-id></mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Honda</surname><given-names>K</given-names></name><name><surname>Yanai</surname><given-names>H</given-names></name><name><surname>Negishi</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>IRF-7 is the master regulator of type-I interferon-dependent immune responses.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2005</year>;<volume>434</volume>(<issue>7034</issue>):<fpage>772</fpage>&#x02013;<lpage>777</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature03464</pub-id>
+<pub-id pub-id-type="pmid">15800576</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guiducci</surname><given-names>C</given-names></name><name><surname>Ghirelli</surname><given-names>C</given-names></name><name><surname>Marloie-Provost</surname><given-names>MA</given-names></name><etal/></person-group>:
+<article-title>PI3K is critical for the nuclear translocation of IRF-7 and type I IFN production by human plasmacytoid predendritic cells in response to TLR activation.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2008</year>;<volume>205</volume>(<issue>2</issue>):<fpage>315</fpage>&#x02013;<lpage>322</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20070763</pub-id>
+<!--<pub-id pub-id-type="pmcid">2271003</pub-id>-->
+<pub-id pub-id-type="pmid">18227218</pub-id></mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bauer</surname><given-names>M</given-names></name><name><surname>Redecke</surname><given-names>V</given-names></name><name><surname>Ellwart</surname><given-names>JW</given-names></name><etal/></person-group>:
+<article-title>Bacterial CpG-DNA triggers activation and maturation of human CD11c
+<sup>-</sup>, CD123
+<sup>+</sup> dendritic cells.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2001</year>;<volume>166</volume>(<issue>8</issue>):<fpage>5000</fpage>&#x02013;<lpage>5007</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.166.8.5000</pub-id>
+<pub-id pub-id-type="pmid">11290780</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Angelot</surname><given-names>F</given-names></name><name><surname>Seill&#x000e8;s</surname><given-names>E</given-names></name><name><surname>Biichl&#x000e9;</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Endothelial cell-derived microparticles induce plasmacytoid dendritic cell maturation: potential implications in inflammatory diseases.</article-title>
+<source><italic>Haematologica.</italic></source>
+<year>2009</year>;<volume>94</volume>(<issue>11</issue>):<fpage>1502</fpage>&#x02013;<lpage>1512</lpage>.
+<pub-id pub-id-type="doi">10.3324/haematol.2009.010934</pub-id>
+<!--<pub-id pub-id-type="pmcid">2770960</pub-id>-->
+<pub-id pub-id-type="pmid">19648164</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Piqueras</surname><given-names>B</given-names></name><name><surname>Connolly</surname><given-names>J</given-names></name><name><surname>Freitas</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Upon viral exposure, myeloid and plasmacytoid dendritic cells produce 3 waves of distinct chemokines to recruit immune effectors.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2006</year>;<volume>107</volume>(<issue>7</issue>):<fpage>2613</fpage>&#x02013;<lpage>2618</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2005-07-2965</pub-id>
+<!--<pub-id pub-id-type="pmcid">1895384</pub-id>-->
+<pub-id pub-id-type="pmid">16317096</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kerkmann</surname><given-names>M</given-names></name><name><surname>Rothenfusser</surname><given-names>S</given-names></name><name><surname>Hornung</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Activation with CpG-A and CpG-B oligonucleotides reveals two distinct regulatory pathways of type I IFN synthesis in human plasmacytoid dendritic cells.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2003</year>;<volume>170</volume>(<issue>9</issue>):<fpage>4465</fpage>&#x02013;<lpage>4474</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.170.9.4465</pub-id>
+<pub-id pub-id-type="pmid">12707322</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tian</surname><given-names>J</given-names></name><name><surname>Avalos</surname><given-names>AM</given-names></name><name><surname>Mao</surname><given-names>SY</given-names></name><etal/></person-group>:
+<article-title>Toll-like receptor 9-dependent activation by DNA-containing immune complexes is mediated by HMGB1 and RAGE.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2007</year>;<volume>8</volume>(<issue>5</issue>):<fpage>487</fpage>&#x02013;<lpage>496</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni1457</pub-id>
+<pub-id pub-id-type="pmid">17417641</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dumitriu</surname><given-names>IE</given-names></name><name><surname>Baruah</surname><given-names>P</given-names></name><name><surname>Bianchi</surname><given-names>ME</given-names></name><etal/></person-group>:
+<article-title>Requirement of HMGB1 and RAGE for the maturation of human plasmacytoid dendritic cells.</article-title>
+<source><italic>Eur J Immunol.</italic></source>
+<year>2005</year>;<volume>35</volume>(<issue>7</issue>):<fpage>2184</fpage>&#x02013;<lpage>2190</lpage>.
+<pub-id pub-id-type="doi">10.1002/eji.200526066</pub-id>
+<pub-id pub-id-type="pmid">15915542</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rovere-Querini</surname><given-names>P</given-names></name><name><surname>Capobianco</surname><given-names>A</given-names></name><name><surname>Scaffidi</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>HMGB1 is an endogenous immune adjuvant released by necrotic cells.</article-title>
+<source><italic>EMBO Rep.</italic></source>
+<year>2004</year>;<volume>5</volume>(<issue>8</issue>):<fpage>825</fpage>&#x02013;<lpage>830</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.embor.7400205</pub-id>
+<!--<pub-id pub-id-type="pmcid">1299116</pub-id>-->
+<pub-id pub-id-type="pmid">15272298</pub-id></mixed-citation></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garcia-Romo</surname><given-names>GS</given-names></name><name><surname>Caielli</surname><given-names>S</given-names></name><name><surname>Vega</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Netting neutrophils are major inducers of type I IFN production in pediatric systemic lupus erythematosus.</article-title>
+<source><italic>Sci Transl Med.</italic></source>
+<year>2011</year>;<volume>3</volume>(<issue>73</issue>):<fpage>73ra20</fpage>.
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3001201</pub-id>
+<!--<pub-id pub-id-type="pmcid">3143837</pub-id>-->
+<pub-id pub-id-type="pmid">21389264</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lande</surname><given-names>R</given-names></name><name><surname>Ganguly</surname><given-names>D</given-names></name><name><surname>Facchinetti</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Neutrophils activate plasmacytoid dendritic cells by releasing self-DNA-peptide complexes in systemic lupus erythematosus.</article-title>
+<source><italic>Sci Transl Med.</italic></source>
+<year>2011</year>;<volume>3</volume>(<issue>73</issue>):<fpage>73ra19</fpage>.
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3001180</pub-id>
+<!--<pub-id pub-id-type="pmcid">3399524</pub-id>-->
+<pub-id pub-id-type="pmid">21389263</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duffau</surname><given-names>P</given-names></name><name><surname>Seneschal</surname><given-names>J</given-names></name><name><surname>Nicco</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Platelet CD154 potentiates interferon-alpha secretion by plasmacytoid dendritic cells in systemic lupus erythematosus.</article-title>
+<source><italic>Sci Transl Med.</italic></source>
+<year>2010</year>;<volume>2</volume>(<issue>47</issue>):<fpage>47ra63</fpage>.
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3001001</pub-id>
+<pub-id pub-id-type="pmid">20811042</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Broz</surname><given-names>P</given-names></name><name><surname>Monack</surname><given-names>DM</given-names></name></person-group>:
+<article-title>Newly described pattern recognition receptors team up against intracellular pathogens.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2013</year>;<volume>13</volume>(<issue>8</issue>):<fpage>551</fpage>&#x02013;<lpage>565</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3479</pub-id>
+<pub-id pub-id-type="pmid">23846113</pub-id></mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bonnefoy</surname><given-names>F</given-names></name><name><surname>Perruche</surname><given-names>S</given-names></name><name><surname>Couturier</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells play a major role in apoptotic leukocyte-induced immune modulation.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2011</year>;<volume>186</volume>(<issue>10</issue>):<fpage>5696</fpage>&#x02013;<lpage>5705</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.1001523</pub-id>
+<pub-id pub-id-type="pmid">21460208</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Munn</surname><given-names>DH</given-names></name><name><surname>Sharma</surname><given-names>MD</given-names></name><name><surname>Hou</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Expression of indoleamine 2,3-dioxygenase by plasmacytoid dendritic cells in tumor-draining lymph nodes.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2004</year>;<volume>114</volume>(<issue>2</issue>):<fpage>280</fpage>&#x02013;<lpage>290</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI21583</pub-id>
+<!--<pub-id pub-id-type="pmcid">449750</pub-id>-->
+<pub-id pub-id-type="pmid">15254595</pub-id></mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharma</surname><given-names>MD</given-names></name><name><surname>Baban</surname><given-names>B</given-names></name><name><surname>Chandler</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells from mouse tumor-draining lymph nodes directly activate mature Tregs via indoleamine 2,3-dioxygenase.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2007</year>;<volume>117</volume>(<issue>9</issue>):<fpage>2570</fpage>&#x02013;<lpage>2582</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI31911</pub-id>
+<!--<pub-id pub-id-type="pmcid">1940240</pub-id>-->
+<pub-id pub-id-type="pmid">17710230</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mellor</surname><given-names>AL</given-names></name><name><surname>Baban</surname><given-names>B</given-names></name><name><surname>Chandler</surname><given-names>PR</given-names></name><etal/></person-group>:
+<article-title>Cutting edge: CpG oligonucleotides induce splenic CD19
+<sup>+</sup> dendritic cells to acquire potent indoleamine 2,3-dioxygenase-dependent T cell regulatory functions via IFN Type 1 signaling.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2005</year>;<volume>175</volume>(<issue>9</issue>):<fpage>5601</fpage>&#x02013;<lpage>5605</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.175.9.5601</pub-id>
+<pub-id pub-id-type="pmid">16237046</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pallotta</surname><given-names>MT</given-names></name><name><surname>Orabona</surname><given-names>C</given-names></name><name><surname>Volpi</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Indoleamine 2,3-dioxygenase is a signaling protein in long-term tolerance by dendritic cells.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2011</year>;<volume>12</volume>(<issue>9</issue>):<fpage>870</fpage>&#x02013;<lpage>878</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni.2077</pub-id>
+<pub-id pub-id-type="pmid">21804557</pub-id></mixed-citation></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>W</given-names></name><name><surname>Rosen</surname><given-names>DB</given-names></name><name><surname>Ito</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cell-specific receptor ILT7-Fc epsilonRI gamma inhibits Toll-like receptor-induced interferon production.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2006</year>;<volume>203</volume>(<issue>6</issue>):<fpage>1399</fpage>&#x02013;<lpage>1405</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20052454</pub-id>
+<!--<pub-id pub-id-type="pmcid">2118323</pub-id>-->
+<pub-id pub-id-type="pmid">16735691</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dzionek</surname><given-names>A</given-names></name><name><surname>Sohma</surname><given-names>Y</given-names></name><name><surname>Nagafune</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>BDCA-2, a novel plasmacytoid dendritic cell-specific type II C-type lectin, mediates antigen capture and is a potent inhibitor of interferon alpha/beta induction.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2001</year>;<volume>194</volume>(<issue>12</issue>):<fpage>1823</fpage>&#x02013;<lpage>1834</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.194.12.1823</pub-id>
+<!--<pub-id pub-id-type="pmcid">2193584</pub-id>-->
+<pub-id pub-id-type="pmid">11748283</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saas</surname><given-names>P</given-names></name><name><surname>Perruche</surname><given-names>S</given-names></name></person-group>:
+<article-title>Functions of TGF-&#x003b2;-exposed plasmacytoid dendritic cells.</article-title>
+<source><italic>Crit Rev Immunol.</italic></source>
+<year>2012</year>;<volume>32</volume>(<issue>6</issue>):<fpage>529</fpage>&#x02013;<lpage>553</lpage>.
+<pub-id pub-id-type="doi">10.1615/CritRevImmunol.2013005868</pub-id>
+<pub-id pub-id-type="pmid">23428227</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grouard</surname><given-names>G</given-names></name><name><surname>Rissoan</surname><given-names>MC</given-names></name><name><surname>Filgueira</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>The enigmatic plasmacytoid T cells develop into dendritic cells with interleukin (IL)-3 and CD40-ligand.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>1997</year>;<volume>185</volume>(<issue>6</issue>):<fpage>1101</fpage>&#x02013;<lpage>1111</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.185.6.1101</pub-id>
+<!--<pub-id pub-id-type="pmcid">2196227</pub-id>-->
+<pub-id pub-id-type="pmid">9091583</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghirelli</surname><given-names>C</given-names></name><name><surname>Zollinger</surname><given-names>R</given-names></name><name><surname>Soumelis</surname><given-names>V</given-names></name></person-group>:
+<article-title>Systematic cytokine receptor profiling reveals GM-CSF as a novel TLR-independent activator of human plasmacytoid predendritic cells.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2010</year>;<volume>115</volume>(<issue>24</issue>):<fpage>5037</fpage>&#x02013;<lpage>5040</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2010-01-266932</pub-id>
+<pub-id pub-id-type="pmid">20382843</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chistiakov</surname><given-names>DA</given-names></name><name><surname>Orekhov</surname><given-names>AN</given-names></name><name><surname>Sobenin</surname><given-names>IA</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells: development, functions, and role in atherosclerotic inflammation.</article-title>
+<source><italic>Front Physiol.</italic></source>
+<year>2014</year>;<volume>5</volume>:<fpage>279</fpage>.
+<pub-id pub-id-type="doi">10.3389/fphys.2014.00279</pub-id>
+<!--<pub-id pub-id-type="pmcid">4110479</pub-id>-->
+<pub-id pub-id-type="pmid">25120492</pub-id></mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fritsch</surname><given-names>SD</given-names></name><name><surname>Weichhart</surname><given-names>T</given-names></name></person-group>:
+<article-title>Effects of Interferons and Viruses on Metabolism.</article-title>
+<source><italic>Front Immunol.</italic></source>
+<year>2016</year>;<volume>7</volume>:<fpage>630</fpage>.
+<pub-id pub-id-type="doi">10.3389/fimmu.2016.00630</pub-id>
+<!--<pub-id pub-id-type="pmcid">5174094</pub-id>-->
+<pub-id pub-id-type="pmid">28066439</pub-id></mixed-citation></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Banchereau</surname><given-names>J</given-names></name><name><surname>Pascual</surname><given-names>V</given-names></name></person-group>:
+<article-title>Type I interferon in systemic lupus erythematosus and other autoimmune diseases.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2006</year>;<volume>25</volume>(<issue>3</issue>):<fpage>383</fpage>&#x02013;<lpage>392</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2006.08.010</pub-id>
+<pub-id pub-id-type="pmid">16979570</pub-id></mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diana</surname><given-names>J</given-names></name><name><surname>Simoni</surname><given-names>Y</given-names></name><name><surname>Furio</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Crosstalk between neutrophils, B-1a cells and plasmacytoid dendritic cells initiates autoimmune diabetes.</article-title>
+<source><italic>Nat Med.</italic></source>
+<year>2013</year>;<volume>19</volume>(<issue>1</issue>):<fpage>65</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1038/nm.3042</pub-id>
+<pub-id pub-id-type="pmid">23242473</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Bon</surname><given-names>L</given-names></name><name><surname>Affandi</surname><given-names>AJ</given-names></name><name><surname>Broen</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Proteome-wide analysis and CXCL4 as a biomarker in systemic sclerosis.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2014</year>;<volume>370</volume>(<issue>5</issue>):<fpage>433</fpage>&#x02013;<lpage>443</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1114576</pub-id>
+<!--<pub-id pub-id-type="pmcid">4040466</pub-id>-->
+<pub-id pub-id-type="pmid">24350901</pub-id></mixed-citation></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nestle</surname><given-names>FO</given-names></name><name><surname>Conrad</surname><given-names>C</given-names></name><name><surname>Tun-Kyi</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid predendritic cells initiate psoriasis through interferon-alpha production.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2005</year>;<volume>202</volume>(<issue>1</issue>):<fpage>135</fpage>&#x02013;<lpage>143</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20050500</pub-id>
+<!--<pub-id pub-id-type="pmcid">2212894</pub-id>-->
+<pub-id pub-id-type="pmid">15998792</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Millet</surname><given-names>A</given-names></name><name><surname>Martin</surname><given-names>KR</given-names></name><name><surname>Bonnefoy</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Proteinase 3 on apoptotic cells disrupts immune silencing in autoimmune vasculitis.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2015</year>;<volume>125</volume>(<issue>11</issue>):<fpage>4107</fpage>&#x02013;<lpage>4121</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI78182</pub-id>
+<!--<pub-id pub-id-type="pmcid">4639994</pub-id>-->
+<pub-id pub-id-type="pmid">26436651</pub-id></mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bossard</surname><given-names>C</given-names></name><name><surname>Malard</surname><given-names>F</given-names></name><name><surname>Arbez</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Plasmacytoid dendritic cells and Th17 immune response contribution in gastrointestinal acute graft-versus-host disease.</article-title>
+<source><italic>Leukemia.</italic></source>
+<year>2012</year>;<volume>26</volume>(<issue>7</issue>):<fpage>1471</fpage>&#x02013;<lpage>1474</lpage>.
+<pub-id pub-id-type="doi">10.1038/leu.2012.41</pub-id>
+<pub-id pub-id-type="pmid">22333879</pub-id></mixed-citation></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malard</surname><given-names>F</given-names></name><name><surname>Bossard</surname><given-names>C</given-names></name><name><surname>Brissot</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Increased plasmacytoid dendritic cells and ROR&#x003b3;t-expressing immune effectors in cutaneous acute graft-versus-host disease.</article-title>
+<source><italic>J Leukoc Biol.</italic></source>
+<year>2013</year>;<volume>94</volume>(<issue>6</issue>):<fpage>1337</fpage>&#x02013;<lpage>1343</lpage>.
+<pub-id pub-id-type="doi">10.1189/jlb.0513295</pub-id>
+<pub-id pub-id-type="pmid">23990625</pub-id></mixed-citation></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>D&#x000f6;ring</surname><given-names>Y</given-names></name><name><surname>Zernecke</surname><given-names>A</given-names></name></person-group>:
+<article-title>Plasmacytoid dendritic cells in atherosclerosis.</article-title>
+<source><italic>Front Physiol.</italic></source>
+<year>2012</year>;<volume>3</volume>:<fpage>230</fpage>.
+<pub-id pub-id-type="doi">10.3389/fphys.2012.00230</pub-id>
+<!--<pub-id pub-id-type="pmcid">3385355</pub-id>-->
+<pub-id pub-id-type="pmid">22754539</pub-id></mixed-citation></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soumelis</surname><given-names>V</given-names></name><name><surname>Scott</surname><given-names>I</given-names></name><name><surname>Gheyas</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Depletion of circulating natural type 1 interferon-producing cells in HIV-infected AIDS patients.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2001</year>;<volume>98</volume>(<issue>4</issue>):<fpage>906</fpage>&#x02013;<lpage>912</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood.V98.4.906</pub-id>
+<pub-id pub-id-type="pmid">11493432</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Szabo</surname><given-names>G</given-names></name><name><surname>Dolganiuc</surname><given-names>A</given-names></name></person-group>:
+<article-title>The role of plasmacytoid dendritic cell-derived IFN alpha in antiviral immunity.</article-title>
+<source><italic>Crit Rev Immunol.</italic></source>
+<year>2008</year>;<volume>28</volume>(<issue>1</issue>):<fpage>61</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1615/CritRevImmunol.v28.i1.40</pub-id>
+<pub-id pub-id-type="pmid">18298384</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Costa-Mattioli</surname><given-names>M</given-names></name><name><surname>Sonenberg</surname><given-names>N</given-names></name></person-group>:
+<article-title>RAPping production of type I interferon in pDCs through mTOR.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2008</year>;<volume>9</volume>(<issue>10</issue>):<fpage>1097</fpage>&#x02013;<lpage>1099</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni1008-1097</pub-id>
+<pub-id pub-id-type="pmid">18800159</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>W</given-names></name><name><surname>Manicassamy</surname><given-names>S</given-names></name><name><surname>Tang</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Toll-like receptor-mediated induction of type I interferon in plasmacytoid dendritic cells requires the rapamycin-sensitive PI(3)K-mTOR-p70S6K pathway.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2008</year>;<volume>9</volume>(<issue>10</issue>):<fpage>1157</fpage>&#x02013;<lpage>1164</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni.1645</pub-id>
+<!--<pub-id pub-id-type="pmcid">3732485</pub-id>-->
+<pub-id pub-id-type="pmid">18758466</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corcoran</surname><given-names>SE</given-names></name><name><surname>O'Neill</surname><given-names>LA</given-names></name></person-group>:
+<article-title>HIF1&#x003b1; and metabolic reprogramming in inflammation.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2016</year>;<volume>126</volume>(<issue>10</issue>):<fpage>3699</fpage>&#x02013;<lpage>3707</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI84431</pub-id>
+<!--<pub-id pub-id-type="pmcid">5096812</pub-id>-->
+<pub-id pub-id-type="pmid">27571407</pub-id></mixed-citation></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Krinks</surname><given-names>CH</given-names></name><name><surname>Matyszak</surname><given-names>MK</given-names></name><name><surname>Gaston</surname><given-names>JS</given-names></name></person-group>:
+<article-title>Characterization of plasmacytoid dendritic cells in inflammatory arthritis synovial fluid.</article-title>
+<source><italic>Rheumatology (Oxford).</italic></source>
+<year>2004</year>;<volume>43</volume>(<issue>4</issue>):<fpage>453</fpage>&#x02013;<lpage>460</lpage>.
+<pub-id pub-id-type="doi">10.1093/rheumatology/keh115</pub-id>
+<pub-id pub-id-type="pmid">14762226</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lande</surname><given-names>R</given-names></name><name><surname>Giacomini</surname><given-names>E</given-names></name><name><surname>Serafini</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Characterization and recruitment of plasmacytoid dendritic cells in synovial fluid and tissue of patients with chronic inflammatory arthritis.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2004</year>;<volume>173</volume>(<issue>4</issue>):<fpage>2815</fpage>&#x02013;<lpage>2824</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.173.4.2815</pub-id>
+<pub-id pub-id-type="pmid">15295000</pub-id></mixed-citation></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cavanagh</surname><given-names>LL</given-names></name><name><surname>Boyce</surname><given-names>A</given-names></name><name><surname>Smith</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Rheumatoid arthritis synovium contains plasmacytoid dendritic cells.</article-title>
+<source><italic>Arthritis Res Ther.</italic></source>
+<year>2005</year>;<volume>7</volume>(<issue>2</issue>):<fpage>R230</fpage>&#x02013;<lpage>240</lpage>.
+<pub-id pub-id-type="doi">10.1186/ar1467</pub-id>
+<!--<pub-id pub-id-type="pmcid">1065313</pub-id>-->
+<pub-id pub-id-type="pmid">15743469</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arimura</surname><given-names>K</given-names></name><name><surname>Takagi</surname><given-names>H</given-names></name><name><surname>Uto</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Crucial role of plasmacytoid dendritic cells in the development of acute colitis through the regulation of intestinal inflammation.</article-title>
+<source><italic>Mucosal Immunol.</italic></source>
+<year>2017</year>; In press.
+<pub-id pub-id-type="doi">10.1038/mi.2016.96</pub-id>
+<pub-id pub-id-type="pmid">27848952</pub-id></mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lund</surname><given-names>JM</given-names></name><name><surname>Alexopoulou</surname><given-names>L</given-names></name><name><surname>Sato</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Recognition of single-stranded RNA viruses by Toll-like receptor 7.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2004</year>;<volume>101</volume>(<issue>15</issue>):<fpage>5598</fpage>&#x02013;<lpage>5603</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.0400937101</pub-id>
+<!--<pub-id pub-id-type="pmcid">397437</pub-id>-->
+<pub-id pub-id-type="pmid">15034168</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>C</given-names></name><name><surname>Tontonoz</surname><given-names>P</given-names></name></person-group>:
+<article-title>Liver X receptors in lipid metabolism: opportunities for drug discovery.</article-title>
+<source><italic>Nat Rev Drug Discov.</italic></source>
+<year>2014</year>;<volume>13</volume>(<issue>6</issue>):<fpage>433</fpage>&#x02013;<lpage>444</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrd4280</pub-id>
+<pub-id pub-id-type="pmid">24833295</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>W&#x000f3;jcicka</surname><given-names>G</given-names></name><name><surname>Jamroz-Wisniewska</surname><given-names>A</given-names></name><name><surname>Horoszewicz</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Liver X receptors (LXRs). Part I: structure, function, regulation of activity, and role in lipid metabolism.</article-title>
+<source><italic>Postepy Hig Med Dosw (Online).</italic></source>
+<year>2007</year>;<volume>61</volume>:<fpage>736</fpage>&#x02013;<lpage>759</lpage>.
+<pub-id pub-id-type="pmid">18063918</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kidani</surname><given-names>Y</given-names></name><name><surname>Bensinger</surname><given-names>SJ</given-names></name></person-group>:
+<article-title>Liver X receptor and peroxisome proliferator-activated receptor as integrators of lipid homeostasis and immunity.</article-title>
+<source><italic>Immunol Rev.</italic></source>
+<year>2012</year>;<volume>249</volume>(<issue>1</issue>):<fpage>72</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-065X.2012.01153.x</pub-id>
+<!--<pub-id pub-id-type="pmcid">4007066</pub-id>-->
+<pub-id pub-id-type="pmid">22889216</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rakhshandehroo</surname><given-names>M</given-names></name><name><surname>Knoch</surname><given-names>B</given-names></name><name><surname>Muller</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Peroxisome proliferator-activated receptor alpha target genes.</article-title>
+<source><italic>PPAR Res.</italic></source>
+<year>2010</year>;<volume>2010</volume>; pii: 612089.
+<pub-id pub-id-type="doi">10.1155/2010/612089</pub-id>
+<!--<pub-id pub-id-type="pmcid">2948931</pub-id>-->
+<pub-id pub-id-type="pmid">20936127</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiss</surname><given-names>M</given-names></name><name><surname>Czimmerer</surname><given-names>Z</given-names></name><name><surname>Nagy</surname><given-names>L</given-names></name></person-group>:
+<article-title>The role of lipid-activated nuclear receptors in shaping macrophage and dendritic cell function: From physiology to pathology.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2013</year>;<volume>132</volume>(<issue>2</issue>):<fpage>264</fpage>&#x02013;<lpage>286</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2013.05.044</pub-id>
+<pub-id pub-id-type="pmid">23905916</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horton</surname><given-names>JD</given-names></name><name><surname>Goldstein</surname><given-names>JL</given-names></name><name><surname>Brown</surname><given-names>MS</given-names></name></person-group>:
+<article-title>SREBPs: activators of the complete program of cholesterol and fatty acid synthesis in the liver.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2002</year>;<volume>109</volume>(<issue>9</issue>):<fpage>1125</fpage>&#x02013;<lpage>1131</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI15593</pub-id>
+<!--<pub-id pub-id-type="pmcid">150968</pub-id>-->
+<pub-id pub-id-type="pmid">11994399</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ikonen</surname><given-names>E</given-names></name></person-group>:
+<article-title>Cellular cholesterol trafficking and compartmentalization.</article-title>
+<source><italic>Nat Rev Mol Cell Biol.</italic></source>
+<year>2008</year>;<volume>9</volume>(<issue>2</issue>):<fpage>125</fpage>&#x02013;<lpage>138</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrm2336</pub-id>
+<pub-id pub-id-type="pmid">18216769</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oram</surname><given-names>JF</given-names></name><name><surname>Vaughan</surname><given-names>AM</given-names></name></person-group>:
+<article-title>ATP-Binding cassette cholesterol transporters and cardiovascular disease.</article-title>
+<source><italic>Circ Res.</italic></source>
+<year>2006</year>;<volume>99</volume>(<issue>10</issue>):<fpage>1031</fpage>&#x02013;<lpage>1043</lpage>.
+<pub-id pub-id-type="doi">10.1161/01.RES.0000250171.54048.5c</pub-id>
+<pub-id pub-id-type="pmid">17095732</pub-id></mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Im</surname><given-names>SS</given-names></name><name><surname>Osborne</surname><given-names>TF</given-names></name></person-group>:
+<article-title>Liver x receptors in atherosclerosis and inflammation.</article-title>
+<source><italic>Circ Res.</italic></source>
+<year>2011</year>;<volume>108</volume>(<issue>8</issue>):<fpage>996</fpage>&#x02013;<lpage>1001</lpage>.
+<pub-id pub-id-type="doi">10.1161/CIRCRESAHA.110.226878</pub-id>
+<!--<pub-id pub-id-type="pmcid">3082200</pub-id>-->
+<pub-id pub-id-type="pmid">21493922</pub-id></mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dove</surname><given-names>DE</given-names></name><name><surname>Linton</surname><given-names>MF</given-names></name><name><surname>Fazio</surname><given-names>S</given-names></name></person-group>:
+<article-title>ApoE-mediated cholesterol efflux from macrophages: separation of autocrine and paracrine effects.</article-title>
+<source><italic>Am J Physiol Cell Physiol.</italic></source>
+<year>2005</year>;<volume>288</volume>(<issue>3</issue>):<fpage>C586</fpage>&#x02013;<lpage>592</lpage>.
+<pub-id pub-id-type="doi">10.1152/ajpcell.00210.2004</pub-id>
+<pub-id pub-id-type="pmid">15509658</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>C</given-names></name><name><surname>Duit</surname><given-names>S</given-names></name><name><surname>Jalonen</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>The E3 ubiquitin ligase IDOL induces the degradation of the low density lipoprotein receptor family members VLDLR and ApoER2.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2010</year>;<volume>285</volume>(<issue>26</issue>):<fpage>19720</fpage>&#x02013;<lpage>19726</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M110.123729</pub-id>
+<!--<pub-id pub-id-type="pmcid">2888382</pub-id>-->
+<pub-id pub-id-type="pmid">20427281</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amuro</surname><given-names>H</given-names></name><name><surname>Ito</surname><given-names>T</given-names></name><name><surname>Miyamoto</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Statins, inhibitors of 3-hydroxy-3-methylglutaryl-coenzyme A reductase, function as inhibitors of cellular and molecular components involved in type I interferon production.</article-title>
+<source><italic>Arthritis Rheum.</italic></source>
+<year>2010</year>;<volume>62</volume>(<issue>7</issue>):<fpage>2073</fpage>&#x02013;<lpage>2085</lpage>.
+<pub-id pub-id-type="doi">10.1002/art.27478</pub-id>
+<pub-id pub-id-type="pmid">20506142</pub-id></mixed-citation></ref><ref id="ref-98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bu</surname><given-names>DX</given-names></name><name><surname>Griffin</surname><given-names>G</given-names></name><name><surname>Lichtman</surname><given-names>AH</given-names></name></person-group>:
+<article-title>Mechanisms for the anti-inflammatory effects of statins.</article-title>
+<source><italic>Curr Opin Lipidol.</italic></source>
+<year>2011</year>;<volume>22</volume>(<issue>3</issue>):<fpage>165</fpage>&#x02013;<lpage>170</lpage>.
+<pub-id pub-id-type="doi">10.1097/MOL.0b013e3283453e41</pub-id>
+<pub-id pub-id-type="pmid">21412153</pub-id></mixed-citation></ref><ref id="ref-99"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ceroi</surname><given-names>A</given-names></name><name><surname>Masson</surname><given-names>D</given-names></name><name><surname>Roggy</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>LXR agonist treatment of blastic plasmacytoid dendritic cell neoplasm restores cholesterol efflux and triggers apoptosis.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2016</year>;<volume>128</volume>(<issue>23</issue>):<fpage>2694</fpage>&#x02013;<lpage>2707</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2016-06-724807</pub-id>
+<!--<pub-id pub-id-type="pmcid">5271175</pub-id>-->
+<pub-id pub-id-type="pmid">27702801</pub-id></mixed-citation></ref><ref id="ref-100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>A-Gonzalez</surname><given-names>N</given-names></name><name><surname>Bensinger</surname><given-names>SJ</given-names></name><name><surname>Hong</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Apoptotic cells promote their own clearance and immune tolerance through activation of the nuclear receptor LXR.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2009</year>;<volume>31</volume>(<issue>2</issue>):<fpage>245</fpage>&#x02013;<lpage>258</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2009.06.018</pub-id>
+<!--<pub-id pub-id-type="pmcid">2791787</pub-id>-->
+<pub-id pub-id-type="pmid">19646905</pub-id></mixed-citation></ref><ref id="ref-101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>York</surname><given-names>AG</given-names></name><name><surname>Williams</surname><given-names>KJ</given-names></name><name><surname>Argus</surname><given-names>JP</given-names></name><etal/></person-group>:
+<article-title>Limiting Cholesterol Biosynthetic Flux Spontaneously Engages Type I IFN Signaling.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2015</year>;<volume>163</volume>(<issue>7</issue>):<fpage>1716</fpage>&#x02013;<lpage>1729</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2015.11.045</pub-id>
+<!--<pub-id pub-id-type="pmcid">4783382</pub-id>-->
+<pub-id pub-id-type="pmid">26686653</pub-id></mixed-citation></ref><ref id="ref-102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Geva-Zatorsky</surname><given-names>N</given-names></name><name><surname>Sefik</surname><given-names>E</given-names></name><name><surname>Kua</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Mining the Human Gut Microbiota for Immunomodulatory Organisms.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2017</year>;<volume>168</volume>(<issue>5</issue>):<fpage>928</fpage>&#x02013;<lpage>943.e911</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2017.01.022</pub-id>
+<pub-id pub-id-type="pmid">28215708</pub-id></mixed-citation></ref><ref id="ref-103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arbez</surname><given-names>J</given-names></name><name><surname>Lamarthee</surname><given-names>B</given-names></name><name><surname>Gaugler</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Histone deacetylase inhibitor valproic acid affects plasmacytoid dendritic cells phenotype and function.</article-title>
+<source><italic>Immunobiology.</italic></source>
+<year>2014</year>;<volume>219</volume>(<issue>8</issue>):<fpage>637</fpage>&#x02013;<lpage>643</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.imbio.2014.03.013</pub-id>
+<pub-id pub-id-type="pmid">24742998</pub-id></mixed-citation></ref><ref id="ref-104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cubillos-Ruiz</surname><given-names>JR</given-names></name><name><surname>Bettigole</surname><given-names>SE</given-names></name><name><surname>Glimcher</surname><given-names>LH</given-names></name></person-group>:
+<article-title>Molecular Pathways: Immunosuppressive Roles of IRE1&#x003b1;-XBP1 Signaling in Dendritic Cells of the Tumor Microenvironment.</article-title>
+<source><italic>Clin Cancer Res.</italic></source>
+<year>2016</year>;<volume>22</volume>(<issue>9</issue>):<fpage>2121</fpage>&#x02013;<lpage>2126</lpage>.
+<pub-id pub-id-type="doi">10.1158/1078-0432.CCR-15-1570</pub-id>
+<!--<pub-id pub-id-type="pmcid">4854763</pub-id>-->
+<pub-id pub-id-type="pmid">26979393</pub-id></mixed-citation></ref><ref id="ref-105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hirai</surname><given-names>M</given-names></name><name><surname>Kadowaki</surname><given-names>N</given-names></name><name><surname>Kitawaki</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Bortezomib suppresses function and survival of plasmacytoid dendritic cells by targeting intracellular trafficking of Toll-like receptors and endoplasmic reticulum homeostasis.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2011</year>;<volume>117</volume>(<issue>2</issue>):<fpage>500</fpage>&#x02013;<lpage>509</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2010-05-284737</pub-id>
+<pub-id pub-id-type="pmid">20956804</pub-id></mixed-citation></ref></ref-list></back><sub-article id="report22647" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.12232.r22647</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Pearce</surname><given-names>Edward J.</given-names></name><xref ref-type="aff" rid="r22647a1">1</xref><role>Referee</role></contrib><contrib contrib-type="author"><name><surname>Grzes</surname><given-names>Katarzyna</given-names></name><xref ref-type="aff" rid="r22647a2">2</xref><role>Co-referee</role></contrib><aff id="r22647a1">
+<label>1</label>Department of Immunometabolism, Max Planck Institute of Immunobiology and Epigenetics, Freiburg, Germany</aff><aff id="r22647a2">
+<label>2</label>Max Planck Institute of Immunobiology and Epigenetics, Freiburg, Germany</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>5</month><year>2017</year></pub-date><related-article id="d35e7336" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.11332.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>In the review by Saas et al., the authors discussed the collective knowledge of the metabolic status of pDC. Despite the fact that data on this subject are rather scarce, the authors prepared an interesting manuscript. They also included a section about the role and function of pDC which created a more comprehensive source of information.</p><p> Comments:
+<list list-type="bullet"><list-item><p>Abstract needs more clarity, i.e. &#x0201c;Recent data support the idea that the glycolytic pathway (or glycolysis), as well as lipid metabolism (including both cholesterol and fatty acid metabolism) may impact some innate immune functions of PDC or may be involved in these functions after Toll-like receptor (TLR) 7/9 triggering. Some differences may be related to the origin of PDC (human
+<italic>versus</italic> mouse PDC or blood-sorted&#x000a0;
+<italic>versus</italic>&#x000a0;FLT3 ligand stimulated-bone marrow-sorted PDC).&#x0201d; If the authors want to keep this in the abstract they should probably mention what the differences are.</p></list-item><list-item><p>Please consider rearranging and shortening the Introduction to avoid repetition.</p></list-item><list-item><p>When talking about the role of mTOR in pDCs, I think there is no need for a detailed introduction to mTOR &#x02013; there are many recent authoratitive reviews on this subject.&#x000a0;The authors should refer to one of these.&#x000a0; For example, a review by David Sabatini.</p></list-item><list-item><p>The language of the review can be confusing at time. For example, the following sentence should probably be deleted for the sake of clarity: &#x0201c;After differentiation in the bone marrow, PDC are released into the bloodstream for homing to different lymphoid tissues. Thus, PDC isolated from blood of healthy donors or patients consist in PDC migrating to these tissues.&#x0201d;</p></list-item><list-item><p>The authors should make an attempt to reference original work rather than other reviews.&#x000a0;For example, &#x0201c;Localizations of PDC in other lymphoid organs, such as Peyer&#x02019;s patches of the gut&#x0201d;. Instead of Li et al. (2011)
+<sup><xref rid="rep-ref-22647-1" ref-type="bibr">1</xref></sup>, please cite the paper by Contractor et al.(2007)
+<sup><xref rid="rep-ref-22647-2" ref-type="bibr">2</xref></sup>.</p></list-item></list>
+</p><p>We have read this submission. We believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however we have significant reservations, as outlined above.</p></body><back><ref-list><title>References</title><ref id="rep-ref-22647-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>HS</given-names></name><name><surname>Gelbard</surname><given-names>A</given-names></name><name><surname>Martinez</surname><given-names>GJ</given-names></name><name><surname>Esashi</surname><given-names>E</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Nguyen-Jackson</surname><given-names>H</given-names></name><name><surname>Liu</surname><given-names>YJ</given-names></name><name><surname>Overwijk</surname><given-names>WW</given-names></name><name><surname>Watowich</surname><given-names>SS</given-names></name></person-group>:
+<article-title>Cell-intrinsic role for IFN-&#x003b1;-STAT1 signals in regulating murine Peyer patch plasmacytoid dendritic cells and conditioning an inflammatory response.</article-title>
+<source><italic>Blood</italic></source>.<year>2011</year>;<volume>118</volume>(<issue>14</issue>) :
+<elocation-id>10.1182/blood-2011-04-349761</elocation-id>
+<fpage>3879</fpage>-<lpage>89</lpage>
+<pub-id pub-id-type="doi">10.1182/blood-2011-04-349761</pub-id>
+<pub-id pub-id-type="pmid">21828128</pub-id></mixed-citation></ref><ref id="rep-ref-22647-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Contractor</surname><given-names>N</given-names></name><name><surname>Louten</surname><given-names>J</given-names></name><name><surname>Kim</surname><given-names>L</given-names></name><name><surname>Biron</surname><given-names>C</given-names></name><name><surname>Kelsall</surname><given-names>B</given-names></name></person-group>:
+<article-title>Cutting Edge: Peyer's Patch Plasmacytoid Dendritic Cells (pDCs) Produce Low Levels of Type I Interferons: Possible Role for IL-10, TGF&#x000a0;, and Prostaglandin E2 in Conditioning a Unique Mucosal pDC Phenotype</article-title>.
+<source><italic>The Journal of Immunology</italic></source>.<year>2007</year>;<volume>179</volume>(<issue>5</issue>) :
+<elocation-id>10.4049/jimmunol.179.5.2690</elocation-id>
+<fpage>2690</fpage>-<lpage>2694</lpage>
+<pub-id pub-id-type="doi">10.4049/jimmunol.179.5.2690</pub-id>
+</mixed-citation></ref></ref-list></back></sub-article><sub-article id="report21755" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.12232.r21755</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bendriss-Vermare</surname><given-names>Nathalie</given-names></name><xref ref-type="aff" rid="r21755a1">1</xref><role>Referee</role></contrib><aff id="r21755a1">
+<label>1</label>Team 11, ( French National Institute of Health and Medical Research) INSERM U1052/CNRS 5286 (French National Center for Scientific Research), Cancer Research Centre&#x000a0;of&#x000a0;Lyon&#x000a0;(CRCL), Lyon, France</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>5</month><year>2017</year></pub-date><related-article id="d35e7567" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.11332.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This review provides a balanced and comprehensive overview of the latest discoveries about the role of metabolism in plasmacytoid dendritic cell innate functions. This is a very original topic based on recent data supporting the idea that the glycolytic pathway as well as lipid metabolism may modulate the production of type I IFN by pDC or may be involved in this function after TLR7/9 triggering. In addition, this review provides new clues on how these metabolic pathways may be harnessed in pathophysiological contexts where pDC play a detrimental role.</p><p> This review has a comprehensive view of all relevant literature in the field and summarized very well the fundamental concepts, but there are some minor concerns that need to be addressed as below.
+<list list-type="order"><list-item><p>Abstract is clearly written, but the text could be reduced by omitting the section about the differences related to the origin of pDC.</p></list-item><list-item><p>Page 3: PRR stands for Pattern (but not Pathogen) Recognition Receptors</p></list-item><list-item><p>Page 3: I would suggest to add that i) human pDC are usually identified as CD4+ CD303+ CD123high and CD11cnegative (to highlight the difference with mouse pDC that are CD11clow), ii) irf7 is also a master genes that is shared between human and mouse pDC, iii) CD317 (known as BST2, PDCA1).</p></list-item><list-item><p>Page 5: the list of references related to the regulatory functions of pDC is too short. Some major articles should be added (Ochando 2006, Goubier 2008, Hadeiba 2008, Irla 2010, etc&#x02026;).</p></list-item><list-item><p>Page 5 paragraph 2.4: when the authors discuss the role of pDC in diseases, they focus on autoimmune disorders, GVHD, atherosclerosis, and chronic viral infections but cancer was omitted. Yet, metabolic pathways are deeply altered in the context of cancer and I would assume that the innate functions of pDC would be modulated by the metabolic changes occurring in tumor microenvironment. This needs to be discussed.</p></list-item><list-item><p>Page 7: when the authors discuss the role of glycolysis on pDC functions upon TLR7 triggering, it is not clear whether this is a global regulation of the transcription or whether this is specific of genes related to type I IFN pathway. &#x000a0;</p></list-item><list-item><p>Page 10: it is not very interesting but not clear to me how the massive decrease of intracellular cholesterol content is connected to the activation of STING/cGAS pathway leading to spontaneous type I IFN production in macrophages. This should be clarified.</p></list-item><list-item><p>The figures nicely support and illustrate the main text of the review. Nevertheless, I would suggest to add a table summarizing the main effects of each metabolic pathway on pDC biology by comparing human versus mouse and TLR7 versus TLR9 stimulation.</p></list-item></list>
+</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body></sub-article><sub-article id="report22503" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.12232.r22503</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Soumelis</surname><given-names>Vassili</given-names></name><xref ref-type="aff" rid="r22503a1">1</xref><role>Referee</role></contrib><contrib contrib-type="author"><name><surname>Danlos</surname><given-names>Francois Xavier</given-names></name><xref ref-type="aff" rid="r22503a2">2</xref><role>Co-referee</role></contrib><aff id="r22503a1">
+<label>1</label>Institut Curie, PSL Research University, Paris, France</aff><aff id="r22503a2">
+<label>2</label>Institut Curie, Paris, France</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>5</day><month>5</month><year>2017</year></pub-date><related-article id="d35e7661" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.11332.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This review by Saas et al. reports on an original question, rarely addressed in reviews: the role of metabolism on the innate functions of plasmacytoid dendritic cells. Authors have performed a very good job summarizing current knowledge in the field. They very extensively present the molecular and functional pathways involved in PDC biology, and the possible interactions with various metabolic pathways. This way represents the current state-of-the-art. A large number of references are cited, in the field of general PDC biology, including important founder papers, as well as in the field of metabolism, and the role of metabolic pathways in PDC.</p><p> We only have a few comments on the manuscript:
+<list list-type="order"><list-item><p>The discussion of PDC implication in disease could be expanded. In particular, authors could discuss the role of PDC in the tumor microenvironment. It is known that metabolism plays an important role in tumor development and antitumor immunity. Can this also be through affecting PDCs? Is there a crosstalk between PDC biology, metabolism, and tumor progression? Several articles in the past few years have addressed the function of PDC in cancer and could serve as a basis for a discussion. Other diseases could also be discussed in more details, in particular autoimmunity. Indeed, the pathways involved in PDC activation in disease context may be slightly different from exogenous purified TLR ligands, due to the diversity of stimuli and the complexity of the inflammatory microenvironments.</p></list-item><list-item><p>Figure 2 is a bit too dense and confusing. We suggest to clarify it removing or reorganizing some of the information.</p></list-item><list-item><p>The article should also be edited for better English.</p></list-item></list>
+</p><p>We have read this submission. We believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

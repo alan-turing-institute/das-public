@@ -1,0 +1,637 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Biol</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Biol</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosbiol</journal-id><journal-title-group><journal-title>PLoS Biology</journal-title></journal-title-group><issn pub-type="ppub">1544-9173</issn><issn pub-type="epub">1545-7885</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">20652018</article-id><article-id pub-id-type="pmc">2907292</article-id><article-id pub-id-type="publisher-id">10-PLBI-RA-5842R2</article-id><article-id pub-id-type="doi">10.1371/journal.pbio.1000432</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Evolutionary Biology</subject><subject>Evolutionary Biology/Evolutionary and Comparative Genetics</subject><subject>Evolutionary Biology/Microbial Evolution and Genomics</subject><subject>Genetics and Genomics/Microbial Evolution and Genomics</subject></subj-group></article-categories><title-group><article-title>Multiple Molecular Mechanisms Cause Reproductive Isolation between Three Yeast Species</article-title><alt-title alt-title-type="running-head">Cytonuclear Incompatibility in Yeasts</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chou</surname><given-names>Jui-Yu</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hung</surname><given-names>Yin-Shan</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Kuan-Huei</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Hsin-Yi</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Leu</surname><given-names>Jun-Yi</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Life Sciences and Institute of Genome Sciences, National Yang-Ming University, Taipei, Taiwan</addr-line></aff><aff id="aff2"><label>2</label><addr-line>Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan</addr-line></aff><aff id="aff3"><label>3</label><addr-line>Molecular Cell Biology, Taiwan International Graduate Program, Graduate Institute of Life Sciences, National Defense Medical Center and Academia Sinica, Taipei, Taiwan</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Noor</surname><given-names>Mohamed A. F.</given-names></name><role>Academic Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Duke University, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>jleu@imb.sinica.edu.tw</email></corresp><fn fn-type="con"><p>The author(s) have made the following declarations about their contributions: Conceived and designed the experiments: JYL. Performed the experiments: JYC YSH KHL HYL JYL. Analyzed the data: JYC YSH KHL HYL JYL. Contributed reagents/materials/analysis tools: JYL. Wrote the paper: JYC JYL.</p></fn></author-notes><pub-date pub-type="collection"><month>7</month><year>2010</year></pub-date><pub-date pub-type="epub"><day>20</day><month>7</month><year>2010</year></pub-date><pub-date pub-type="pmc-release"><day>20</day><month>7</month><year>2010</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>8</volume><issue>7</issue><elocation-id>e1000432</elocation-id><history><date date-type="received"><day>21</day><month>1</month><year>2010</year></date><date date-type="accepted"><day>10</day><month>6</month><year>2010</year></date></history><permissions><copyright-statement>Chou et al.</copyright-statement><copyright-year>2010</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><related-article id="RA1" related-article-type="companion" vol="8" page="e1000433" ext-link-type="pmc"><!--related-article was converted to @ext-link-type="pmc" and original @xlink:href value
+						was info:doi/10.1371/journal.pbio.1000433-->
+<article-title>Genetic Mismatches Between Nuclei and Mitochondria Make Yeast Hybrids Sterile</article-title>
+</related-article><abstract abstract-type="toc"><p>Incompatibility between nuclear and mitochondrial genomes in yeast species may represent a general mechanism of reproductive isolation during yeast evolution.</p></abstract><abstract><p>Nuclear-mitochondrial conflict (cytonuclear incompatibility) is a specific form of Dobzhansky-Muller incompatibility previously shown to cause reproductive isolation in two yeast species. Here, we identified two new incompatible genes, <italic>MRS1</italic> and <italic>AIM22</italic>, through a systematic study of F2 hybrid sterility caused by cytonuclear incompatibility in three closely related <italic>Saccharomyces</italic> species (<italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, and <italic>S. bayanus</italic>). Mrs1 is a nuclear gene product required for splicing specific introns in the mitochondrial <italic>COX1</italic>, and Aim22 is a ligase encoded in the nucleus that is required for mitochondrial protein lipoylation. By comparing different species, our result suggests that the functional changes in <italic>MRS1</italic> are a result of coevolution with changes in the <italic>COX1</italic> introns. Further molecular analyses demonstrate that three nonsynonymous mutations are responsible for the functional differences of Mrs1 between these species. Functional complementation assays to determine when these incompatible genes altered their functions show a strong correlation between the sequence-based phylogeny and the evolution of cytonuclear incompatibility. Our results suggest that nuclear-mitochondrial incompatibility may represent a general mechanism of reproductive isolation during yeast evolution.</p></abstract><abstract abstract-type="summary"><title>Author Summary</title><p>Hybrids between species are usually inviable or sterile, possibly due to functional incompatibility between genes from the different species. Incompatible genes are hypothesized to encode interacting components that cannot function properly when paired with alleles from another species. To understand how incompatible gene pairs result in hybrid sterility or inviability, it is important to identify these genes and reconstruct their evolutionary history. A previous study has shown that incompatibility between nuclear and mitochondrial genomes (cytonuclear incompatibility) causes hybrid sterility between two yeast species. To expand on these findings, we screened three yeast species for genes involved in cytonuclear incompatibility, discovering two nuclear genes, <italic>MRS1</italic> and <italic>AIM22</italic>, which encode proteins that are unable to support full mitochondrial function in the hybrids. Of these two genes, Mrs1 is required for removing a specific intron in the mitochondrial <italic>COX1</italic> gene. By comparing different yeast species, we find a clear coevolutionary relationship between Mrs1 function and the <italic>COX1</italic> intron pattern. We also show that changes in three amino acids in the Mrs1 RNA-binding domain are sufficient to make Mrs1 incompatible in hybrids. Our results suggest that cytonuclear incompatibility may represent a general mechanism of reproductive isolation during yeast evolution.</p></abstract><counts><page-count count="13"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Reproductive isolation preventing gene flow between diverging populations is crucial for the process of speciation <xref rid="pbio.1000432-Coyne1" ref-type="bibr">[1]</xref>. One of the general reproductive isolation mechanisms that lead to hybrid inviability or sterility is genetic incompatibility (Dobzhansky-Muller incompatibility), which is caused by improper interactions between genetic loci that have functionally diverged in two different species <xref rid="pbio.1000432-Dobzhansky1" ref-type="bibr">[2]</xref>,<xref rid="pbio.1000432-Muller1" ref-type="bibr">[3]</xref>. Since genetic incompatibility probably plays an important role at the incipient stage of speciation, identifying the incompatible loci and determining the selection forces underlying their functional divergence are vital for our understanding of how speciation occurs.</p><p>In the past two decades, scientists have discovered several genetic loci causing hybrid sterility or inviability <xref rid="pbio.1000432-Noor1" ref-type="bibr">[4]</xref>,<xref rid="pbio.1000432-Wu1" ref-type="bibr">[5]</xref>. Genes involved in genetic incompatibility have been cloned from a variety of organisms, including flies, platyfishes, mice, and <italic>Arabidopsis</italic>
+<xref rid="pbio.1000432-Mallet1" ref-type="bibr">[6]</xref>,<xref rid="pbio.1000432-Presgraves1" ref-type="bibr">[7]</xref>,<xref rid="pbio.1000432-Bikard1" ref-type="bibr">[8]</xref>,<xref rid="pbio.1000432-Schartl1" ref-type="bibr">[9]</xref>,<xref rid="pbio.1000432-Bomblies1" ref-type="bibr">[10]</xref>,<xref rid="pbio.1000432-Mihola1" ref-type="bibr">[11]</xref>. Nonetheless, most of the genes identified were from <italic>Drosophila</italic>, and in most cases, only one component of the incompatible genetic loci was cloned. Systematic studies that involve more than two species in other organisms are still rare. Baker's yeast, <italic>Saccharomyces cerevisiae</italic>, and its close relatives, the <italic>Saccharomyces sensu stricto</italic> yeasts, represent an interesting system for studying genetic incompatibility. These yeasts can mate with each other freely under laboratory conditions. Diploid hybrids collected from the wild or generated in the laboratory can reproduce asexually without showing any obvious defect. However, the viability of hybrid gametes (spores) is very low (about 0.5&#x00025;&#x02013;1&#x00025;), suggesting that there is strong postzygotic reproductive isolation between these yeast species <xref rid="pbio.1000432-Greig1" ref-type="bibr">[12]</xref>. Because yeast differs from flies in cellular complexity, life style, and population structure, studies in yeast will greatly expand our knowledge of speciation processes <xref rid="pbio.1000432-Greig2" ref-type="bibr">[13]</xref>.</p><p>Using chromosome replacement lines of hybrids of two yeast species, a previous study identified a strong incompatibility between a <italic>S. bayanus</italic> nuclear gene, <italic>AEP2</italic>, and <italic>S. cerevisiae</italic> mitochondria that leads to interspecific F2 hybrid sterility <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>. It was found that the 5&#x02032;-UTR regions of a mitochondrion gene, <italic>OLI1</italic>, have diverged dramatically between these two species. Since interactions between the Aep2 protein and the 5&#x02032;-UTR region of the <italic>OLI1</italic> mRNA are essential for <italic>OLI1</italic> translation, the incompatibility is probably caused by the failure of Sb-Aep2 to recognize the divergent 5&#x02032;-UTR region of <italic>Sc-OLI1</italic>. The finding raises a few interesting questions: Does the cytonuclear incompatibility play a general role in yeast reproductive isolation, does the <italic>AEP2-OLI1</italic> type of interaction (activation of mRNA translation) represent a common mode of cytonuclear incompatibility, and is there a specific selective force driving this type of cytonuclear evolution?</p><p>The mitochondrion is a critical component of cellular energy production and several metabolic pathways. In many organisms including yeast, proper mitochondrial functions are required for gamete development <xref rid="pbio.1000432-Yamagata1" ref-type="bibr">[15]</xref>,<xref rid="pbio.1000432-Fishman1" ref-type="bibr">[16]</xref>,<xref rid="pbio.1000432-Hanson1" ref-type="bibr">[17]</xref>. The mitochondrion contains its own genome, though one in an advanced state of degeneration. Most genes essential for mitochondrial functions have been transferred from the proto-mitochondrion genome to that of their host <xref rid="pbio.1000432-Andersson1" ref-type="bibr">[18]</xref>,<xref rid="pbio.1000432-Martin1" ref-type="bibr">[19]</xref>. As a consequence of these events, gene products from both mitochondrial and nuclear genomes are required for proper mitochondrial operations <xref rid="pbio.1000432-Dieckmann1" ref-type="bibr">[20]</xref>,<xref rid="pbio.1000432-Grivell1" ref-type="bibr">[21]</xref>. In yeast, for example, the mitochondrial genome encodes only eight proteins, but it is estimated that &#x0223c;1,000 proteins function in mitochondria <xref rid="pbio.1000432-Reinders1" ref-type="bibr">[22]</xref>. Although these two genomes are under different mutation and selection pressures, they are constrained to evolve coordinately to maintain optimal functions <xref rid="pbio.1000432-Rand1" ref-type="bibr">[23]</xref>; any change in mitochondria (adaptive or drifted) may require one or more consecutive changes in the nucleus <xref rid="pbio.1000432-Rand1" ref-type="bibr">[23]</xref>,<xref rid="pbio.1000432-Blier1" ref-type="bibr">[24]</xref>. This type of interaction provides an ideal background for the evolution of Dobzhansky-Muller incompatibilities; when two populations containing well-adapted cytonuclear mutations mix their genomes, unmatched mitochondria and nuclei cause reduced hybrid fitness <xref rid="pbio.1000432-Gershoni1" ref-type="bibr">[25]</xref>.</p><p>Cytonuclear incompatibility has been observed in a wide range of organisms, including primates, amphibians, flies, wasps, a marine copepod, and a variety of plants <xref rid="pbio.1000432-Barrientos1" ref-type="bibr">[26]</xref>,<xref rid="pbio.1000432-Chase1" ref-type="bibr">[27]</xref>,<xref rid="pbio.1000432-Ellison1" ref-type="bibr">[28]</xref>,<xref rid="pbio.1000432-Ellison2" ref-type="bibr">[29]</xref>,<xref rid="pbio.1000432-Liepins1" ref-type="bibr">[30]</xref>,<xref rid="pbio.1000432-Sackton1" ref-type="bibr">[31]</xref>. In yeast, cytonuclear incompatibility has been tested directly by transferring mitochondria from one species or strain into cells of another, which clearly showed a species barrier between mitochondrial and nuclear genomes <xref rid="pbio.1000432-Spirek1" ref-type="bibr">[32]</xref>,<xref rid="pbio.1000432-Sulo1" ref-type="bibr">[33]</xref>. From these studies, we know that the deleterious effects of cytonuclear incompatibility can lead to reduced fitness, hybrid sterility, or inviability. Nonetheless, molecular descriptions of such an intracellular conflict are rare, and its generality as an engine of speciation remains an open question.</p><p>Here, we present results of a systematic study aimed at understanding the role of cytonuclear incompatibility in postzygotic reproductive isolation. We screened three <italic>sensu stricto</italic> yeasts, <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, and <italic>S. bayanus</italic> for incompatible genes causing F2 hybrid sterility and used the information about how these genes diverged in function to reconstitute the evolutionary history of the species. We found that only a few strongly incompatible gene pairs have evolved between these species. Two of them, <italic>MRS1</italic> and <italic>AIM22</italic>, were identified and the molecular mechanisms of incompatibility were characterized. By analyzing the mutations of the <italic>MRS1</italic> gene leading to its functional divergence between two species at the nucleotide level, we show that only three mutations make major contributions. Finally, we show that the functional divergence of these incompatible genes is correlated with the phylogeny, suggesting that cytonuclear incompatibility not only represents a general mechanism of reproductive isolation but has also occurred repeatedly during yeast evolution.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Cytonuclear Incompatibility between Three <italic>Saccharomyces sensu stricto</italic> Yeasts</title><p>A previous study has shown that incompatibility between a <italic>S. bayanus</italic> nuclear gene, <italic>AEP2</italic>, and <italic>S. cerevisiae</italic> mitochondria causes interspecific F2 hybrid sterility <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>. To examine whether nuclear-mitochondrial incompatibility represents a general mechanism of reproductive isolation in yeast, a systematic screen for such genes was conducted in three closely related yeast species: <italic>S. cerevisiae</italic> (Sc), <italic>S. paradoxus</italic> (Sp), and <italic>S. bayanus</italic> (Sb). Hybrid diploid strains between <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic>, or between <italic>S. cerevisiae</italic> and <italic>S. bayanus</italic> were induced to generate haploid spores containing different combinations of chromosomes from their parental species. These spores were then assayed for cytonuclear incompatibility. In hybrid diploids between species A and B, incompatibility could occur in two directions, between A-nucleus and B-mitochondria or between B-nucleus and A-mitochondria. When generating the yeast hybrids, we deliberately removed one parental type of mitochondria (by using <italic>&#x003c1;</italic>
+<sup>0</sup> mutants, which lack mitochondrial DNA) so that we could unambiguously assign the direction of incompatibility. After sporulation of hybrids, viable spores were measured for their ability to grow on glycerol, a non-fermentable carbon source (<xref ref-type="fig" rid="pbio-1000432-g001">Figure 1</xref>). The results showed strong cytonuclear incompatibility in most of the interspecific hybrids; we observed 66&#x00025;&#x000b1;5&#x00025;, 78&#x00025;&#x000b1;7&#x00025;, and 32&#x00025;&#x000b1;16&#x00025; of respiration-proficient spores in the interspecific crosses between Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sp, Sb-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sc, and Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sb, respectively, while the intraspecific crosses generated almost 100&#x00025; of respiration-proficient spores (<xref ref-type="fig" rid="pbio-1000432-g002">Figure 2</xref>).</p><fig id="pbio-1000432-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g001</object-id><label>Figure 1</label><caption><title>A genetic screen for hybrid haploid clones carrying incompatible nuclear-mitochondrial genomes.</title><p>One species (species A) was crossed to a <italic>&#x003c1;</italic>
+<sup>0</sup> mutant of another species (species B) in which the mitochondrial DNA was completely deleted. In both strains, the <italic>SPO11</italic> genes were deleted to prevent meiotic recombination between homologous chromosomes. The hybrid diploids were then induced to sporulate and viable F1 spores were assayed for their ability to grow on glycerol plates (a non-fermentable carbon source). Respiration-deficient clones (Gly&#x02212;) were then crossed to <italic>&#x003c1;</italic>
+<sup>0</sup> mutants of the parental strains. If the Gly&#x02212; phenotype is due to loss of mtDNA, the products from both crosses will be Gly&#x02212;. On the other hand, if the respiratory defect is caused by mutations occurring during the process, both products will be Gly&#x0002b;. Only if the Gly&#x02212; phenotype is caused by recessive incompatibility will crossing with the <italic>&#x003c1;</italic>
+<sup>0</sup> mutant of species A rescue the defect (Gly&#x0002b;), while crossing with the <italic>&#x003c1;</italic>
+<sup>0</sup> mutant of species B will not (Gly&#x02212;). The Gly&#x02212; clones containing incompatible cytonuclear genomes were further analyzed to determine their chromosomal contents (see <xref ref-type="supplementary-material" rid="pbio.1000432.s005">Table S1</xref>).</p></caption><graphic xlink:href="pbio.1000432.g001"/></fig><fig id="pbio-1000432-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g002</object-id><label>Figure 2</label><caption><title>Nuclear-mitochondrial incompatibility in the hybrid F1 haploid cells.</title><p>Diploid cells were constructed by crossing a respiration-proficient strain with a strain that lacked mitochondrial DNA (a <italic>&#x003c1;</italic>
+<sup>0</sup> mutant). The diploid cells were induced to sporulate and then viable haploid spores were tested for their ability to grow on glycerol plates. At least 40 viable haploid clones were checked in each experiment. Each data point represents a mean of at least three independent experiments. Open symbols represent spores from intraspecific crosses, and closed symbols represent spores from interspecific crosses. Sc, <italic>S. cerevisiae</italic>; Sp, <italic>S. paradoxus</italic>; Sb, <italic>S. bayanus</italic>.</p></caption><graphic xlink:href="pbio.1000432.g002"/></fig><p>The percentage of viable spores that could grow on glycerol plates was used to estimate the number of strongly incompatible loci (see <xref ref-type="sec" rid="s4">Materials and Methods</xref>). The results of this growth assay suggest that there are only one or few nuclear genetic loci strongly incompatible with mitochondria in the Sc-nucleus and Sp-mitochondria, the Sb-nucleus and Sc-mitochondria, and the Sc-nucleus and Sb-mitochondria pairs. Although no strong incompatibility was detected for the Sp-nucleus and Sc-mitochondria pair, slow spore growth (on glycerol plates) was commonly observed, suggesting that some incompatibility may exist in this pair as well. Because the incompatibility between the Sb-nucleus and Sc-mitochondria has been described earlier <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>, we focus here on the remaining two pairs.</p></sec><sec id="s2b"><title>Identification of Two Cytonuclear Incompatible Genes Causing Reproductive Isolation</title><p>In our experimental design, we constructed the hybrid diploids using <italic>spo11&#x00394;</italic> mutants to prevent meiotic homologous recombination. We expected that hybrid F1 haploids unable to respire (see <xref ref-type="fig" rid="pbio-1000432-g001">Figure 1</xref>) should carry a specific set of chromosomes containing the incompatible genes. To identify the genes responsible for the observed cytonuclear incompatibility, the respiration-deficient clones were first examined for their chromosome contents using species-specific PCR (see <xref ref-type="sec" rid="s4">Materials and Methods</xref>). In the cross between Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sb, the haploids carrying Sb-mitochondria but unable to respire lacked Sb-Chromosome 6, 9, or both (<xref ref-type="supplementary-material" rid="pbio.1000432.s005">Table S1A</xref>). When these hybrid clones were transformed with genomic DNA libraries to screen for those genes capable of rescuing the respiratory defect, <italic>Sb-MRS1</italic> encoded on Sb-Chromosome 9 and <italic>Sb-AIM22</italic> encoded on Sb-Chromosome 6 were isolated. The results from the cross between Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sp are more complex, as all the respiration-deficient clones did not contain the two Sp-Chromosomes 4 and 9 (<xref ref-type="supplementary-material" rid="pbio.1000432.s005">Table S1B</xref>), but were fully rescued by <italic>Sp-MRS1</italic> alone, which is encoded on Sp-Chromosome 9. The reason why all the hybrid clones are missing Sp-Chromosome 4 is unclear. One possibility is that Sp-Chromosome 4 is also incompatible with Sc-Chromosome 9, an issue requiring further investigation.</p><p>To rule out the possibility that the respiration defects caused by <italic>Sc-MRS1</italic> and <italic>Sc-AIM22</italic> were simply due to nuclear-nuclear incompatibility in the hybrid haploid clones, we crossed <italic>Sp-mrs1&#x00394;</italic>, <italic>Sb-mrs1&#x00394;</italic>, and <italic>Sb-aim22&#x00394;</italic> with Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and examined the respiratory ability of the diploid cells. All the diploid cells were still respiration-deficient, even though they contained a complete set of the <italic>S. cerevisiae</italic> genome (<xref ref-type="fig" rid="pbio-1000432-g003">Figure 3</xref>). This result demonstrated that <italic>Sc-MRS1</italic> is incompatible with Sp-mitochondria and that both <italic>Sc-MRS1</italic> and <italic>Sc-AIM22</italic> are incompatible with Sb-mitochondria.</p><fig id="pbio-1000432-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g003</object-id><label>Figure 3</label><caption><title>The respiratory defects caused by <italic>Sc-MRS1</italic> or <italic>Sc-AIM22</italic> are not due to nuclear-nuclear incompatibilities.</title><p>Hybrid diploid cells contain two complete sets of nuclear chromosomes but only one type of mitochondrial DNA; <italic>S. paradoxus</italic> mitochondrial DNA in <italic>Sp-mrs1&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sp&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>, <italic>S. bayanus</italic> mitochondrial DNA in <italic>Sb-mrs1&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>, <italic>Sb-aim22&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup> and Sb&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>, and <italic>S. cerevisiae</italic> mitochondrial DNA in <italic>Sp-mrs1&#x00394;</italic>-<italic>&#x003c1;</italic>
+<sup>0</sup>&#x000d7;Sc, Sp-<italic>&#x003c1;</italic>
+<sup>0</sup>&#x000d7;Sc, <italic>Sb-mrs1&#x00394;</italic>-<italic>&#x003c1;</italic>
+<sup>0</sup>&#x000d7;Sc, <italic>Sb-aim22&#x00394;</italic>-<italic>&#x003c1;</italic>
+<sup>0</sup>&#x000d7;Sc and Sb-<italic>&#x003c1;</italic>
+<sup>0</sup>&#x000d7;Sc. The hybrid cells were serially diluted and plated on YPD or glycerol plates to measure their growth.</p></caption><graphic xlink:href="pbio.1000432.g003"/></fig><p>Yeast cells utilize non-fermentable carbon sources to induce meiosis. Previous studies have shown that respiration-deficient cells were unable to sporulate <xref rid="pbio.1000432-Kuenzi1" ref-type="bibr">[34]</xref>. To confirm that indeed the cytonuclear incompatibility observed in our experiments contributes to reproductive isolation, the aforementioned diploid cells (<italic>Sp-mrs1&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>, <italic>Sb-mrs1&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>, and <italic>Sb-aim22&#x00394;</italic>&#x000d7;Sc-<italic>&#x003c1;</italic>
+<sup>0</sup>) were grown on sporulation medium and examined for their sporulation efficiency. No ascus was observed in these cultures, while the control cultures sporulated efficiently. Thus, cytonuclear incompatibility caused by <italic>Sc-MRS1</italic> or <italic>Sc-AIM22</italic> results in reproductive isolation between these yeast species.</p></sec><sec id="s2c"><title>
+<italic>MRS1</italic> Has Coevolved with the <italic>COX1</italic> Introns</title><p>Mrs1 is a mitochondrial protein required for excision of the aI5&#x003b2; intron in <italic>COX1</italic> and the bI3 intron in <italic>COB</italic>
+<xref rid="pbio.1000432-Kreike1" ref-type="bibr">[35]</xref>,<xref rid="pbio.1000432-Bousquet1" ref-type="bibr">[36]</xref>. A previous study has shown that <italic>S. douglasii</italic> Mrs1 (<italic>S. douglasii</italic> is a synonym of <italic>S. paradoxus</italic>) is required to splice a <italic>S. douglasii</italic>-specific <italic>COX1</italic> intron not existing in the <italic>S. cerevisiae COX1</italic>
+<xref rid="pbio.1000432-Herbert1" ref-type="bibr">[37]</xref>. We observed a similar result in <italic>S. bayanus</italic>. <italic>Sc-MRS1</italic> could not complement the respiratory defect of the <italic>Sp-mrs1&#x00394;</italic> or <italic>Sb-mrs1&#x00394;</italic> mutants (<xref ref-type="supplementary-material" rid="pbio.1000432.s001">Figure S1</xref>). When Sb-Mrs1 or Sp-Mrs1 were replaced by Sc-Mrs1, the level of mature <italic>COX1</italic> mRNA was drastically reduced but the <italic>COB</italic> mRNA was not affected (<xref ref-type="fig" rid="pbio-1000432-g004">Figure 4A</xref>). We further analyzed the translation products from purified mitochondria and confirmed that only the Cox1 protein was missing (<xref ref-type="fig" rid="pbio-1000432-g004">Figure 4B</xref>). By contrast, <italic>Sc-MRS1</italic> transcription and protein transport into mitochondria appear to be normal in both <italic>S. paradoxus</italic> and <italic>S. bayanus</italic> (<xref ref-type="fig" rid="pbio-1000432-g005">Figure 5</xref>). Thus the incompatibility between the mitochondrial and nuclear genomes is most likely due to a change in the splicing specificity of Mrs1 that occurred after <italic>S. cerevisiae</italic> diverged from the common ancestor of <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic>.</p><fig id="pbio-1000432-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g004</object-id><label>Figure 4</label><caption><title>
+<italic>S. cerevisiae</italic> Mrs1 is incompatible with an ancient <italic>COX1</italic> intron existing in the <italic>S. paradoxus</italic> and <italic>S. bayanus</italic> mitochondrial genomes.</title><p>(A) <italic>S. paradoxus</italic> or <italic>S. bayanus mrs1&#x00394;</italic> mutants carrying <italic>Sc-MRS1</italic> are unable to produce mature <italic>COX1</italic> mRNA. Total RNA isolated from the <italic>mrs1&#x00394;</italic> mutants carrying various orthologous <italic>MRS1</italic> genes was used for Northern blotting. <italic>MRS1</italic> function is involved in splicing the introns of <italic>COX1</italic> and <italic>COB</italic>, but the incompatibility caused by <italic>Sc-MRS1</italic> does not affect <italic>COB</italic> mRNA maturation. <italic>COX2</italic> mRNA was used as a loading control. (B) <italic>COX1</italic> mRNA is not translated in the <italic>S. paradoxus</italic> or <italic>S. bayanus mrs1&#x00394;</italic> mutants carrying <italic>Sc-MRS1</italic>. Mitochondria were purified from the <italic>mrs1&#x00394;</italic> mutants carrying various orthologous <italic>MRS1</italic> genes. The mitochondrial translation products were labeled with [<sup>35</sup>S]-methionine in the presence of cycloheximide and resolved by electrophoresis on a 17.5&#x00025; SDS-polyacrylamide gel. (C) Comparison of the <italic>COX1</italic> introns between different yeast species. Species are arranged in order according to their phylogenetic distance from <italic>S. cerevisiae</italic>. Solid triangles represent introns and the numbers mark their positions in the <italic>COX1</italic> mRNA. M1 and M2 are the introns that require Mrs1 for their excision.</p></caption><graphic xlink:href="pbio.1000432.g004"/></fig><fig id="pbio-1000432-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g005</object-id><label>Figure 5</label><caption><title>Cytonuclear incompatibility caused by <italic>MRS1</italic> and <italic>AIM22</italic> is not due to misregulation of gene transcription or failure of protein transport into mitochondria.</title><p>(A) <italic>Sc-MRS1</italic> is transcribed at wild-type level in the <italic>S. paradoxus mrs1&#x00394;</italic> mutant. Total RNA was isolated from the <italic>S. paradoxus mrs1&#x00394;</italic> mutant carrying the empty vector, <italic>Sc-MRS1</italic> or <italic>Sp-MRS1</italic>, respectively, reverse transcribed, and subjected to quantitative PCR using Sp-MRS1-specific, Sc-MRS1-specific, and ACT1-specific primers. The <italic>MRS1</italic> mRNA levels were then normalized to the <italic>ACT1</italic> mRNA levels. (B) <italic>Sc-AIM22</italic> is transcribed at a wild-type level in the <italic>S. bayanus aim22&#x00394;</italic> mutant. Total RNA was isolated from the <italic>S. bayanus aim22&#x00394;</italic> mutant carrying the empty vector, <italic>Sc-AIM22</italic> or <italic>Sb-AIM22</italic>, respectively, reverse transcribed, and subjected to quantitative PCR using Sb-AIM22-specific, Sc-AIM22-specific, and ACT1-specific primers. The <italic>AIM22</italic> mRNA levels were then normalized to the <italic>ACT1</italic> mRNA levels. (C) Sc-Mrs1 localizes in the mitochondria of the <italic>S. paradoxus mrs1&#x00394;</italic> mutant containing <italic>Sc-MRS1</italic> and Sc-Aim22 localizes in the mitochondria of the <italic>S. bayanus aim22&#x00394;</italic> mutant containing <italic>Sc-AIM22</italic>. Mrs1 or Aim22 was fused with c-Myc at the C-terminus. Total cell extracts (total) or purified mitochondria fractions (mito) were hybridized with different antibodies to quantify the amount of proteins transported into the mitochondria. Both Hsc82 and G6PDH (glucose-6-phosphate dehydrogenase) are cytosolic proteins. Atp2 is a mitochondrial protein.</p></caption><graphic xlink:href="pbio.1000432.g005"/></fig><p>In order to understand how the <italic>COX1</italic> introns evolved in yeast, we compared <italic>COX1</italic> intron patterns between <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, <italic>S. bayanus</italic>, <italic>S. servazzii</italic>, <italic>Candida glabrata</italic>, and <italic>Kluyveromyces thermotolerans</italic>. <italic>S. servazzii</italic> and <italic>C. glabrata</italic> are species outside the <italic>sensu stricto</italic> complex and <italic>K. thermotolerans</italic> is a pre-WGD (whole-genome duplication) species. The comparison indicates that the intron in the <italic>Sp-</italic> or <italic>Sb-COX1</italic> gene incompatible with Sc-Mrs1 is an ancient intron (<xref ref-type="fig" rid="pbio-1000432-g004">Figure 4C</xref>). Since this intron was eliminated only in the <italic>S. cerevisiae</italic> lineage, it is likely that the <italic>Sc-MRS1</italic> gene product lost the ability to splice this intron after the intron loss event (by adaptation or drift).</p></sec><sec id="s2d"><title>The Functional Change of Mrs1 Is Mainly Caused by Three Nonsynonymous Mutations</title><p>The fact that <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic> share a high degree of nucleotide sequence identity allowed us to determine the key mutations underlying the functional change of the <italic>MRS1</italic> gene and to reconstruct the process of Mrs1 evolution. To this end, chimeric proteins with regions from Sc-Mrs1 and Sp-Mrs1 were constructed and assayed for their ability to complement the respiratory defect of the <italic>Sp-mrs1&#x00394;</italic> mutants. We found that the functional difference between Sc-Mrs1 and Sp-Mrs1 is mainly determined by a region comprising 63 amino acids (a.a. sites 179&#x02013;241; <xref ref-type="fig" rid="pbio-1000432-g006">Figure 6A</xref>). Nine nonsynonymous changes have accumulated in this region since <italic>Sc-MRS1</italic> and <italic>Sp-MRS1</italic> diverged (<xref ref-type="supplementary-material" rid="pbio.1000432.s002">Figure S2A</xref>). To determine which of these mutations led to the altered activity of Mrs1, we introduced the <italic>S. paradoxus</italic> version of each of these sites into <italic>Sc-MRS1</italic> and assayed their ability to rescue the <italic>Sp-mrs1&#x00394;</italic> respiratory defect. Analogous experiments were performed in the reverse direction by introducing Sc-specific amino acids into <italic>Sp-MRS1</italic>. Only mutations in three amino acids (Sc to Sp: T201A, V211A, and M227I) had obvious contributions (<xref ref-type="fig" rid="pbio-1000432-g006">Figure 6B</xref> and <xref ref-type="supplementary-material" rid="pbio.1000432.s002">Figure S2</xref>). When all three mutations were combined together in a single mutant clone, it explained most of the effect. The growth rate of cells carrying the mutant plasmid (Sc-MRS1-n123) in a glycerol-containing medium is about 75&#x00025; of that of wild type cells. Interestingly, these three amino acids are all conserved in <italic>S. paradoxus</italic>, <italic>S. kudriavzevii</italic>, and <italic>S. bayanus</italic> but are changed in <italic>S. cerevisiae</italic>. Among the other six nonsynonymous changes in this region, only two of them (Sc to Sp: K186E and R223Q) share the same pattern. This observation is consistent with our hypothesis that the functional change of <italic>MRS1</italic> occurred only after an ancestral <italic>COX1</italic> intron was lost in <italic>S. cerevisiae</italic>. Our results clearly demonstrate that the observed nuclear-mitochondrial incompatibility results from cumulative effects of multiple mutations. On the other hand, they also suggest that only a small fraction of the nonsynonymous changes between species contributes to the incompatibility.</p><fig id="pbio-1000432-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g006</object-id><label>Figure 6</label><caption><title>The functional change between <italic>S. cerevisiae</italic> and <italic>S. paradoxus MRS1</italic> is mainly determined by three nonsynonymous mutations.</title><p>(A) Hybrid genes were constructed by fusing different regions of <italic>Sc-MRS1</italic> with <italic>Sp-MRS1</italic>. The resulting plasmid constructs were then transformed into <italic>Sp-mrs1&#x00394;</italic> to test whether they could rescue its respiratory defect. The region between amino acids 179 and 241 of Sp-Mrs1 (shown in black color in H-MRS1-P3) was critical for its function in Sp-mitochondria. All nine nonsynonymous changes in this region were tested individually for their effects on the functional change. Three of them (at positions 201, 211, and 227; marked with asterisks) were found to have obvious effects. In H-MRS1-m123, these three amino acids were mutated to the <italic>S. cerevisiae</italic> sequences. In Sc-MRS1-n123, the same positions were mutated to the <italic>S. paradoxus</italic> sequences. (B) Growth rates of the <italic>S. paradoxus mrs1&#x00394;</italic> mutants carrying different hybrid or mutant <italic>MRS1</italic> genes in glycerol-containing media. Cells were pre-adapted to the glycerol-containing medium for 1 d and those in the early log phase were used to measure the growth rate. Three independent replicates for each fitness measurement were performed. Each of H-MRS1-m1, m2, and m3 contains a single amino acid change (Sp to Sc): A201T in m1, A211V in m2, and I227M in m3, respectively. Each of Sc-MRS1-n1, n2, and n3 contains the reverse amino acid change (Sc to Sp): T201A in n1, V211A in n2, and M227I in n3, respectively.</p></caption><graphic xlink:href="pbio.1000432.g006"/></fig><p>The Mrs1 protein does not contain any specific functional domain. However, a recent study has used computer modeling to predict the Mrs1 protein structure <xref rid="pbio.1000432-Duncan1" ref-type="bibr">[38]</xref>. We examined the relative positions of these residues using the predicted structure. All three residues (a.a. 201, 211, and 227) were found to localize on the RNA-binding surface (<xref ref-type="supplementary-material" rid="pbio.1000432.s003">Figure S3</xref>). It is possible that these amino acid changes have altered the substrate specificity of Mrs1 that leads to the incompatibility.</p></sec><sec id="s2e"><title>
+<italic>Sc-AIM22</italic> Is Not Compatible with Sb-Mitochondria</title><p>
+<italic>S. cerevisiae</italic> nuclei can only support <italic>S. bayanus</italic> mitochondria if the cells contain a <italic>S. bayanus AIM22</italic> gene. <italic>AIM22</italic> encodes a lipoate-protein ligase homologous to the bacterial <italic>lplA</italic> protein <xref rid="pbio.1000432-Schonauer1" ref-type="bibr">[39]</xref>,<xref rid="pbio.1000432-Miller1" ref-type="bibr">[40]</xref>. In eukaryotic cells, lipoic acid has been shown to be an essential cofactor to a variety of mitochondrial proteins and lipoate-protein ligase (together with other enzymes) is required to lipoylate these mitochondrial targets <xref rid="pbio.1000432-Schonauer1" ref-type="bibr">[39]</xref>,<xref rid="pbio.1000432-Marvin1" ref-type="bibr">[41]</xref>. We have not investigated which mitochondrial protein or enzyme in Sb-mitochondria is incompatible with Sc-Aim22. However, our data indicate that the incompatibility is not caused by misregulation of the <italic>Sc-AIM22</italic> transcription or failure to transport the Sc-Aim22 to Sb-mitochondria (<xref ref-type="fig" rid="pbio-1000432-g005">Figure 5</xref>).</p><p>To investigate whether the <italic>AIM22</italic> gene in the <italic>S. cerevisiae-S. paradoxus</italic> branch has been under positive selection during evolution, we measured the ratio of nonsynonymous (Ka) to synonymous (Ks) nucleotide substitution rates between these species. The Ka/Ks values of <italic>AIM22</italic> in the <italic>S. cerevisiae&#x02013;S. paradoxus</italic>, <italic>S. cerevisiae&#x02013;S. bayanus</italic>, and <italic>S. paradoxus&#x02013;S. bayanus</italic> pairs are 0.13, 0.12, and 0.14, showing no sign of positive selection (Ka/Ks&#x0003e;1). We also ran a PAML's branch-model analysis on the <italic>AIM22</italic> gene <xref rid="pbio.1000432-Yang1" ref-type="bibr">[42]</xref>,<xref rid="pbio.1000432-Yang2" ref-type="bibr">[43]</xref> but could not detect any signature of significant positive selection (<xref ref-type="supplementary-material" rid="pbio.1000432.s004">Figure S4</xref>).</p><p>Previous studies of <italic>AEP2</italic> have shown that the nuclear-mitochondrial incompatibility is asymmetrical. While Sb-Aep2 is completely incompatible with Sc-mitochondria, Sc-Aep2 retains partial compatibility with Sb-mitochondria <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>. We also found that incompatibility caused by <italic>AIM22</italic> and <italic>MRS1</italic> only occurred in one direction. Although <italic>Sc-AIM22</italic> and <italic>Sc-MRS1</italic> are not compatible with Sb-mitochondria, <italic>Sb-AIM22</italic> could complement the <italic>Sc-aim22&#x00394;</italic> mutant and both <italic>Sb-</italic> and <italic>Sp-MRS1</italic> could rescue the <italic>Sc-mrs1&#x00394;</italic> mutant.</p></sec><sec id="s2f"><title>The Evolution of Cytonuclear Incompatibility Is Correlated with the Phylogeny</title><p>Nuclear-mitochondrial incompatibility has been shown to occur commonly between different yeast species <xref rid="pbio.1000432-Spirek1" ref-type="bibr">[32]</xref>,<xref rid="pbio.1000432-Sulo1" ref-type="bibr">[33]</xref>. However, it is unclear whether nuclear-mitochondrial incompatibility between different pairs of species has evolved at different periods of time in different species lineages. To address this issue, we tested the compatibility between different orthologues of these incompatible genes and mitochondria from each species. Different orthologous alleles of <italic>MRS1</italic>, <italic>AIM22</italic>, or <italic>AEP2</italic> were transformed into the <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, or <italic>S. bayanus</italic> mutants in which the wild-type copy had been deleted. The transformants were then tested for their ability to grow on glycerol plates (<xref ref-type="fig" rid="pbio-1000432-g007">Figure 7A</xref> and <xref ref-type="supplementary-material" rid="pbio.1000432.s001">Figure S1</xref>). Information from these assays was used to deduce the time of occurrence of the functional change leading to incompatibility. A clear correlation between the emergence of cytonuclear incompatibility and the phylogeny is observed (<xref ref-type="fig" rid="pbio-1000432-g007">Figure 7B</xref>). <italic>Sc-MRS1</italic> is incompatible with Sp-mitochondria or Sb-mitochondria, indicating that the functional change of <italic>Sc-MRS1</italic> occurred only in the <italic>S. cerevisiae</italic> lineage. On the other hand, the functional change of <italic>AIM22</italic> represents a more ancient event in the common ancestor of <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic>, because <italic>Sc-AIM22</italic> and <italic>Sp-AIM22</italic> are exchangeable but neither of them is compatible with Sb-mitochondria. Finally, the data suggest that <italic>Sb-AEP2</italic> diverged in function only in the <italic>S. bayanus</italic> lineage since <italic>Sb-AEP2</italic> is incompatible with either Sc-mitochondria or Sp-mitochondria. These results provide evidence that nuclear-mitochondrial incompatibility has repeatedly arisen during the history of yeast evolution and probably represents an important reproductive isolation mechanism in yeast species.</p><fig id="pbio-1000432-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pbio.1000432.g007</object-id><label>Figure 7</label><caption><title>The evolution of incompatibility is correlated with the phylogeny.</title><p>(A) Results of the functional complementation assay indicate that the functional change of Mrs1, Aim22, and Aep2 occurred at different periods of time. Different orthologous alleles of <italic>MRS1</italic>, <italic>AIM22</italic>, or <italic>AEP2</italic> were transformed into <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, or <italic>S. bayanus</italic> mutants in which the wild-type copy had been deleted. The transformants were then tested for their ability to grow on glycerol plates. If the transformant was able to grow on the glycerol plate, it suggested that the mitochondria were compatible with the gene (which is indicated by the plus sign). Sc-mito, Sc-mitochondria; Sp-mito, Sp-mitochondria; Sb-mito, Sb-mitochondria. (B) A diagram of the phylogeny of three closely related <italic>Saccharomyces</italic> species showing the branches in which functional changes of the cytonuclear incompatible genes have occurred and the molecular functions of these genes.</p></caption><graphic xlink:href="pbio.1000432.g007"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>Previous studies in <italic>Saccharomyces</italic> yeasts have suggested that the deleterious effect of DNA sequence divergence on meiotic recombination probably contributes in part to reproductive isolation during yeast evolution <xref rid="pbio.1000432-Greig1" ref-type="bibr">[12]</xref>,<xref rid="pbio.1000432-Hunter1" ref-type="bibr">[44]</xref>,<xref rid="pbio.1000432-Liti1" ref-type="bibr">[45]</xref>. Our results, on the other hand, suggest that nuclear-mitochondrial incompatibility is also a promising candidate for causing intrinsic hybrid dysfunction. In fact, these two mechanisms are not mutually exclusive. Genomes from different populations will accumulate enough DNA sequence divergence only after extended periods of allopatric isolation, but the effect of sequence divergence can be applied directly in the diploid F1 hybrid cells. Cytonuclear incompatibility can be achieved by only a few mutations, and its deleterious effect can be carried on to the F1 gamete or F2 progeny. In theory, cytonuclear incompatibility has a stronger impact on blocking gene flow between populations in the early stages of speciation, and reproductive isolation is reinforced later on when populations have accumulated enough DNA sequence divergence. These two mechanisms can be complementary to each other in terms of their effects and evolutionary trajectories. It will be interesting to investigate whether cytonuclear incompatibility exists between different populations of the same species.</p><p>Reproductive isolation resulting from genetic incompatibility has been discovered in a variety of organisms <xref rid="pbio.1000432-Presgraves1" ref-type="bibr">[7]</xref>. Most of the examples characterized so far are caused by interactions between nuclear genes. In yeast, this type of incompatibility has been investigated in a few studies, yet no strongly nuclear-nuclear incompatible genes were identified <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>,<xref rid="pbio.1000432-Greig3" ref-type="bibr">[46]</xref>. On the other hand, cytonuclear incompatibilities were observed in hybrids between different yeast species or populations <xref rid="pbio.1000432-Chou1" ref-type="bibr">[47]</xref>. Cytonuclear incompatibility probably represents a more general mechanism of reproductive isolation in yeast. By analyzing the functions and the interacting components of the identified incompatible genes, we discovered that cytonuclear incompatibility could be achieved by multiple molecular mechanisms: intron splicing, protein lipoylation, and activation of mRNA translation. This suggests that cytonuclear incompatibility in yeast can occur in various pathways by diverse molecular mechanisms.</p><p>Scientists usually compare orthologous sequences from different species and use the detected molecular signatures to infer the evolutionary process of a gene. Since our data suggest that Mrs1 changed function only after <italic>S. cerevisiae</italic> diverged from <italic>S. paradoxus</italic>, it is reasonable to assume that the altered function originated from amino acid changes that occurred specifically in the <italic>S. cerevisiae</italic> lineage. By comparing the coding regions of the <italic>MRS1</italic> orthologues from <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, <italic>S. kudriavzevii</italic>, and <italic>S. bayanus</italic>, we observed 22 amino acids that are different in <italic>S. cerevisiae</italic> but are conserved in the other three species. Interestingly, our functional assays showed that only three of these amino acid changes contribute significantly to the functional differences of Mrs1. The other mutations may have very minor effects unable to be detected by our functional assays or have been fixed simply by genetic drift. In a previous study, Rawson and Burton have also observed that three amino acid changes in a nucleus-encoded cytochrome c (CYC) are responsible for cytonuclear incompatibility between different populations of a marine copepod, <italic>Tigriopus californicus</italic>
+<xref rid="pbio.1000432-Rawson1" ref-type="bibr">[48]</xref>. These results illustrate the importance of mapping the critical amino acid changes in order to understand how a gene evolved.</p><p>What is the major driving force underlying the evolution of mitochondria? It is known that the mitochondrial genome suffers a higher mutation load because it is constantly facing higher levels of oxidative reagents and its DNA protection system is more primitive as compared to the nuclear genome. With a much smaller copy number of mitochondrial DNA in yeast (30&#x02013;80 molecules of mitochondrial genomes in yeast cells compared to 1,000&#x02013;5,000 molecules in animal cells), mutations may be fixed frequently in the mitochondrial genome by genetic drift. Since wild yeast often propagate clonally in natural environments <xref rid="pbio.1000432-Greig2" ref-type="bibr">[13]</xref>, a founder cell with mild deleterious mutations in its mitochondrial genome may have a chance to accumulate suppressors in the mitochondrial or nuclear genomes to rescue the fitness before its progeny are outcompeted by cells from another population. Alternatively, mitochondrial evolution may be driven by an &#x0201c;arms race&#x0201d; process between selfish mitochondrial DNA and the &#x0201c;wild-type&#x0201d; mitochondrial or nuclear genomes. It is commonly observed in yeast that by manipulating the host replication or segregation systems, some mitochondrial genomes allow themselves to be inherited more efficiently, even though they may be carrying compromised respiratory functions <xref rid="pbio.1000432-Contamine1" ref-type="bibr">[49]</xref>. In a sexual population, the other mitochondrial or host nuclear genomes will be selected to counteract this selfish behavior or the deleterious effects carried by the selfish DNA. Such an &#x0201c;arms race&#x0201d; may allow mitochondrial genomes to evolve faster than by genetic drift (in a fashion similar to positive selection). Incompatibilities driven by arms races between different genetic components have been suggested in a few recent studies <xref rid="pbio.1000432-Presgraves1" ref-type="bibr">[7]</xref>. Among these genetic conflicts, most of them are caused by selfish elements manipulating segregation distortion <xref rid="pbio.1000432-Mihola1" ref-type="bibr">[11]</xref>,<xref rid="pbio.1000432-Ferree1" ref-type="bibr">[50]</xref>,<xref rid="pbio.1000432-Phadnis1" ref-type="bibr">[51]</xref>,<xref rid="pbio.1000432-Bayes1" ref-type="bibr">[52]</xref>,<xref rid="pbio.1000432-Tang1" ref-type="bibr">[53]</xref>. The &#x0201c;hybrid necrosis&#x0201d; phenotype observed in <italic>Arabidopsis</italic> probably results from recurrent conflicts between the host defense system and pathogens <xref rid="pbio.1000432-Bomblies1" ref-type="bibr">[10]</xref>. The genetic conflict caused by selfish mitochondrial genomes may represent another type of arms race. It will be interesting to investigate whether the arms race model can explain the cytonuclear incompatibilities observed in other organisms. Finally, ecological adaptation may also contribute to mitochondrial evolution. Evidence suggests that adaptive mutations have occurred in mitochondria in response to different environmental stresses that interfere with cellular energy demands <xref rid="pbio.1000432-Rawson1" ref-type="bibr">[48]</xref>,<xref rid="pbio.1000432-Dowling1" ref-type="bibr">[54]</xref>,<xref rid="pbio.1000432-Ryan1" ref-type="bibr">[55]</xref>. In yeast, it has been shown that <italic>S. bayanus</italic> grows much better than <italic>S. cerevisiae</italic> on media containing only non-fermentable carbon sources, with the opposite observed in fermentable media. It has been speculated that the changes in <italic>Sb-AEP2</italic> and <italic>Sb-OLI1</italic> are a part of such ecological adaptation <xref rid="pbio.1000432-Lee1" ref-type="bibr">[14]</xref>.</p><p>Reciprocal crosses between species often generate asymmetrical hybrid viability or sterility, a general feature of intrinsic postzygotic isolation called Darwin's corollary <xref rid="pbio.1000432-Bolnick1" ref-type="bibr">[56]</xref>,<xref rid="pbio.1000432-Darwin1" ref-type="bibr">[57]</xref>,<xref rid="pbio.1000432-Tiffin1" ref-type="bibr">[58]</xref>,<xref rid="pbio.1000432-Turelli1" ref-type="bibr">[59]</xref>,<xref rid="pbio.1000432-Wu2" ref-type="bibr">[60]</xref>. The Dobzhansky-Muller model suggests that alleles causing reproductive isolation act asymmetrically <xref rid="pbio.1000432-Coyne2" ref-type="bibr">[61]</xref>. However, asymmetries in allele action do not necessarily lead to asymmetries in reproductive isolation <xref rid="pbio.1000432-Levin1" ref-type="bibr">[62]</xref>. Incompatibility between autosomal loci affects both reciprocal crosses identically. Asymmetric reproductive isolation is usually caused by incompatibility between autosomal loci and uniparentally inherited materials, such as cytoplasmic elements and sex chromosomes. It has been suggested that cytonuclear incompatibility caused by different trajectories of mitochondrial evolution in different species may contribute to this phenomenon <xref rid="pbio.1000432-Turelli1" ref-type="bibr">[59]</xref>,<xref rid="pbio.1000432-Bolnick2" ref-type="bibr">[63]</xref>. Our results provide the molecular basis to support this hypothesis. Since cytonuclear incompatibility can be achieved by multiple molecular mechanisms and evolve at different rates in different lineages, it can serve as a general mechanism of reproductive isolation and also create asymmetrical reproductive isolation between species.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Strains and Genetic Procedures</title><p>Yeast strain genotypes are listed in <xref ref-type="supplementary-material" rid="pbio.1000432.s006">Table S2</xref>. The parental <italic>S. cerevisiae</italic> strains (JYL1127 and JYL1128) are isogenic with <italic>W303</italic> (<italic>MATa ura3-1 his3-11,15 leu2-3,112 trp1-1 ade2-1 can1-100</italic>). The parental <italic>S. paradoxus</italic> strains (JYL1137 and JYL1138) are derived from YDG 197 and are a gift from Dr. Duncan Greig (University College London, UK). The parental <italic>S. bayanus</italic> strains (JYL1030 and JYL1031) were derived from a strain (<italic>S. bayanus</italic> #180) collected by Dr. Duccio Cavalieri (University of Florence, Italy). The strains JYL1157, 917, and 1256 were used for measuring hybrid fertility. Substitutive and integrative transformations were carried out by the lithium acetate procedure <xref rid="pbio.1000432-Ito1" ref-type="bibr">[64]</xref>. Media, microbial, and genetic techniques were as described <xref rid="pbio.1000432-Guthrie1" ref-type="bibr">[65]</xref>.</p></sec><sec id="s4b"><title>Estimation of the Nuclear-Mitochondrial Incompatible Gene Number between Different Species</title><p>a and &#x003b1; cells of one species (<italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, <italic>or S. bayanus</italic>) were crossed to &#x003b1; and a <italic>&#x003c1;</italic>
+<sup>0</sup> cells of another species to generate F1 hybrid cells. In both species, the <italic>SPO11</italic> genes were deleted to prevent meiotic recombination between homologous chromosomes. Strains from the first species also had a <italic>URA3</italic> marker inserted near the centromere of a chromosome so that haploid spores could be efficiently selected on 5-FOA plates. After the hybrid diploids were induced to sporulate, viable spores were tested for their respiratory ability. Respiration-deficient clones were further crossed with <italic>&#x003c1;</italic>
+<sup>0</sup> mutants of the parental species to confirm that the defect was caused by cytonuclear genomic incompatibility (<xref ref-type="fig" rid="pbio-1000432-g001">Figure 1</xref>). A genetic analysis was used to estimate the number of the nuclear genes that are incompatible with mitochondrial DNA from another species: in a cross between two <italic>spo11&#x00394;</italic> mutants, meiotic recombination does not occur and homologous chromosomes segregate randomly <xref rid="pbio.1000432-Klein1" ref-type="bibr">[66]</xref>,<xref rid="pbio.1000432-Shonn1" ref-type="bibr">[67]</xref>. For a specific chromosome A, 25&#x00025; of the spores will carry two A chromosomes (of both parental types), 50&#x00025; of them will carry one A chromosome, and 25&#x00025; of them will have no A chromosome (these cells will not survive so they will not be counted in our later analysis). If only one gene on chromosome A is recessively incompatible with mitochondrial DNA (in our case, all spores from a single cross carry the same parental type of mitochondrial DNA), we expect to see that 66&#x00025; of the viable spores are Gly&#x0002b; (1/3&#x0002b;2/3&#x000d7;1/2&#x0200a;=&#x0200a;66&#x00025;). The spores carrying two A chromosomes should be Gly&#x0002b; because the incompatibility is recessive. Half of the spores that carry only one A chromosome should be Gly&#x0002b; if their A chromosome is from the same parent of the mitochondrial DNA. If two genes on different chromosomes are involved, we expect to see that 43&#x00025; of the viable spores are Gly&#x0002b; (66&#x00025;&#x000d7;66&#x00025;&#x0200a;=&#x0200a;43&#x00025;). Epistatic effects are not taken into account in this analysis because considering such effects would make it impossible to estimate the involved locus number.</p></sec><sec id="s4c"><title>Genetic Screens and Genotyping of the Hybrid Haploids with Incompatible Nuclear-Mitochondrial Genomes</title><p>We examined the chromosome composition of respiration-deficient hybrid lines by PCR using species-specific primers for all 16 chromosomes. Yeast genomic DNA libraries constructed from <italic>S. bayanus</italic> or <italic>S. paradoxus</italic> genomes were transformed into the Gly&#x02212; clones to screen for incompatible genes.</p></sec><sec id="s4d"><title>RNA Isolation and Northern Analyses of Mitochondrial Transcripts</title><p>Yeast strains were grown in 3 ml YPD liquid cultures at 30&#x000b0;C to stationary phase and total RNA was isolated using Qiagen RNeasy Midi Kits (Qiagen, Valencia, CA). Ten &#x000b5;g of total RNA was separated on a 1.3&#x00025; agarose-formaldehyde gel and then transferred to a nylon membrane (Millipore, Billerica, MA). Northern blotting was performed as described <xref rid="pbio.1000432-Sambrook1" ref-type="bibr">[68]</xref>. Because both <italic>COX1</italic> and <italic>COB</italic> signals were difficult to be completely washed out and the background was high after the second hybridization, we used the same RNA samples to load three repeats on the same gel, cut the membrane after transferring, and hybridized each repeat with one specific probe. The gene-specific primers for the DIG-labeled probes were described in Rodeheffer et al. <xref rid="pbio.1000432-Rodeheffer1" ref-type="bibr">[69]</xref> except for the probe of <italic>COX2</italic>. The primers for <italic>COX2</italic> were <named-content content-type="gene">5&#x02032;-TTAATGATAGTGGTGAAACTGTTG-3&#x02032;</named-content> and <named-content content-type="gene">5&#x02032;-CCAAAGAATCAAAATAAATGCTCG-3&#x02032;</named-content>. The probe generation and hybridization were as described in the Genius System User's Guide (Roche, Indianapolis, IN).</p></sec><sec id="s4e"><title>Quantitative PCR</title><p>Total RNA was isolated using Qiagen RNeasy Midi Kit (Qiagen). First-strand cDNA was synthesized using High Capacity cDNA Reverse Transcriptase Kit (Applied Biosystems, Foster City, CA) at 37&#x000b0;C for 2 h. A 25-fold dilution of the reaction products was then subjected to real-time quantitative PCR analysis using gene-specific primers, the SYBR Green PCR master mix, and an ABI-7000 sequence detection system (Applied Biosystems). Data were analyzed using the built-in analysis program.</p></sec><sec id="s4f"><title>Isolation of Mitochondria and Western Blot Analyses</title><p>Yeast cells were cultured in selection medium at 30&#x000b0;C to the mid-exponential phase. Mitochondria fractions were prepared as described <xref rid="pbio.1000432-Lemaire1" ref-type="bibr">[70]</xref>. The post-mitochondrial supernatant (PMS) fractions were collected immediately following centrifugation of mitochondria. The PMS was precipitated with ice-cold 10&#x00025; trichloroacetic acid (TCA) and centrifuged at 14K rpm for 15 min at 4&#x000b0;C, followed by an ice-cold acetone wash using the same centrifugation conditions. Laemmli sample buffer was added to the mitochondrial pellets resuspended in TE buffer plus protease inhibitors, and to the PMS fractions. For Western blot analyses, mitochondrial protein (40 &#x000b5;g) was separated by SDS-PAGE using the GE Healthcare Life Science system (Mini-Vertical Units SE260) and then transferred to a BioRad Immun-Blot PVDF membrane in transfer buffer (25 mM Tris base, 200 mM glycine, 20&#x00025; methanol, 0.01&#x00025; SDS). The immunopositive bands were visualized by using Western Lightning chemiluminescence reagent (PerkinElmer, Waltham, MA). Anti-G6PDH polyclonal antibody was purchased from Sigma (St. Louis, MO). Anti-c-Myc polyclonal antibody (A-14) was from Santa Cruz Biotechnology (Santa Cruz, CA). Anti-Hsc82 and Anti-Atp2 polyclonal antibodies were obtained from Dr. Chung Wang (Academia Sinica, Taipei).</p></sec><sec id="s4g"><title>In Vivo Radiolabeling of Mitochondrial Proteins</title><p>Cells in the early log phase were inoculated in 2 ml standard minimal medium and grown for 30 min. Cycloheximide stock solution (10 ml/mg in dH<sub>2</sub>O) was added to a final concentration of 100 &#x000b5;g/ml. Cells were incubated for 5 min prior to addition of 0.1 mCi of [<sup>35</sup>S]-methionine. The reaction was terminated after 1 h by adding 2 ml of chase solution (1&#x00025; casamino acid, 2 mg/ml Na<sub>2</sub>SO<sub>4</sub>). Mitochondria were prepared as described <xref rid="pbio.1000432-Guthrie1" ref-type="bibr">[65]</xref>. The radiolabeled proteins were separated on a 17.5&#x00025; polyacrylamide gel.</p></sec><sec id="s4h"><title>Prediction of the Ancestral <italic>AIM22</italic> Sequence</title><p>The ancestral <italic>AIM22</italic> sequence of <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic> was constructed using a maximum likelihood procedure (free-ratio model) as implemented in the PAML package. The Ka/Ks ratios were calculated using DNAsp 5.0 <xref rid="pbio.1000432-Librado1" ref-type="bibr">[71]</xref>.</p></sec><sec id="s4i"><title>Branch-Model Analysis for <italic>AIM22</italic>
+</title><p>The Ka/Ks ratios were estimated using the free-ratio branch model of PAML. This method allows the Ka/Ks ratios to vary among branches in a given phylogeny and is useful in detecting positive selection acting on particular lineages <xref rid="pbio.1000432-Yang1" ref-type="bibr">[42]</xref>. The <italic>AIM22</italic> sequences from five <italic>Saccharomyces sensu stricto</italic> species (<italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, <italic>S. mikatae</italic>, <italic>S. bayanus</italic>, and <italic>S. kudriavzevii</italic>) were used in our analysis. Results of the branch-model PAML analysis suggested that no particular lineage was subjected to positive selection (i.e., Ka/Ks&#x0003e;1) (<xref ref-type="supplementary-material" rid="pbio.1000432.s004">Figure S4</xref>). Because both <italic>Sc-AIM22</italic> and <italic>Sp-AIM22</italic> are incompatible to <italic>S. bayanus</italic> mitochondria, it is possible that there has been an accelerated sequence evolution in either the lineage leading to <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic>, or in the lineage leading to <italic>S. bayanus</italic>. To test this hypothesis, we performed an analysis as described in Yang and Nielsen <xref rid="pbio.1000432-Yang2" ref-type="bibr">[43]</xref>. One &#x003c9;-ratio and two &#x003c9;-ratio branch models were implemented. The first model assumes that only one &#x003c9;-ratio leads to whole phylogeny branches and the second model assumes that one &#x003c9;-ratio leads to the branch that we are interested in and another &#x003c9;-ratio leads to the rest of the other branches. Twice the difference of their likelihood ratio between any two models (likelihood ratio test; LRT) was then compared against a chi-square distribution. The degree of freedom (d.f.) was obtained based on the difference of parameters used in two different models. From our analysis, no accelerated evolution was observed in any lineage along the phylogeny of <italic>AIM22</italic>.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pbio.1000432.s001"><label>Figure S1</label><caption><p>
+<bold>Functional complementation assays of different orthologous </bold>
+<bold><italic>MRS1</italic></bold>
+<bold> and </bold>
+<bold><italic>AIM22</italic></bold>
+<bold> genes.</bold> Orthologous <italic>MRS1</italic> and <italic>AIM22</italic> genes from different species were cloned into single-copy plasmids and then transformed into the <italic>S. cerevisiae</italic>, <italic>S. paradoxus</italic>, or <italic>S. bayanus</italic> mutants in which the wild-type copy had been deleted. The transformants were serially diluted and plated on YPD or glycerol plates to measure their growth. The empty vector was used as a control in the experiment.</p><p>(3.80 MB TIF)</p></caption><media xlink:href="pbio.1000432.s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbio.1000432.s002"><label>Figure S2</label><caption><p>
+<bold>Growth rates of the </bold>
+<bold><italic>S. paradoxus mrs1&#x00394;</italic></bold>
+<bold> mutants carrying different hybrid or mutant </bold>
+<bold><italic>MRS1</italic></bold>
+<bold> genes in glycerol-containing media.</bold> (A) Protein sequence alignment between Sp-Mrs1 and Sc-Mrs1. Only the region between amino acids 177 and 241 is shown. The numbers indicate positions of the nonsynonymous changes. (B) Growth rates of the <italic>S. paradoxus mrs1&#x00394;</italic> mutants carrying different mutant <italic>Sc-MRS1</italic> genes in glycerol-containing media. Each of <italic>Sc-MRS1</italic> mutants contains a single amino acid change (from Sc to Sp). (C) Growth rates of the <italic>S. paradoxus mrs1&#x00394;</italic> mutants carrying different mutant <italic>H-MRS1</italic> genes in glycerol-containing media. Each of <italic>H-MRS1</italic> mutants contains a single amino acid change (from Sp to Sc). Cells were pre-adapted to the glycerol-containing medium for 1 d and those in the early log phase were used to measure the growth rate. Three independent replicates for each fitness measurement were performed.</p><p>(0.50 MB EPS)</p></caption><media xlink:href="pbio.1000432.s002.eps"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbio.1000432.s003"><label>Figure S3</label><caption><p>
+<bold>The critical nonsynonymous changes occur at the residues positioned on the RNA-binding surface.</bold> A structural model for the Mrs1 protein-RNA complex. The RNA backbone is shown as a tube and the domains protected by Mrs1 binding are red. Mrs1 dimers are colored dark and light gray. The three critical amino acids with nonsynonymous substitutions (201, 211, and 227) are shown as red spheres on the Mrs1 proteins.</p><p>(0.92 MB EPS)</p></caption><media xlink:href="pbio.1000432.s003.eps"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbio.1000432.s004"><label>Figure S4</label><caption><p>
+<bold>Evolutionary rate analysis of </bold>
+<bold><italic>AIM22</italic></bold>
+<bold> from different </bold>
+<bold><italic>Saccharomyces</italic></bold>
+<bold> yeast species.</bold> Dendrogram showing phylogenetic relationships among related <italic>Saccharomyces</italic> yeast species. (A) The Ka/Ks ratios for the entire <italic>AIM22</italic> coding sequence in different <italic>Saccharomyces</italic> lineages. The tree branch length and branch-wise Ka/Ks ratio were estimated using a free-ratio model by Codeml in the PAML package. (B). The lineage that leads to <italic>S. cerevisiae</italic> and <italic>S. paradoxus</italic> was treated as foreground branches (&#x003c9;2) and the other as background branches (&#x003c9;1). When &#x003c9;2 was compared with &#x003c9;1, no significantly accelerated rate was detected using LRT (<italic>p</italic>&#x0200a;=&#x0200a;0.5902). (C). The lineage that leads to <italic>S. bayanus</italic> was treated as foreground branches (&#x003c9;2) and the other as background branches (&#x003c9;1). No significantly accelerated rate was detected between these two branches (<italic>p</italic>&#x0200a;=&#x0200a;0.1407). 2&#x003b4;l, twice the difference of likelihood values from two models; d.f., degree of freedom; H<sub>0</sub>, null model; H<sub>1</sub>, alternative model.</p><p>(0.66 MB EPS)</p></caption><media xlink:href="pbio.1000432.s004.eps"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbio.1000432.s005"><label>Table S1</label><caption><p>
+<bold>Chromosome genotyping of the hybrid haploids with deficient mitochondrial functions.</bold> Genomic DNAs isolated from the F1 Gly&#x02212; haploid cells (<xref ref-type="fig" rid="pbio-1000432-g001">Figure 1</xref>) were analyzed by PCR with species-specific primers for each chromosome (&#x0002b;, chromosome detected). After <italic>MRS1</italic> and <italic>AIM22</italic> were identified to cause the cytonuclear incompatibility, plasmids carrying <italic>Sb-MRS1</italic>, <italic>Sb-AIM22</italic>, <italic>Sb-MRS1-AIM22</italic>, or <italic>Sp-MRS1</italic> were transformed into each clone to see whether the respiratory defect could be rescued (v, rescued; x, not rescued; nd, not determined).</p><p>(0.26 MB DOC)</p></caption><media xlink:href="pbio.1000432.s005.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbio.1000432.s006"><label>Table S2</label><caption><p>
+<bold>Yeast strains.</bold>
+</p><p>(0.04 MB DOC)</p></caption><media xlink:href="pbio.1000432.s006.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank E. Louis, A. Murray, and members of the Leu lab for helpful discussions and comments on the manuscript. We thank H. Kuhn and H. Wilson for English editing. We thank S.-L. Liu for advice on PAML analyses, and C. Duncan and K. Weeks for providing the information on Mrs1 protein structure.</p></ack><fn-group><fn fn-type="COI-statement"><p>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p>This work was supported by Academia Sinica of Taiwan, National Science Council of Taiwan (grant no. NSC96-2628-B-001-016-MY3) and Human Frontier Science Program (grant no. RGY53/2007). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pbio.1000432-Coyne1"><label>1</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Coyne</surname><given-names>J. A</given-names></name><name><surname>Orr</surname><given-names>H. A</given-names></name></person-group>
+<year>2004</year>
+<source>Speciation</source>
+<publisher-loc>Sunderland, MA</publisher-loc>
+<publisher-name>Sinauer Associates</publisher-name>
+</element-citation></ref><ref id="pbio.1000432-Dobzhansky1"><label>2</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Dobzhansky</surname><given-names>T</given-names></name></person-group>
+<year>1937</year>
+<source>Genetics and the origin of species</source>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Columbia University Press</publisher-name>
+</element-citation></ref><ref id="pbio.1000432-Muller1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muller</surname><given-names>H</given-names></name></person-group>
+<year>1942</year>
+<article-title>Isolating mechanisms, evolution, and temperature.</article-title>
+<source>Biological Symposia</source>
+<volume>6</volume>
+<fpage>71</fpage>
+<lpage>125</lpage>
+</element-citation></ref><ref id="pbio.1000432-Noor1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Noor</surname><given-names>M. A</given-names></name><name><surname>Feder</surname><given-names>J. L</given-names></name></person-group>
+<year>2006</year>
+<article-title>Speciation genetics: evolving approaches.</article-title>
+<source>Nat Rev Genet</source>
+<volume>7</volume>
+<fpage>851</fpage>
+<lpage>861</lpage>
+<pub-id pub-id-type="pmid">17033626</pub-id></element-citation></ref><ref id="pbio.1000432-Wu1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>C. I</given-names></name><name><surname>Ting</surname><given-names>C. T</given-names></name></person-group>
+<year>2004</year>
+<article-title>Genes and speciation.</article-title>
+<source>Nat Rev Genet</source>
+<volume>5</volume>
+<fpage>114</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="pmid">14735122</pub-id></element-citation></ref><ref id="pbio.1000432-Mallet1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mallet</surname><given-names>J</given-names></name></person-group>
+<year>2006</year>
+<article-title>What does Drosophila genetics tell us about speciation?</article-title>
+<source>Trends Ecol Evol</source>
+<volume>21</volume>
+<fpage>386</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="pmid">16765478</pub-id></element-citation></ref><ref id="pbio.1000432-Presgraves1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Presgraves</surname><given-names>D. C</given-names></name></person-group>
+<year>2010</year>
+<article-title>The molecular evolutionary basis of species formation.</article-title>
+<source>Nat Rev Genet</source>
+<volume>11</volume>
+<fpage>175</fpage>
+<lpage>180</lpage>
+<pub-id pub-id-type="pmid">20051985</pub-id></element-citation></ref><ref id="pbio.1000432-Bikard1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bikard</surname><given-names>D</given-names></name><name><surname>Patel</surname><given-names>D</given-names></name><name><surname>Le Mette</surname><given-names>C</given-names></name><name><surname>Giorgi</surname><given-names>V</given-names></name><name><surname>Camilleri</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Divergent evolution of duplicate genes leads to genetic incompatibilities within A. thaliana.</article-title>
+<source>Science</source>
+<volume>323</volume>
+<fpage>623</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="pmid">19179528</pub-id></element-citation></ref><ref id="pbio.1000432-Schartl1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schartl</surname><given-names>M</given-names></name></person-group>
+<year>2008</year>
+<article-title>Evolution of Xmrk: an oncogene, but also a speciation gene?</article-title>
+<source>Bioessays</source>
+<volume>30</volume>
+<fpage>822</fpage>
+<lpage>832</lpage>
+<pub-id pub-id-type="pmid">18693261</pub-id></element-citation></ref><ref id="pbio.1000432-Bomblies1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bomblies</surname><given-names>K</given-names></name><name><surname>Weigel</surname><given-names>D</given-names></name></person-group>
+<year>2007</year>
+<article-title>Hybrid necrosis: autoimmunity as a potential gene-flow barrier in plant species.</article-title>
+<source>Nat Rev Genet</source>
+<volume>8</volume>
+<fpage>382</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="pmid">17404584</pub-id></element-citation></ref><ref id="pbio.1000432-Mihola1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mihola</surname><given-names>O</given-names></name><name><surname>Trachtulec</surname><given-names>Z</given-names></name><name><surname>Vlcek</surname><given-names>C</given-names></name><name><surname>Schimenti</surname><given-names>J. C</given-names></name><name><surname>Forejt</surname><given-names>J</given-names></name></person-group>
+<year>2009</year>
+<article-title>A mouse speciation gene encodes a meiotic histone H3 methyltransferase.</article-title>
+<source>Science</source>
+<volume>323</volume>
+<fpage>373</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="pmid">19074312</pub-id></element-citation></ref><ref id="pbio.1000432-Greig1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greig</surname><given-names>D</given-names></name></person-group>
+<year>2009</year>
+<article-title>Reproductive isolation in Saccharomyces.</article-title>
+<source>Heredity</source>
+<volume>102</volume>
+<fpage>39</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="pmid">18648383</pub-id></element-citation></ref><ref id="pbio.1000432-Greig2"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greig</surname><given-names>D</given-names></name><name><surname>Leu</surname><given-names>J. Y</given-names></name></person-group>
+<year>2009</year>
+<article-title>Natural history of budding yeast.</article-title>
+<source>Curr Biol</source>
+<volume>19</volume>
+<fpage>R886</fpage>
+<lpage>R890</lpage>
+<pub-id pub-id-type="pmid">19825346</pub-id></element-citation></ref><ref id="pbio.1000432-Lee1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>H. Y</given-names></name><name><surname>Chou</surname><given-names>J. Y</given-names></name><name><surname>Cheong</surname><given-names>L</given-names></name><name><surname>Chang</surname><given-names>N. H</given-names></name><name><surname>Yang</surname><given-names>S. Y</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Incompatibility of nuclear and mitochondrial genomes causes hybrid sterility between two yeast species.</article-title>
+<source>Cell</source>
+<volume>135</volume>
+<fpage>1065</fpage>
+<lpage>1073</lpage>
+<pub-id pub-id-type="pmid">19070577</pub-id></element-citation></ref><ref id="pbio.1000432-Yamagata1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yamagata</surname><given-names>Y</given-names></name><name><surname>Yamamoto</surname><given-names>E</given-names></name><name><surname>Aya</surname><given-names>K</given-names></name><name><surname>Win</surname><given-names>K. T</given-names></name><name><surname>Doi</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Mitochondrial gene in the nuclear genome induces reproductive barrier in rice.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>107</volume>
+<fpage>1494</fpage>
+<lpage>1499</lpage>
+<pub-id pub-id-type="pmid">20080642</pub-id></element-citation></ref><ref id="pbio.1000432-Fishman1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fishman</surname><given-names>L</given-names></name><name><surname>Willis</surname><given-names>J. H</given-names></name></person-group>
+<year>2006</year>
+<article-title>A cytonuclear incompatibility causes anther sterility in Mimulus hybrids.</article-title>
+<source>Evolution</source>
+<volume>60</volume>
+<fpage>1372</fpage>
+<lpage>1381</lpage>
+<pub-id pub-id-type="pmid">16929654</pub-id></element-citation></ref><ref id="pbio.1000432-Hanson1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanson</surname><given-names>M. R</given-names></name><name><surname>Bentolila</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>Interactions of mitochondrial and nuclear genes that affect male gametophyte development.</article-title>
+<source>Plant Cell</source>
+<volume>16</volume>
+<issue>Suppl</issue>
+<fpage>S154</fpage>
+<lpage>S169</lpage>
+<pub-id pub-id-type="pmid">15131248</pub-id></element-citation></ref><ref id="pbio.1000432-Andersson1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersson</surname><given-names>S. G</given-names></name><name><surname>Zomorodipour</surname><given-names>A</given-names></name><name><surname>Andersson</surname><given-names>J. O</given-names></name><name><surname>Sicheritz-Ponten</surname><given-names>T</given-names></name><name><surname>Alsmark</surname><given-names>U. C</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>The genome sequence of Rickettsia prowazekii and the origin of mitochondria.</article-title>
+<source>Nature</source>
+<volume>396</volume>
+<fpage>133</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="pmid">9823893</pub-id></element-citation></ref><ref id="pbio.1000432-Martin1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>W</given-names></name><name><surname>Herrmann</surname><given-names>R. G</given-names></name></person-group>
+<year>1998</year>
+<article-title>Gene transfer from organelles to the nucleus: how much, what happens, and why?</article-title>
+<source>Plant Physiol</source>
+<volume>118</volume>
+<fpage>9</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">9733521</pub-id></element-citation></ref><ref id="pbio.1000432-Dieckmann1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dieckmann</surname><given-names>C. L</given-names></name><name><surname>Staples</surname><given-names>R. R</given-names></name></person-group>
+<year>1994</year>
+<article-title>Regulation of mitochondrial gene expression in Saccharomyces cerevisiae.</article-title>
+<source>Int Rev Cytol</source>
+<volume>152</volume>
+<fpage>145</fpage>
+<lpage>181</lpage>
+<pub-id pub-id-type="pmid">8206703</pub-id></element-citation></ref><ref id="pbio.1000432-Grivell1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grivell</surname><given-names>L. A</given-names></name></person-group>
+<year>1989</year>
+<article-title>Nucleo-mitochondrial interactions in yeast mitochondrial biogenesis.</article-title>
+<source>Eur J Biochem</source>
+<volume>182</volume>
+<fpage>477</fpage>
+<lpage>493</lpage>
+<pub-id pub-id-type="pmid">2666128</pub-id></element-citation></ref><ref id="pbio.1000432-Reinders1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reinders</surname><given-names>J</given-names></name><name><surname>Zahedi</surname><given-names>R. P</given-names></name><name><surname>Pfanner</surname><given-names>N</given-names></name><name><surname>Meisinger</surname><given-names>C</given-names></name><name><surname>Sickmann</surname><given-names>A</given-names></name></person-group>
+<year>2006</year>
+<article-title>Toward the complete yeast mitochondrial proteome: multidimensional separation techniques for mitochondrial proteomics.</article-title>
+<source>J Proteome Res</source>
+<volume>5</volume>
+<fpage>1543</fpage>
+<lpage>1554</lpage>
+<pub-id pub-id-type="pmid">16823961</pub-id></element-citation></ref><ref id="pbio.1000432-Rand1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rand</surname><given-names>D. M</given-names></name><name><surname>Haney</surname><given-names>R. A</given-names></name><name><surname>Fry</surname><given-names>A. J</given-names></name></person-group>
+<year>2004</year>
+<article-title>Cytonuclear coevolution: the genomics of cooperation.</article-title>
+<source>Trends Ecol Evol</source>
+<volume>19</volume>
+<fpage>645</fpage>
+<lpage>653</lpage>
+<pub-id pub-id-type="pmid">16701327</pub-id></element-citation></ref><ref id="pbio.1000432-Blier1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blier</surname><given-names>P. U</given-names></name><name><surname>Dufresne</surname><given-names>F</given-names></name><name><surname>Burton</surname><given-names>R. S</given-names></name></person-group>
+<year>2001</year>
+<article-title>Natural selection and the evolution of mtDNA-encoded peptides: evidence for intergenomic co-adaptation.</article-title>
+<source>Trends Genet</source>
+<volume>17</volume>
+<fpage>400</fpage>
+<lpage>406</lpage>
+<pub-id pub-id-type="pmid">11418221</pub-id></element-citation></ref><ref id="pbio.1000432-Gershoni1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gershoni</surname><given-names>M</given-names></name><name><surname>Templeton</surname><given-names>A. R</given-names></name><name><surname>Mishmar</surname><given-names>D</given-names></name></person-group>
+<year>2009</year>
+<article-title>Mitochondrial bioenergetics as a major motive force of speciation.</article-title>
+<source>Bioessays</source>
+<volume>31</volume>
+<fpage>642</fpage>
+<lpage>650</lpage>
+<pub-id pub-id-type="pmid">19408245</pub-id></element-citation></ref><ref id="pbio.1000432-Barrientos1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrientos</surname><given-names>A</given-names></name><name><surname>Kenyon</surname><given-names>L</given-names></name><name><surname>Moraes</surname><given-names>C. T</given-names></name></person-group>
+<year>1998</year>
+<article-title>Human xenomitochondrial cybrids. Cellular models of mitochondrial complex I deficiency.</article-title>
+<source>J Biol Chem</source>
+<volume>273</volume>
+<fpage>14210</fpage>
+<lpage>14217</lpage>
+<pub-id pub-id-type="pmid">9603924</pub-id></element-citation></ref><ref id="pbio.1000432-Chase1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chase</surname><given-names>C. D</given-names></name></person-group>
+<year>2007</year>
+<article-title>Cytoplasmic male sterility: a window to the world of plant mitochondrial-nuclear interactions.</article-title>
+<source>Trends Genet</source>
+<volume>23</volume>
+<fpage>81</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="pmid">17188396</pub-id></element-citation></ref><ref id="pbio.1000432-Ellison1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellison</surname><given-names>C. K</given-names></name><name><surname>Burton</surname><given-names>R. S</given-names></name></person-group>
+<year>2006</year>
+<article-title>Disruption of mitochondrial function in interpopulation hybrids of Tigriopus californicus.</article-title>
+<source>Evolution Int J Org Evolution</source>
+<volume>60</volume>
+<fpage>1382</fpage>
+<lpage>1391</lpage>
+</element-citation></ref><ref id="pbio.1000432-Ellison2"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellison</surname><given-names>C. K</given-names></name><name><surname>Niehuis</surname><given-names>O</given-names></name><name><surname>Gadau</surname><given-names>J</given-names></name></person-group>
+<year>2008</year>
+<article-title>Hybrid breakdown and mitochondrial dysfunction in hybrids of Nasonia parasitoid wasps.</article-title>
+<source>J Evol Biol</source>
+<volume>21</volume>
+<fpage>1844</fpage>
+<lpage>1851</lpage>
+<pub-id pub-id-type="pmid">18811665</pub-id></element-citation></ref><ref id="pbio.1000432-Liepins1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liepins</surname><given-names>A</given-names></name><name><surname>Hennen</surname><given-names>S</given-names></name></person-group>
+<year>1977</year>
+<article-title>Cytochrome oxidase deficiency during development of amphibian nucleocytoplasmic hybrids.</article-title>
+<source>Dev Biol</source>
+<volume>57</volume>
+<fpage>284</fpage>
+<lpage>292</lpage>
+<pub-id pub-id-type="pmid">194804</pub-id></element-citation></ref><ref id="pbio.1000432-Sackton1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sackton</surname><given-names>T. B</given-names></name><name><surname>Haney</surname><given-names>R. A</given-names></name><name><surname>Rand</surname><given-names>D. M</given-names></name></person-group>
+<year>2003</year>
+<article-title>Cytonuclear coadaptation in Drosophila: disruption of cytochrome c oxidase activity in backcross genotypes.</article-title>
+<source>Evolution Int J Org Evolution</source>
+<volume>57</volume>
+<fpage>2315</fpage>
+<lpage>2325</lpage>
+</element-citation></ref><ref id="pbio.1000432-Spirek1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spirek</surname><given-names>M</given-names></name><name><surname>Horvath</surname><given-names>A</given-names></name><name><surname>Piskur</surname><given-names>J</given-names></name><name><surname>Sulo</surname><given-names>P</given-names></name></person-group>
+<year>2000</year>
+<article-title>Functional co-operation between the nuclei of Saccharomyces cerevisiae and mitochondria from other yeast species.</article-title>
+<source>Curr Genet</source>
+<volume>38</volume>
+<fpage>202</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="pmid">11126779</pub-id></element-citation></ref><ref id="pbio.1000432-Sulo1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sulo</surname><given-names>P</given-names></name><name><surname>Spirek</surname><given-names>M</given-names></name><name><surname>Soltesova</surname><given-names>A</given-names></name><name><surname>Marinoni</surname><given-names>G</given-names></name><name><surname>Piskur</surname><given-names>J</given-names></name></person-group>
+<year>2003</year>
+<article-title>The efficiency of functional mitochondrial replacement in Saccharomyces species has directional character.</article-title>
+<source>FEMS Yeast Res</source>
+<volume>4</volume>
+<fpage>97</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="pmid">14554201</pub-id></element-citation></ref><ref id="pbio.1000432-Kuenzi1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuenzi</surname><given-names>M. T</given-names></name><name><surname>Tingle</surname><given-names>M. A</given-names></name><name><surname>Halvorson</surname><given-names>H. O</given-names></name></person-group>
+<year>1974</year>
+<article-title>Sporulation of Saccharomyces cerevisiae in the absence of a functional mitochondrial genome.</article-title>
+<source>J Bacteriol</source>
+<volume>117</volume>
+<fpage>80</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="pmid">4358046</pub-id></element-citation></ref><ref id="pbio.1000432-Kreike1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kreike</surname><given-names>J</given-names></name><name><surname>Schulze</surname><given-names>M</given-names></name><name><surname>Pillar</surname><given-names>T</given-names></name><name><surname>Korte</surname><given-names>A</given-names></name><name><surname>Rodel</surname><given-names>G</given-names></name></person-group>
+<year>1986</year>
+<article-title>Cloning of a nuclear gene MRS1 involved in the excision of a single group I intron (bI3) from the mitochondrial COB transcript in S. cerevisiae.</article-title>
+<source>Curr Genet</source>
+<volume>11</volume>
+<fpage>185</fpage>
+<lpage>191</lpage>
+<pub-id pub-id-type="pmid">2834089</pub-id></element-citation></ref><ref id="pbio.1000432-Bousquet1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bousquet</surname><given-names>I</given-names></name><name><surname>Dujardin</surname><given-names>G</given-names></name><name><surname>Poyton</surname><given-names>R. O</given-names></name><name><surname>Slonimski</surname><given-names>P. P</given-names></name></person-group>
+<year>1990</year>
+<article-title>Two group I mitochondrial introns in the cob-box and coxI genes require the same MRS1/PET157 nuclear gene product for splicing.</article-title>
+<source>Curr Genet</source>
+<volume>18</volume>
+<fpage>117</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="pmid">1699677</pub-id></element-citation></ref><ref id="pbio.1000432-Herbert1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herbert</surname><given-names>C. J</given-names></name><name><surname>Macadre</surname><given-names>C</given-names></name><name><surname>Becam</surname><given-names>A. M</given-names></name><name><surname>Lazowska</surname><given-names>J</given-names></name><name><surname>Slonimski</surname><given-names>P. P</given-names></name></person-group>
+<year>1992</year>
+<article-title>The MRS1 gene of S. douglasii: co-evolution of mitochondrial introns and specific splicing proteins encoded by nuclear genes.</article-title>
+<source>Gene Expr</source>
+<volume>2</volume>
+<fpage>203</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="pmid">1333316</pub-id></element-citation></ref><ref id="pbio.1000432-Duncan1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duncan</surname><given-names>C. D</given-names></name><name><surname>Weeks</surname><given-names>K. M</given-names></name></person-group>
+<year>2010</year>
+<article-title>The Mrs1 splicing factor binds the bI3 group I intron at each of two tetraloop-receptor motifs.</article-title>
+<source>PLoS One</source>
+<volume>5</volume>
+<fpage>e8983</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0008983">10.1371/journal.pone.0008983</ext-link></comment>
+<pub-id pub-id-type="pmid">20126554</pub-id></element-citation></ref><ref id="pbio.1000432-Schonauer1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schonauer</surname><given-names>M. S</given-names></name><name><surname>Kastaniotis</surname><given-names>A. J</given-names></name><name><surname>Kursu</surname><given-names>V. A</given-names></name><name><surname>Hiltunen</surname><given-names>J. K</given-names></name><name><surname>Dieckmann</surname><given-names>C. L</given-names></name></person-group>
+<year>2009</year>
+<article-title>Lipoic acid synthesis and attachment in yeast mitochondria.</article-title>
+<source>J Biol Chem</source>
+<volume>284</volume>
+<fpage>23234</fpage>
+<lpage>23242</lpage>
+<pub-id pub-id-type="pmid">19570983</pub-id></element-citation></ref><ref id="pbio.1000432-Miller1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>J. R</given-names></name><name><surname>Busby</surname><given-names>R. W</given-names></name><name><surname>Jordan</surname><given-names>S. W</given-names></name><name><surname>Cheek</surname><given-names>J</given-names></name><name><surname>Henshaw</surname><given-names>T. F</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Escherichia coli LipA is a lipoyl synthase: in vitro biosynthesis of lipoylated pyruvate dehydrogenase complex from octanoyl-acyl carrier protein.</article-title>
+<source>Biochemistry</source>
+<volume>39</volume>
+<fpage>15166</fpage>
+<lpage>15178</lpage>
+<pub-id pub-id-type="pmid">11106496</pub-id></element-citation></ref><ref id="pbio.1000432-Marvin1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marvin</surname><given-names>M. E</given-names></name><name><surname>Williams</surname><given-names>P. H</given-names></name><name><surname>Cashmore</surname><given-names>A. M</given-names></name></person-group>
+<year>2001</year>
+<article-title>The isolation and characterisation of a Saccharomyces cerevisiae gene (LIP2) involved in the attachment of lipoic acid groups to mitochondrial enzymes.</article-title>
+<source>FEMS Microbiol Lett</source>
+<volume>199</volume>
+<fpage>131</fpage>
+<lpage>136</lpage>
+<pub-id pub-id-type="pmid">11356580</pub-id></element-citation></ref><ref id="pbio.1000432-Yang1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Swanson</surname><given-names>W. J</given-names></name><name><surname>Vacquier</surname><given-names>V. D</given-names></name></person-group>
+<year>2000</year>
+<article-title>Maximum-likelihood analysis of molecular adaptation in abalone sperm lysin reveals variable selective pressures among lineages and sites.</article-title>
+<source>Mol Biol Evol</source>
+<volume>17</volume>
+<fpage>1446</fpage>
+<lpage>1455</lpage>
+<pub-id pub-id-type="pmid">11018152</pub-id></element-citation></ref><ref id="pbio.1000432-Yang2"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Nielsen</surname><given-names>R</given-names></name></person-group>
+<year>2002</year>
+<article-title>Codon-substitution models for detecting molecular adaptation at individual sites along specific lineages.</article-title>
+<source>Mol Biol Evol</source>
+<volume>19</volume>
+<fpage>908</fpage>
+<lpage>917</lpage>
+<pub-id pub-id-type="pmid">12032247</pub-id></element-citation></ref><ref id="pbio.1000432-Hunter1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hunter</surname><given-names>N</given-names></name><name><surname>Chambers</surname><given-names>S. R</given-names></name><name><surname>Louis</surname><given-names>E. J</given-names></name><name><surname>Borts</surname><given-names>R. H</given-names></name></person-group>
+<year>1996</year>
+<article-title>The mismatch repair system contributes to meiotic sterility in an interspecific yeast hybrid.</article-title>
+<source>Embo J</source>
+<volume>15</volume>
+<fpage>1726</fpage>
+<lpage>1733</lpage>
+<pub-id pub-id-type="pmid">8612597</pub-id></element-citation></ref><ref id="pbio.1000432-Liti1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liti</surname><given-names>G</given-names></name><name><surname>Barton</surname><given-names>D. B</given-names></name><name><surname>Louis</surname><given-names>E. J</given-names></name></person-group>
+<year>2006</year>
+<article-title>Sequence diversity, reproductive isolation and species concepts in Saccharomyces.</article-title>
+<source>Genetics</source>
+<volume>174</volume>
+<fpage>839</fpage>
+<lpage>850</lpage>
+<pub-id pub-id-type="pmid">16951060</pub-id></element-citation></ref><ref id="pbio.1000432-Greig3"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greig</surname><given-names>D</given-names></name></person-group>
+<year>2007</year>
+<article-title>A screen for recessive speciation genes expressed in the gametes of F1 hybrid yeast.</article-title>
+<source>PLoS Genet</source>
+<volume>3</volume>
+<fpage>e21</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pgen.0030021">10.1371/journal.pgen.0030021</ext-link></comment>
+<pub-id pub-id-type="pmid">17305429</pub-id></element-citation></ref><ref id="pbio.1000432-Chou1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chou</surname><given-names>J. Y</given-names></name><name><surname>Leu</surname><given-names>J. Y</given-names></name></person-group>
+<year>2010</year>
+<article-title>Speciation through cytonuclear incompatibility: insights from yeast, and implications for higher eukaryotes.</article-title>
+<source>Bioessays</source>
+<volume>32</volume>
+<fpage>401</fpage>
+<lpage>411</lpage>
+<pub-id pub-id-type="pmid">20414898</pub-id></element-citation></ref><ref id="pbio.1000432-Rawson1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rawson</surname><given-names>P. D</given-names></name><name><surname>Burton</surname><given-names>R. S</given-names></name></person-group>
+<year>2002</year>
+<article-title>Functional coadaptation between cytochrome c and cytochrome c oxidase within allopatric populations of a marine copepod.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>99</volume>
+<fpage>12955</fpage>
+<lpage>12958</lpage>
+<pub-id pub-id-type="pmid">12271133</pub-id></element-citation></ref><ref id="pbio.1000432-Contamine1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Contamine</surname><given-names>V</given-names></name><name><surname>Picard</surname><given-names>M</given-names></name></person-group>
+<year>2000</year>
+<article-title>Maintenance and integrity of the mitochondrial genome: a plethora of nuclear genes in the budding yeast.</article-title>
+<source>Microbiol Mol Biol Rev</source>
+<volume>64</volume>
+<fpage>281</fpage>
+<lpage>315</lpage>
+<pub-id pub-id-type="pmid">10839818</pub-id></element-citation></ref><ref id="pbio.1000432-Ferree1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferree</surname><given-names>P. M</given-names></name><name><surname>Barbash</surname><given-names>D. A</given-names></name></person-group>
+<year>2009</year>
+<article-title>Species-specific heterochromatin prevents mitotic chromosome segregation to cause hybrid lethality in Drosophila.</article-title>
+<source>PLoS Biol</source>
+<volume>7</volume>
+<fpage>e1000234</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.1000234">10.1371/journal.pbio.1000234</ext-link></comment>
+<pub-id pub-id-type="pmid">19859525</pub-id></element-citation></ref><ref id="pbio.1000432-Phadnis1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phadnis</surname><given-names>N</given-names></name><name><surname>Orr</surname><given-names>H. A</given-names></name></person-group>
+<year>2009</year>
+<article-title>A single gene causes both male sterility and segregation distortion in Drosophila hybrids.</article-title>
+<source>Science</source>
+<volume>323</volume>
+<fpage>376</fpage>
+<lpage>379</lpage>
+<pub-id pub-id-type="pmid">19074311</pub-id></element-citation></ref><ref id="pbio.1000432-Bayes1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bayes</surname><given-names>J. J</given-names></name><name><surname>Malik</surname><given-names>H. S</given-names></name></person-group>
+<year>2009</year>
+<article-title>Altered heterochromatin binding by a hybrid sterility protein in drosophila sibling species.</article-title>
+<source>Science</source>
+<volume>326</volume>
+<fpage>1538</fpage>
+<lpage>1541</lpage>
+<pub-id pub-id-type="pmid">19933102</pub-id></element-citation></ref><ref id="pbio.1000432-Tang1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>S</given-names></name><name><surname>Presgraves</surname><given-names>D. C</given-names></name></person-group>
+<year>2009</year>
+<article-title>Evolution of the Drosophila nuclear pore complex results in multiple hybrid incompatibilities.</article-title>
+<source>Science</source>
+<volume>323</volume>
+<fpage>779</fpage>
+<lpage>782</lpage>
+<pub-id pub-id-type="pmid">19197064</pub-id></element-citation></ref><ref id="pbio.1000432-Dowling1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dowling</surname><given-names>D. K</given-names></name><name><surname>Friberg</surname><given-names>U</given-names></name><name><surname>Lindell</surname><given-names>J</given-names></name></person-group>
+<year>2008</year>
+<article-title>Evolutionary implications of non-neutral mitochondrial genetic variation.</article-title>
+<source>Trends Ecol Evol</source>
+<volume>23</volume>
+<fpage>546</fpage>
+<lpage>554</lpage>
+<pub-id pub-id-type="pmid">18722688</pub-id></element-citation></ref><ref id="pbio.1000432-Ryan1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ryan</surname><given-names>M. T</given-names></name><name><surname>Hoogenraad</surname><given-names>N. J</given-names></name></person-group>
+<year>2007</year>
+<article-title>Mitochondrial-nuclear communications.</article-title>
+<source>Annu Rev Biochem</source>
+<volume>76</volume>
+<fpage>701</fpage>
+<lpage>722</lpage>
+<pub-id pub-id-type="pmid">17227225</pub-id></element-citation></ref><ref id="pbio.1000432-Bolnick1"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bolnick</surname><given-names>D. I</given-names></name><name><surname>Near</surname><given-names>T. J</given-names></name></person-group>
+<year>2005</year>
+<article-title>Tempo of hybrid inviability in centrarchid fishes (Teleostei: Centrarchidae).</article-title>
+<source>Evolution</source>
+<volume>59</volume>
+<fpage>1754</fpage>
+<lpage>1767</lpage>
+<pub-id pub-id-type="pmid">16329245</pub-id></element-citation></ref><ref id="pbio.1000432-Darwin1"><label>57</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Darwin</surname><given-names>C</given-names></name></person-group>
+<year>1859</year>
+<source>On the origin of species</source>
+<publisher-loc>London</publisher-loc>
+<publisher-name>John Murray</publisher-name>
+</element-citation></ref><ref id="pbio.1000432-Tiffin1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tiffin</surname><given-names>P</given-names></name><name><surname>Olson</surname><given-names>M. S</given-names></name><name><surname>Moyle</surname><given-names>L. C</given-names></name></person-group>
+<year>2001</year>
+<article-title>Asymmetrical crossing barriers in angiosperms.</article-title>
+<source>Proc Biol Sci</source>
+<volume>268</volume>
+<fpage>861</fpage>
+<lpage>867</lpage>
+<pub-id pub-id-type="pmid">11345333</pub-id></element-citation></ref><ref id="pbio.1000432-Turelli1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turelli</surname><given-names>M</given-names></name><name><surname>Moyle</surname><given-names>L. C</given-names></name></person-group>
+<year>2007</year>
+<article-title>Asymmetric postmating isolation: Darwin's corollary to Haldane's rule.</article-title>
+<source>Genetics</source>
+<volume>176</volume>
+<fpage>1059</fpage>
+<lpage>1088</lpage>
+<pub-id pub-id-type="pmid">17435235</pub-id></element-citation></ref><ref id="pbio.1000432-Wu2"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>C. I</given-names></name><name><surname>Davis</surname><given-names>A. W</given-names></name></person-group>
+<year>1993</year>
+<article-title>Evolution of postmating reproductive isolation: the composite nature of Haldane's rule and its genetic bases.</article-title>
+<source>The American Naturalist</source>
+<volume>142</volume>
+<fpage>187</fpage>
+<lpage>212</lpage>
+</element-citation></ref><ref id="pbio.1000432-Coyne2"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coyne</surname><given-names>J. A</given-names></name><name><surname>Orr</surname><given-names>H. A</given-names></name></person-group>
+<year>1998</year>
+<article-title>The evolutionary genetics of speciation.</article-title>
+<source>Philos Trans R Soc Lond B Biol Sci</source>
+<volume>353</volume>
+<fpage>287</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="pmid">9533126</pub-id></element-citation></ref><ref id="pbio.1000432-Levin1"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levin</surname><given-names>D. A</given-names></name></person-group>
+<year>1978</year>
+<article-title>The origin of isolating mechanisms in flowering plants.</article-title>
+<source>Evol Biol</source>
+<volume>11</volume>
+<fpage>185</fpage>
+<lpage>315</lpage>
+</element-citation></ref><ref id="pbio.1000432-Bolnick2"><label>63</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bolnick</surname><given-names>D. I</given-names></name><name><surname>Turelli</surname><given-names>M</given-names></name><name><surname>Lopez-Fernandez</surname><given-names>H</given-names></name><name><surname>Wainwright</surname><given-names>P. C</given-names></name><name><surname>Near</surname><given-names>T. J</given-names></name></person-group>
+<year>2008</year>
+<article-title>Accelerated mitochondrial evolution and &#x0201c;Darwin's corollary&#x0201d;: asymmetric viability of reciprocal F1 hybrids in Centrarchid fishes.</article-title>
+<source>Genetics</source>
+<volume>178</volume>
+<fpage>1037</fpage>
+<lpage>1048</lpage>
+<pub-id pub-id-type="pmid">18245356</pub-id></element-citation></ref><ref id="pbio.1000432-Ito1"><label>64</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ito</surname><given-names>H</given-names></name><name><surname>Fukuda</surname><given-names>Y</given-names></name><name><surname>Murata</surname><given-names>K</given-names></name><name><surname>Kimura</surname><given-names>A</given-names></name></person-group>
+<year>1983</year>
+<article-title>Transformation of intact yeast cells treated with alkali cations.</article-title>
+<source>J Bacteriol</source>
+<volume>153</volume>
+<fpage>163</fpage>
+<lpage>168</lpage>
+<pub-id pub-id-type="pmid">6336730</pub-id></element-citation></ref><ref id="pbio.1000432-Guthrie1"><label>65</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Guthrie</surname><given-names>C</given-names></name><name><surname>Fink</surname><given-names>G</given-names></name></person-group>
+<year>2004</year>
+<source>Guide to yeast genetics and molecular and cell biology</source>
+<publisher-loc>San Diego</publisher-loc>
+<publisher-name>Elsevier Academic Press</publisher-name>
+</element-citation></ref><ref id="pbio.1000432-Klein1"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>F</given-names></name><name><surname>Mahr</surname><given-names>P</given-names></name><name><surname>Galova</surname><given-names>M</given-names></name><name><surname>Buonomo</surname><given-names>S. B</given-names></name><name><surname>Michaelis</surname><given-names>C</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>A central role for cohesins in sister chromatid cohesion, formation of axial elements, and recombination during yeast meiosis.</article-title>
+<source>Cell</source>
+<volume>98</volume>
+<fpage>91</fpage>
+<lpage>103</lpage>
+<pub-id pub-id-type="pmid">10412984</pub-id></element-citation></ref><ref id="pbio.1000432-Shonn1"><label>67</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shonn</surname><given-names>M. A</given-names></name><name><surname>McCarroll</surname><given-names>R</given-names></name><name><surname>Murray</surname><given-names>A. W</given-names></name></person-group>
+<year>2000</year>
+<article-title>Requirement of the spindle checkpoint for proper chromosome segregation in budding yeast meiosis.</article-title>
+<source>Science</source>
+<volume>289</volume>
+<fpage>300</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="pmid">10894778</pub-id></element-citation></ref><ref id="pbio.1000432-Sambrook1"><label>68</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sambrook</surname><given-names>J</given-names></name><name><surname>Russell</surname><given-names>D. W</given-names></name></person-group>
+<year>2001</year>
+<source>Molecular cloning</source>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Cold Spring Harbor Laboratory Press</publisher-name>
+</element-citation></ref><ref id="pbio.1000432-Rodeheffer1"><label>69</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rodeheffer</surname><given-names>M. S</given-names></name><name><surname>Boone</surname><given-names>B. E</given-names></name><name><surname>Bryan</surname><given-names>A. C</given-names></name><name><surname>Shadel</surname><given-names>G. S</given-names></name></person-group>
+<year>2001</year>
+<article-title>Nam1p, a protein involved in RNA processing and translation, is coupled to transcription through an interaction with yeast mitochondrial RNA polymerase.</article-title>
+<source>J Biol Chem</source>
+<volume>276</volume>
+<fpage>8616</fpage>
+<lpage>8622</lpage>
+<pub-id pub-id-type="pmid">11118450</pub-id></element-citation></ref><ref id="pbio.1000432-Lemaire1"><label>70</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lemaire</surname><given-names>C</given-names></name><name><surname>Dujardin</surname><given-names>G</given-names></name></person-group>
+<year>2008</year>
+<article-title>Preparation of respiratory chain complexes from Saccharomyces cerevisiae wild-type and mutant mitochondria: activity measurement and subunit composition analysis.</article-title>
+<source>Methods Mol Biol</source>
+<volume>432</volume>
+<fpage>65</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="pmid">18370011</pub-id></element-citation></ref><ref id="pbio.1000432-Librado1"><label>71</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Librado</surname><given-names>P</given-names></name><name><surname>Rozas</surname><given-names>J</given-names></name></person-group>
+<year>2009</year>
+<article-title>DnaSP v5: a software for comprehensive analysis of DNA polymorphism data.</article-title>
+<source>Bioinformatics</source>
+<volume>25</volume>
+<fpage>1451</fpage>
+<lpage>1452</lpage>
+<pub-id pub-id-type="pmid">19346325</pub-id></element-citation></ref></ref-list></back></article>

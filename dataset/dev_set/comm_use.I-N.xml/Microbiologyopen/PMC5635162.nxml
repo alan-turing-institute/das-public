@@ -1,0 +1,453 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiologyopen</journal-id><journal-id journal-id-type="iso-abbrev">Microbiologyopen</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-8827</journal-id><journal-id journal-id-type="publisher-id">MBO3</journal-id><journal-title-group><journal-title>MicrobiologyOpen</journal-title></journal-title-group><issn pub-type="epub">2045-8827</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28589562</article-id><article-id pub-id-type="pmc">5635162</article-id><article-id pub-id-type="doi">10.1002/mbo3.496</article-id><article-id pub-id-type="publisher-id">MBO3496</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>The complete genome sequence of <italic>Exiguobacterium arabatum</italic> W&#x02010;01 reveals potential probiotic functions</article-title></title-group><contrib-group><contrib id="mbo3496-cr-0001" contrib-type="author"><name><surname>Cong</surname><given-names>Meinan</given-names></name><xref ref-type="aff" rid="mbo3496-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3496-cr-0002" contrib-type="author"><name><surname>Jiang</surname><given-names>Qingling</given-names></name><xref ref-type="aff" rid="mbo3496-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3496-cr-0003" contrib-type="author"><name><surname>Xu</surname><given-names>Xiaojin</given-names></name><xref ref-type="aff" rid="mbo3496-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3496-cr-0004" contrib-type="author"><name><surname>Huang</surname><given-names>Lixing</given-names></name><xref ref-type="aff" rid="mbo3496-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3496-cr-0005" contrib-type="author"><name><surname>Su</surname><given-names>Yongquan</given-names></name><xref ref-type="aff" rid="mbo3496-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="mbo3496-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mbo3496-cr-0006" contrib-type="author" corresp="yes"><name><surname>Yan</surname><given-names>Qingpi</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8698-3121</contrib-id><address><email>yanqp@jmu.edu.cn</email></address><xref ref-type="aff" rid="mbo3496-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3496-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="mbo3496-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Fisheries College</named-content>
+<named-content content-type="organisation-division">Key Laboratory of Healthy Mariculture for the East China Sea</named-content>
+<named-content content-type="organisation-division">Ministry of Agriculture</named-content>
+<institution>Jimei University</institution>
+<named-content content-type="city">Xiamen</named-content>
+<named-content content-type="country-part">Fujian</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbo3496-aff-0002">
+<label><sup>2</sup></label>
+<institution>State Key Laboratory of Large Yellow Croaker Breeding</institution>
+<named-content content-type="city">Ningde</named-content>
+<named-content content-type="country-part">Fujian</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbo3496-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">College of Ocean &#x00026; Earth Sciences</named-content>
+<institution>Xiamen University</institution>
+<named-content content-type="city">Xiamen</named-content>
+<named-content content-type="country-part">Fujian</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Qingpi Yan, Jimei University, Fisheries College, Xiamen, Fujian, China.<break/>
+Email: <email>yanqp@jmu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2017</year></pub-date><volume>6</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/mbo3.2017.6.issue-5</issue-id><elocation-id>e00496</elocation-id><history><date date-type="received"><day>15</day><month>1</month><year>2017</year></date><date date-type="rev-recd"><day>01</day><month>4</month><year>2017</year></date><date date-type="accepted"><day>10</day><month>4</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>MicrobiologyOpen</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MBO3-6-na.pdf"/><abstract id="mbo3496-abs-0001"><title>Abstract</title><p>Shrimp is extensively cultured worldwide. Shrimp farming is suffering from a variety of diseases. Probiotics are considered to be one of the effective methods to prevent and cure shrimp diseases. <italic>Exiguobacterium arabatum</italic> W&#x02010;01, a gram&#x02010;positive and orange&#x02010;pigmented bacterium, was isolated from the intestine of a healthy <italic>Penaeus vannamei</italic> specimen. Whole&#x02010;genome sequencing revealed a genome of 2,914,854&#x000a0;bp, with 48.02% <styled-content style="fixed-case">GC</styled-content> content. In total, 3,083 open reading frames (<styled-content style="fixed-case">ORF</styled-content>s) were identified, with an average length of 843.98&#x000a0;bp and a mean <styled-content style="fixed-case">GC</styled-content> content of 48.11%, accounting for 89.27% of the genome. Among these <styled-content style="fixed-case">ORF</styled-content>s, 2,884 (93.5%) genes were classified into Clusters of Orthologous Groups (<styled-content style="fixed-case">COG</styled-content>) families comprising 21 functional categories, and 1,650 <styled-content style="fixed-case">ORF</styled-content>s were classified into 83 functional Kyoto Encyclopedia of Genes and Genomes (<styled-content style="fixed-case">KEGG</styled-content>) pathways. A total of 27 <styled-content style="fixed-case">rRNA</styled-content> operons and 68 <styled-content style="fixed-case">tRNA</styled-content>s were identified, with all 20 amino acids represented. In addition, 91 genomic islands, 68 potential prophages, and 33 tandem repeats, but no clustered regularly interspaced short palindromic repeats (<styled-content style="fixed-case">CRISPR</styled-content>s), were found. No resistance genes and only one virulence gene were identified. Among the 150 secreted proteins of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01, a variety of transport system substrate&#x02010;binding proteins, enzymes, and biosynthetic proteins, which play important roles in the uptake and metabolism of nutrients, were found. Two adherence&#x02010;related protein genes and 31 flagellum&#x02010;related protein genes were also identified. Taken together, these results indicate potential probiotic functions for <italic>E.&#x000a0;arabatum</italic> W&#x02010;01.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mbo3496-kwd-0001"><italic>Exiguobacterium arabatum</italic> W&#x02010;01</kwd><kwd id="mbo3496-kwd-0002"><italic>Penaeus vannamei</italic></kwd><kwd id="mbo3496-kwd-0003">probiotic</kwd><kwd id="mbo3496-kwd-0004">whole&#x02010;genome sequence</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>31672694</award-id><award-id>31502194</award-id></award-group><award-group><funding-source>Science and Technology Major/Special Project of Fujian Province</funding-source><award-id>2016NZ0001&#x02010;3</award-id></award-group><award-group><funding-source>Fujian Provincial Department of Science and Technology</funding-source><award-id>JA15289</award-id></award-group><award-group><funding-source>Natural Science Foundation of Fujian Province</funding-source><award-id>2016J05080</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="7"/><word-count count="4725"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mbo3496</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:11.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbo3496-cit-1001">
+<string-name>
+<surname>Cong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>The complete genome sequence of <italic>Exiguobacterium arabatum</italic> W&#x02010;01 reveals potential probiotic functions</article-title>. <source>MicrobiologyOpen</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e496</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/mbo3.496">https://doi.org/10.1002/mbo3.496</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="mbo3496-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The culture of shrimp, especially <italic>Penaeus vannamei,</italic> has rapidly grown to a major aquaculture industry worldwide, providing not only economic income and high&#x02010;quality food product, but also employment to hundreds of thousands of skilled and unskilled workers (Kumar, Roy, Meena, &#x00026; Sarkar, <xref rid="mbo3496-bib-0019" ref-type="ref">2016</xref>). The diseases are considered as one of the critical limiting factor and cause huge economic losses in the shrimp aquaculture (Purivirojkul &#x00026; Khidprasert, <xref rid="mbo3496-bib-0025" ref-type="ref">2009</xref>). The development of non&#x02010;antibiotic and environment friendly agents in shrimp farming has drawn attention, and application of probiotics against bacteria had been a novel and safe approach due to their ability to promote the innate immune response (Kumar et&#x000a0;al., <xref rid="mbo3496-bib-0019" ref-type="ref">2016</xref>).</p><p>Members of <italic>Exiguobacterium</italic>, a genus of gram&#x02010;positive, facultatively anaerobic bacteria, have been isolated from different sources, including creamery waste, seawater, shrimp, and glacier meltwater (Chaturvedi &#x00026; Shivaji, <xref rid="mbo3496-bib-0003" ref-type="ref">2006</xref>; Fr&#x000fc;hling, Schumann, Hippe, Str&#x000e4;ubler, &#x00026; Stackebrandt, <xref rid="mbo3496-bib-0010" ref-type="ref">2002</xref>; Kim et&#x000a0;al., <xref rid="mbo3496-bib-0017" ref-type="ref">2005</xref>; Yumoto et&#x000a0;al., <xref rid="mbo3496-bib-0036" ref-type="ref">2004</xref>). To date, 14 species of <italic>Exiguobacterium</italic> have been reported, which are divided phylogenetically into two groups based on physiological and biochemical properties according to diverse temperature preferences and oxidase and nitrate reduction activities (Ying, Ping, &#x00026; Jiong, <xref rid="mbo3496-bib-0035" ref-type="ref">2013</xref>).</p><p>
+<italic>Exiguobacterium</italic> has been proposed for remediation of environmental pollutants, including heavy metals, organic matter, and industrial water, as well as a suggested role in plant growth (Ying et&#x000a0;al., <xref rid="mbo3496-bib-0035" ref-type="ref">2013</xref>). In addition, <italic>E.&#x000a0;arabatum</italic> was reported to improve the growth and survival of <italic>P.&#x000a0;vannamei</italic> (Sombatjinda, Wantawin, Techkarnjanaruk, Withyachumnarnkul, &#x00026; Ruengjitchatchawalya, <xref rid="mbo3496-bib-0031" ref-type="ref">2014</xref>), and five <italic>E.&#x000a0;arabatum</italic> strains isolated from the stomach and midgut of <italic>Epinehelus moara</italic> were found to have potential probiotic benefits, with the ability to produce a variety of digestive enzymes (Shi, Wang, &#x00026; Gao, <xref rid="mbo3496-bib-0028" ref-type="ref">2015</xref>).</p><p>A variety of probiotics have been identified and widely used, including bacteria, fungi, and algae such as Bacteroidaceae, <italic>Bifidobacterium</italic>,<italic> Lactobacillus</italic>,<italic> Actinomyces</italic>,<italic> Bacillus,</italic> and <italic>Aspergillus</italic> (Soccol et&#x000a0;al., <xref rid="mbo3496-bib-0030" ref-type="ref">2010</xref>). Most probiotics have the following characteristics: (1) in vitro pathogen antagonism or rapid organic matter degradation; (2) survival in the guts of livestock and in aquaculture environments; and (3) improving the resistance of livestock to pathogen infection and promoting growth (Cui, Shen, Jia, &#x00026; Wang, <xref rid="mbo3496-bib-0006" ref-type="ref">2013</xref>; El&#x02010;Haroun, <xref rid="mbo3496-bib-0009" ref-type="ref">2007</xref>).</p><p>In this study, <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 was isolated from the intestine of a healthy <italic>P.&#x000a0;vannamei</italic> individual and found to be a potential probiotic for <italic>P.&#x000a0;vannamei</italic> because the bacterium exhibited no virulence toward <italic>P.&#x000a0;vannamei</italic> by artificial infection. Here, the possible probiotic function of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 is examined by genomic sequence screening. The information presented will be helpful in furthering our understanding of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 as a probiotic.</p></sec><sec id="mbo3496-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="mbo3496-sec-0003"><label>2.1</label><title>Isolation and purification of bacterial strain</title><p>Ten individuals of healthy <italic>P.&#x000a0;vannamei</italic> were obtained from a farmer's market. The intestines were removed from the shrimps to a sterilized Petri dish, and washed three times with sterilized PBS. After homogenating the washed intestine with sterilized PBS, 0.2&#x000a0;ml homogenate was spread on tryptic soy agar (TSA) plate and incubated at 28&#x000b0;C for 24&#x000a0;hr. Several single colonies of the dominant colony were selected and streaking inoculated triple to obtain pure culture.</p></sec><sec id="mbo3496-sec-0004"><label>2.2</label><title>The identification of bacterial strain</title><p>The bacterial strain was identified by amplified 16S rRNA sequence coding region. The genomic DNA of bacterial strain was extracted with a DNA extraction kit (Takara, Japan) following the manufacturer's instructions. DNA yield and purity was electrophoresed on a 1% agarose gel, and quantified using an ND&#x02010;2000 NanoDrop UV spectrophotometer (NanoDrop Technologies). 27F (5&#x02032; AGAGTTTGATCCTGGCTCAG 3&#x02032;) and 1429R (5&#x02032; GGTTACCTTGTTACGACTT 3&#x02032;) were used in the polymerase chain reaction (PCR) under the following conditions: 5&#x000a0;min at 94&#x000b0;C, and 35 cycles of 15&#x000a0;s at 94&#x000b0;C (denaturation), 15&#x000a0;s at 55&#x000b0;C (annealing), 1&#x000a0;min at 72&#x000b0;C (extension), followed by 10&#x000a0;min at 72&#x000b0;C (final extension) using the ABI 2720 Thermal Cycler (Applied Biosystems). The PCR product was purified and sequenced. Sequence was aligned to the National Center for Biotechnology Information (NCBI) (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov">http://www.ncbi.nlm.nih.gov</ext-link>).</p></sec><sec id="mbo3496-sec-0005"><label>2.3</label><title>High&#x02010;density pyrosequencing and sequence assembly of the genome</title><p>Whole&#x02010;genome sequencing was performed using the PacBio RS II sequencing 10K library. After performing quality control protocols, the genomic fine drawing were completed through analyzing bioinformatic means. Sequencing data were self&#x02010;corrected using FastqToCA and assembled according to principles similar to first&#x02010;generation sequencing technology. Continuous long reads were obtained from three Single&#x02010;Molecule, Real&#x02010;Time (SMRT) sequencing runs; reads longer than 500&#x000a0;bp with a quality value over 0.80 were merged together into a single dataset. Next, the PBcR pipeline was used to correct for random errors. The longest 25X subset of the corrected data were used for de novo assembly using Celera Assembler, which employs an overlap&#x02010;layout&#x02010;consensus (OLC) strategy, with default parameters. Chromosome Atlas was drawn with circos&#x02010;0.69 (Wong, <xref rid="mbo3496-bib-0033" ref-type="ref">2012</xref>).</p></sec><sec id="mbo3496-sec-0006"><label>2.4</label><title>Genome annotation</title><p>Glimmer 3.0 was used to predict genes (Yurist&#x02010;Doutsch et&#x000a0;al., <xref rid="mbo3496-bib-0037" ref-type="ref">2008</xref>), and annotation was achieved with BLAST (C&#x000e9;zard, Farvacques, &#x00026; Sonnet, <xref rid="mbo3496-bib-0002" ref-type="ref">2015</xref>). The Swiss&#x02010;Prot and Clusters of Orthologous Groups (COG) (Carlet et&#x000a0;al., <xref rid="mbo3496-bib-0001" ref-type="ref">2011</xref>), Kyoto Encyclopedia of Genes and Genomes (KEGG) (Chen et&#x000a0;al., <xref rid="mbo3496-bib-0004" ref-type="ref">2012</xref>), and Non&#x02010;Redundant (NR) databases were used to search domain architecture. rRNAmmer and tRNAscan&#x02010;SE (Horvath &#x00026; Barrangou, <xref rid="mbo3496-bib-0014" ref-type="ref">2010</xref>) were used to determine the presence of noncoding RNAs. Genomic islands (GEIs) were predicted using IslandPick, SIGI&#x02010;HMM, and IslandPath&#x02010;DIMOB software in IslandViewer (Dhillon et&#x000a0;al., <xref rid="mbo3496-bib-0007" ref-type="ref">2015</xref>). Insertion sequence (IS) elements were analyzed separately; the whole&#x02010;genome sequence and predicted GEIs sequences were uploaded to the IS prediction site, followed by automatic match output to the IS database for prediction results (<ext-link ext-link-type="uri" xlink:href="http://issaga.biotoul.fr/issaga_login.php?type=2">http://issaga.biotoul.fr/issaga_login.php?type=2</ext-link>). RepeatMasker software and the Repbase database (Horvath &#x00026; Barrangou, <xref rid="mbo3496-bib-0014" ref-type="ref">2010</xref>) were used to annotate repeat sequences. Prophages were predicted using Phage&#x02010;finder software and secreted proteins using SignalP (Petersen, Brunak, Von, &#x00026; Nielsen, <xref rid="mbo3496-bib-0024" ref-type="ref">2011</xref>), TMHMM (Krogh, Larsson, Von, &#x00026; Sonnhammer, <xref rid="mbo3496-bib-0018" ref-type="ref">2001</xref>) and Phobius (K&#x000e4;ll, Krogh, &#x00026; Sonnhammer, <xref rid="mbo3496-bib-0015" ref-type="ref">2007</xref>) software. Clustered regularly interspaced short palindromic repeats (CRISPRs) were evaluated using CRISPR Finder software (Katz et&#x000a0;al., <xref rid="mbo3496-bib-0016" ref-type="ref">2014</xref>). Finally, virulence and resistance genes were annotated based on the Virulence Factors Database (VFDB) and Antibiotic Resistance Genes Database (ARDB). For VFDB database screening, virulence genes were annotated and compared according to threshold criteria. A value of e&#x000a0;&#x0003c;&#x000a0;1&#x02010;e<sup>5</sup> was selected for BLASTn searches.</p></sec></sec><sec id="mbo3496-sec-0007"><label>3</label><title>RESULTS</title><sec id="mbo3496-sec-0008"><label>3.1</label><title>Genome features</title><p>A genome size of 2,914,854&#x000a0;bp and a 48.02% GC content was found for <italic>E.&#x000a0;arabatum</italic> W&#x02010;01, as determined using PacBio RS II sequencing technology (Figure&#x000a0;<xref rid="mbo3496-fig-0001" ref-type="fig">1</xref>). One scaffold of 2,914,854&#x000a0;bp was obtained without gaps (Table&#x000a0;<xref rid="mbo3496-tbl-0001" ref-type="table-wrap">1</xref>). The genome contains 3083 ORFs, with an average length of 843.98&#x000a0;bp and a mean GC content of 48.11%, accounting for 89.27%. <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 has eight high&#x02010;level Glimmer coding sequence (CDS) numbers of sizes of 200&#x02013;299, 300&#x02013;399, 400&#x02013;499, 500&#x02013;599, 600&#x02013;699, 700&#x02013;799, 800&#x02013;899, and 900&#x02013;999; however, significantly fewer numbers at sequence sizes of 2,500&#x02013;2,599, 2,700&#x02013;2,799, 2,800&#x02013;2,899, and 2,900&#x02013;2,999 were observed (Figure&#x000a0;<xref rid="mbo3496-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbo3496-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Chromosome Atlas for <italic>E.&#x000a0;arabatum</italic> W&#x02010;01. The scale is shown by the outer black circle. Moving inward, the first and second circles illustrate predicted coding sequences on the positive and negative strand, respectively, and are colored according to different functional categories. The third circle represents <styled-content style="fixed-case">tRNA</styled-content>s (blue) and ribosomal <styled-content style="fixed-case">RNA</styled-content> genes (red). The fourth and fifth (innermost) circles represent the mean&#x02010;centered G+C content of the genome (red&#x02010;above mean, blue&#x02010;below mean) and <styled-content style="fixed-case">GC</styled-content> skew (G&#x02010;C)/(G+C), respectively. The data were calculated using a 1&#x000a0;kb window in 500&#x000a0;bp steps</p></caption><graphic id="nlm-graphic-3" xlink:href="MBO3-6-na-g001"/></fig><table-wrap id="mbo3496-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Statistics of assembly results</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Statistics</th><th align="center" valign="top" rowspan="1" colspan="1">Scaffold</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total number</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Total length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">Gap (N) (bp)</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Average length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">N50 length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">N90 length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">Maximum length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">Minimum length (bp)</td><td align="char" char="." rowspan="1" colspan="1">2,914,854</td></tr><tr><td align="left" rowspan="1" colspan="1">GC content</td><td align="char" char="." rowspan="1" colspan="1">48.02%</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="mbo3496-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Coding sequence length distribution of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01</p></caption><graphic id="nlm-graphic-5" xlink:href="MBO3-6-na-g002"/></fig></sec><sec id="mbo3496-sec-0009"><label>3.2</label><title>Gene annotation</title><p>Gene annotation analysis showed that of the 3083 ORFs, 2884 (93.5%) could be classified into COG families comprising 21 functional categories, among which general function prediction only, function unknown and transcription were the most abundant terms (Figure&#x000a0;<xref rid="mbo3496-fig-0003" ref-type="fig">3</xref>). In addition, 1650 genes were classified into 83 functional KEGG pathways (Table <xref rid="mbo3496-sup-0001" ref-type="supplementary-material">S1</xref>): Metabolic pathways (ko:01100) was the predominant pathway, with 295 unigenes; followed by Biosynthesis of secondary metabolites (ko: 01110), Purine metabolism (ko: 00230), Pyrimidine metabolism (ko: 00240), and Glycolysis/Gluconeogenesis (ko: 00010). The latter four pathways contained 163, 33, 33, and 30 unigenes, respectively. Other pathways included relatively fewer unigenes, such as Butirosin and neomycin biosynthesis (ko: 00524), Glycosphingolipid biosynthesis&#x02010;globo series (ko: 00603), and D&#x02010;Glutamine and D&#x02010;glutamate metabolism (ko: 00471). Four clusters of rRNA were found, which contained 27 operons. Each operon is followed by one rRNA gene. 23S, 16S, and 5S each have nine genes, totalizing 27 genes.(Table <xref rid="mbo3496-sup-0002" ref-type="supplementary-material">S2</xref>). Sixty&#x02010;eight tRNAs representing all 20 amino acids were also found (Table <xref rid="mbo3496-sup-0003" ref-type="supplementary-material">S3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbo3496-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<styled-content style="fixed-case">COG</styled-content> functional classifications of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 coding sequences</p></caption><graphic id="nlm-graphic-7" xlink:href="MBO3-6-na-g003"/></fig></sec><sec id="mbo3496-sec-0010"><label>3.3</label><title>Genomic islands</title><p>GEIs sequencing strategy has been developed to improve the efficiency of target gene sequence analysis with regard to time. Ninety&#x02010;one genes in GEIs were predicted to have sequence similarities with previously identified genes from different species, such as genes involved in iron transport in <italic>Bacillus cereus</italic> and a variety of metabolic&#x02010;related enzymes in <italic>Paenibacillus mucilaginosus</italic> (Table <xref rid="mbo3496-sup-0004" ref-type="supplementary-material">S4</xref>, Figure&#x000a0;<xref rid="mbo3496-fig-0004" ref-type="fig">4</xref>). COG, Nr, and KEGG database analyses resulted in annotation of two adherence&#x02010;related and 31 flagellum&#x02010;related protein genes. The former were mainly annotated as adhesion lipoprotein, adhesion, and periplasmic component/surface adhesion and the latter as flagellar basal body rod protein, flagellum site&#x02010;determining protein, flagellar M&#x02010;ring protein, flagellar hook&#x02010;associated protein, flagellar assembly factor, and flagellum&#x02010;specific ATP synthase. The circle in Figure&#x000a0;<xref rid="mbo3496-fig-0004" ref-type="fig">4</xref> represents a single chromosome, with red bars around the perimeter indicating all of the predicted GI locations across the three methods; within the circle, GI predictions are differentiated by the prediction method using colors: blue for IslandPath&#x02010;DIMOB, orange for SIGI&#x02010;HMM, and green for IslandPick. Specific predictors were selected to view the results for a single method, and manipulation settings are shown using the IslandPick display.</p><fig fig-type="Figure" xml:lang="en" id="mbo3496-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Genomic islands distribution of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01. Using IslandViewer to predict <styled-content style="fixed-case">GEI</styled-content>. The circle represents a single chromosome, with red bars around the perimeter indicating the locations of all <styled-content style="fixed-case">GEI</styled-content> predictions across the three methods. Within the circle, <styled-content style="fixed-case">GEI</styled-content> predictions are differentiated by prediction method with IslandPath&#x02010;<styled-content style="fixed-case">DIMOB</styled-content> (blue), <styled-content style="fixed-case">SIGI</styled-content>&#x02010;<styled-content style="fixed-case">HMM</styled-content> (orange), and IslandPick (green), all shown</p></caption><graphic id="nlm-graphic-9" xlink:href="MBO3-6-na-g004"/></fig></sec><sec id="mbo3496-sec-0011"><label>3.4</label><title>IS elements</title><p>In total, 26 IS elements were identified in the genome (Table <xref rid="mbo3496-sup-0005" ref-type="supplementary-material">S5</xref>), 25 of which are in predicted GEIs sequences (Table <xref rid="mbo3496-sup-0006" ref-type="supplementary-material">S6</xref>).</p></sec><sec id="mbo3496-sec-0012"><label>3.5</label><title>Repeat sequence, prophage, and CRISPR elements</title><p>A total of 33 transposable repeat sequence were found, including 14 short interspersed nuclear elements, 18 long interspersed nuclear elements, and one long terminal repeat (LTR) element. A total of 68 potential prophages were predicted using Phage&#x02010;finder software, and the proteins encoded by eight were annotated as two Large terminase and tails, two baseplates, one small terminase, one portal, one lytic enzyme, and one tyrosine recombinase. No CRISPR element was predicted using CRISPR Finder software.</p></sec><sec id="mbo3496-sec-0013"><label>3.6</label><title>Secreted proteins and virulence and resistance genes</title><p>SignalP, TatP, TMHMM, and Phobius software revealed 150 secreted proteins including 77 with signal sequence (Table <xref rid="mbo3496-sup-0007" ref-type="supplementary-material">S7</xref>, Table <xref rid="mbo3496-sup-0008" ref-type="supplementary-material">S8</xref>). Transport system substrate&#x02010;binding proteins were the most abundant, including glucose uptake protein, iron ABC transporter substrate&#x02010;binding protein, D&#x02010;methionine transport system substrate&#x02010;binding protein, phosphate transport system substrate&#x02010;binding protein, peptide/nickel transport system substrate&#x02010;binding protein, polar amino acid transport system substrate&#x02010;binding protein, and maltose/maltodextrin transport system substrate&#x02010;binding protein. This group is followed in abundance by a variety of ectoenzyme, such as alpha&#x02010;amylase, N&#x02010;acetylmuramoyl&#x02010;L&#x02010;alanine amidase, beta&#x02010;N&#x02010;acetylhexosaminidase, and subtilisin. <italic>clpC</italic> (endopeptidase Clp ATP&#x02010;binding chain C) was the only hypothetical virulence gene found. However, no resistance genes were revealed by these analyses.</p></sec><sec id="mbo3496-sec-0014"><label>3.7</label><title>Nucleotide sequence accession numbers</title><p>The complete genomic sequence of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 has been deposited in the GenBank database under accession number SRP064228.</p></sec></sec><sec id="mbo3496-sec-0015"><label>4</label><title>DISCUSSION</title><p>The assembled sequences with one scaffold and 0 gaps indicated that the entire genome was covered. The total length of assembled sequences was 2,914,854&#x000a0;bp, a size that is similar to 13 reference <italic>Exiguobacterium</italic> genomes at 2.9 Mbp&#x02010;3.2 Mbp. The similarity in genome size with members of the same genus suggests the completeness of our genome sequence.</p><p>Based on previous reports, <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 was considered to be a potential probiotic for <italic>P.&#x000a0;vannamei</italic> (Shi et&#x000a0;al., <xref rid="mbo3496-bib-0028" ref-type="ref">2015</xref>). Major physiological probiotic functions include the following: (1) regulation and promotion of the development and optimization of the structure of the digestive tract; (2) production of a variety of digestive enzymes and vitamin synthesis promoting host growth; (3) nutrient (proteins, carbohydrates, lipids) metabolism; and (4) effects on the immune function of the host (El&#x02010;Haroun, <xref rid="mbo3496-bib-0009" ref-type="ref">2007</xref>; Kyriakis et&#x000a0;al., <xref rid="mbo3496-bib-0020" ref-type="ref">1999</xref>; Shoaib, Dachang, &#x00026; Xin, <xref rid="mbo3496-bib-0029" ref-type="ref">2014</xref>). Accordingly, genome annotations were screened for possible evidence of a probiotic function.</p><p>The main mechanism by which probiotics inhibit disease is via secretion of antagonistic substances or competing with pathogens for adhesion sites or nutrients, thereby inhibiting pathogen growth and reproduction (Gatesoupe, <xref rid="mbo3496-bib-0011" ref-type="ref">1999</xref>). For example, <italic>Pseudomonas fluorescens Ah2</italic> inhibits the growth of <italic>Vibrio anguillarum</italic> by competing for free iron ions via siderophore secretion (Gram et&#x000a0;al., <xref rid="mbo3496-bib-0012" ref-type="ref">1999</xref>). The ecological importance of siderophores is with regard to absorption of nutrients from the environment and depriving competitors of these nutrients (Li et&#x000a0;al., <xref rid="mbo3496-bib-0021" ref-type="ref">2011</xref>). The secreted proteins identified as encoded by the <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 genome largely comprise a variety of transport system substrate&#x02010;binding proteins, which are related to uptake of glycerol, sugar, phosphate, oligopeptides, and iron. The transport system substrate&#x02010;binding proteins of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 would not only contribute to bacterial growth but would also compete with intestinal pathogenic bacteria. In the same ecosystem, competition for nutrients and energy by different microbial populations play an important role in intestinal probiotics.</p><p>Many enzyme and biosynthetic proteins (Table <xref rid="mbo3496-sup-0007" ref-type="supplementary-material">S7</xref>), which play an important role in the metabolism of proteins and starches, were found among the secreted proteins of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01. Indeed, digestive enzymes, such as alpha&#x02010;amylase and subtilisin, effectively improve feed utilization and provide nutrition for growth. Poly&#x02010;gamma&#x02010;glutamate synthesis protein, one such secreted protein, plays an important role in the biosynthesis of glutamate, which can be utilized by the host.</p><p>GEIs which are conserved microcolinearity genes, have a vital function in cross&#x02010;species genome analysis. The GEIs in the <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 genome express a variety of proteins involved in transposon regulation, genetic information expression, and signaling pathways such as the transport system responsible for oligopeptide, glycerol, sugar, and iron uptake. These proteins confer strong competitiveness to <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 for acquiring nutrients and inhibiting the growth of pathogens.</p><p>CRISPR elements constitute special genetic locations in most bacteria and Archaea. As these specific targeted nucleic acid sequences protect against viruses and plasmids, providing a type of acquired immunity, CRISPR elements have been exploited for generating specific immunity, typing, epidemiological surveys, host&#x02010;virus ecological studies, and enhancing viral resistance in domesticated microbes (Horvath &#x00026; Barrangou, <xref rid="mbo3496-bib-0014" ref-type="ref">2010</xref>). In our study, no CRISPR elements were found in <italic>E.&#x000a0;arabatum</italic> W&#x02010;01, indicating that this strain might be sensitive to viruses.</p><p>Constituting the basis of multidrug resistance (Yang et&#x000a0;al., <xref rid="mbo3496-bib-0034" ref-type="ref">2014</xref>), antibiotic resistance genes help protect bacteria against antibiotics. However, a pathogen carrying antibiotic resistance genes makes it difficult to control an epidemic (Carlet et&#x000a0;al., <xref rid="mbo3496-bib-0001" ref-type="ref">2011</xref>). Thus, drug resistance factors should be used as an important indicator for selecting beneficial probiotics (Salminen et&#x000a0;al., <xref rid="mbo3496-bib-0027" ref-type="ref">1998</xref>), as the presence of drug resistance genes increase the risk of gene transfer to pathogens. Isolation of several intestinal lactobacilli of animal origin (pigs, poultry, and cattle), Dutta &#x00026; Devriese (<xref rid="mbo3496-bib-0008" ref-type="ref">1981</xref>) showed that <italic>Lactobacillus acidophilus</italic> was consistently avoparcin&#x02010;sensitive and that <italic>Lactobacillus brevis</italic> strains were susceptible to bacitracin. In contrast, resistance genes were not found in the genome of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01, indicating no risk of resistance gene transfer to pathogens when this bacterium is used as a probiotic.</p><p>Virulence genes such as the hemolysin protein gene, one of the most crucial pathogen virulence factors that should be considered when screening potential probiotics, were not detected among <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 secreted proteins (Hirono, Masuda, &#x00026; Aoki, <xref rid="mbo3496-bib-0013" ref-type="ref">1996</xref>). Indeed, <italic>clpC</italic> was the only putative virulence found in the <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 genome. clpC is thought to serve as a molecular chaperone with a significant role in <italic>Bacillus subtilis</italic> sporulation (Nanamiya et&#x000a0;al., <xref rid="mbo3496-bib-0023" ref-type="ref">1998</xref>). As bacterial adhesion to the host surface is critical for pathogen invasion (Chen et&#x000a0;al., <xref rid="mbo3496-bib-0005" ref-type="ref">2008</xref>; Luo et&#x000a0;al., <xref rid="mbo3496-bib-0022" ref-type="ref">2016</xref>), it is important that probiotics compete with pathogens for adhesion sites. Flagella are reported to be important for bacterial adhesion (Qin et&#x000a0;al., <xref rid="mbo3496-bib-0026" ref-type="ref">2014</xref>; Wang et&#x000a0;al., <xref rid="mbo3496-bib-0032" ref-type="ref">2015</xref>). <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 was isolated from the intestinal mucosa of a healthy <italic>P.&#x000a0;vannamei</italic> , and two adherence&#x02010;related and 31 flagellum&#x02010;related protein genes were found in the <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 genome. Thus, it is speculated that <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 has the ability to adhere to and colonize the intestine of <italic>P.&#x000a0;vannamei</italic>.</p><p>In summary, the whole&#x02010;genome sequence of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 was determined for the first time. No resistance genes and only one virulence gene was identified in the genome. The secreted proteins of <italic>E.&#x000a0;arabatum</italic> W&#x02010;01 include a variety of transport system substrate&#x02010;binding proteins, enzymes, and biosynthetic proteins playing an important role in the uptake and metabolism of nutrients. Two adherence&#x02010;related protein genes and 31 flagellum&#x02010;related protein genes were identified. Altogether, these results indicate potential probiotic functions for <italic>E.&#x000a0;arabatum</italic> W&#x02010;01.</p></sec><sec id="mbo3496-sec-0017"><title>CONFLICT OF INTEREST</title><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mbo3496-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s001.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s004.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s005.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s007.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mbo3496-sup-0008"><caption><p>&#x000a0;</p></caption><media xlink:href="MBO3-6-na-s008.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mbo3496-sec-0016"><title>ACKNOWLEDGMENTS</title><p>This work was supported by grants from The National Natural Science Foundation of China under contract No. 31672694 and 31502194. The Science and Technology Major/Special Project of Fujian Province under Contract No. 2016NZ0001&#x02010;3. Fujian Provincial Department of Science and Technology under contract No. JA15289. The Natural Science Foundation of Fujian Province under contract No. 2016J05080.</p></ack><ref-list content-type="cited-references" id="mbo3496-bibl-0001"><title>REFERENCES</title><ref id="mbo3496-bib-0001"><mixed-citation publication-type="journal" id="mbo3496-cit-0001">
+<string-name>
+<surname>Carlet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Collignon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Goldmann</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Goossens</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gyssens</surname>, <given-names>I. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Pittet</surname>, <given-names>D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Society's failure to protect a precious resource: Antibiotics</article-title>. <source>The Lancet</source>, <volume>378</volume>, <fpage>369</fpage>&#x02013;<lpage>371</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0002"><mixed-citation publication-type="journal" id="mbo3496-cit-0002">
+<string-name>
+<surname>C&#x000e9;zard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Farvacques</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sonnet</surname>, <given-names>P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Chemistry and biology of Pyoverdines, pseudomonas primary siderophores</article-title>. <source>Current Medicinal Chemistry</source>, <volume>22</volume>, <fpage>165</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">25312210</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0003"><mixed-citation publication-type="journal" id="mbo3496-cit-0003">
+<string-name>
+<surname>Chaturvedi</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shivaji</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Exiguobacterium indicum sp. nov., a psychrophilic bacterium from the Hamta glacier of the Himalayan mountain ranges of India</article-title>. <source>International Journal of Systematic and Evolutionary Microbiology</source>, <volume>56</volume>, <fpage>2765</fpage>&#x02013;<lpage>2770</lpage>.<pub-id pub-id-type="pmid">17158975</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0004"><mixed-citation publication-type="journal" id="mbo3496-cit-0004">
+<string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jin</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2012</year>). <article-title>VFDB 2012 update: Toward the genetic diversity and molecular evolution of bacterial virulence factors</article-title>. <source>Nucleic Acids Research</source>, <volume>40</volume>(<issue>D1</issue>), <fpage>D641</fpage>&#x02013;<lpage>D645</lpage>.<pub-id pub-id-type="pmid">22067448</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0005"><mixed-citation publication-type="journal" id="mbo3496-cit-0005">
+<string-name>
+<surname>Chen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhuang</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2008</year>). <article-title>Portal of entry for pathogenic <italic>Vibrio alginolyticus</italic> into <italic>Pseudosciaene crocea</italic> and characteristic of bacterial adhesion to the mucus</article-title>. <source>Disease of Aquatic Organism</source>, <volume>80</volume>, <fpage>181</fpage>&#x02013;<lpage>188</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0006"><mixed-citation publication-type="journal" id="mbo3496-cit-0006">
+<string-name>
+<surname>Cui</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effect of dietary <italic>Bacillus subtilis</italic> on proportion of Bacteroidetes and Firmicutes in swine intestine and lipid metabolism</article-title>. <source>Genetics and Molecular Research</source>, <volume>12</volume>, <fpage>1766</fpage>&#x02013;<lpage>1776</lpage>.<pub-id pub-id-type="pmid">23765983</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0007"><mixed-citation publication-type="journal" id="mbo3496-cit-0007">
+<string-name>
+<surname>Dhillon</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<surname>Laird</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Shay</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Winsor</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nizam</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Brinkman</surname>, <given-names>F. S</given-names>
+</string-name>. (<year>2015</year>). <article-title>IslandViewer 3: More flexible, interactive genomic island discovery, visualization and analysis</article-title>. <source>Nucleic Acids Research</source>, <volume>43</volume> (<issue>W1</issue>), <fpage>W104</fpage>&#x02013;<lpage>W108</lpage>.<pub-id pub-id-type="pmid">25916842</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0008"><mixed-citation publication-type="journal" id="mbo3496-cit-0008">
+<string-name>
+<surname>Dutta</surname>, <given-names>G. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Devriese</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>1981</year>). <article-title>Degradation of macrolide&#x02013;lincosamide&#x02013;streptogramin antibiotics by <italic>Lactobacillus</italic> strains from animals</article-title>. <source>Annales de Microbiologie (Inst. Pasteur)</source>, <volume>132A</volume>, <fpage>51</fpage>&#x02013;<lpage>57</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0009"><mixed-citation publication-type="journal" id="mbo3496-cit-0009">
+<string-name>
+<surname>El&#x02010;Haroun</surname>, <given-names>E. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Improved growth rate and feed utilization in farmed African catfish <italic>Clarias gariepinus</italic> (Burchell 1822) through a growth promoter Biogen<sup>&#x000ae;</sup> supplementation</article-title>. <source>Journal of Fisheries and Aquatic Science</source>, <volume>2</volume>, <fpage>319</fpage>&#x02013;<lpage>327</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0010"><mixed-citation publication-type="journal" id="mbo3496-cit-0010">
+<string-name>
+<surname>Fr&#x000fc;hling</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schumann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hippe</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Str&#x000e4;ubler</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stackebrandt</surname>, <given-names>E.</given-names>
+</string-name> (<year>2002</year>). <article-title>
+<italic>Exiguobacterium undae</italic> sp. nov. and <italic>Exiguobacterium antarcticum</italic> sp. nov</article-title>. <source>International Journal of Systematic and Evolutionary Microbiology</source>, <volume>52</volume>, <fpage>1171</fpage>&#x02013;<lpage>1176</lpage>.<pub-id pub-id-type="pmid">12148624</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0011"><mixed-citation publication-type="journal" id="mbo3496-cit-0011">
+<string-name>
+<surname>Gatesoupe</surname>, <given-names>F. J.</given-names>
+</string-name> (<year>1999</year>). <article-title>The use of probiotics in aquaculture</article-title>. <source>Aquaculture</source>, <volume>180</volume>(<issue>1</issue>), <fpage>147</fpage>&#x02013;<lpage>165</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0012"><mixed-citation publication-type="journal" id="mbo3496-cit-0012">
+<string-name>
+<surname>Gram</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Melchiorsen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Spanggaard</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nielsen</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>1999</year>). <article-title>Inhibition of <italic>Vibrio anguillarum</italic> by <italic>Pseudomonas fluorescens</italic> AH2, a Possible Probiotic Treatment of Fish</article-title>. <source>Applied and Environmental Microbiology</source>, <volume>65</volume>(<issue>3</issue>), <fpage>969</fpage>&#x02013;<lpage>973</lpage>.<pub-id pub-id-type="pmid">10049849</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0013"><mixed-citation publication-type="journal" id="mbo3496-cit-0013">
+<string-name>
+<surname>Hirono</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Masuda</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aoki</surname>, <given-names>T.</given-names>
+</string-name> (<year>1996</year>). <article-title>Cloning and detection of the hemolysin gene of <italic>Vibrio anguillarum</italic>
+</article-title>. <source>Microbial Pathogenesis</source>, <volume>21</volume>, <fpage>173</fpage>&#x02013;<lpage>182</lpage>.<pub-id pub-id-type="pmid">8878014</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0014"><mixed-citation publication-type="journal" id="mbo3496-cit-0014">
+<string-name>
+<surname>Horvath</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barrangou</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>). <article-title>CRISPR/Cas, the immune system of bacteria and archaea</article-title>. <source>Science</source>, <volume>327</volume>, <fpage>167</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">20056882</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0015"><mixed-citation publication-type="journal" id="mbo3496-cit-0015">
+<string-name>
+<surname>K&#x000e4;ll</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Krogh</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sonnhammer</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2007</year>). <article-title>Advantages of combined transmembrane topology and signal peptide prediction&#x02014;the Phobius web server</article-title>. <source>Nucleic Acids Research</source>, <volume>35</volume>(<issue>suppl 2</issue>), <fpage>W429</fpage>&#x02013;<lpage>W432</lpage>.<pub-id pub-id-type="pmid">17483518</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0016"><mixed-citation publication-type="journal" id="mbo3496-cit-0016">
+<string-name>
+<surname>Katz</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Turnsek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kahler</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>V. R.</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>, <given-names>E. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tarr</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Draft genome sequence of environmental Vibrio cholerae 2012EL&#x02010;1759 with similarities to the V. cholerae O1 classical biotype</article-title>. <source>Genome Announcements</source>, <volume>2</volume>, <fpage>e00617</fpage>&#x02013;<lpage>00614</lpage>.<pub-id pub-id-type="pmid">25013135</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0017"><mixed-citation publication-type="journal" id="mbo3496-cit-0017">
+<string-name>
+<surname>Kim</surname>, <given-names>I.&#x02010;G.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>M.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>S.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>T.&#x02010;K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yoon</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name> (<year>2005</year>). <article-title>
+<italic>Exiguobacterium aestuarii</italic> sp. nov. and <italic>Exiguobacterium marinum</italic> sp. nov., isolated from a tidal flat of the Yellow Sea in Korea</article-title>. <source>International Journal of Systematic and Evolutionary Microbiology</source>, <volume>55</volume>, <fpage>885</fpage>&#x02013;<lpage>889</lpage>.<pub-id pub-id-type="pmid">15774680</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0018"><mixed-citation publication-type="journal" id="mbo3496-cit-0018">
+<string-name>
+<surname>Krogh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Larsson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Von</surname>, <given-names>H. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sonnhammer</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2001</year>). <article-title>Predicting transmembrane protein topology with a hidden markov model: Application to complete genomes</article-title>. <source>Journal of Molecular Biology</source>, <volume>305</volume>(<issue>3</issue>), <fpage>567</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">11152613</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0019"><mixed-citation publication-type="journal" id="mbo3496-cit-0019">
+<string-name>
+<surname>Kumar</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Meena</surname>, <given-names>D. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sarkar</surname>, <given-names>U. K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Application of probiotics in shrimp aquaculture: Importance, mechanisms of action, and methods of administration</article-title>. <source>Reviews in Fisheries Science &#x00026; Aquaculture</source>, <volume>24</volume>(<issue>6</issue>), <fpage>342</fpage>&#x02013;<lpage>368</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0020"><mixed-citation publication-type="journal" id="mbo3496-cit-0020">
+<string-name>
+<surname>Kyriakis</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tsiloyiannis</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Vlemmas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sarris</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tsinas</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alexopoulos</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jansegers</surname>, <given-names>L.</given-names>
+</string-name> (<year>1999</year>). <article-title>The effect of probiotic LSP 122 on the control of post&#x02010;weaning diarrhoea syndrome of piglets</article-title>. <source>Research in Veterinary Science</source>, <volume>67</volume>, <fpage>223</fpage>&#x02013;<lpage>228</lpage>.<pub-id pub-id-type="pmid">10607501</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0021"><mixed-citation publication-type="journal" id="mbo3496-cit-0021">
+<string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2011</year>). <article-title>The complete genome sequence of <italic>Mycoplasma bovis</italic> strain Hubei&#x02010;1</article-title>. <source>PLoS ONE</source>, <volume>6</volume>, <fpage>e20999</fpage>.<pub-id pub-id-type="pmid">21731639</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0022"><mixed-citation publication-type="journal" id="mbo3496-cit-0022">
+<string-name>
+<surname>Luo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yan</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2016</year>). <article-title>flrA, flrB and flrC regulate adhesion by controlling the expression of critical virulence genes in <italic>Vibrio alginolyticus</italic>
+</article-title>. <source>Emerging Microbes \&#x00026; Infections</source>, <volume>5</volume>(<issue>8</issue>), <fpage>e85</fpage>.<pub-id pub-id-type="pmid">27485498</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0023"><mixed-citation publication-type="journal" id="mbo3496-cit-0023">
+<string-name>
+<surname>Nanamiya</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ohashi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Asai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Moriya</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ogasawara</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Fujita</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kawamura</surname>, <given-names>F.</given-names>
+</string-name> (<year>1998</year>). <article-title>ClpC regulates the fate of a sporulation initiation sigma factor, &#x003c3;H protein, in <italic>Bacillus subtilis</italic> at elevated temperatures</article-title>. <source>Molecular Microbiology</source>, <volume>29</volume>(<issue>2</issue>), <fpage>505</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">9720868</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0024"><mixed-citation publication-type="journal" id="mbo3496-cit-0024">
+<string-name>
+<surname>Petersen</surname>, <given-names>T. N.</given-names>
+</string-name>, <string-name>
+<surname>Brunak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Von</surname>, <given-names>H. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nielsen</surname>, <given-names>H</given-names>
+</string-name>. (<year>2011</year>). <article-title>Signalp 4.0: Discriminating signal peptides from transmembrane regions</article-title>. <source>Nature Methods</source>, <volume>8</volume>(<issue>10</issue>), <fpage>785</fpage>&#x02013;<lpage>786</lpage>.<pub-id pub-id-type="pmid">21959131</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0025"><mixed-citation publication-type="journal" id="mbo3496-cit-0025">
+<string-name>
+<surname>Purivirojkul</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Khidprasert</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>). <article-title>First report of microsporidiosis in fairy shrimp branchinella thailandensis (sanoamuang, saengphan and murugan, 2002)</article-title>. <source>Aquaculture</source>, <volume>289</volume>(<issue>1&#x02013;2</issue>), <fpage>185</fpage>&#x02013;<lpage>190</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0026"><mixed-citation publication-type="journal" id="mbo3496-cit-0026">
+<string-name>
+<surname>Qin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yan</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2014</year>). <article-title>Flagellar motility contributes to the invasion and survival of <italic>Aeromonas hydrophila</italic> in <italic>Anguilla japonica</italic> macrophages</article-title>. <source>Fish &#x00026; Shellfish Immunology</source>, <volume>39</volume>, <fpage>273</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">24859591</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0027"><mixed-citation publication-type="journal" id="mbo3496-cit-0027">
+<string-name>
+<surname>Salminen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>von Wright</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Marteau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brassart</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>de Vos</surname>, <given-names>W. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Mogensen</surname>, <given-names>G.</given-names>
+</string-name> (<year>1998</year>). <article-title>Demonstration of safety of probiotics&#x02014;a review</article-title>. <source>International Journal of Food Microbiology</source>, <volume>44</volume>, <fpage>93</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">9849787</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0028"><mixed-citation publication-type="journal" id="mbo3496-cit-0028">
+<string-name>
+<surname>Shi</surname>, <given-names>Z. H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gao</surname>, <given-names>Q. X.</given-names>
+</string-name> (<year>2015</year>). <article-title>Isolation and identification of enzyme&#x02010;producing bacteria from the digestive tract of <italic>Epinehelus moarain</italic> re&#x02010;circulating aquaculture systems</article-title>. <source>Journal of Fishery Sciences of China</source>, <volume>22</volume>(<issue>5</issue>), <fpage>941</fpage>&#x02013;<lpage>949</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0029"><mixed-citation publication-type="journal" id="mbo3496-cit-0029">
+<string-name>
+<surname>Shoaib</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dachang</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xin</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Determining the role of a probiotic in the restoration of intestinal microbial balance by molecular and cultural techniques</article-title>. <source>Genetics and Molecular Research: GMR</source>, <volume>14</volume>, <fpage>1526</fpage>&#x02013;<lpage>1537</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0030"><mixed-citation publication-type="journal" id="mbo3496-cit-0030">
+<string-name>
+<surname>Soccol</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Vandenberghe</surname>, <given-names>L. P. D. S.</given-names>
+</string-name>, <string-name>
+<surname>Spier</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Medeiros</surname>, <given-names>A. B. P.</given-names>
+</string-name>, <string-name>
+<surname>Yamaguishi</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Lindner</surname>, <given-names>J. D. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thomaz&#x02010;Soccol</surname>, <given-names>V</given-names>
+</string-name>. (<year>2010</year>). <article-title>The potential of probiotics: A review</article-title>. <source>Food Technology and Biotechnology</source>, <volume>48</volume>, <fpage>413</fpage>&#x02013;<lpage>434</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0031"><mixed-citation publication-type="journal" id="mbo3496-cit-0031">
+<string-name>
+<surname>Sombatjinda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wantawin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Techkarnjanaruk</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Withyachumnarnkul</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ruengjitchatchawalya</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Water quality control in a closed re&#x02010;circulating system of Pacific white shrimp (<italic>Penaeus vannamei</italic>) postlarvae co&#x02010;cultured with immobilized Spirulina mat</article-title>. <source>Aquaculture International</source>, <volume>22</volume>, <fpage>1181</fpage>&#x02013;<lpage>1195</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0032"><mixed-citation publication-type="journal" id="mbo3496-cit-0032">
+<string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yan</surname>, <given-names>Q</given-names>
+</string-name>. (<year>2015</year>). <article-title>Involvement of the flagellar assembly pathway in <italic>Vibrio alginolyticus</italic> adhesion under environmental stresses</article-title>. <source>Frontiers in Cellular and Infection Microbiology</source>, <volume>5</volume>, <fpage>59</fpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.3389/fcimb.2015.00059">10.3389/fcimb.2015.00059</ext-link>
+<pub-id pub-id-type="pmid">26322276</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0033"><mixed-citation publication-type="journal" id="mbo3496-cit-0033">
+<string-name>
+<surname>Wong</surname>, <given-names>B.</given-names>
+</string-name> (<year>2012</year>). <article-title>Visualizing biological data: Data visualization is increasingly important, but it requires clear objectives and improved implementation</article-title>. <source>Nature Methods</source>, <volume>9</volume>(<issue>12</issue>), <fpage>1131</fpage>&#x02013;<lpage>1132</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0034"><mixed-citation publication-type="journal" id="mbo3496-cit-0034">
+<string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Feng</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Characterization of a multiresistant mosaic plasmid from a fish farm sediment <italic>Exiguobacterium</italic> sp. isolate reveals aggregation of functional clinic&#x02010;associated antibiotic resistance genes</article-title>. <source>Applied and Environmental Microbiology</source>, <volume>80</volume>, <fpage>1482</fpage>&#x02013;<lpage>1488</lpage>.<pub-id pub-id-type="pmid">24362420</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0035"><mixed-citation publication-type="journal" id="mbo3496-cit-0035">
+<string-name>
+<surname>Ying</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ping</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jiong</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+<italic>Exiguobacterium</italic> spp. and Their Applications in Environmental Remediation</article-title>. <source>Chinese Journal of Applied Environmental Biology</source>, <volume>19</volume>, <fpage>898</fpage>&#x02013;<lpage>904</lpage>.</mixed-citation></ref><ref id="mbo3496-bib-0036"><mixed-citation publication-type="journal" id="mbo3496-cit-0036">
+<string-name>
+<surname>Yumoto</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hishinuma&#x02010;Narisawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hirota</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shingyo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Takebe</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nodasaka</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hara</surname>, <given-names>I.</given-names>
+</string-name> (<year>2004</year>). <article-title>
+<italic>Exiguobacterium oxidotolerans</italic> sp. nov., a novel alkaliphile exhibiting high catalase activity</article-title>. <source>International Journal of Systematic and Evolutionary Microbiology</source>, <volume>54</volume>, <fpage>2013</fpage>&#x02013;<lpage>2017</lpage>.<pub-id pub-id-type="pmid">15545426</pub-id></mixed-citation></ref><ref id="mbo3496-bib-0037"><mixed-citation publication-type="journal" id="mbo3496-cit-0037">
+<string-name>
+<surname>Yurist&#x02010;Doutsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Abu&#x02010;Qarn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Battaglia</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<surname>Hitchen</surname>, <given-names>P. G.</given-names>
+</string-name>, <string-name>
+<surname>Dell</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eichler</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>aglF, aglG and aglI, novel members of a gene island involved in the N&#x02010;glycosylation of the Haloferax volcanii S&#x02010;layer glycoprotein</article-title>. <source>Molecular Microbiology</source>, <volume>69</volume>, <fpage>1234</fpage>&#x02013;<lpage>1245</lpage>.<pub-id pub-id-type="pmid">18631242</pub-id></mixed-citation></ref></ref-list></back></article>

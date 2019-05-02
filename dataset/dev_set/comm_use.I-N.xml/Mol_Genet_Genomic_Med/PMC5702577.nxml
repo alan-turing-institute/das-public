@@ -1,0 +1,307 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="iso-abbrev">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2324-9269</journal-id><journal-id journal-id-type="publisher-id">MGG3</journal-id><journal-title-group><journal-title>Molecular Genetics &#x00026; Genomic Medicine</journal-title></journal-title-group><issn pub-type="epub">2324-9269</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29178636</article-id><article-id pub-id-type="pmc">5702577</article-id><article-id pub-id-type="doi">10.1002/mgg3.322</article-id><article-id pub-id-type="publisher-id">MGG3322</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Reports</subject></subj-group></article-categories><title-group><article-title>A novel splice site variant in <italic><styled-content style="fixed-case">CYP</styled-content>11A1</italic> in <italic>trans</italic> with the p.E314K variant in a male patient with congenital adrenal insufficiency</article-title><alt-title alt-title-type="left-running-head">M. Lara&#x02010;Velazquez <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="mgg3322-cr-0001" contrib-type="author"><name><surname>Lara&#x02010;Velazquez</surname><given-names>Montserrat</given-names></name><xref ref-type="aff" rid="mgg3322-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mgg3322-cr-0002" contrib-type="author"><name><surname>Perdomo&#x02010;Pantoja</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="mgg3322-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mgg3322-cr-0003" contrib-type="author"><name><surname>Blackburn</surname><given-names>Patrick R.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0658-1275</contrib-id><xref ref-type="aff" rid="mgg3322-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="mgg3322-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mgg3322-cr-0004" contrib-type="author"><name><surname>Gass</surname><given-names>Jennifer M.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8189-4189</contrib-id><xref ref-type="aff" rid="mgg3322-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mgg3322-cr-0005" contrib-type="author"><name><surname>Caulfield</surname><given-names>Thomas R.</given-names></name><xref ref-type="aff" rid="mgg3322-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mgg3322-cr-0006" contrib-type="author" corresp="yes"><name><surname>Atwal</surname><given-names>Paldeep S.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8515-744X</contrib-id><address><email>Atwal.paldeep@mayo.edu</email></address><xref ref-type="aff" rid="mgg3322-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="mgg3322-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="mgg3322-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+</aff><aff id="mgg3322-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Johns Hopkins University</institution>
+<named-content content-type="city">Baltimore</named-content>
+<named-content content-type="country-part">Maryland</named-content>
+</aff><aff id="mgg3322-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Center for Individualized Medicine</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+</aff><aff id="mgg3322-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Health Sciences Research</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+</aff><aff id="mgg3322-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Neuroscience</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+</aff><aff id="mgg3322-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Genomics</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Paldeep S. Atwal, Department of Clinical Genomics, Mayo Clinic, 4500 San Pablo Road South, Jacksonville, FL 32224. Tel: 904 953 3204; Fax: 904 953 6213; E&#x02010;mail: <email>Atwal.paldeep@mayo.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>7</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2017</year></pub-date><volume>5</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/mgg3.2017.5.issue-6</issue-id><fpage>781</fpage><lpage>787</lpage><history><date date-type="received"><day>24</day><month>5</month><year>2017</year></date><date date-type="rev-recd"><day>21</day><month>6</month><year>2017</year></date><date date-type="accepted"><day>25</day><month>6</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Molecular Genetics &#x00026; Genomic Medicine</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MGG3-5-781.pdf"/><abstract id="mgg3322-abs-0001"><title>Abstract</title><sec id="mgg3322-sec-0001"><title>Background</title><p>The <italic><styled-content style="fixed-case">CYP</styled-content>11A1</italic> gene encodes the cytochrome P450 side&#x02010;chain cleavage enzyme, which is essential for steroid formation. Recessive variants in this gene can lead to impairment of sexual differentiation caused by a complete or partial loss of steroid hormone production. The phenotypic spectrum in affected 46<styled-content style="fixed-case">XY</styled-content> males may vary from surgically repairable defects including cryptorchidism and hypospadias to complete feminization of external gonads, accompanied by symptoms of adrenal dysfunction.</p></sec><sec id="mgg3322-sec-0002"><title>Methods</title><p>Whole&#x02010;exome sequencing (<styled-content style="fixed-case">WES</styled-content>) of a 12&#x02010;year&#x02010;old male proband and his parents was performed after a protracted diagnostic odyssey failed to uncover the cause of his primary adrenal insufficiency. Of note, the proband had early symptomatology and corrective surgery for hypospadias, raising suspicion for a disorder of steroidogenesis.</p></sec><sec id="mgg3322-sec-0003"><title>Results</title><p>
+<styled-content style="fixed-case">WES</styled-content> identified compound heterozygous variants in <italic><styled-content style="fixed-case">CYP</styled-content>11A1</italic> including a novel canonical splice site variant (c.425+1G&#x0003e;A) and a previously reported p.E314K variant, which were consistent with a diagnosis of congenital adrenal insufficiency with partial 46<styled-content style="fixed-case">XY</styled-content> sex reversal.</p></sec><sec id="mgg3322-sec-0004"><title>Conclusion</title><p>Congenital adrenal insufficiency with 46<styled-content style="fixed-case">XY</styled-content> sex reversal is a rare disorder that is characterized by dysregulation of steroid hormone synthesis, leading to adrenal and gonadal dysfunction. In this report, we describe a patient with adrenal insufficiency, hypospadias, and skin hyperpigmentation who was found to have a novel c.425+1G&#x0003e;A variant in <italic>trans</italic> with the p.E314K variant in <italic><styled-content style="fixed-case">CYP</styled-content>11A1</italic>. We performed structural analyses to examine the effect of the p.E314K variant on protein function and show that it falls in the core of the protein may disrupt cholesterol binding in the active site.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mgg3322-kwd-0001">c.425+1G&#x0003e;A variant</kwd><kwd id="mgg3322-kwd-0002"><italic><styled-content style="fixed-case">CYP</styled-content>11A1</italic></kwd><kwd id="mgg3322-kwd-0003">primary adrenal insufficiency</kwd></kwd-group><funding-group><award-group><funding-source>Mayo Clinic Center for Individualized Medicine (CIM)</funding-source></award-group><award-group><funding-source>CIM Investigative and Functional Genomics Program</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="7"/><word-count count="3304"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mgg3322</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.6.1 mode:remove_FC converted:26.11.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mgg3322-cit-1001">
+<source>Molecular Genetics &#x00026; Genomic Medicine</source>
+<year>2017</year>; <volume>5</volume>(<issue>6</issue>): <fpage>781</fpage>&#x02013;<lpage>787</lpage>
+</mixed-citation>
+</p></notes></front><body><sec id="mgg3322-sec-0005"><title>Introduction</title><p>The <italic>CYP11A1</italic> gene located in the long arm of chromosome 15 (15q23&#x02013;q24) encodes the cholesterol side&#x02010;chain cleavage enzyme which converts cholesterol to pregnenolone, the first step for corticoid, mineralocorticoid, and sexual hormone biosynthesis (Miller and Auchus <xref rid="mgg3322-bib-0007" ref-type="ref">2011</xref>). CYP11A1 deficiency results in complete or partial adrenal insufficiency with a wide range of clinical manifestations. Severe or classical CYP11A1 deficiency manifests with feminization of external genitalia in 46XY males and severe early onset adrenal failure in the first few hours or days of postnatal life. Mild or nonclassical CYP11A1 deficiency is associated with adrenal insufficiency that can develop later in childhood and is accompanied by a spectrum of sexual development disorders including precocious or delayed puberty (Katsumata et&#x000a0;al. <xref rid="mgg3322-bib-0004" ref-type="ref">2002</xref>; Hiort et&#x000a0;al. <xref rid="mgg3322-bib-0003" ref-type="ref">2005</xref>; Slominski et&#x000a0;al. <xref rid="mgg3322-bib-0012" ref-type="ref">2015</xref>).</p><sec id="mgg3322-sec-0006"><title>Conclusion</title><p>In this report, we present a case of a 12&#x02010;year&#x02010;old male with congenital adrenal insufficiency. Our patient began having symptoms at 3&#x000a0;years old, which included lethargy, hypoglycemia, hyperpigmentation, hypospadias, and biochemical findings that confirmed adrenal insufficiency. Clinical WES revealed compound heterozygous variants in <italic>CYP11A</italic> including a novel c.425+1G&#x0003e;A splice site mutation and a previously reported missense variant (p.E314K). To our knowledge, this splice site variant has not been reported previously but is likely pathogenic and the cause of our patient's primary adrenal insufficiency.</p></sec></sec><sec id="mgg3322-sec-0007"><title>Case Description</title><p>The patient is a 12&#x02010;year&#x02010;old male, who is the second child of nonconsanguineous parents. He was delivered via vaginal route after induction of labor on the 34th week of pregnancy due to HELLP (<underline underline-style="single">H</underline>emolysis, <underline underline-style="single">E</underline>levated <underline underline-style="single">L</underline>iver enzymes, <underline underline-style="single">L</underline>ow <underline underline-style="single">P</underline>latelet count) syndrome and toxemia and was in the neonatal intensive care unit for 3&#x000a0;weeks for recovery and treatment of neonatal jaundice. His birth weight and length were 2.24&#x000a0;kg and 47&#x000a0;cm, respectively. Upon examination of the external genitalia, hypospadias were detected and later surgically repaired; cryptorchidism was not a feature.</p><p>At 3&#x000a0;years of age, he began having severe diurnal episodes of lethargy and hypoglycemia. He was also noted to have skin hyperpigmentation. Testing of hormone levels revealed high adrenocorticotropic hormone (ACTH) and low cortisol levels, suggestive of a primary adrenal insufficiency. An ultrasound and CT scan of the adrenal glands at 3&#x000a0;years of age did not show abnormal findings. Genetic testing for the <italic>NR0B1</italic> (DAX1), which was involved in X&#x02010;linked congenital adrenal hypoplasia (MIM# 300200), was negative. At 8&#x000a0;years of age, his bloodwork showed an ACTH of 6&#x000a0;pg/mL (normal range 10&#x02013;60&#x000a0;pg/mL), 17&#x02010;hydroxyprogesterone of &#x002c2;10&#x000a0;ng/dL (Prepubertal males: &#x0003c;110&#x000a0;ng/dL), and testosterone levels below 2.5&#x000a0;ng/dL (normal rage for males 6&#x000a0;months to 9&#x000a0;years: &#x0003c;7&#x02013;20&#x000a0;ng/dL). By 9&#x000a0;years of age, his ACTH was abnormally high at 261&#x000a0;pg/mL. Then at 10&#x000a0;years of age, his ACTH level increased to 321.9&#x000a0;pg/mL and repeat testing a year later revealed levels of 405&#x000a0;pg/mL. During his last medical visit, no signs of altered puberty were noticed, and initiation of corticosteroid treatment lead to the normalization of ACTH levels (32.4&#x000a0;pg/mL post treatment). This also improved his hyperpigmentation. No investigations were performed for precocious puberty as his growth and development were age appropriate. He did have a bone age, however, at age 8 9/12 which showed a bone age of 8. The patient was also diagnosed with attention&#x02010;deficit/hyperactivity disorder (ADHD) and migraine. Currently, he is under treatment with hydrocortisone (10&#x000a0;mg/m<sup>2</sup>/day in the mornings and 5&#x000a0;mg/m<sup>2</sup>/day at night), fludrocortisone (50&#x000a0;&#x003bc;g/day), amphetamine&#x02010;dextroamphetamine (15&#x000a0;mg/day), and vitamin D (1000 units/day).</p><p>The patient presented to the Department of Clinical Genomics (Mayo Clinic, Jacksonville, FL) with the finding of primary adrenal insufficiency of unknown genetic cause. Informed consent was obtained and blood samples were collected from the patient and his parents for WES. There was no family history of adrenal insufficiency or urogenital anomalies (Fig.&#x000a0;<xref rid="mgg3322-fig-0001" ref-type="fig">1</xref>). Previous genetic testing included mitochondrial DNA (mtDNA) sequencing which revealed no relevant pathogenic variants.</p><fig fig-type="Figure" xml:lang="en" id="mgg3322-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Patient family history. Black arrow is depicting the affected subject. Patient was diagnosed with hypospadias and skin hyperpigmentation. There was no family history of adrenal insufficiency.</p></caption><graphic id="nlm-graphic-3" xlink:href="MGG3-5-781-g001"/></fig></sec><sec id="mgg3322-sec-0008"><title>Materials and Methods</title><sec id="mgg3322-sec-0009"><title>Ethical compliance</title><p>Our study was approved by Mayo Clinic IRB and ethics committees.</p></sec><sec id="mgg3322-sec-0010"><title>Testing</title><p>In order to identify the genetic etiology, WES was performed. The patient and his family were counseled about the purpose, benefits, and limitations of WES. Additionally, possible test results were reviewed with patient and parents. The protections and limitations of GINA (Genetic Information Nondiscrimination Act) were discussed. The patient's mother was provided a copy of the informed consent. Samples from the proband, mother, and father were collected. Due to the history of HELLP syndrome in the patient's mother, acylcarnitine testing was also performed in the proband, which was normal.</p></sec><sec id="mgg3322-sec-0011"><title>Whole&#x02010;exome sequencing</title><p>Clinical WES was performed by GeneDX (XomeDxPlus). Briefly, genomic DNA was extracted from the proband and parental samples. As described in the clinical testing methodology by GeneDX, the Agilent Clinical Research Exome capture kit was used for exome enrichment and sequencing was done on an Illumina HiSeq 2000 that generates 100&#x000a0;bp paired&#x02010;end reads. Bidirectional sequence was assembled, aligned to reference gene sequences based on human genome build GRCh37/UCSC hg19, and analyzed for sequence variants using a proprietary analysis tool (Xome Analyzer, GeneDx). Sanger sequencing was used to confirm all potentially pathogenic variants identified in this individual. Sequence alterations were reported according to the Human Genome Variation Society (HGVS) nomenclature guidelines.</p></sec><sec id="mgg3322-sec-0012"><title>Molecular modeling</title><p>The sequence of human cholesterol side&#x02010;chain cleavage enzyme, mitochondrial 11A1 (Cyp11A1), a protein encoded by the gene (<italic>CYP11A1</italic>), was taken from the NCBI Reference Sequence: NM_000781.2: NP_000772.2; and was used for modeling. Monte Carlo simulations were performed on the mutant to allow local regional changes after the p.E314K variant was introduced. Additional details can be found in the Appendix&#x000a0;<xref rid="mgg3322-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec></sec><sec id="mgg3322-sec-0013"><title>Results</title><p>WES revealed compound heterozygous variants in the proband, including a novel paternally inherited <italic>CYP11A1</italic> splice site variant (Chr15(GRCh37): g.74640240C&#x0003e;T, NM_000781.2: c.425+1G&#x0003e;A) and a previously reported <italic>CYP11A1</italic> missense variant (Chr15(GRCh37): g.74635368C&#x0003e;T, NM_000781.2: c.940G&#x0003e;A) that was maternally inherited (Table&#x000a0;<xref rid="mgg3322-tbl-0001" ref-type="table-wrap">1</xref>). The c.425+1G&#x0003e;A variant is considered pathogenic and the c.940G&#x0003e;A (p.E314K) variant likely pathogenic based on HGVS guidelines. Variants were deposited in ClinVar under accession numbers RCV000403766.1 and RCV000413593.1, respectively.</p><table-wrap id="mgg3322-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Causative variants in disease genes associated with reported phenotype</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">CYP11A1 phenotype</th><th align="left" valign="top" rowspan="1" colspan="1">MOI</th><th align="left" valign="top" rowspan="1" colspan="1">Variant</th><th align="left" valign="top" rowspan="1" colspan="1">Variant location</th><th align="left" valign="top" rowspan="1" colspan="1">Zygosity</th><th align="left" valign="top" rowspan="1" colspan="1">Inheritance</th><th align="left" valign="top" rowspan="1" colspan="1">Classification</th></tr></thead><tbody><tr><td align="left" rowspan="6" colspan="1">Adrenal insufficiency, congenital, 46XY sex reversal, partial or complete (MIM #613743)</td><td align="left" rowspan="3" colspan="1">AR</td><td align="left" rowspan="1" colspan="1">IVS2+1G&#x0003e;A</td><td align="left" rowspan="1" colspan="1">NP_000772.2</td><td align="left" rowspan="3" colspan="1">Heterozygous</td><td align="left" rowspan="3" colspan="1">Father</td><td align="left" rowspan="3" colspan="1">Pathogenic</td></tr><tr><td align="left" rowspan="1" colspan="1">c.425+1G&#x0003e;A</td><td align="left" rowspan="1" colspan="1">NM_000781.2</td></tr><tr><td align="left" rowspan="1" colspan="1">g.74640240C&#x0003e;T</td><td align="left" rowspan="1" colspan="1">NG_007973.1</td></tr><tr><td align="left" rowspan="3" colspan="1">AR</td><td align="left" rowspan="1" colspan="1">p.Glu314Lys</td><td align="left" rowspan="1" colspan="1">NP_000772.2</td><td align="left" rowspan="3" colspan="1">Heterozygous</td><td align="left" rowspan="3" colspan="1">Mother</td><td align="left" rowspan="3" colspan="1">Likely pathogenic</td></tr><tr><td align="left" rowspan="1" colspan="1">c.940G&#x0003e;A</td><td align="left" rowspan="1" colspan="1">NM_000781.2</td></tr><tr><td align="left" rowspan="1" colspan="1">g.74635368C&#x0003e;T</td><td align="left" rowspan="1" colspan="1">NG_007973.1</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="mgg3322-sec-0014"><title>Discussion</title><p>Adrenal insufficiency (AI) is characterized by defects in cortisol, aldosterone, and sexual hormone production (Miller <xref rid="mgg3322-bib-0006" ref-type="ref">2017</xref>). Common manifestations of the disease include hyperpigmentation, hypoglycemia, lethargy, fatigue, muscle weakness, weight loss, dizziness and hypotension (Ucar et&#x000a0;al. <xref rid="mgg3322-bib-0016" ref-type="ref">2016</xref>). Biochemical criteria for AI diagnosis include very low serum cortisol levels (&#x0003c;80&#x000a0;nmol/L), and elevated ACTH plasma levels (&#x0003e;200 pmol/L) (Neary and Nieman <xref rid="mgg3322-bib-0008" ref-type="ref">2010</xref>; Ucar et&#x000a0;al. <xref rid="mgg3322-bib-0016" ref-type="ref">2016</xref>).</p><p>AI can be produced either by congenital or acquired pathologies. Congenital causes include autosomal recessive congenital lipoid adrenal hyperplasia (CAH, MIM# 201710) (caused by pathogenic variants in <italic>STAR</italic>); congenital adrenal insufficiency with partial or complete 46XY sex reversal (AICSR, MIM# 613743) (caused by variants in <italic>CYP11A1</italic>), congenital adrenal hyperplasia due to 3<italic>&#x003b2;</italic>&#x02010;hydroxysteroid dehydrogenase 2 deficiency (caused by variants in <italic>HSD3B2</italic>); congenital adrenal hyperplasia due to 21&#x02010;hydroxylase deficiency (MIM# 201910) (caused by variants in <italic>CYP21A2</italic>); 11<italic>&#x003b2;</italic>&#x02010;hydroxylase deficiency (caused by variants in <italic>CYP11B1</italic>) which can result in autosomal recessive congenital adrenal hyperplasia (MIM# 202010) or autosomal dominant glucocorticoid&#x02010;remediable aldosteronism (MIM# 103900); 17&#x02010;<italic>&#x003b1;</italic>&#x02010;hydroxylase/17,20&#x02010;lyase deficiency (MIM# 202110) (caused by variants in <italic>CYP17A1</italic>); P450 oxidoreductase deficiency (MIM# 201750) (caused by variants in <italic>POR</italic>) (Katsumata et&#x000a0;al. <xref rid="mgg3322-bib-0004" ref-type="ref">2002</xref>; Hiort et&#x000a0;al. <xref rid="mgg3322-bib-0003" ref-type="ref">2005</xref>; Slominski et&#x000a0;al. <xref rid="mgg3322-bib-0012" ref-type="ref">2015</xref>); familial glucocorticoid deficiency (FGD) (caused by defects in <italic>STAR</italic>,<italic> MC2R</italic>,<italic> MRAP</italic>,<italic> MCM4</italic>,<italic> NNT</italic>,<italic> TXNRD2</italic>,<italic> GPX1</italic> and <italic>PRDX3</italic>) (Miller <xref rid="mgg3322-bib-0006" ref-type="ref">2017</xref>); and autoimmune disorders such as polyendocrinopathy syndrome type I, with or without reversible metaphyseal dysplasia (MIM# 240300, caused by defects in <italic>AIRE</italic>) (Fig.&#x000a0;<xref rid="mgg3322-fig-0002" ref-type="fig">2</xref>) (Miller and Auchus <xref rid="mgg3322-bib-0007" ref-type="ref">2011</xref>; Turcu and Auchus <xref rid="mgg3322-bib-0015" ref-type="ref">2015</xref>; Manna et&#x000a0;al. <xref rid="mgg3322-bib-0005" ref-type="ref">2016</xref>). Acquired causes, include infectious diseases (Waterhouse&#x02010;Frederichsen syndrome), vascular diseases (hemorrhage and coagulopathy), surgery (bilateral adrenalectomy), and exposure to certain medications (rifampicin, phenytoin, and ketoconazole) (Zaloga and Marik <xref rid="mgg3322-bib-0017" ref-type="ref">2001</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mgg3322-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Steroid hormone synthesis diagram and related pathologies (1&#x02013;3).</p></caption><graphic id="nlm-graphic-5" xlink:href="MGG3-5-781-g002"/></fig><p>Congenital AI is an autosomal recessive disorder characterized by elevated ACTH and plasma renin levels with low or absent adrenal steroids. AI has two different expression forms: classical and nonclassical (Pomahacova et&#x000a0;al. <xref rid="mgg3322-bib-0011" ref-type="ref">2016</xref>). The classical phenotypic spectrum ranges from miscarriage and prematurity during pregnancy, to complete under&#x02010;androgenization and severe early or late onset adrenal failure at postnatal stages. In the classic presentation of the disease, clitoromegaly is a common finding for feminization of external genitalia in 46XY patients (Neary and Nieman <xref rid="mgg3322-bib-0008" ref-type="ref">2010</xref>). In the nonclassic form, patients can present with adrenal function impairment with minimal effects on primary sexual characteristics and male patients may present with only cryptorchidism or hypospadias (Hauffa and Hiort <xref rid="mgg3322-bib-0002" ref-type="ref">2011</xref>; Tee et&#x000a0;al. <xref rid="mgg3322-bib-0014" ref-type="ref">2013</xref>).</p><p>Adrenal insufficiency can be caused by pathogenic variants in <italic>CYP11A1</italic>. <italic>CYP11A1</italic> is located at chromosome 15q23&#x02013;24, and encodes the cytochrome P450 side&#x02010;chain cleavage enzyme (P450scc), which initiates steroidogenesis (Fig.&#x000a0;<xref rid="mgg3322-fig-0003" ref-type="fig">3</xref>). P450scc catalyzes the conversion of cholesterol to pregnenolone and isocaproic aldehyde in the inner mitochondrial membrane. These reactions represent the first step for steroid&#x02010;hormone biosynthesis. Biallelic pathogenic variants in <italic>CYP11A1</italic> are a rare cause of adrenal insufficiency in patients (Tajima et&#x000a0;al. <xref rid="mgg3322-bib-0013" ref-type="ref">2001</xref>; Hauffa and Hiort <xref rid="mgg3322-bib-0002" ref-type="ref">2011</xref>; Parajes et&#x000a0;al. <xref rid="mgg3322-bib-0009" ref-type="ref">2011</xref>, <xref rid="mgg3322-bib-0010" ref-type="ref">2012</xref>; Tee et&#x000a0;al. <xref rid="mgg3322-bib-0014" ref-type="ref">2013</xref>). Compared with CAH, AI patients can present mild to severe adrenal insufficiency symptoms without adrenal hyperplasia, these symptoms can manifest at any time from infancy to early childhood, depending on the degree of P450scc dysfunction (Hauffa and Hiort <xref rid="mgg3322-bib-0002" ref-type="ref">2011</xref>; Tee et&#x000a0;al. <xref rid="mgg3322-bib-0014" ref-type="ref">2013</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mgg3322-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Schematic representation of P450 side&#x02010;chain cleavage (<styled-content style="fixed-case">CYP</styled-content>11A1) and its interaction with the E314K variant.</p></caption><graphic id="nlm-graphic-7" xlink:href="MGG3-5-781-g003"/></fig><p>In this report, we found a c.425+1G&#x0003e;A pathogenic variant in <italic>CYP11A1</italic> in our 12&#x02010;year&#x02010;old male patient. This splice site variant disrupts the canonical splice donor site in intron 2, and is predicted to cause abnormal gene splicing. The c.425+1G&#x0003e;A variant is a rare variant and has not been seen in NHLBI Exome Sequencing Project or the Genome Aggregation Database (gnomAD) (insert database references) (Table&#x000a0;<xref rid="mgg3322-tbl-0001" ref-type="table-wrap">1</xref>). To the best of our knowledge, the c.425+1G&#x0003e;A pathogenic variant in <italic>CYP11A1</italic> has not been reported previously. Regarding ACTH levels, records indicate no cosyntropin stimulation test was performed, and perhaps would have led to earlier diagnosis of adrenal insufficiency and initiation of steroids.&#x02019;</p><p>In addition to the c.425+1G&#x0003e;A variant, we identified a missense variant (c.940G&#x0003e;A p.(E314K)) in exon 5. The p.(E314K) variant is a nonconservative amino acid substitution, which likely impacts secondary protein structure as these residues differ in polarity, charge, and size. However, this substitution occurs at a position that is not conserved, and in silico analysis is inconsistent in its predictions as to whether or not the variant is predicted to be damaging. The p.(E314K) variant is a strong candidate for a pathogenic variant. In two unrelated individuals with primary adrenal insufficiency, the p.(E314K) variant was previously reported; one of this cases was accompanied by another <italic>CYP11A1</italic> variant <italic>in trans</italic> with another variant whereas the other reported case had no additional molecular findings (Chan et&#x000a0;al. <xref rid="mgg3322-bib-0001" ref-type="ref">2015</xref>). According with the NHLBI ESP Exome Sequencing Project, p.(E314K) variant is present in 29/8592 cases from individuals of European American ancestry and in 710/277190 individuals in gnomAD, including four homozygotes, (Table&#x000a0;<xref rid="mgg3322-tbl-0001" ref-type="table-wrap">1</xref>) suggesting that this variant may retain partial function and could result in disease when <italic>in trans c</italic>with another inactivating mutation. Molecular modeling of the p.E314K variant was performed and Monte Carlo simulations suggest that the orientation of the E and K residues flips and the mutant may disrupt cholesterol binding and lead to minor changes in helicity at the end of the helix when K314 is introduced (Fig.&#x000a0;<xref rid="mgg3322-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="mgg3322-sec-0015"><title>Conclusion</title><p>In conclusion, the compound heterozygous presence of the c.425+1G&#x0003e;A and p.(E314K) variants in <italic>CYP11A1</italic> found in this patient, explain the reported primary adrenal insufficiency diagnosis. The c.425+1G&#x0003e;A splice variant in <italic>CYP11A1</italic> is novel and may be a pathogenic variant for AI, the p.(E314K) variant has been cited in the literature as pathogenic when present as a compound heterozygous variant (Chan et&#x000a0;al. <xref rid="mgg3322-bib-0001" ref-type="ref">2015</xref>). In addition to the novel variant description, this case remarks the application of WES as a powerful diagnostic tool to provide accurate diagnosis, medical management and family counseling to improve patient care.</p></sec><sec id="mgg3322-sec-0017"><title>Conflict of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="mgg3322-sec-0018"><title>Authors&#x02019; Contributions</title><p>M.L.V., A.P.P., P.R.B., and P.S.A. designed the study and wrote the manuscript. T.R.C. performed the in silico analyses. P.R.B. and J.M.G. assisted with data collection and provided critical review of the manuscript. P.S.A. collected the clinical data. All authors approved the final version of the manuscript for publication.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mgg3322-sup-0001"><caption><p>
+<bold>Appendix&#x000a0;S1.</bold> Methods: Computer&#x02010;assisted modeling of CYP11A1 protein structure.</p></caption><media xlink:href="MGG3-5-781-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mgg3322-sec-0016"><title>Acknowledgments</title><p>We thank the patient and his family for participating in this study. We also thank the Mayo Clinic Center for Individualized Medicine (CIM) for supporting this research through the CIM Investigative and Functional Genomics Program.</p></ack><ref-list content-type="cited-references" id="mgg3322-bibl-0001"><title>References</title><ref id="mgg3322-bib-0001"><mixed-citation publication-type="journal" id="mgg3322-cit-0001">
+<string-name>
+<surname>Chan</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Campbell</surname>
+</string-name>, <string-name>
+<given-names>T. V.</given-names>
+<surname>Novoselova</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Clark</surname>
+</string-name>, and <string-name>
+<given-names>L. A.</given-names>
+<surname>Metherell</surname>
+</string-name>. <year>2015</year>
+<article-title>Whole&#x02010;exome sequencing in the differential diagnosis of primary adrenal insufficiency in children</article-title>. <source>Front. Endocrinol. (Lausanne)</source>
+<volume>6</volume>:<fpage>113</fpage>.<pub-id pub-id-type="pmid">26300845</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0002"><mixed-citation publication-type="journal" id="mgg3322-cit-0002">
+<string-name>
+<surname>Hauffa</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Hiort</surname>
+</string-name>. <year>2011</year>
+<article-title>P450 side&#x02010;chain cleavage deficiency&#x02013;a rare cause of congenital adrenal hyperplasia</article-title>. <source>Endocr. Dev.</source>
+<volume>20</volume>:<fpage>54</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">21164259</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0003"><mixed-citation publication-type="journal" id="mgg3322-cit-0003">
+<string-name>
+<surname>Hiort</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Holterhus</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Werner</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Marschke</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Hoppe</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Partsch</surname>
+</string-name>, et&#x000a0;al. <year>2005</year>
+<article-title>Homozygous disruption of P450 side&#x02010;chain cleavage (CYP11A1) is associated with prematurity, complete 46, XY sex reversal, and severe adrenal failure</article-title>. <source>J. Clin. Endocrinol. Metab.</source>
+<volume>90</volume>:<fpage>538</fpage>&#x02013;<lpage>541</lpage>.<pub-id pub-id-type="pmid">15507506</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0004"><mixed-citation publication-type="journal" id="mgg3322-cit-0004">
+<string-name>
+<surname>Katsumata</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ohtake</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hojo</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ogawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hara</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sato</surname>
+</string-name>, et&#x000a0;al. <year>2002</year>
+<article-title>Compound heterozygous mutations in the cholesterol side&#x02010;chain cleavage enzyme gene (CYP11A) cause congenital adrenal insufficiency in humans</article-title>. <source>J. Clin. Endocrinol. Metab.</source>
+<volume>87</volume>:<fpage>3808</fpage>&#x02013;<lpage>3813</lpage>.<pub-id pub-id-type="pmid">12161514</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0005"><mixed-citation publication-type="journal" id="mgg3322-cit-0005">
+<string-name>
+<surname>Manna</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Stetson</surname>
+</string-name>, <string-name>
+<given-names>A. T.</given-names>
+<surname>Slominski</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Pruitt</surname>
+</string-name>. <year>2016</year>
+<article-title>Role of the steroidogenic acute regulatory protein in health and disease</article-title>. <source>Endocrine</source>
+<volume>51</volume>:<fpage>7</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">26271515</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0006"><mixed-citation publication-type="journal" id="mgg3322-cit-0006">
+<string-name>
+<surname>Miller</surname>, <given-names>W. L.</given-names>
+</string-name>
+<year>2017</year>
+<article-title>Disorders in the initial steps of steroid hormone synthesis</article-title>. <source>J. Steroid Biochem. Mol. Biol.</source>
+<volume>165</volume>:<fpage>18</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">26960203</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0007"><mixed-citation publication-type="journal" id="mgg3322-cit-0007">
+<string-name>
+<surname>Miller</surname>, <given-names>W. L.</given-names>
+</string-name>, and <string-name>
+<given-names>R. J.</given-names>
+<surname>Auchus</surname>
+</string-name>. <year>2011</year>
+<article-title>The molecular biology, biochemistry, and physiology of human steroidogenesis and its disorders</article-title>. <source>Endocr. Rev.</source>
+<volume>32</volume>:<fpage>81</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">21051590</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0008"><mixed-citation publication-type="journal" id="mgg3322-cit-0008">
+<string-name>
+<surname>Neary</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Nieman</surname>
+</string-name>. <year>2010</year>
+<article-title>Adrenal insufficiency: etiology, diagnosis and treatment</article-title>. <source>Curr. Opin. Endocrinol. Diabetes Obes.</source>
+<volume>17</volume>:<fpage>217</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">20375886</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0009"><mixed-citation publication-type="journal" id="mgg3322-cit-0009">
+<string-name>
+<surname>Parajes</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kamrath</surname>
+</string-name>, <string-name>
+<given-names>I. T.</given-names>
+<surname>Rose</surname>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name>
+<given-names>C. F.</given-names>
+<surname>Mooij</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Dhir</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>A novel entity of clinically isolated adrenal insufficiency caused by a partially inactivating mutation of the gene encoding for P450 side chain cleavage enzyme (CYP11A1)</article-title>. <source>J. Clin. Endocrinol. Metab.</source>
+<volume>96</volume>:<fpage>E1798</fpage>&#x02013;<lpage>E1806</lpage>.<pub-id pub-id-type="pmid">21880796</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0010"><mixed-citation publication-type="journal" id="mgg3322-cit-0010">
+<string-name>
+<surname>Parajes</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>A. O.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>W. M.</given-names>
+<surname>But</surname>
+</string-name>, <string-name>
+<given-names>I. T.</given-names>
+<surname>Rose</surname>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Dhir</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Delayed diagnosis of adrenal insufficiency in a patient with severe penoscrotal hypospadias due to two novel P450 side&#x02010;change cleavage enzyme (CYP11A1) mutations (p. R360W; p.R405X)</article-title>. <source>Eur. J. Endocrinol.</source>
+<volume>167</volume>:<fpage>881</fpage>&#x02013;<lpage>885</lpage>.<pub-id pub-id-type="pmid">22968487</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0011"><mixed-citation publication-type="journal" id="mgg3322-cit-0011">
+<string-name>
+<surname>Pomahacova</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sykora</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zamboryova</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Paterova</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Varvarovska</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Subrt</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>First case report of rare congenital adrenal insufficiency caused by mutations in the CYP11A1 gene in the Czech Republic</article-title>. <source>J. Pediatr. Endocrinol. Metab.</source>
+<volume>29</volume>:<fpage>749</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">27008691</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0012"><mixed-citation publication-type="journal" id="mgg3322-cit-0012">
+<string-name>
+<surname>Slominski</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Semak</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Zjawiony</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Novel activities of CYP11A1 and their potential physiological significance</article-title>. <source>J. Steroid Biochem. Mol. Biol.</source>
+<volume>151</volume>:<fpage>25</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">25448732</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0013"><mixed-citation publication-type="journal" id="mgg3322-cit-0013">
+<string-name>
+<surname>Tajima</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fujieda</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kouda</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Nakae</surname>
+</string-name>, and <string-name>
+<given-names>W. L.</given-names>
+<surname>Miller</surname>
+</string-name>. <year>2001</year>
+<article-title>Heterozygous mutation in the cholesterol side chain cleavage enzyme (p450scc) gene in a patient with 46, XY sex reversal and adrenal insufficiency</article-title>. <source>J. Clin. Endocrinol. Metab.</source>
+<volume>86</volume>:<fpage>3820</fpage>&#x02013;<lpage>3825</lpage>.<pub-id pub-id-type="pmid">11502818</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0014"><mixed-citation publication-type="journal" id="mgg3322-cit-0014">
+<string-name>
+<surname>Tee</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Abramsohn</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Loewenthal</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Siwach</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kaplinsky</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Varied clinical presentations of seven patients with mutations in CYP11A1 encoding the cholesterol side&#x02010;chain cleavage enzyme, P450scc</article-title>. <source>J. Clin. Endocrinol. Metab.</source>
+<volume>98</volume>:<fpage>713</fpage>&#x02013;<lpage>720</lpage>.<pub-id pub-id-type="pmid">23337730</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0015"><mixed-citation publication-type="journal" id="mgg3322-cit-0015">
+<string-name>
+<surname>Turcu</surname>, <given-names>A. F.</given-names>
+</string-name>, and <string-name>
+<given-names>R. J.</given-names>
+<surname>Auchus</surname>
+</string-name>. <year>2015</year>
+<article-title>The next 150&#x000a0;years of congenital adrenal hyperplasia</article-title>. <source>J. Steroid Biochem. Mol. Biol.</source>
+<volume>153</volume>:<fpage>63</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">26047556</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0016"><mixed-citation publication-type="journal" id="mgg3322-cit-0016">
+<string-name>
+<surname>Ucar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Bas</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Saka</surname>
+</string-name>. <year>2016</year>
+<article-title>Diagnosis and management of pediatric adrenal insufficiency</article-title>. <source>World. J. Pediatr.</source>
+<volume>12</volume>:<fpage>261</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">27059746</pub-id></mixed-citation></ref><ref id="mgg3322-bib-0017"><mixed-citation publication-type="journal" id="mgg3322-cit-0017">
+<string-name>
+<surname>Zaloga</surname>, <given-names>G. P.</given-names>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Marik</surname>
+</string-name>. <year>2001</year>
+<article-title>Hypothalamic&#x02010;pituitary&#x02010;adrenal insufficiency</article-title>. <source>Crit. Care Clin.</source>
+<volume>17</volume>:<fpage>25</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">11219233</pub-id></mixed-citation></ref></ref-list></back></article>
