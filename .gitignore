@@ -1,5 +1,5 @@
 # Ignore downloaded data file (too big!)
-/dataset/exports/export_full_merged_20190221.csv
+dataset/exports/export_full_merged_20190221.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
