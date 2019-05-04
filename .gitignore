@@ -1,6 +1,9 @@
 # Ignore downloaded data file (too big!)
 dataset/exports/export_full_merged_20190221.csv
 
+# vscode files
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
