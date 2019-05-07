@@ -40,10 +40,10 @@ for record in collection.find():
 index_global = OrderedDict(sorted(index_global.items(), key=lambda x:x[1], reverse=True))
 index_by_journal_list = sorted([(k,v,j) for j,d in index_by_journal.items() for k,v in d.items()], key=lambda x:x[1], reverse=True)
 
-with codecs.open("das_classifier/das_full.csv", "w") as f:
+with codecs.open("das_classifier/input/das_full.csv", "w") as f:
 	for k,v in index_global.items():
 		f.write('"'+k+'",'+str(v)+"\n")
 
-with codecs.open("das_classifier/das_journal.csv", "w") as f:
+with codecs.open("das_classifier/input/das_journal.csv", "w") as f:
 	for k in index_by_journal_list:
 		f.write('"'+k[0]+'",'+str(k[1])+","+k[2]+"\n")
