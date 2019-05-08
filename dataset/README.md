@@ -1,10 +1,15 @@
 # Dataset
 
-Folder containing the necessary code to create a dataset for analysis from the PubMed OA collection.
+Folder containing the necessary code to create a dataset for analysis from the PubMed Central Open Access collection.
 
 ## Contents
 
-TODO
+* [config folder](config): contains config files, ground truth, the list of BMC and PLoS journals as well as the Science-Metrix journal classification.
+* [das classifier folder](das_classifier): contains code and instructions to reproduce the DAS classification step.
+* [dev set folder](dev_set): contains a uniform sample of 1000 articles from the PMC OA collection, created using the [sample_dev_set.py](sample_dev_set.py) script, which can be used for agile development.
+* [exports folder](exports): contains exports from scripts.
+* [logs folder](logs): empty, for log files.
+* A set of scripts to create the dataset, see below for instructions. You might need to adjust some parameters at the beginning of each script before using them.
 
 ## Instructions
 
