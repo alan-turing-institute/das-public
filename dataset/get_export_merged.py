@@ -75,11 +75,15 @@ if __name__ == "__main__":
     print(no_das_class)
 
     # EXPORT main table
-    fieldnames = ["pmid", "pmcid", "doi", "publisher_id", "journal", "journal_domain", "journal_field", "journal_subfield", "n_authors", "is_plos", "is_bmc", "title",
-                  "n_references_tot", "n_references",
-                  "has_das", "das_encouraged", "das_required", "das", "p_year", "p_month", "has_month", "n_cit_2",
-                  "n_cit_3", "n_cit_5", "n_cit_tot", "h_index_min", "h_index_max", "h_index_mean", "h_index_median",
-                  "das_class","j_lower"]
+    fieldnames = ["pmid", "pmcid", "doi", "title", "n_authors",
+                  "journal", "j_lower", "journal_domain", "journal_field",
+                  "journal_subfield", "publisher_id", "is_plos", "is_bmc",
+                  "n_references_tot", "n_references", "has_das",
+                  "das_encouraged", "das_required", "das", "das_class",
+                  "p_year", "p_month", "has_month", "n_cit_2", "n_cit_3",
+                  "n_cit_5", "n_cit_tot", "h_index_min", "h_index_max",
+                  "h_index_mean", "h_index_median"
+                  ]
     with codecs.open(tabular_data_file_final, "w", encoding="utf8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';',
                             quotechar='"', quoting=csv.QUOTE_MINIMAL)
