@@ -194,8 +194,8 @@ library("dplyr")
 
 df <- read.csv("dataset/export_full.csv", sep = ";")
 j_df <- df %>%
-  filter(is_bmc == 'True' & !is.na(j_lower)) %>%
-  select(j_lower,das_class,has_das,das_encouraged,das_required) %>%
+  filter(!is.na(j_lower)) %>%
+  dplyr::select(j_lower,das_class,has_das,das_encouraged,das_required) %>%
   mutate(
     j_lower = forcats::fct_explicit_na(j_lower),
     das_class = as.integer(das_class),
