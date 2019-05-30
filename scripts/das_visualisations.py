@@ -72,7 +72,7 @@ def pubs_over_time(pub_date_data_list,
 
     # Add the encouraged date line (if applicable)
     if encouraged_date:
-        ax.axvline(required_date, color='k', linestyle='dash', linewidth=3)
+        ax.axvline(encouraged_date, color='k', linestyle='dashed', linewidth=3)
 
     # Add the legend
     if label_list:
@@ -111,23 +111,44 @@ def get_mandate_dates(df_policies, publisher='All', journal='All'):
     journal : str
         Journal name, by default "All"
     """
+    # Make journal and publisher lowercase to make it easier to search
+    publisher = publisher.lower()
+    journal = journal.lower()
+
     try:
         required_date = df_policies.loc[(df_policies['Group'] == publisher) &
                                         (df_policies['Journal'] == journal),
                                         'Required'].values[0]
+
     except IndexError:
-        required_date = None
+        try:
+            required_date = df_policies.loc[(df_policies['Group'] == publisher) &
+                                            (df_policies['Journal'] == 'all'),
+                                            'Required'].values[0]
+
+        except IndexError:
+            required_date = None
 
     try:
         encouraged_date = df_policies.loc[(df_policies['Group'] == publisher) &
-                                          (df_policies['Journal'] == journal),
-                                          'Encouraged'].values[0]
+                                            (df_policies['Journal'] == journal),
+                                            'Encouraged'].values[0]
 
         # Replace encouraged date with None if it doesn't exist
         if np.isnat(encouraged_date):
             encouraged_date = None
 
     except IndexError:
-        encouraged_date = None
+        try:
+            encouraged_date = df_policies.loc[(df_policies['Group'] == publisher) &
+                                              (df_policies['Journal'] == 'all'),
+                                              'Encouraged'].values[0]
+
+            # Replace encouraged date with None if it doesn't exist
+            if np.isnat(encouraged_date):
+                encouraged_date = None
+
+        except IndexError:
+            encouraged_date = None
 
     return required_date, encouraged_date
