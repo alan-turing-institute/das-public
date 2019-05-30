@@ -187,3 +187,24 @@ readCitationFile(basecit)
 basecit <- system.file("CITATION", package="nnet")
 source(basecit, echo=TRUE)
 readCitationFile(basecit)
+
+# Export BMC Journal DAS summary
+
+library("dplyr")
+
+df <- read.csv("dataset/export_full.csv", sep = ";")
+j_df <- df %>%
+  filter(is_bmc == 'True' & !is.na(j_lower)) %>%
+  select(j_lower,das_class,has_das,das_encouraged,das_required) %>%
+  mutate(
+    j_lower = forcats::fct_explicit_na(j_lower),
+    das_class = as.integer(das_class),
+    has_das = as.integer(has_das)-1,
+    das_encouraged = as.integer(das_encouraged)-1,
+    das_required = as.integer(das_required)-1
+  ) %>%
+  group_by(j_lower,das_class) %>%
+  summarise(N = n(),has_das = sum(has_das),das_encouraged = sum(das_encouraged) - sum(das_required),das_required = sum(das_required)) %>%
+  as.data.frame()
+
+write.csv(j_df, file = "dataset/journal_das_summary.csv",row.names=FALSE)

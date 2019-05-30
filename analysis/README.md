@@ -21,3 +21,4 @@ We used the following R libraries (and versions):
 * DMwR 0.4.1
 * MASS 7.3
 * stargazer 5.2.2
+* dyplr 0.8.1
