@@ -1,6 +1,6 @@
 datetime
 itertools
-matplotlib
+matplotlib==3.*
 numpy
 pandas
-seaborn
+seaborn==0.9*
