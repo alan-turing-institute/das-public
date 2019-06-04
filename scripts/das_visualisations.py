@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import datetime as dt
+import itertools as it
 import numpy as np
 import matplotlib.pylab as plt
 from matplotlib.dates import date2num
@@ -152,3 +153,78 @@ def get_mandate_dates(df_policies, publisher='All', journal='All'):
             encouraged_date = None
 
     return required_date, encouraged_date
+
+
+def make_lots_of_plots(df, 
+                        publisher_journal_dict,
+                        palette_extended,
+                        df_policies):
+
+    # Define a few masks:
+    # - the three das classes and no DAS
+    das1_mask = df['das_class']==1
+    das2_mask = df['das_class']==2
+    das3_mask = df['das_class']==3
+    nodas_mask = df['has_das']==False
+
+    # Plot the data over two year ranges
+    year_dict = { 'Dates_2000to2019' : (2000, 2019), 'Dates_2012to2019' : (2012, 2019) }
+
+    for ((article_selection_label, (publisher_name, journal_name, article_selection_mask, color_counter)),
+        (year_str, year_range)) in it.product(publisher_journal_dict.items(), year_dict.items()):
+
+        # Stack the data you want to visualise
+        pub_date_data = [df.loc[(article_selection_mask) & (nodas_mask), 'p_date'],
+                        df.loc[(article_selection_mask) & (das1_mask), 'p_date'],
+                        df.loc[(article_selection_mask) & (das2_mask), 'p_date'],
+                        df.loc[(article_selection_mask) & (das3_mask), 'p_date']]
+
+        # Label the data frame
+        label_list = ['no DAS', 'Class 1', 'Class 2', 'Class 3']
+
+        # Get the right colours
+        color_list = [palette_extended[(color_counter*6) + 2],
+                    palette_extended[(color_counter*6) + 3],
+                    palette_extended[(color_counter*6) + 4],
+                    palette_extended[(color_counter*6) + 5]]
+
+        # Set up the legend
+        legend_title = article_selection_label
+
+        # Get the required and encouraged dates
+        required_date, encouraged_date = get_mandate_dates(df_policies,
+                                                           publisher=publisher_name,
+                                                           journal=journal_name)
+
+        date_line_dict = {'NoDateLine': (None, None),
+                          'DateLine' : (required_date, encouraged_date)}
+        
+        # Lets make one stacked and one regular bar histogram
+        # and one version with and one without the datelines
+        for (hist_type,
+            (date_line_str, (required_date, encouraged_date))) in it.product(['bar', 'barstacked'],
+                                                                            date_line_dict.items()):
+
+            output_fname = os.path.join('..',
+                                        'figures',
+                                        year_str,
+                                        date_line_str,
+                                        hist_type,
+                                        'PubsOverTime_{}_ByDas.png'.format(article_selection_label.replace(" ", "_")))
+
+            # Make the figure
+            fig, ax = pubs_over_time(pub_date_data,
+                                    color_list=color_list,
+                                    label_list=label_list,
+                                    legend_title=legend_title,
+                                    year_range=year_range,
+                                    hist_type=hist_type,
+                                    output_fname=output_fname,
+                                    required_date=required_date,
+                                    encouraged_date=encouraged_date)
+            
+            if ((hist_type == 'barstacked') and
+               (date_line_str == 'DateLine')):
+                plt.show()
+   
+            plt.close()
