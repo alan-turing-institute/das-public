@@ -18,3 +18,6 @@ This folder contains code and data to classify DAS. Proceed as follows:
     - [glove embeddings (50d)](input/glove.6B.50d.txt.zip) glove embeddings used for one of the classifier (50d, compressed, please unzip before use).
 * OUTPUT: this folder will contain classification of DAS contained in [das_full.csv](input/das_full.csv) for all models, as well as the [overview file](output/overview_models_parameters.csv) to compare them (we provide an example of the latter).
 
+## Requirements
+
+See [requirements](../requirements.txt).
