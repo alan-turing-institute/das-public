@@ -1,0 +1,6 @@
+datetime
+itertools
+matplotlib==3.*
+numpy
+pandas
+seaborn==0.9*
