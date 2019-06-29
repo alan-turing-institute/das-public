@@ -1,5 +1,7 @@
 # das-public
 
+[![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
+
 Data availability statements (public repo). Pre-print: ADD.
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
