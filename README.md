@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
 
+Preprint: https://arxiv.org/abs/1907.02565.
+
 Data availability statements (public repo).
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
