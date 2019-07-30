@@ -2,10 +2,10 @@ datetime
 matplotlib==3.*
 numpy
 pandas
-seaborn==0.9*
-gensim==3.4*
-nltk==3.4*
-pymongo==3.7*
+seaborn==0.9.*
+gensim==3.4.*
+nltk==3.4.*
+pymongo==3.7.*
 scikit-learn
 scipy
 beautifulsoup4
