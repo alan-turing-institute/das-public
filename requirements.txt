@@ -1,5 +1,4 @@
 datetime
-itertools
 matplotlib==3.*
 numpy
 pandas
