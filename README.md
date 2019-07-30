@@ -2,7 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
 
-Data availability statements (public repo). Pre-print: ADD.
+Preprint: https://arxiv.org/abs/1907.02565.
+
+Data availability statements (public repo).
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
 * See the [notebooks](notebooks) and [scripts](scripts) folders to replicate Figure 2 and have a descriptive overview of the dataset. 
@@ -22,6 +24,6 @@ Giovanni Colavizza, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker and Barba
   author =    {Giovanni Colavizza and Iain Hrynaszkiewicz and Isla Staden and Kirstie Whitaker and Barbara McGillivray},
   title =     {The citation advantage of linking publications to research data},
   year =      {2019},
-  note =      {{Under review for PLoS ONE.}}
+  note =      {{Under review for PLOS ONE. Preprint available at https://arxiv.org/abs/1907.02565.}},
 }
 ```
