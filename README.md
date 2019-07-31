@@ -1,6 +1,7 @@
 # das-public
 
 [![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kirstiejane/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
 
 Preprint: https://arxiv.org/abs/1907.02565.
 
