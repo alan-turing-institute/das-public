@@ -1,4 +1,4 @@
-ggplot
+ggplot2
 VGAM
 nnet
 glamss
