@@ -78,10 +78,20 @@ plot(qex(DATASET$n_cit_3),DATASET$n_cit_3_log)
 require(MASS)
 require(DMwR)
 
+# OLS with just DAS
+summary(m_ols <- lm(n_cit_3_log ~ C(das_class), data = DATASET))
 # OLS
 summary(m_ols <- lm(n_cit_3_log ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos, data = DATASET))
 # controlling for journal too
-#summary(m_ols <- lm(n_cit_3_log ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos + C(j_lower), data = DATASET))
+summary(m_ols <- lm(n_cit_3_log ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos + C(j_lower), data = DATASET))
+# control only on journals with > l publications
+l = 500
+j_freq <- as.data.frame(table(DATASET$j_lower))
+j_freq <- j_freq %>%
+  rename(j_lower = Var1) %>%
+  filter(Freq > l)
+DATASET_L <- merge(x = DATASET, y = j_freq, by = "j_lower")
+summary(m_ols <- lm(n_cit_3_log ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos + C(j_lower), data = DATASET_L))
 # check residuals
 opar <- par(mfrow = c(2,2), oma = c(0, 0, 1.1, 0))
 plot(m_ols, las = 1)
@@ -99,6 +109,38 @@ DMwR::regr.eval(DATASET$n_cit_3_log, m_aov$fitted.values)
 # Output in LaTeX (Table 6)
 require(stargazer)
 stargazer(m_ols, m_rols, title="Results", align=TRUE, mean.sd = FALSE)
+
+#############################
+# Mixed model with journals #
+#############################
+# https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html
+
+require(lme4)
+require(car)
+# check distribution
+# 1) normal
+qqp(DATASET$n_cit_3+1, "norm")
+qqp(DATASET$n_cit_3_log, "norm")
+# 2) lognormal
+qqp(DATASET$n_cit_3, "lnorm")
+# 3) negative binomial
+nbinom <- fitdistr(DATASET$n_cit_3, "Negative Binomial")
+qqp(DATASET$n_cit_3, "nbinom", size = nbinom$estimate[[1]], mu = nbinom$estimate[[2]])
+# 4) Poisson
+poisson <- fitdistr(DATASET$n_cit_3, "Poisson")
+qqp(DATASET$n_cit_3, "pois", lambda=poisson$estimate)
+# it appears a lognormal is the best fit
+
+# let's check assuming a normal distribution on the transformed dependent variable first
+lmm <- lmer(n_cit_3_log ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos + (1 | j_lower), data = DATASET_L,
+            REML = FALSE)
+summary(lmm)
+Anova(lmm)
+
+# lognormal
+PQL <- glmmPQL(n_cit_3+1 ~ n_authors + n_references_tot + p_year + p_month + h_index_mean + h_index_median + C(das_class) + C(journal_field) + das_required + das_encouraged + is_plos + C(das_class)*is_plos, ~1 | j_lower, family = gaussian(link = "log"),
+               data = DATASET_L, verbose = FALSE)
+summary(PQL)
 
 #########
 # TOBIT #
