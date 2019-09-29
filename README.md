@@ -1,14 +1,14 @@
 # das-public
 
 [![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kirstiejane/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alan-turing-institute/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
 
 Preprint: https://arxiv.org/abs/1907.02565.
 
 Data availability statements (public repo).
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
-* See the [notebooks](notebooks) and [scripts](scripts) folders to replicate Figure 2 and have a descriptive overview of the dataset. 
+* See the [notebooks](notebooks) and [scripts](scripts) folders to replicate Figure 2 and have a descriptive overview of the dataset.
 * See the [analysis folder](analysis) to replicate analytical results from the paper. The [dataset analysed in the paper](analysis/dataset/export_full.csv.zip) is provided, so that the two replication steps can be done independently.
 * The [figures](figures) and [resources](resources) folders contain supporting files.
 
