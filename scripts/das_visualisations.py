@@ -109,7 +109,7 @@ def pubs_over_time(pub_date_data_list,
         d = os.path.dirname(output_fname)
         if not os.path.isdir(d):
             os.makedirs(d)
-        fig.savefig(output_fname, dpi=100, bbox_inches='tight')
+        fig.savefig(output_fname, dpi=300, bbox_inches='tight')
 
     return fig, ax
 
@@ -209,7 +209,10 @@ def make_lots_of_plots(df,
                                 (das3_mask), 'p_date']]
 
         # Label the data frame
-        label_list = ['no DAS', 'Class 1', 'Class 2', 'Class 3']
+        label_list = ['no DAS',
+                      'Upon request',
+                      'In paper & SI',
+                      'In repository']
 
         # Get the right colours
         color_list = [palette_extended[(color_counter*6) + 2],
@@ -242,7 +245,7 @@ def make_lots_of_plots(df,
                                         year_str,
                                         date_line_str,
                                         hist_type,
-                                        ('PubsOverTime_{}_ByDas.png').format(article_selection_label.replace(" ", "_")))
+                                        ('PubsOverTime_{}_ByDas.png').format(article_selection_label.replace(" ", "_")))  # noqa
 
             # Make the figure
             fig, ax = pubs_over_time(pub_date_data,
