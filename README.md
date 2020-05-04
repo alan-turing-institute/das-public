@@ -3,28 +3,46 @@
 [![DOI](https://zenodo.org/badge/180121200.svg)](https://zenodo.org/badge/latestdoi/180121200)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alan-turing-institute/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
 
-Preprint: https://arxiv.org/abs/1907.02565.
+## Publication
 
-Data availability statements (public repo).
+* 📃 Preprint: https://arxiv.org/abs/1907.02565.
+* 📝 Peer reviewed publication: https://doi.org/10.1371/journal.pone.0230416
+
+## Code and data
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
-* See the [notebooks](notebooks) and [scripts](scripts) folders to replicate Figure 2 and have a descriptive overview of the dataset.
+* See the [notebooks](notebooks) and [scripts](scripts) folders to replicate Figure 2 (shown below) and have a descriptive overview of the dataset.
 * See the [analysis folder](analysis) to replicate analytical results from the paper. The [dataset analysed in the paper](analysis/dataset/export_full.csv.zip) is provided, so that the two replication steps can be done independently.
 * The [figures](figures) and [resources](resources) folders contain supporting files.
 
+![](figures/Figure2.png)
+
 ## Report issues
 
-Please add an issue or notify the authors should you find any error to correct or improvement to make. Well-documented pull requests are particularly appreciated.
+Please add an issue or notify the authors should you find any error to correct or improvement to make.
+Well-documented pull requests are particularly appreciated.
 
 ## How to cite
 
-Giovanni Colavizza, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker and Barbara McGillivray (2019). *The citation advantage of linking publications to research data.* Under review for PLoS ONE.
+> Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. (2020). The citation advantage of linking publications to research data. PLOS ONE, 15(4), e0230416. https://doi.org/10.1371/journal.pone.0230416
 
 ```
-@Misc{cit_adv_2019,
-  author =    {Giovanni Colavizza and Iain Hrynaszkiewicz and Isla Staden and Kirstie Whitaker and Barbara McGillivray},
+@article{Colavizza_Hrynaszkiewicz_Staden_Whitaker_McGillivray_2020,
   title =     {The citation advantage of linking publications to research data},
-  year =      {2019},
-  note =      {{Under review for PLOS ONE. Preprint available at https://arxiv.org/abs/1907.02565.}},
-}
+  volume =    {15},
+  url =       {http://dx.doi.org/10.1371/journal.pone.0230416},
+  DOI =       {10.1371/journal.pone.0230416},
+  number =    {4},
+  journal =   {PLOS ONE},
+  publisher = {Public Library of Science (PLoS)},
+  author =    {Colavizza, Giovanni and
+               Hrynaszkiewicz, Iain and 
+               Staden, Isla and 
+               Whitaker, Kirstie and 
+               McGillivray, Barbara},
+  editor =    {Wicherts, Jelte M.Editor},
+  year =     {2020},
+  month =    {Apr},
+  pages =    {e0230416}
+  }
 ```
