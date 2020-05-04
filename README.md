@@ -8,6 +8,9 @@
 * 📃 Preprint: https://arxiv.org/abs/1907.02565.
 * 📝 Peer reviewed publication: https://doi.org/10.1371/journal.pone.0230416
 
+Blogs and talks:
+* "A selfish reason to share research data": https://www.turing.ac.uk/blog/selfish-reason-share-research-data
+
 ## Code and data
 
 * See the [dataset folder](dataset) to create a dataset for analysis from the [PubMed Central OA collection](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist).
