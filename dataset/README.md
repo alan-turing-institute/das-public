@@ -25,4 +25,5 @@ Folder containing the necessary code to create a dataset for analysis from the P
 
 ## Requirements
 
+Recommended Python Version: 3.9.18\
 See [requirements](../requirements.txt).
