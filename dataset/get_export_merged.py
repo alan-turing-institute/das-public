@@ -7,7 +7,7 @@ import codecs, csv
 from collections import defaultdict
 
 tabular_data_file = "exports/export.csv"
-classification_file = "das_classifier/output/das_full_classified.tsv" # pick the outcome file you prefer here
+classification_file = "das_classifier/das_full_classified.tsv" # pick the outcome file you prefer here
 tabular_data_file_final = "exports/export_full.csv"
 separator = ";"
 text_delim = '"'
